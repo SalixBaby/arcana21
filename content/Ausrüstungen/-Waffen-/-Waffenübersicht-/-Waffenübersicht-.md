@@ -1,0 +1,15 @@
+---
+share: "true"
+---
+- [[./01-Armbrust|01-Armbrust]]  
+- [[./02-Beil|02-Beil]]  
+- [[./03-Bogen|03-Bogen]]  
+- [[./04-Degen|04-Degen]]  
+- [[./05-Dolch|05-Dolch]]  
+- [[./06-Kriegsaxt|06-Kriegsaxt]]  
+- [[./07-Kriegshammer|07-Kriegshammer]]  
+- [[./08-Kurzschwert|08-Kurzschwert]]  
+- [[./09-Langschwert|09-Langschwert]]  
+- [[./10-Schild|10-Schild]]  
+- [[./11-Speer|11-Speer]]  
+- [[./12-Stab|12-Stab]]
