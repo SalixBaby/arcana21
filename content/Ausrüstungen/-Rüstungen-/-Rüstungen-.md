@@ -1,7 +1,7 @@
 ---
 share: "true"
 ---
-In **Sagenschmiede** sind Rüstungen mehr als nur ein Schutz vor Angriffen – sie sind ein wesentlicher Bestandteil der Ausrüstung eines jeden Helden, der sich den Gefahren der Welt stellt. Jede Rüstung bietet einen einzigartigen Ausgleich zwischen Schutz und Beweglichkeit, und die Wahl der richtigen Rüstung kann über Sieg oder Niederlage entscheiden.  
+In **Arcana21** sind Rüstungen mehr als nur ein Schutz vor Angriffen – sie sind ein wesentlicher Bestandteil der Ausrüstung eines jeden Helden, der sich den Gefahren der Welt stellt. Jede Rüstung bietet einen einzigartigen Ausgleich zwischen Schutz und Beweglichkeit, und die Wahl der richtigen Rüstung kann über Sieg oder Niederlage entscheiden.  
   
 Rüstungen sind in drei Hauptkategorien unterteilt: **[[./01-Leichte Rüstung|01-Leichte Rüstung]]**, **[[./02-Mittlere Rüstung|02-Mittlere Rüstung]]** und **[[./03-Schwere Rüstung|03-Schwere Rüstung]]**. Jede dieser Kategorien beeinflusst den Helden auf unterschiedliche Weise und bietet Vor- und Nachteile. Während schwerere Rüstungen den besten Schutz gegen physischen Schaden bieten, schränken sie die Beweglichkeit des Trägers stark ein. Leichtere Rüstungen hingegen ermöglichen größere Bewegungsfreiheit, bieten aber weniger physischen Schutz.  
   
