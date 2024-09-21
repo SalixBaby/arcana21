@@ -34,7 +34,7 @@ interface BreadcrumbOptions {
 
 const defaultOptions: BreadcrumbOptions = {
   spacerSymbol: "❯",
-  rootName: "Sagenschmiede",
+  rootName: "Arcana21",
   resolveFrontmatterTitle: true,
   hideOnRoot: true,
   showCurrentPage: true,

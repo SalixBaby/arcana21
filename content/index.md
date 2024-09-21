@@ -1,8 +1,8 @@
 ---
-title: ArCana21
+title: Arcana21
 ---
 
-Willkommen bei ArCana21. Ein einfach zu verstehendes Tabletop-Rollenspiel von Salix.
+Willkommen bei Arcana21. Ein einfach zu verstehendes Tabletop-Rollenspiel von Salix.
 
 Unser Motto: Kreativität über alles!
 
