@@ -3,7 +3,7 @@ share: "true"
 ---
 Als Jäger bist du ein Meister der Wildnis und des Überlebens. Du verstehst die Natur in all ihren Facetten und nutzt dein Wissen, um Beute zu jagen oder Gefahren aus dem Weg zu gehen. Mit scharfem Auge und präzisem Bogen begibst du dich auf die Jagd, sei es auf wilde Kreaturen oder gefährliche Gegner. Dein Verständnis von Fährtenlesen, Tarnung und Fallenbau macht dich zu einem unverzichtbaren Mitglied in jeder Gruppe, die sich der Wildnis stellt.  
   
-- **Hintergrund**: [[../-Hintergründe-/06-Natur|06-Natur]]  
+- **Hintergrund**: [[../Hintergründe/06-Natur|06-Natur]]  
 - **Ausbildungs-Punkte**: 3  
   
 #### **Variationen:**  

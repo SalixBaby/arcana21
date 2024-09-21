@@ -3,7 +3,7 @@ share: "true"
 ---
 Als Hexer hast du einen Pakt mit einer mächtigen, jenseitigen Entität geschlossen, die dir einzigartige magische Fähigkeiten verleiht. Deine Kräfte stammen nicht aus jahrelangem Studium oder einem angeborenen Talent, sondern aus einem Bündnis mit einer höheren Macht. Du zapfst die Energie dieser fremden Kraft an, um mächtige Flüche, verheerende Zauber und dunkle Magie zu wirken. Doch dieser Pakt hat seinen Preis, und du wirst ständig an die Verpflichtungen gegenüber deinem Patron erinnert.  
   
-- **Hintergrund**: [[../-Hintergründe-/07-Vasall|07-Vasall]]  
+- **Hintergrund**: [[../Hintergründe/07-Vasall|07-Vasall]]  
 - **Ausbildungs-Punkte**: 3  
   
 #### **Variationen:**  
