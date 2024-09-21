@@ -3,24 +3,24 @@ share: "true"
 ---
 Als Jäger bist du ein Meister der Wildnis und des Überlebens. Du verstehst die Natur in all ihren Facetten und nutzt dein Wissen, um Beute zu jagen oder Gefahren aus dem Weg zu gehen. Mit scharfem Auge und präzisem Bogen begibst du dich auf die Jagd, sei es auf wilde Kreaturen oder gefährliche Gegner. Dein Verständnis von Fährtenlesen, Tarnung und Fallenbau macht dich zu einem unverzichtbaren Mitglied in jeder Gruppe, die sich der Wildnis stellt.  
   
-- **Hintergrund**: [[../Regeln und Spielstart/-Hintergründe-/06-Natur|06-Natur]]  
+- **Hintergrund**: [[../-Hintergründe-/06-Natur|06-Natur]]  
 - **Ausbildungs-Punkte**: 3  
   
 #### **Variationen:**  
   
 - **Wilderer**: Du bist spezialisiert darauf, Tiere unauffällig zu jagen und dich in der Wildnis zu bewegen.  
       
-    - **Vorteil auf** [[../Kernattribute/-Körper-/01-Geschicklichkeit|01-Geschicklichkeit]] und [[Überleben/Orientierung|Überleben/Orientierung]]  
-    - **+1** [[../Kernattribute/-Körper-/01-Geschicklichkeit|01-Geschicklichkeit]]  
+    - **Vorteil auf** [[../Attribute/-Körper-/01-Geschicklichkeit|01-Geschicklichkeit]] und [[Überleben/Orientierung|Überleben/Orientierung]]  
+    - **+1** [[../Attribute/-Körper-/01-Geschicklichkeit|01-Geschicklichkeit]]  
 - **Spurenleser**: Deine Fähigkeit, kleinste Hinweise in der Umgebung zu entdecken, ist unübertroffen.  
       
-    - **Vorteil auf** [[../Kernattribute/-Körper-/03-Instinkt|03-Instinkt]] und [[../Kernattribute/-Geist-/04-Wahrnehmung|04-Wahrnehmung]]  
-    - **+1** [[../Kernattribute/-Geist-/04-Wahrnehmung|04-Wahrnehmung]]  
+    - **Vorteil auf** [[../Attribute/-Körper-/03-Instinkt|03-Instinkt]] und [[../Attribute/-Geist-/04-Wahrnehmung|04-Wahrnehmung]]  
+    - **+1** [[../Attribute/-Geist-/04-Wahrnehmung|04-Wahrnehmung]]  
   
 #### **1. Level:**  
   
 - **Präziser Schuss**: Du erhältst einen Bonus auf alle Fernkampfangriffe, insbesondere mit Bögen oder anderen Projektilwaffen. Dein geschultes Auge erlaubt es dir, die Schwachstellen deiner Beute zu erkennen und gezielt anzugreifen.  
-- **Fährtenlesen**: Du kannst die Umgebung nach Spuren und Hinweisen durchsuchen, um Beute oder Feinde zu verfolgen. Du erhältst einen Vorteil bei [[../Kernattribute/-Körper-/03-Instinkt|03-Instinkt]]- und [[Überleben/Orientierung|Überleben/Orientierung]]-Proben.  
+- **Fährtenlesen**: Du kannst die Umgebung nach Spuren und Hinweisen durchsuchen, um Beute oder Feinde zu verfolgen. Du erhältst einen Vorteil bei [[../Attribute/-Körper-/03-Instinkt|03-Instinkt]]- und [[Überleben/Orientierung|Überleben/Orientierung]]-Proben.  
   
 #### **2. Level:**  
   
@@ -40,4 +40,4 @@ Als Jäger bist du ein Meister der Wildnis und des Überlebens. Du verstehst die
 #### **5. Level:**  
   
 - **Meisterschütze**: Du kannst mit deinem Bogen oder anderen Fernkampfwaffen auf beeindruckende Distanzen zielen. Einmal täglich kannst du einen kritischen Treffer landen, wenn du einen Fernkampfangriff ausführst.  
-- **Meisterjäger**: Deine Jagdfähigkeiten sind legendär. Du erhältst einen dauerhaften Bonus auf deine [[../Kernattribute/-Körper-/01-Geschicklichkeit|01-Geschicklichkeit]] und [[../Kernattribute/-Geist-/04-Wahrnehmung|04-Wahrnehmung]] im Kampf und bei der Verfolgung deiner Beute. Du kannst dich zudem auf eine Art von Beute spezialisieren, sei es Mensch, Tier oder Monster.
+- **Meisterjäger**: Deine Jagdfähigkeiten sind legendär. Du erhältst einen dauerhaften Bonus auf deine [[../Attribute/-Körper-/01-Geschicklichkeit|01-Geschicklichkeit]] und [[../Attribute/-Geist-/04-Wahrnehmung|04-Wahrnehmung]] im Kampf und bei der Verfolgung deiner Beute. Du kannst dich zudem auf eine Art von Beute spezialisieren, sei es Mensch, Tier oder Monster.
