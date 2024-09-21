@@ -3,7 +3,7 @@ share: "true"
 ---
 Als Priester bist du das Bindeglied zwischen den Sterblichen und den göttlichen Mächten. Dein Wissen über die heiligen Schriften und deine Fähigkeit, die Götter zu beschwören, ermöglichen es dir, im Namen des Glaubens große Wunder zu vollbringen. Du dienst als spiritueller Führer und Beschützer deiner Gemeinschaft.  
   
-- **Hintergrund**: [[../-Hintergründe-/03-Glaube|03-Glaube]]  
+- **Hintergrund**: [[../Hintergründe/03-Glaube|03-Glaube]]  
 - **Ausbildungs-Punkte**: 3  
   
 #### **Variationen:**  
