@@ -8,14 +8,14 @@ share: "true"
   
 ### 2. **Charaktererschaffung**  
   
-- **Attribute**: Charaktere haben Attribute wie [[Sagenschmiede/Kernattribute/-Körper-/-Körper-|Sagenschmiede/Kernattribute/-Körper-/-Körper-]], [[Sagenschmiede/Kernattribute/-Geist-/-Geist-|Sagenschmiede/Kernattribute/-Geist-/-Geist-]] und [[Sagenschmiede/Kernattribute/-Seele-/-Seele-|Sagenschmiede/Kernattribute/-Seele-/-Seele-]]. Diese bestimmen, wie gut sie in bestimmten Bereichen sind.  
-- **Passive Werte**: Durch [[../Klassen/Klassen|Klassen]], und Modifikatoren erhalten Charaktere verschiedene [[../Kernattribute/-Passive-/-Passive-|-Passive-]] Werte.   
+- **Attribute**: Charaktere haben Attribute wie [[../Attribute/-Körper-/-Körper-|-Körper-]], [[../Attribute/-Geist-/-Geist-|-Geist-]] und [[../Attribute/-Seele-/-Seele-|-Seele-]]. Diese bestimmen, wie gut sie in bestimmten Bereichen sind.  
+- **Passive Werte**: Durch [[../Klassen/Klassen|Klassen]], und Modifikatoren erhalten Charaktere verschiedene [[../Attribute/-Passive-/-Passive-|-Passive-]] Werte.   
 - **Fähigkeiten und Fertigkeiten**: Jeder Charakter hat spezielle Fähigkeiten, die seine Stärken betonen (z. B. Kampf, Magie, Heilen).  
 - **Ausrüstung**: Charaktere beginnen oft mit einer Grundausstattung, die von ihrer Klasse oder ihrem Hintergrund abhängt.  
   
 ### 3. **Proben und Würfeln**  
   
-- **Würfelmechanik**: Im Gegensatz zu vielen anderen TTRPGs verwendet _Sagenschmiede_ 3w20 (drei 20-seitige Würfel) für Proben. Der Spieler würfelt 3w20 und nimmt im Regelfall den mittleren Wert, was eine ausgewogenere Verteilung der Ergebnisse fördert. Dadurch haben Modifikatoren einen stärkeren Einfluss auf das Ergebnis. Zeigen zwei der Würfel denselben Wert, entscheidet der dritte, ob es ein kritischer Erfolg (bei 11-20) oder ein kritischer Misserfolg (bei 1-10) ist. Wenn alle drei Würfel die gleiche Zahl zeigen, handelt es sich um einen „Super-Kritischen Erfolg“, ein außergewöhnlich seltenes Ereignis (mit einer Wahrscheinlichkeit von nur 0,25 %). Der Spielleiter kann diesen besonderen Erfolg durch ein übernatürlich gutes Ereignis im Spiel belohnen.  
+- **Würfelmechanik**: Im Gegensatz zu vielen anderen TTRPGs verwendet _Arcana21_ 3w20 (drei 20-seitige Würfel) für Proben. Der Spieler würfelt 3w20 und nimmt im Regelfall den mittleren Wert, was eine ausgewogenere Verteilung der Ergebnisse fördert. Dadurch haben Modifikatoren einen stärkeren Einfluss auf das Ergebnis. Zeigen zwei der Würfel denselben Wert, entscheidet der dritte, ob es ein kritischer Erfolg (bei 11-20) oder ein kritischer Misserfolg (bei 1-10) ist. Wenn alle drei Würfel die gleiche Zahl zeigen, handelt es sich um einen „Super-Kritischen Erfolg“, ein außergewöhnlich seltenes Ereignis (mit einer Wahrscheinlichkeit von nur 0,25 %). Der Spielleiter kann diesen besonderen Erfolg durch ein übernatürlich gutes Ereignis im Spiel belohnen.  
 - **Erfolgs- und Fehlschlag**: Der Spielleiter legt vor einer Probe einen Schwierigkeitsgrad (SG) fest, den es zu erreichen oder zu übertreffen gilt. Gelingt dies, ist die Aktion erfolgreich; ansonsten scheitert sie. Zusätzlich gibt es die Möglichkeit kritischer Erfolge und Misserfolge, abhängig von bestimmten Würfelergebnissen, die besondere Konsequenzen im Spiel haben können.  
   
 ### 4. **Aktionen und Kampf**  
@@ -27,7 +27,7 @@ share: "true"
   
 ### 5. **Magie und Zaubersprüche**  
   
-[[Sagenschmiede/Spiel-Mechaniken/Magie und Zauber|Sagenschmiede/Spiel-Mechaniken/Magie und Zauber]]  
+[[../Spiel-Mechaniken/Magie und Zauber|Magie und Zauber]]  
   
 ### 6. **Ressourcenmanagement**  
   
