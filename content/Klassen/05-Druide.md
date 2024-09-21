@@ -3,14 +3,14 @@ share: "true"
 ---
 Als Druide bist du der Hüter der Natur und ein Beschützer des Gleichgewichts. Du verstehst die Geheimnisse der Wildnis und kannst die Macht der Elemente und der Tiere zu deinem Vorteil nutzen. Deine Verbindung zur Natur erlaubt es dir, nicht nur mit den Kräften der Erde, Luft, Feuer und Wasser zu arbeiten, sondern dich auch in verschiedene Tiere zu verwandeln. Ob du als Wolf durch die Wälder streifst oder als Adler durch die Lüfte gleitest – du passt dich an die Gegebenheiten der Natur an und nutzt ihre Kraft, um deine Feinde zu überwältigen oder deine Verbündeten zu schützen.  
   
-- **Hintergrund**: [[../Regeln und Spielstart/-Hintergründe-/06-Natur|06-Natur]]  
+- **Hintergrund**: [[../-Hintergründe-/06-Natur|06-Natur]]  
 - **Ausbildungs-Punkte**: 3  
   
 #### **Variationen:**  
   
 - **Wandler**: Du konzentrierst dich auf deine Fähigkeit, dich in verschiedene Tiere zu verwandeln, und nutzt diese Formwechsel sowohl für den Kampf als auch zur Erkundung.  
     - **Vorteil auf** [[../Zauberausrichtungen/-Körper-/11-Transformation|11-Transformation]]  
-    - **+1** [[../Kernattribute/-Körper-/03-Instinkt|03-Instinkt]]  
+    - **+1** [[../Attribute/-Körper-/03-Instinkt|03-Instinkt]]  
 - **Elementarhüter**: Du nutzt die rohen Kräfte der Naturgewalten und bist in der Lage, mächtige Naturzauber zu wirken, die Erde, Wind, Feuer und Wasser kontrollieren.  
     - **Vorteil auf** [[../Zauberausrichtungen/-Elementar-/-Elementar-|-Elementar-]]  
     - **Wissen in** [[Natur/Tiere|Natur/Tiere]]  
