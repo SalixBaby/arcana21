@@ -3,17 +3,17 @@ share: "true"
 ---
 Als Hexer hast du einen Pakt mit einer mächtigen, jenseitigen Entität geschlossen, die dir einzigartige magische Fähigkeiten verleiht. Deine Kräfte stammen nicht aus jahrelangem Studium oder einem angeborenen Talent, sondern aus einem Bündnis mit einer höheren Macht. Du zapfst die Energie dieser fremden Kraft an, um mächtige Flüche, verheerende Zauber und dunkle Magie zu wirken. Doch dieser Pakt hat seinen Preis, und du wirst ständig an die Verpflichtungen gegenüber deinem Patron erinnert.  
   
-- **Hintergrund**: [[../Regeln und Spielstart/-Hintergründe-/07-Vasall|07-Vasall]]  
+- **Hintergrund**: [[../-Hintergründe-/07-Vasall|07-Vasall]]  
 - **Ausbildungs-Punkte**: 3  
   
 #### **Variationen:**  
   
 - **Pakt mit einem Dämon**: Deine Magie wird von einem finsteren Dämon gespeist, der dir grausame Macht verleiht.  
     - **Vorteil auf** [[../Zauberausrichtungen/-Seele-/17-Fluch|17-Fluch]]  
-    - **+1** [[Sagenschmiede/Kernattribute/-Seele-/-Seele-|-Seele-]]  
+    - **+1** [[../Attribute/-Seele-/-Seele-|-Seele-]]  
 - **Pakt mit einem Erzengel**: Du hast einen Pakt mit einer lichtbringenden Entität geschlossen, die dir die Macht der Heilung und des Schutzes verleiht.  
     - **Vorteil auf** [[../Zauberausrichtungen/-Seele-/18-Heilung|18-Heilung]]  
-    - **+1** [[../Kernattribute/-Passive-/04-Willensstärke|04-Willensstärke]]  
+    - **+1** [[../Attribute/-Passive-/04-Willensstärke|04-Willensstärke]]  
   
 #### **1. Level:**  
   
@@ -42,6 +42,6 @@ Als Hexer hast du einen Pakt mit einer mächtigen, jenseitigen Entität geschlos
   
   
   
-- Blutmagie (anstatt Mana-Punkte kann eigene [[../Kernattribute/-Passive-/03-Gesundheit|03-Gesundheit]] eingesetzt werden, 2 [[../Kernattribute/-Passive-/03-Gesundheit|03-Gesundheit]] = 1 Mana-Punkt)  
+- Blutmagie (anstatt Mana-Punkte kann eigene [[../Attribute/-Passive-/03-Gesundheit|03-Gesundheit]] eingesetzt werden, 2 [[../Attribute/-Passive-/03-Gesundheit|03-Gesundheit]] = 1 Mana-Punkt)  
 - Überstrapazieren (1x Level für einen zusätzlichen AP, einmal pro Runde)  
-- Lebensraub (Beim Kritischen Treffen oder Töten erhältst du 1x Level [[../Kernattribute/-Passive-/03-Gesundheit|03-Gesundheit]] zurück)
+- Lebensraub (Beim Kritischen Treffen oder Töten erhältst du 1x Level [[../Attribute/-Passive-/03-Gesundheit|03-Gesundheit]] zurück)
