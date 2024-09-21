@@ -1,7 +1,7 @@
 ---
 share: "true"
 ---
-Willkommen bei **Sagenschmiede**, einem tiefgründigen und vielseitigen Rollenspielsystem, in dem du die Rolle eines einzigartigen Helden übernimmst. Hier ist ein umfassender Leitfaden, der dir hilft, deinen Charakter Schritt für Schritt zu erschaffen.  
+Willkommen bei **Arcana21**, einem tiefgründigen und vielseitigen Rollenspielsystem, in dem du die Rolle eines einzigartigen Helden übernimmst. Hier ist ein umfassender Leitfaden, der dir hilft, deinen Charakter Schritt für Schritt zu erschaffen.  
   
 ---  
   
@@ -50,7 +50,7 @@ Jede Klasse hat einzigartige Fähigkeiten, die im Laufe der Level gesteigert wer
   
 ### 3. **Kernattribute verteilen**  
   
-In **Sagenschmiede** gibt es drei Kernattribute, die deinen Charakter in den Bereichen **Körper**, **Geist** und **Seele** definieren. Zu Beginn verteilst du **2**, **1** und **-1** auf diese Attribute. Sie bestimmen die Grundwerte für die darunterliegenden Unterattribute.  
+In **Arcana21** gibt es drei Kernattribute, die deinen Charakter in den Bereichen **Körper**, **Geist** und **Seele** definieren. Zu Beginn verteilst du **2**, **1** und **-1** auf diese Attribute. Sie bestimmen die Grundwerte für die darunterliegenden Unterattribute.  
   
 - **Körper**: Geschicklichkeit, Geschwindigkeit, Instinkt, Konstitution, Stärke  
 - **Geist**: Arkana, Erfahrung, Fokus, Wahrnehmung, Wissen  
@@ -164,4 +164,4 @@ Dein Charakter beginnt mit spezifischen Fähigkeiten, die sich mit jedem Level e
   
 ### 10. **Fertigstellung des Charakters**  
   
-Zum Schluss überdenkst du alle Werte, stellst deine Ausrüstung zusammen und bereitest die grundlegenden Fähigkeiten deines Charakters vor. Bereite dich darauf vor, in die Welt von Sagenschmiede einzutauchen und deinen eigenen, individuellen Helden zu spielen!
+Zum Schluss überdenkst du alle Werte, stellst deine Ausrüstung zusammen und bereitest die grundlegenden Fähigkeiten deines Charakters vor. Bereite dich darauf vor, in die Welt von Arcana21 einzutauchen und deinen eigenen, individuellen Helden zu spielen!
