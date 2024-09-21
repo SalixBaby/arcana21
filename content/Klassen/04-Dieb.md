@@ -12,8 +12,8 @@ Als Dieb bist du ein geschickter Manipulator von Schlössern, ein Meister der T�
     - **Vorteil auf** [[Heimlichkeit|Heimlichkeit]]  
     - **Wissen in** [[Überleben/Orientierung|Überleben/Orientierung]] (Bewegung durch Städte und Verstecke)  
 - **Mechaniker**: Du hast ein tiefes Verständnis von mechanischen Vorrichtungen und bist besonders geschickt darin, Schlösser, Fallen und geheimnisvolle Apparaturen zu manipulieren.  
-    - **Vorteil auf** [[../Kernattribute/-Körper-/01-Geschicklichkeit|01-Geschicklichkeit]]  
-    - **+1** [[../Kernattribute/-Körper-/03-Instinkt|03-Instinkt]]  
+    - **Vorteil auf** [[../Attribute/-Körper-/01-Geschicklichkeit|01-Geschicklichkeit]]  
+    - **+1** [[../Attribute/-Körper-/03-Instinkt|03-Instinkt]]  
   
 #### **1. Level:**  
   
