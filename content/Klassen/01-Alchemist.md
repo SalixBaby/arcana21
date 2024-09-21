@@ -3,7 +3,7 @@ share: "true"
 ---
 Als Alchemist beherrschst du die Kunst der Kräuter- und Trankkunde. Du kannst mächtige Tränke und Mixturen herstellen, die heilende oder schädliche Wirkungen haben. Dein Wissen über die Natur ermöglicht es dir, aus einfachen Zutaten mächtige Effekte zu erzielen. Du bist ein Meister der chemischen und pflanzlichen Wissenschaften und verstehst es, deine Umgebung für den Vorteil deines Teams oder zur Schwächung deiner Feinde zu nutzen.  
   
-- **Hintergrund**: [[../-Hintergründe-/06-Natur|06-Natur]]  
+- **Hintergrund**: [[../Hintergründe/06-Natur|06-Natur]]  
 - **Ausbildungs-Punkte**: 3  
   
 #### **Variationen:**  
