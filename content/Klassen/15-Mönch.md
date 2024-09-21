@@ -3,7 +3,7 @@ share: "true"
 ---
 Als Mönch bist du ein Meister der Selbstbeherrschung und der körperlichen und geistigen Disziplin. Du nutzt die Macht deines Geistes und deines Körpers, um beeindruckende Kampffähigkeiten und spirituelle Techniken zu erlangen.  
   
-- **Hintergrund**: [[../Regeln und Spielstart/-Hintergründe-/03-Glaube|03-Glaube]]  
+- **Hintergrund**: [[../-Hintergründe-/03-Glaube|03-Glaube]]  
 - **Ausbildungs-Punkte**: 3  
   
 #### **Variationen:**  

@@ -3,7 +3,7 @@ share: "true"
 ---
 Als Kleriker bist du ein Diener des Göttlichen, der die Macht des Glaubens in die Schlacht führt. Deine Stärke kommt von deiner Verbindung zu höheren Mächten, die dich mit Heilkräften und heiligen Zaubern segnen. Du kämpfst für deine Überzeugungen und verteidigst die Schwachen, wobei du sowohl deine Waffen als auch die Macht deines Glaubens einsetzt.  
   
-- **Hintergrund**: [[../Regeln und Spielstart/-Hintergründe-/03-Glaube|03-Glaube]]  
+- **Hintergrund**: [[../-Hintergründe-/03-Glaube|03-Glaube]]  
 - **Ausbildungs-Punkte**: 3  
   
 #### **Variationen:**  

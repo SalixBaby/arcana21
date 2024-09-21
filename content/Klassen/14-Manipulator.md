@@ -3,7 +3,7 @@ share: "true"
 ---
 Als Manipulator verstehst du es, Menschen und Ereignisse zu deinem Vorteil zu beeinflussen. Dein Geschick im Umgang mit Worten und dein Gespür für zwischenmenschliche Dynamiken machen dich zu einem Meister der Intrige. Du kannst subtil die Fäden hinter den Kulissen ziehen und andere nach deinem Willen handeln lassen.  
   
-- **Hintergrund**: [[../Regeln und Spielstart/-Hintergründe-/07-Vasall|07-Vasall]]  
+- **Hintergrund**: [[../-Hintergründe-/07-Vasall|07-Vasall]]  
 - **Ausbildungs-Punkte**: 3  
   
 #### **Variationen:**  

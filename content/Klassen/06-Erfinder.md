@@ -10,7 +10,7 @@ Als Erfinder bist du ein Meister der Mechanik und des wissenschaftlichen Fortsch
   
 - **Technomant**: Du kombinierst Magie mit Technologie und erschaffst Artefakte, die sowohl mechanisch als auch magisch funktionieren.  
     - **Vorteil auf** [[Mathematik/Technik|Mathematik/Technik]]  
-    - **+1** [[../Kernattribute/-Geist-/01-Arkana|01-Arkana]]  
+    - **+1** [[../Attribute/-Geist-/01-Arkana|01-Arkana]]  
 - **Tüftler**: Du konzentrierst dich auf das Erschaffen praktischer, mechanischer Lösungen für Probleme und Herausforderungen, von kleinen Gadgets bis zu komplexen Maschinen.  
     - **Vorteil auf** [[../Ausrüstungen/-Ausrüstungssets-/11-Tüftler Set|11-Tüftler Set]]  
     - **Wissen in** [[Mathematik/Technik|Mathematik/Technik]]  

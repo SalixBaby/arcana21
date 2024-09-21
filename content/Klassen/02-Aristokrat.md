@@ -9,11 +9,11 @@ Als Aristokrat bist du in den höchsten Kreisen der Gesellschaft aufgewachsen, v
 #### **Variationen:**  
   
 - **Diplomat**: Du bist ein Meister der Verhandlungen und verstehst es, Konflikte zu lösen, bevor sie eskalieren.  
-    - **Vorteil auf** [[../Kernattribute/-Seele-/05-Überzeugen|05-Überzeugen]]  
+    - **Vorteil auf** [[../Attribute/-Seele-/05-Überzeugen|05-Überzeugen]]  
     - **Wissen in** [[Geschichte/Kultur|Geschichte/Kultur]]  
 - **Taktiker**: Du hast gelernt, wie man Menschen und Ressourcen effektiv einsetzt, um den größtmöglichen Nutzen zu erzielen.  
-    - **Vorteil auf** [[../Kernattribute/-Geist-/04-Wahrnehmung|04-Wahrnehmung]]  
-    - **+1** [[Sagenschmiede/Kernattribute/-Geist-/-Geist-|-Geist-]]  
+    - **Vorteil auf** [[../Attribute/-Geist-/04-Wahrnehmung|04-Wahrnehmung]]  
+    - **+1** [[../Attribute/-Geist-/-Geist-|-Geist-]]  
   
 #### **1. Level:**  
   

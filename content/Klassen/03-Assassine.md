@@ -13,7 +13,7 @@ Als Assassine bist du ein Meister der Heimlichkeit und des tödlichen Angriffs. 
     - **Wissen in** [[Natur/Tiere|Natur/Tiere]] (Bewegungen in Wildnis und Städten)  
 - **Giftmischer**: Du nutzt heimtückische Gifte, um deine Opfer lautlos und unauffällig auszuschalten.  
     - **Vorteil auf** [[Giftkunde|Giftkunde]]  
-    - **+1** [[Sagenschmiede/Kernattribute/-Geist-/-Geist-|-Geist-]]  
+    - **+1** [[../Attribute/-Geist-/-Geist-|-Geist-]]  
   
 #### **1. Level:**  
   

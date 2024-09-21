@@ -3,7 +3,7 @@ share: "true"
 ---
 Als Soldat bist du ein erfahrener Kämpfer, der sich im Nahkampf behauptet und die Disziplin der militärischen Ausbildung verkörpert. Deine Stärke liegt in deiner Kampffähigkeit und deinem taktischen Verständnis. Du bist ein Veteran auf dem Schlachtfeld und kannst sowohl defensive als auch offensive Taktiken einsetzen, um deine Gegner zu besiegen.  
   
-- **Hintergrund**: [[../Regeln und Spielstart/-Hintergründe-/05-Militär|05-Militär]]  
+- **Hintergrund**: [[../-Hintergründe-/05-Militär|05-Militär]]  
 - **Ausbildungs-Punkte**: 3  
   
 #### **Variationen:**  

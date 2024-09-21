@@ -3,7 +3,7 @@ share: "true"
 ---
 Als Künstler bringst du die Welt mit deiner Kreativität und deinem einzigartigen Talent zum Staunen. Du bist nicht nur ein Meister in deinem Handwerk, sondern auch ein charismatischer Kommunikator, der Menschen durch seine Werke inspiriert und berührt. Deine Fähigkeiten gehen über die reine Kunst hinaus, indem du dein Talent zur Täuschung oder Manipulation einsetzen kannst.  
   
-- **Hintergrund**: [[../Regeln und Spielstart/-Hintergründe-/07-Vasall|07-Vasall]]  
+- **Hintergrund**: [[../-Hintergründe-/07-Vasall|07-Vasall]]  
 - **Ausbildungs-Punkte**: 3  
   
 #### **Variationen:**  
