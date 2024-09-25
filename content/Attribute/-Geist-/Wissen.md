@@ -11,4 +11,7 @@ Beschreibt das Maß an akademischem, historischem oder spezifischem Fachwissen, 
 - **Medizin/Anatomie**  
 - **Überleben/Orientierung**  
 - **Kunst/Kultur**  
-- **Mathematik/Technik**
+- **Mathematik/Technik**  
+- **Politik/Diplomatie**  
+- **Handel/Wirtschaft**  
+- **Militär/Taktik**
