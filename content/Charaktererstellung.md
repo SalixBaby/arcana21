@@ -49,7 +49,7 @@ In **Arcana21** gibt es drei Kernattribute, die deinen Charakter in den Bereiche
 Jedes Kernattribut beeinflusst die **Eigenschaften**, die darunter liegen. Zusätzlich zu den Grundwerten kannst du **Talent-Punkte** auf die Unterattribute verteilen, um sie zu steigern. Diese erhöhen sich mit dem Level deines Charakters und erlauben dir, einzelne Eigenschaften gezielt zu verbessern.  
   
 - **Talentpunkte**: Können auf die Unterattribute gesetzt werden, um deren Wert basierend auf dem Level des Charakters zu erhöhen.  
-- **Wissenspunkte**: Erlauben dir, doppelte Übungsbonus auf die verschiedenen Wissenskategorien zu erhalten. Ebenfalls kannst du die Wissenspunkte dazu einsetzten mit verschiedenen Werkzeugen oder Sets geübt zu werden oder Sprachen zu erlernen. Du hast so viele Wissenspunkte wie dein Geist-Wert + Level.  
+- **Ausbildungspunkte**: Du kannst diese Punkte nutzen um Wissen in verschiedenen Kategorien zu erhalten, geübt mit [[./Ausrüstungen/-Ausrüstungssets-/-Ausrüstungssets-|-Ausrüstungssets-]] zu werden oder verschiedene Sprachen zu erlenen.. Du hast so viele Ausbildungspunkte wie dein Geist-Wert + Level. Können sehr individuell eingesetzt werden.   
   
 ---  
   
