@@ -10,4 +10,4 @@ Grundregeln findet du [[./Grundregeln|Hier]].
 
 Du kennst dich schon aus? Dann schnell zur [[./Charaktererstellung|Charaktererstellung]].
 
-Der Charakterbogen befindet sich noch in der Schmiede zu Fertigstellen.
+<a href="\docs\documents\Arcana21_Charakterbogen.pdf" download="Arcana21_Charakterbogen">Charakterbogen</a>
