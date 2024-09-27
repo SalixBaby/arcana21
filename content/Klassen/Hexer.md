@@ -8,10 +8,10 @@
   
 #### **Variationen:**  
   
-- **Pakt mit einem Patron: Du hast einen Pakt mit einem mächtigen Wesen geschlossen, sei es ein Dämon, eine Fee oder ein anderer jenseitiger Patron. Deine Macht wird von diesem Wesen gespeist, das dir seine Magie im Austausch für Gehorsam oder gelegentliche Dienste verleiht. Der Pakt mit einem Patron gibt dir Zugang zu mächtigen Zaubern, aber du musst stets vorsichtig sein, die Gunst deines Meisters nicht zu verlieren.  
+- **Pakt mit einem Patron**: Du hast einen Pakt mit einem mächtigen Wesen geschlossen, sei es ein Dämon, eine Fee oder ein anderer jenseitiger Patron. Deine Macht wird von diesem Wesen gespeist, das dir seine Magie im Austausch für Gehorsam oder gelegentliche Dienste verleiht. Der Pakt mit einem Patron gibt dir Zugang zu mächtigen Zaubern, aber du musst stets vorsichtig sein, die Gunst deines Meisters nicht zu verlieren.  
     - **Vorteil auf** [[../Zauberausrichtungen/-Seele-/Fluch|Fluch]]  
     - **+1** [[../Spiel-Mechaniken/Ausdauerpunkte|Ausdauerpunkte]]  
-- **Pakt mit einem Gegenstand: Deine Macht entspringt einem mächtigen, verzauberten Gegenstand, mit dem du eine tiefe Verbindung eingegangen bist. Ob es sich um eine uralte Klinge, einen verfluchten Ring oder ein Artefakt handelt, der Gegenstand verleiht dir Kräfte, die über das hinausgehen, was gewöhnliche Sterbliche erreichen können. Dieser Pakt gibt dir nicht nur magische Fähigkeiten, sondern oft auch physische Vorteile, da du lernst, die Essenz des Gegenstands in deine eigene Kraft zu kanalisieren.  
+- **Pakt mit einem Gegenstand**: Deine Macht entspringt einem mächtigen, verzauberten Gegenstand, mit dem du eine tiefe Verbindung eingegangen bist. Ob es sich um eine uralte Klinge, einen verfluchten Ring oder ein Artefakt handelt, der Gegenstand verleiht dir Kräfte, die über das hinausgehen, was gewöhnliche Sterbliche erreichen können. Dieser Pakt gibt dir nicht nur magische Fähigkeiten, sondern oft auch physische Vorteile, da du lernst, die Essenz des Gegenstands in deine eigene Kraft zu kanalisieren.  
     - **Vorteil auf** [[../Zauberausrichtungen/-Geist-/Manipulation|Manipulation]]  
     - **+1** [[../Attribute/-Passive-/Willensstärke|Willensstärke]]  
   
