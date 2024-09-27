@@ -14,11 +14,12 @@
     - **+1** [[../Attribute/-Körper-/Konstitution|Konstitution]]  
 - **Gaukler**: Du mischst dich unter das Volk, täuschst mit Alchemie-Tricks und gewinnst mit Charme das Vertrauen deiner Zuschauer.  
     - **Vorteil auf** [[../Attribute/-Seele-/Auftritt|Auftritt]]  
+    - **+1 [[../Attribute/-Seele-/Einsicht|Einsicht]]**  
     - **Wissen in** Kunst/Kultur  
   
 #### **1. Level:**  
   
-- **Vorbereitet**: Du kannst 1x täglich bis zu 2 Zauber in Trankform vorbereiten und sie im Kampf oder auf Reisen verwenden.  
+- **Vorbereitet**: Du kannst 1x täglich bis zu 2 Zauber in Trankform vorbereiten und sie im Kampf oder auf Reisen verwenden. Können auch von anderen verwendet werden.  
 - **Experimentierfreudig**: Du stellst täglich ein experimentelles Elixier her, dessen Wirkung unberechenbar, aber potenziell mächtig ist.  
   
 #### **2. Level:**  

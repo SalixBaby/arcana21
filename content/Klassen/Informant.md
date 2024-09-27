@@ -8,7 +8,7 @@
   
 #### **Variationen:**  
   
-- **Undercover-Agent**: Du bist spezialisiert darauf, dich unauffällig in verschiedene Umgebungen zu integrieren.  
+- **Spion**: Du bist spezialisiert darauf, dich unauffällig in verschiedene Umgebungen zu integrieren.  
     - **Vorteil auf** Heimlichkeit und [[../Attribute/-Seele-/Lügen|Lügen]]  
     - **+1** [[../Attribute/-Körper-/Geschicklichkeit|Geschicklichkeit]]  
 - **Gerüchtehändler**: Du bist bekannt dafür, Informationen zu sammeln und weiterzugeben – manchmal gegen eine kleine Belohnung.  
@@ -22,8 +22,8 @@
   
 #### **2. Level:**  
   
-- **Spuren lesen**: Du kannst die Umgebung nach Hinweisen durchsuchen und versteckte Informationen entdecken, die anderen entgehen. Dies gibt dir einen Vorteil bei [[../Attribute/-Geist-/Wahrnehmung|Wahrnehmung]] und [[../Attribute/-Körper-/Instinkt|Instinkt]]-Proben.  
-- **Gerüchte sammeln**: Du kannst in sozialen Kreisen Gerüchte und geheime Informationen sammeln, die dir im Laufe eines Tages helfen, einen Vorteil in Gesprächen oder bei Verhandlungen zu erlangen.  
+- **Spuren lesen**: Du kannst die Umgebung nach Hinweisen durchsuchen und versteckte Informationen entdecken, die anderen entgehen. Dies gibt dir einen Vorteil bei [[../Attribute/-Geist-/Wahrnehmung|Wahrnehmung]] und [[../Attribute/-Geist-/Erfahrung|Erfahrung]]]-Proben.  
+- **Durchschauen**: Du erhältst die Fähigkeit die Schwachstelle eines Gegners herauszufinden. Du kannst durch eine [[../Attribute/-Seele-/Einsicht|Einsicht]]-Probe herausfinden, welches soziale Talent bei jemanden am Besten funktionieren würde.  
   
 #### **3. Level:**  
   

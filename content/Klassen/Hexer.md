@@ -8,22 +8,22 @@
   
 #### **Variationen:**  
   
-- **Pakt mit einem Dämon**: Deine Magie wird von einem finsteren Dämon gespeist, der dir grausame Macht verleiht.  
+- **Pakt mit einem Patron: Du hast einen Pakt mit einem mächtigen Wesen geschlossen, sei es ein Dämon, eine Fee oder ein anderer jenseitiger Patron. Deine Macht wird von diesem Wesen gespeist, das dir seine Magie im Austausch für Gehorsam oder gelegentliche Dienste verleiht. Der Pakt mit einem Patron gibt dir Zugang zu mächtigen Zaubern, aber du musst stets vorsichtig sein, die Gunst deines Meisters nicht zu verlieren.  
     - **Vorteil auf** [[../Zauberausrichtungen/-Seele-/Fluch|Fluch]]  
-    - **+1** [[../Attribute/-Seele-/-Seele-|-Seele-]]  
-- **Pakt mit einem Erzengel**: Du hast einen Pakt mit einer lichtbringenden Entität geschlossen, die dir die Macht der Heilung und des Schutzes verleiht.  
-    - **Vorteil auf** [[../Zauberausrichtungen/-Seele-/Heilung|Heilung]]  
+    - **+1** [[../Spiel-Mechaniken/Ausdauerpunkte|Ausdauerpunkte]]  
+- **Pakt mit einem Gegenstand: Deine Macht entspringt einem mächtigen, verzauberten Gegenstand, mit dem du eine tiefe Verbindung eingegangen bist. Ob es sich um eine uralte Klinge, einen verfluchten Ring oder ein Artefakt handelt, der Gegenstand verleiht dir Kräfte, die über das hinausgehen, was gewöhnliche Sterbliche erreichen können. Dieser Pakt gibt dir nicht nur magische Fähigkeiten, sondern oft auch physische Vorteile, da du lernst, die Essenz des Gegenstands in deine eigene Kraft zu kanalisieren.  
+    - **Vorteil auf** [[../Zauberausrichtungen/-Geist-/Manipulation|Manipulation]]  
     - **+1** [[../Attribute/-Passive-/Willensstärke|Willensstärke]]  
   
 #### **1. Level:**  
   
-- **Paktmagie**: Du erhältst Zugang zu einem speziellen Set von Zaubern, die an deinen Pakt gebunden sind. Diese Zauber kosten weniger Mana und du kannst sie 1x täglich kostenlos wirken.  
+- **Paktmagie**: Du kannst anstatt Mana zu bezahlen deine Lebenspunkte opfern. 1 Mana = 2 Lebenspunkte.  
 - **Dunkler Bund**: Du kannst einmal täglich mit deinem Patron kommunizieren und dabei eine Frage stellen oder eine Vision von zukünftigen Ereignissen erhalten.  
   
 #### **2. Level:**  
   
 - **Verfluchter Angriff**: Einmal pro Tag kannst du einen verfluchten Schlag ausführen, der zusätzlich zu deinem normalen Schaden einen Fluch auf das Ziel legt. Das Ziel erleidet bis zu deinem nächsten Zug Nachteil auf Angriffe oder Proben.  
-- **Dämonische/Heilige Schutzbarriere**: Du kannst einmal täglich eine magische Barriere beschwören, die dich vor körperlichem und magischem Schaden schützt. Je nach deinem Pakt kann diese Barriere heilig oder unheilig sein und zusätzliche Effekte auf Feinde oder Verbündete haben.  
+- **Mächtiger Fluch**: Einmal pro Tag kannst du eine Kreatur mit einem Fluch belegen, der deren Fähigkeiten schwächt oder ihre Bewegungen einschränkt (Nachteil auf einen Attributswurf oder eine Aktion).  
   
 #### **3. Level:**  
   
