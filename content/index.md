@@ -10,4 +10,4 @@ Grundregeln findet du [[./Grundregeln|Hier]].
 
 Du kennst dich schon aus? Dann schnell zur [[./Charaktererstellung|Charaktererstellung]].
 
-<a href="./Arcana21_Charakterbogen.pdf" download="Arcana21_Charakterbogen">Charakterbogen</a>
+<a href="./Arcana21_Charakterbogen.pdf" target='_blank' download="Arcana21_Charakterbogen">Charakterbogen</a>
