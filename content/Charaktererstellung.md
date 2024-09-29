@@ -50,12 +50,12 @@ In **Arcana21** gibt es drei Kernattribute, die deinen Charakter in den Bereiche
   
 ---  
   
-### 4. **Eigenschaften und Talentpunkte**  
+### 4. **Talent- & Ausbildungspunkte**  
   
-Jedes Kernattribut beeinflusst die **Eigenschaften**, die darunter liegen. Zusätzlich zu den Grundwerten kannst du **Talent-Punkte** auf die Unterattribute verteilen, um sie zu steigern. Diese erhöhen sich mit dem Level deines Charakters und erlauben dir, einzelne Eigenschaften gezielt zu verbessern.  
+Jedes Kernattribut beeinflusst die **Eigenschaften**, die darunter liegen. Zusätzlich zu den Grundwerten kannst du **[[./Spiel-Mechaniken/Talentpunkte|Talentpunkte]]** auf die Unterattribute verteilen, um sie zu steigern. Diese erhöhen sich mit dem Level deines Charakters und erlauben dir, einzelne Eigenschaften gezielt zu verbessern.  
   
-- **Talentpunkte**: Können auf die Unterattribute gesetzt werden, um deren Wert basierend auf dem Level des Charakters zu erhöhen.  
-- **Ausbildungspunkte**: Du kannst diese Punkte nutzen um Wissen in verschiedenen Kategorien zu erhalten, geübt mit [[./Ausrüstungen/-Ausrüstungssets-/-Ausrüstungssets-|-Ausrüstungssets-]] zu werden oder verschiedene Sprachen zu erlenen.. Du hast so viele Ausbildungspunkte wie dein Geist-Wert + Level. Können sehr individuell eingesetzt werden.   
+- **[[./Spiel-Mechaniken/Talentpunkte|Talentpunkte]]**: Können auf die Unterattribute gesetzt werden, um deren Wert basierend auf dem Level des Charakters zu erhöhen.  
+- **[[./Spiel-Mechaniken/Ausbildungspunkte|Ausbildungspunkte]]**: Du kannst diese Punkte nutzen um Wissen in verschiedenen Kategorien zu erhalten, geübt mit [[./Ausrüstungen/-Ausrüstungssets-/-Ausrüstungssets-|-Ausrüstungssets-]] zu werden oder verschiedene Sprachen zu erlenen.. Du hast so viele Ausbildungspunkte wie dein Geist-Wert + Level. Können sehr individuell eingesetzt werden.   
   
 ---  
   
@@ -63,10 +63,10 @@ Jedes Kernattribut beeinflusst die **Eigenschaften**, die darunter liegen. Zusä
   
 Zusätzlich zu den Kernattributen gibt es **passive Werte**, die sich aus den Kernattributen ableiten und deinen Charakter in spezifischen Bereichen beeinflussen.  
   
-- **Lebenspunkte (HP)**: 5 + Konstitution (Zeigt an, wie viel dein Charakter an Schaden aushalten kann bevor er zu Boden geht.)  
-- **Bewegungsrate**: 5 + Geschwindigkeit (Zeigt an, wie weit dein Charakter pro Aktion laufen kann.)  
-- **Ausweichen**: 10 + Geschwindigkeit (Zeigt an, wie gut dein Charakter physischen Angriffen entkommen kann.)  
-- **Willensstärke**: 10 + Fokus (Zeigt an, wie groß der Wille deines Charakters ist und wie gut er psychischen Angriffen standhalten kann.)  
+- **[[./Attribute/-Passive-/Gesundheit|Gesundheit]] (HP)**: 5 + Konstitution (Zeigt an, wie viel dein Charakter an Schaden aushalten kann bevor er zu Boden geht.)  
+- **[[./Attribute/-Passive-/Bewegungsrate|Bewegungsrate]]**: 5 + Geschwindigkeit (Zeigt an, wie weit dein Charakter pro Aktion laufen kann.)  
+- **[[./Attribute/-Passive-/Ausweichen|Ausweichen]]**: 10 + Geschwindigkeit (Zeigt an, wie gut dein Charakter physischen Angriffen entkommen kann.)  
+- **[[./Attribute/-Passive-/Willensstärke|Willensstärke]]**: 10 + Fokus (Zeigt an, wie groß der Wille deines Charakters ist und wie gut er psychischen Angriffen standhalten kann.)  
 - **[[./Spiel-Mechaniken/Manapunkte|Manapunkte]] (MP)**: Arkana + Level x2  
 - **[[./Spiel-Mechaniken/Ausdauerpunkte|Ausdauerpunkte]] (AP)**: Körper-Wert  
 - **[[./Spiel-Mechaniken/Inspirationspunkte|Inspirationspunkte]] (IP)**: Seele-Wert  
