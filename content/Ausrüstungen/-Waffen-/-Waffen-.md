@@ -1,0 +1,8 @@
+---
+{}
+---
+In **Arcana21** sind Waffen mehr als nur Werkzeuge des Krieges – sie sind Verlängerungen des Charakters und Ausdruck von dessen Stil, Geschichte und Fähigkeiten. Jede Waffe kann auf einzigartige Weise in die Hände eines Helden gelegt werden, um Herausforderungen zu meistern und sich gegen die Gefahren der Welt zu behaupten. Waffen sind vielfältig und spielen eine zentrale Rolle in den Abenteuern, ob im direkten Nahkampf, aus sicherer Entfernung oder in hinterhältigen, leisen Aktionen.  
+  
+In **Arcana21** besitzt jede Waffe spezifische **[[./-Waffeneigenschaften-/-Waffeneigenschaften-|-Waffeneigenschaften-]]** und [[./-Waffenfähigkeiten-/-Waffenfähigkeiten-|-Waffenfähigkeiten-]], die ihre Einsatzmöglichkeiten und strategischen Vorteile bestimmen. Einige Waffen eignen sich für schnelle und präzise Angriffe, andere setzen auf rohe Kraft oder schleichende Taktiken. Spieler können die Wahl der Waffe an den Kampfstil ihres Charakters anpassen, sei es durch leise Angriffe aus dem Schatten, vernichtende Schläge oder raffinierte Fernangriffe.  
+  
+Waffen sind nicht nur Mittel zum Zweck, sondern auch eine Frage der Persönlichkeit und des Spielstils. Sie entwickeln sich mit dem Helden und können je nach den Herausforderungen, denen er sich stellt, entscheidend für den Erfolg oder Misserfolg sein. Die richtige Waffe zur richtigen Zeit kann über Leben und Tod entscheiden und die Handlung eines Abenteuers maßgeblich beeinflussen.
