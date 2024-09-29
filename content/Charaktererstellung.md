@@ -1,5 +1,7 @@
 > *Willkommen bei **Arcana21**, einem tiefgründigen und vielseitigen Rollenspielsystem, in dem du die Rolle eines einzigartigen Helden übernimmst. Hier ist ein umfassender Leitfaden, der dir hilft, deinen Charakter Schritt für Schritt zu erschaffen.*  
   
+<a href="./Arcana21_Charakterbogen.pdf" target='_blank' download="Arcana21_Charakterbogen">Charakterbogen hier downloaden</a>  
+  
 ### 1. **Hintergrund wählen**  
   
 Dein Charakter hat eine Vergangenheit, die seine Fähigkeiten, Fertigkeiten und Weltanschauung prägt. Wähle zunächst einen der passenden [[./Hintergründe/Hintergründe|Hintergründe]] aus der Liste, um die grundlegenden Eigenschaften und Fähigkeiten deines Charakters zu bestimmen:  
@@ -26,6 +28,7 @@ Nach der Wahl deines Hintergrundes entscheidest du dich für eine der Klassen, d
   
 Jede Klasse hat einzigartige Fähigkeiten, die im Laufe der Level gesteigert werden können.  
   
+<a href="./Klassenübersicht.png" target='_blank' download="Arcana21_Klassenübersicht.png">Klassenübersicht anschauen</a>  
 ---  
   
 ### 3. **Kernattribute verteilen**  
@@ -41,7 +44,8 @@ In **Arcana21** gibt es drei Kernattribute, die deinen Charakter in den Bereiche
 - ***Körper**: 2 (Geschicklichkeit +2, Geschwindigkeit +2, etc.)*  
 - ***Geist**: 1 (Wissen +1, Wahrnehmung +1, etc.)*  
 - ***Seele**: -1 (Auftritt -1, Überzeugen -1, etc.)*  
-  
+    
+<a href="./Attributsübersicht.png" target='_blank' download="Arcana21_Attributsübersicht.png">Attributsübersicht anschauen</a>  
 ---  
   
 ### 4. **Eigenschaften und Talentpunkte**  
@@ -82,6 +86,7 @@ Außerdem gibt es **21 Zauberausrichtungen**, die sich in 6 Kategorien aufteilen
   
 Dein Charakter kann seine Zaubersprüche kreativ selbst gestalten, je nach den ausgewählten Zauberausrichtungen. Du kannst die Anzahl der Zauberausrichtungen, die du kennst, mit **3 + Level** berechnen. Auch wenn dein Charakter keine Magie einsetzten kann hat er doch über eine gewisse Anzahl an Zauberausrichtungen Wissen angehäuft. Dies kann in gewissen Situationen wichtig sein und kann zu interessanten Hintergrundgeschichten führen.   
   
+<a href="./Zauberausrichtungübersicht.png" target='_blank' download="Arcana21_Zauberausrichtungübersicht.png">Zauberausrichtungen anschauen</a>  
 ---  
   
 ### 7. **Ausrüstung**  
