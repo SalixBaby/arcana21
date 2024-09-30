@@ -71,7 +71,7 @@ button#explorer {
       transform 0.35s ease,
       opacity 0.2s ease;
     & li > a {
-      color: #0093ED;
+      color: var(--dark);
       opacity: 0.75;
       pointer-events: all;
     }
