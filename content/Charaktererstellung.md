@@ -1,6 +1,6 @@
 > *Willkommen bei **Arcana21**, einem tiefgründigen und vielseitigen Rollenspielsystem, in dem du die Rolle eines einzigartigen Helden übernimmst. Hier ist ein umfassender Leitfaden, der dir hilft, deinen Charakter Schritt für Schritt zu erschaffen.*  
   
-<a href="./Arcana21_Charakterbogen_newDesign.pdf" target='_blank' download="Arcana21_Charakterbogen">Charakterbogen [⇩]</a>  
+<a href="./Arcana21_Charakterbogen_newDesign2.pdf" target='_blank' download="Arcana21_Charakterbogen">Charakterbogen [⇩]</a>  
   
 ### 1. **Hintergrund wählen**  
   
