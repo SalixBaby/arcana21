@@ -8,7 +8,7 @@
 **Segen: Praktische Erfahrung***  
   
 - +1 auf [[../Attribute/-Körper-/-Körper-|-Körper-]] oder [[../Attribute/-Geist-/-Geist-|-Geist-]]  
-- Vorteil auf Heimlichkeit und Täuschung  
+- Vorteil auf Heimlichkeit  
 - Vertrautheit mit kriminellen Netzwerken  
   
 **Fluch: Karma**  
