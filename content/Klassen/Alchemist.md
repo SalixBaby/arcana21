@@ -1,10 +1,11 @@
 ---
 {}
 ---
-y>*Als Alchemist beherrschst du die Kunst der Kräuter- und Trankkunde. Du kannst mächtige Tränke und Mixturen herstellen, die heilende oder schädliche Wirkungen haben. Dein Wissen über die Natur ermöglicht es dir, aus einfachen Zutaten mächtige Effekte zu erzielen. Du bist ein Meister der chemischen und pflanzlichen Wissenschaften und verstehst es, deine Umgebung für den Vorteil deines Teams oder zur Schwächung deiner Feinde zu nutzen.*  
+>*Als Alchemist beherrschst du die Kunst der Kräuter- und Trankkunde. Du kannst mächtige Tränke und Mixturen herstellen, die heilende oder schädliche Wirkungen haben. Dein Wissen über die Natur ermöglicht es dir, aus einfachen Zutaten mächtige Effekte zu erzielen. Du bist ein Meister der chemischen und pflanzlichen Wissenschaften und verstehst es, deine Umgebung für den Vorteil deines Teams oder zur Schwächung deiner Feinde zu nutzen.*  
   
+- **Klasse**: [[../Spiel-Mechaniken/Magienutzer|Magienutzer]]  
 - **Hintergrund**: [[../Hintergründe/Natur|Natur]]  
-- **Ausbildungs-Punkte**: 3  
+- **Wissen**: Handel / Wirtschaft  
   
 #### **Variationen:**  
   
@@ -19,13 +20,13 @@ y>*Als Alchemist beherrschst du die Kunst der Kräuter- und Trankkunde. Du kanns
   
 #### **1. Level:**  
   
-- **Vorbereitet**: Du kannst 1x täglich bis zu 2 Zauber in Trankform vorbereiten und sie im Kampf oder auf Reisen verwenden. Können auch von anderen verwendet werden.  
+- **Vorbereitet**: Du kannst 1x täglich bis zu 2 Zauber in Trankform vorbereiten, welche sich bis zu 24 Stunden halten. Diese können auch von anderen verwendet werden.  
 - **Experimentierfreudig**: Du stellst täglich ein experimentelles Elixier her, dessen Wirkung unberechenbar, aber potenziell mächtig ist.  
   
 #### **2. Level:**  
   
-- **Verbesserte Extraktion**: Du kannst Zutaten effizienter nutzen und aus weniger Material stärkere Tränke herstellen. Tränke halten nun länger oder haben verbesserte Effekte.  
-- **Antidot-Meister**: Du kannst Gegengifte schneller herstellen und erhöhst den Heilungseffekt von Tränken gegen Gifte und Krankheiten um das Doppelte.  
+- **Verbesserte Extraktion**: Du kannst Zutaten effizienter nutzen und aus weniger Material stärkere Tränke herstellen. Tränke halten nun bis zu 48 Stunden und haben verbesserte Effekte.  
+- **Antidot-Meister**: Du kannst Gegengifte schneller herstellen und erhöhst den Heilungseffekt von Tränken gegen Gifte und Krankheiten um das Doppelte. (+1w4)  
   
 #### **3. Level:**  
   
