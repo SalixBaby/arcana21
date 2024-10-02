@@ -3,8 +3,9 @@
 ---
 >*Als Hexer hast du einen Pakt mit einer mächtigen, jenseitigen Entität geschlossen, die dir einzigartige magische Fähigkeiten verleiht. Deine Kräfte stammen nicht aus jahrelangem Studium oder einem angeborenen Talent, sondern aus einem Bündnis mit einer höheren Macht. Du zapfst die Energie dieser fremden Kraft an, um mächtige Flüche, verheerende Zauber und dunkle Magie zu wirken. Doch dieser Pakt hat seinen Preis, und du wirst ständig an die Verpflichtungen gegenüber deinem Patron erinnert.*  
   
+- **Klasse**: [[../Spiel-Mechaniken/Dualklasse|Dualklasse]]  
 - **Hintergrund**: [[../Hintergründe/Vasall|Vasall]]  
-- **Ausbildungs-Punkte**: 3  
+- **Wissen**: -  
   
 #### **Variationen:**  
   
@@ -12,7 +13,7 @@
     - **Vorteil auf** [[../Zauberausrichtungen/-Seele-/Fluch|Fluch]]  
     - **+1** [[../Spiel-Mechaniken/Ausdauerpunkte|Ausdauerpunkte]]  
 - **Pakt mit einem Gegenstand**: Deine Macht entspringt einem mächtigen, verzauberten Gegenstand, mit dem du eine tiefe Verbindung eingegangen bist. Ob es sich um eine uralte Klinge, einen verfluchten Ring oder ein Artefakt handelt, der Gegenstand verleiht dir Kräfte, die über das hinausgehen, was gewöhnliche Sterbliche erreichen können. Dieser Pakt gibt dir nicht nur magische Fähigkeiten, sondern oft auch physische Vorteile, da du lernst, die Essenz des Gegenstands in deine eigene Kraft zu kanalisieren.  
-    - **Vorteil auf** [[../Zauberausrichtungen/-Geist-/Manipulation|Manipulation]]  
+    - **Zauberausrichtung**: [[../Zauberausrichtungen/-Geist-/Manipulation|Manipulation]]  
     - **+1** [[../Attribute/-Passive-/Willensstärke|Willensstärke]]  
   
 #### **1. Level:**  

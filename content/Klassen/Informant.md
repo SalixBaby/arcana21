@@ -3,13 +3,14 @@
 ---
 >*Als Informant bist du ein Meister der Spionage und Informationsbeschaffung. Du bewegst dich in den Schatten, stets auf der Suche nach Geheimnissen, die du zu deinem Vorteil nutzen kannst. Dein Netzwerk von Kontakten und deine Fähigkeit, in sozialen Kreisen unerkannt zu bleiben, machen dich zu einer unschätzbaren Quelle für Wissen. Du lieferst Informationen, manipulierst Situationen hinter den Kulissen und bist in der Lage, Verbindungen aufzubauen, die anderen verborgen bleiben.*  
   
-- **Hintergrund**: [[01-Kriminell|01-Kriminell]]  
-- **Ausbildungs-Punkte**: 3  
+- **Klasse**: [[../Spiel-Mechaniken/Kampfklasse|Kampfklasse]]  
+- **Hintergrund**: [[../Hintergründe/Kriminell|Kriminell]]  
+- **Wissen**: Politik / Diplomatie  
   
 #### **Variationen:**  
   
 - **Spion**: Du bist spezialisiert darauf, dich unauffällig in verschiedene Umgebungen zu integrieren.  
-    - **Vorteil auf** Heimlichkeit und [[../Attribute/-Seele-/Lügen|Lügen]]  
+    - **Vorteil auf** [[../Attribute/-Seele-/Lügen|Lügen]]  
     - **+1** [[../Attribute/-Körper-/Geschicklichkeit|Geschicklichkeit]]  
 - **Gerüchtehändler**: Du bist bekannt dafür, Informationen zu sammeln und weiterzugeben – manchmal gegen eine kleine Belohnung.  
     - **Vorteil auf** [[../Attribute/-Seele-/Überzeugen|Überzeugen]]  
@@ -17,13 +18,13 @@
   
 #### **1. Level:**  
   
-- **Netzwerk der Schatten**: Du hast Zugang zu einem Netzwerk von Informanten in verschiedenen Städten und Gebieten. Einmal täglich kannst du eine wichtige Information erlangen, die dir bei deiner aktuellen Mission hilft.  
-- **Unauffällig**: Du erhältst einen Bonus auf Proben, bei denen es darum geht, unerkannt zu bleiben oder Informationen unbemerkt zu sammeln.  
+- **Durchschauen**: Du erhältst die Fähigkeit die Schwachstelle eines Gegners herauszufinden. Du kannst durch eine [[../Attribute/-Seele-/Einsicht|Einsicht]]-Probe herausfinden, welches soziale Talent bei jemanden am Besten funktionieren würde.  
+- **Unauffällig**: Du erhältst einen Bonus auf Proben, bei denen es darum geht, unerkannt zu bleiben oder Informationen unbemerkt zu sammeln. (+1w4)  
   
 #### **2. Level:**  
   
-- **Spuren lesen**: Du kannst die Umgebung nach Hinweisen durchsuchen und versteckte Informationen entdecken, die anderen entgehen. Dies gibt dir einen Vorteil bei [[../Attribute/-Geist-/Wahrnehmung|Wahrnehmung]] und [[../Attribute/-Geist-/Erfahrung|Erfahrung]]]-Proben.  
-- **Durchschauen**: Du erhältst die Fähigkeit die Schwachstelle eines Gegners herauszufinden. Du kannst durch eine [[../Attribute/-Seele-/Einsicht|Einsicht]]-Probe herausfinden, welches soziale Talent bei jemanden am Besten funktionieren würde.  
+- **Spuren lesen**: Du kannst die Umgebung nach Hinweisen durchsuchen und versteckte Informationen entdecken, die anderen entgehen. Dies gibt dir einen Vorteil bei [[../Attribute/-Geist-/Wahrnehmung|Wahrnehmung]]-Proben.  
+- **Schwachpunkt erkennen**: Du kannst 1AP dafür nutzen um dir Vorteil auf deinen nächsten Angriff gegen ein Ziel zu verschaffen. Dies erfordert jedoch eine gelungene [[../Attribute/-Geist-/Erfahrung|Erfahrung]] oder [[../Attribute/-Körper-/Instinkt|Instinkt]]- Probe.  
   
 #### **3. Level:**  
   
