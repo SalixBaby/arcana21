@@ -23,7 +23,7 @@
   
 #### **2. Level:**  
   
-- **Spuren lesen**: Du kannst die Umgebung nach Hinweisen durchsuchen und versteckte Informationen entdecken, die anderen entgehen. Dies gibt dir einen Vorteil bei [[../Attribute/-Geist-/Wahrnehmung|Wahrnehmung]]-Proben.  
+- **Spuren lesen**: Du kannst die Umgebung nach Hinweisen durchsuchen und versteckte Informationen entdecken, die anderen entgehen. Dies gibt dir einen Vorteil bei [[../Attribute/-Geist-/Wahrnehmung|Wahrnehmung]]s-Proben.  
 - **Schwachpunkt erkennen**: Du kannst 1AP dafür nutzen um dir Vorteil auf deinen nächsten Angriff gegen ein Ziel zu verschaffen. Dies erfordert jedoch eine gelungene [[../Attribute/-Geist-/Erfahrung|Erfahrung]] oder [[../Attribute/-Körper-/Instinkt|Instinkt]]- Probe.  
   
 #### **3. Level:**  

@@ -5,6 +5,6 @@
   
 - **Nutzung:** Ausdauerpunkte können eingesetzt werden, um in einer Runde eine zusätzliche Aktion zu ermöglichen. Dies könnte der entscheidende Angriff oder eine taktische Bewegung sein, die den Unterschied zwischen Sieg und Niederlage ausmacht.  
       
-- **Regeneration:** Ausdauerpunkte werden durch bestimmte Aktionen, wie kritische Treffer oder spezielle Fähigkeiten, wiederhergestellt. Dadurch können Helden in entscheidenden Momenten zurückschlagen oder sich verteidigen.  
+- **Regeneration:** Ausdauerpunkte werden durch bestimmte Aktionen, wie kritische Treffer oder spezielle Fähigkeiten, wiederhergestellt. Dadurch können Helden in entscheidenden Momenten zurückschlagen oder sich verteidigen. Nur [[./Kampfklasse|Kampfklasse]] können ohne eine rast Ausdauerpunkte wiederherstellen.  
       
 - **Berechnung:** Die Anzahl der Ausdauerpunkte eines Charakters wird durch das Kernattribut _Körper_ bestimmt. Ein Held mit höherem Körper-Wert hat also mehr Ausdauer und kann häufiger zusätzliche Aktionen ausführen, was seine Flexibilität im Kampf erhöht.

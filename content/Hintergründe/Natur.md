@@ -8,7 +8,7 @@
 **Segen: Eins mit der Wildnis**  
   
 - +1 auf [[../Attribute/-Körper-/-Körper-|-Körper-]] oder [[../Attribute/-Seele-/-Seele-|-Seele-]]  
-- Wissen in Natur/Tiere  
+- Wissen und Vorteil in Natur/Tiere  
 - Kenntnis über Kräuterkunde und Heilpflanzen  
   
 **Fluch: Eremit**  

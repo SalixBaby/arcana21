@@ -9,7 +9,7 @@
   
 - +1 auf [[../Attribute/-Körper-/-Körper-|-Körper-]] oder [[../Attribute/-Geist-/-Geist-|-Geist-]]  
 - Vorteil auf Heimlichkeit  
-- Vertrautheit mit kriminellen Netzwerken  
+- Wissen in Überleben / Orientierung  
   
 **Fluch: Karma**  
   

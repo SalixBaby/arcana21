@@ -11,14 +11,14 @@
   
 - **Pakt mit einem Patron**: Du hast einen Pakt mit einem mächtigen Wesen geschlossen, sei es ein Dämon, eine Fee oder ein anderer jenseitiger Patron. Deine Macht wird von diesem Wesen gespeist, das dir seine Magie im Austausch für Gehorsam oder gelegentliche Dienste verleiht. Der Pakt mit einem Patron gibt dir Zugang zu mächtigen Zaubern, aber du musst stets vorsichtig sein, die Gunst deines Meisters nicht zu verlieren.  
     - **Vorteil auf** [[../Zauberausrichtungen/-Seele-/Fluch|Fluch]]  
-    - **+1** [[../Spiel-Mechaniken/Ausdauerpunkte|Ausdauerpunkte]]  
+	- **+1** [[../Attribute/-Passive-/Willensstärke|Willensstärke]]  
 - **Pakt mit einem Gegenstand**: Deine Macht entspringt einem mächtigen, verzauberten Gegenstand, mit dem du eine tiefe Verbindung eingegangen bist. Ob es sich um eine uralte Klinge, einen verfluchten Ring oder ein Artefakt handelt, der Gegenstand verleiht dir Kräfte, die über das hinausgehen, was gewöhnliche Sterbliche erreichen können. Dieser Pakt gibt dir nicht nur magische Fähigkeiten, sondern oft auch physische Vorteile, da du lernst, die Essenz des Gegenstands in deine eigene Kraft zu kanalisieren.  
-    - **Zauberausrichtung**: [[../Zauberausrichtungen/-Geist-/Manipulation|Manipulation]]  
-    - **+1** [[../Attribute/-Passive-/Willensstärke|Willensstärke]]  
+    - **Zauberausrichtung**: [[../Zauberausrichtungen/-Kraft-/Energie|Energie]]  
+    - **+1** [[../Spiel-Mechaniken/Ausdauerpunkte|Ausdauerpunkte]]  
   
 #### **1. Level:**  
   
-- **Paktmagie**: Du kannst anstatt Mana zu bezahlen deine Lebenspunkte opfern. 1 Mana = 2 Lebenspunkte.  
+- **Paktmagie**: Du kannst anstatt Mana zu bezahlen deine Gesundheit opfern. 1 Manapunkt = 2 Lebenspunkte.  
 - **Dunkler Bund**: Du kannst einmal täglich mit deinem Patron kommunizieren und dabei eine Frage stellen oder eine Vision von zukünftigen Ereignissen erhalten.  
   
 #### **2. Level:**  
