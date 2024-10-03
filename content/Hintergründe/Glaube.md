@@ -7,8 +7,8 @@
   
 **Segen: Hingabe**  
   
-- +1 auf [[../Attribute/-Seele-/-Seele-|-Seele-]]] oder [[../Attribute/-Geist-/-Geist-|-Geist-]]  
-- Vorteil auf Religionswürfe und beim Überzeugen von religiösen Charakteren  
+- +1 auf [[../Attribute/-Seele-/-Seele-|-Seele-]] oder [[../Attribute/-Geist-/-Geist-|-Geist-]]  
+- Vorteil auf Religionswürfe  
 - Wissen in Religion/Okkultismus  
   
 **Fluch: Gottesfurcht**  
