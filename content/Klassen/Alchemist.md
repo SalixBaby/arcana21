@@ -26,7 +26,7 @@
 #### **2. Level:**  
   
 - **Verbesserte Extraktion**: Du kannst Zutaten effizienter nutzen und aus weniger Material stärkere Tränke herstellen. Tränke halten nun bis zu 48 Stunden und haben verbesserte Effekte.  
-- **Antidot-Meister**: Du kannst Gegengifte schneller herstellen und erhöhst den Heilungseffekt von Tränken gegen Gifte und Krankheiten um das Doppelte. (+1w4)  
+- **Gift-Meister**: Du kannst Gifte und Gegengifte schneller herstellen und erhöhst den Heilungseffekt von Tränken gegen Gifte und Krankheiten. (+1w4)  
   
 #### **3. Level:**  
   
