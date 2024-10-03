@@ -15,7 +15,7 @@
     Die Zauberausrichtungen der Geist-Kategorie greifen auf die mentale und kommunikative Ebene zu: Mental, Kommunikation, Manipulation und Traum. Diese Zauber beeinflussen den Verstand, die Sprache oder die Wahrnehmung von Wesen und ermöglichen es, Gedanken zu lesen, zu kontrollieren oder Illusionen zu erzeugen.  
       
 5. **Körper**    
-    Diese Magie verändert physische Formen und Realitäten: Teleportation, Illusion, Transformation und Vision. Sie erlaubt es den Zauberern, die Grenzen der physischen Existenz zu überschreiten, sei es durch Teleportation über große Entfernungen oder durch die Verwandlung von Gegenständen und Lebewesen.  
+    Diese Magie verändert physische Formen und Realitäten: Teleportation, Illusion, Transformation und Sinne. Sie erlaubt es den Zauberern, die Grenzen der physischen Existenz zu überschreiten, sei es durch Teleportation über große Entfernungen oder durch die Verwandlung von Gegenständen und Lebewesen.  
       
 6. **Beschwörung**    
     Als einzige Kategorie, die eine eigene Klasse bildet, dreht sich hier alles um die Erschaffung und das Herbeirufen von Wesen, Gegenständen oder Energien. Beschwörung ermöglicht es den Helden, mächtige Verbündete oder sogar neue Welten zu erschaffen, indem sie Kreaturen und Kräfte aus anderen Dimensionen herbeirufen.
