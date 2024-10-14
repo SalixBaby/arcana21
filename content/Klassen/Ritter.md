@@ -9,11 +9,11 @@
 #### **Variationen:**  
   
 - **Turnierkämpfer**: Du bist in der Kunst des Zweikampfes geübt und für deine Fähigkeiten in Wettkämpfen und Turnieren bekannt.  
-    - **Vorteil auf** [[../Attribute/-Körper-/Stärke|Stärke]] und [[../Attribute/-Körper-/Geschicklichkeit|Geschicklichkeit]]  
-    - **+1** [[../Attribute/-Körper-/-Körper-|-Körper-]]  
+    - **Vorteil auf** [[../Attribute/Körper/Stärke|Stärke]] und [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
+    - **+1** [[Attribute/Körper/Körper|Attribute/Körper/Körper]]  
 - **Edler Beschützer**: Du bist der Schutzpatron von Adel und Bürgern gleichermaßen und widmest dein Leben dem Schutz deiner Ländereien.  
-    - **Vorteil auf** [[../Attribute/-Körper-/Konstitution|Konstitution]] und [[../Attribute/-Passive-/Willensstärke|Willensstärke]]  
-    - **+1** [[../Attribute/-Seele-/-Seele-|-Seele-]]  
+    - **Vorteil auf** [[../Attribute/Körper/Konstitution|Konstitution]] und [[../Attribute/Passiv/Willensstärke|Willensstärke]]  
+    - **+1** [[Attribute/Seele/Seele|Attribute/Seele/Seele]]  
   
 #### **1. Level:**  
   
