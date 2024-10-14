@@ -63,10 +63,10 @@ Jedes Kernattribut beeinflusst die **Eigenschaften**, die darunter liegen. Zusä
   
 Zusätzlich zu den Kernattributen gibt es **passive Werte**, die sich aus den Kernattributen ableiten und deinen Charakter in spezifischen Bereichen beeinflussen.  
   
-- **[[./Attribute/-Passive-/Gesundheit|Gesundheit]] (HP)**: 5 + Konstitution (Zeigt an, wie viel dein Charakter an Schaden aushalten kann bevor er zu Boden geht.)  
-- **[[./Attribute/-Passive-/Bewegungsrate|Bewegungsrate]]**: 5 + Geschwindigkeit (Zeigt an, wie weit dein Charakter pro Aktion laufen kann.)  
-- **[[./Attribute/-Passive-/Ausweichen|Ausweichen]]**: 10 + Geschwindigkeit (Zeigt an, wie gut dein Charakter physischen Angriffen entkommen kann.)  
-- **[[./Attribute/-Passive-/Willensstärke|Willensstärke]]**: 10 + Fokus (Zeigt an, wie groß der Wille deines Charakters ist und wie gut er psychischen Angriffen standhalten kann.)  
+- **[[./Attribute/Passiv/Gesundheit|Gesundheit]] (HP)**: 4 + Level + Konstitution (Zeigt an, wie viel dein Charakter an Schaden aushalten kann bevor er zu Boden geht.)  
+- **[[./Attribute/Passiv/Bewegungsrate|Bewegungsrate]]**: 5 + Geschwindigkeit (Zeigt an, wie weit dein Charakter pro Aktion laufen kann.)  
+- **[[./Attribute/Passiv/Ausweichen|Ausweichen]]**: 10 + Geschwindigkeit (Zeigt an, wie gut dein Charakter physischen Angriffen entkommen kann.)  
+- **[[./Attribute/Passiv/Willensstärke|Willensstärke]]**: 10 + Fokus (Zeigt an, wie groß der Wille deines Charakters ist und wie gut er psychischen Angriffen standhalten kann.)  
 - **[[./Spiel-Mechaniken/Manapunkte|Manapunkte]] (MP)**: Arkana + Level x2  
 - **[[./Spiel-Mechaniken/Ausdauerpunkte|Ausdauerpunkte]] (AP)**: Körper-Wert  
 - **[[./Spiel-Mechaniken/Inspirationspunkte|Inspirationspunkte]] (IP)**: Seele-Wert  
