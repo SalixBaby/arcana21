@@ -9,11 +9,11 @@
 #### **Variationen:**  
   
 - **Akademischer Gelehrter**: Deine Stärke liegt im Studium und der Lehre. Du bist ein Experte in Geschichte und Philosophie.  
-    - **Vorteil auf** [[../Attribute/-Geist-/Wissen|Wissen]] und [[Arkane Magie|Arkane Magie]]  
-    - **+1** [[../Attribute/-Geist-/-Geist-|-Geist-]]  
+    - **Vorteil auf** [[../Attribute/Geist/Wissen|Wissen]] und [[Arkane Magie|Arkane Magie]]  
+    - **+1** [[Attribute/Geist/Geist|Attribute/Geist/Geist]]  
 - **Feldforscher**: Du bevorzugst das praktische Lernen und hast dich in den Weiten der Welt weitergebildet.  
     - **Vorteil auf** [[../Hintergründe/Natur|Natur]] und [[Überleben|Überleben]]  
-    - **+1** [[../Attribute/-Körper-/Geschicklichkeit|Geschicklichkeit]]  
+    - **+1** [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
   
 #### **1. Level:**  
   

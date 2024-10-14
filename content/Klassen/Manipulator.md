@@ -9,11 +9,11 @@
 #### **Variationen:**  
   
 - **Bauernfänger**: Du verstehst es, einfache Leute zu manipulieren und für deine Zwecke zu gewinnen.  
-    - **Vorteil auf** [[../Attribute/-Seele-/Lügen|Lügen]] und [[../Attribute/-Seele-/Überzeugen|Überzeugen]]  
-    - **+1** [[../Attribute/-Seele-/-Seele-|-Seele-]]  
+    - **Vorteil auf** [[../Attribute/Seele/Lügen|Lügen]] und [[../Attribute/Seele/Überzeugen|Überzeugen]]  
+    - **+1** [[Attribute/Seele/Seele|Attribute/Seele/Seele]]  
 - **Hinterlistiger Stratege**: Du planst Intrigen im großen Maßstab und beeinflusst sogar die Mächtigen.  
-    - **Vorteil auf** [[../Attribute/-Geist-/Wahrnehmung|Wahrnehmung]] und [[../Attribute/-Seele-/Auftritt|Auftritt]]  
-    - **+1** [[../Attribute/-Geist-/-Geist-|-Geist-]]  
+    - **Vorteil auf** [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]] und [[../Attribute/Seele/Auftritt|Auftritt]]  
+    - **+1** [[Attribute/Geist/Geist|Attribute/Geist/Geist]]  
   
 #### **1. Level:**  
   

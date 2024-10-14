@@ -9,11 +9,11 @@
 #### **Variationen:**  
   
 - **Patrouillenwächter**: Du kennst die Straßen wie deine Westentasche und bist immer bereit, in brenzligen Situationen zu helfen.  
-    - **Vorteil auf** [[../Attribute/-Geist-/Wahrnehmung|Wahrnehmung]] und [[../Attribute/-Körper-/Instinkt|Instinkt]]  
-    - **+1** [[../Attribute/-Körper-/-Körper-|-Körper-]]  
+    - **Vorteil auf** [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]] und [[../Attribute/Körper/Instinkt|Instinkt]]  
+    - **+1** [[Attribute/Körper/Körper|Attribute/Körper/Körper]]  
 - **Torwächter**: Du bist zuständig für den Schutz von wichtigen Zugängen und verteidigst sie mit eiserner Entschlossenheit.  
-    - **Vorteil auf** [[../Attribute/-Körper-/Stärke|Stärke]] und [[../Attribute/-Körper-/Konstitution|Konstitution]]  
-    - **+1** [[../Attribute/-Körper-/-Körper-|-Körper-]]  
+    - **Vorteil auf** [[../Attribute/Körper/Stärke|Stärke]] und [[../Attribute/Körper/Konstitution|Konstitution]]  
+    - **+1** [[Attribute/Körper/Körper|Attribute/Körper/Körper]]  
   
 #### **1. Level:**  
   

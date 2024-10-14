@@ -1,13 +1,13 @@
 ---
 {}
 ---
-> *Ein **Gelehrter** ist jemand, der sein Leben dem Studium und dem Erwerb von Wissen gewidmet hat. Dieser Hintergrund steht für Intellekt, Neugier und die Fähigkeit, komplexe Zusammenhänge zu verstehen. Gelehrte können Experten auf bestimmten Gebieten wie Geschichte, Magie, Philosophie oder Wissenschaft sein. Ihr scharfer Verstand und ihre analytischen Fähigkeiten helfen ihnen, auch die schwierigsten Herausforderungen mit Logik und Wissen zu bewältigen.*  
+> *Der **Gelehrte** hat viele Jahre damit verbracht, Wissen zu sammeln und komplexe Themen zu studieren. Sie sind oft Forscher, Historiker oder Magie-Experten, die sich bestens in ihren Fachgebieten auskennen und ein tiefes Verständnis für Bücher und alte Schriften haben.*  
   
 **Fähigkeiten oder Merkmale:** Wissensvorsprung, Recherchefähigkeiten, Zugang zu Archiven und Bibliotheken.  
   
 **Segen: Bücherwurm**  
   
-- +1 auf [[../Attribute/-Geist-/-Geist-|-Geist-]]  
+- +1 auf [[Attribute/Geist/Geist|Geist]]  
 - Wissen in Mathematik/Technik und Geschichte/Gedächtnis  
 - Vorteil auf Informationssammeln in Bibliotheken oder Archiven  
 - +2 Ausbildungspunkte  
@@ -17,11 +17,3 @@
 - Kann schwer Geheimnisse oder Fragen unbeantwortet lassen  
 - Neigt dazu, in Gefahr zu geraten, um Wissen zu erlangen  
 	- Optional: Überanalysiert oft Situationen  
-  
----  
-  
-***Klassen mit diesem Hintergrund:***  
-  
-Aktiv: [[../Klassen/Zauberer|Zauberer]]  
-Passiv: [[../Klassen/Lehrmeister|Lehrmeister]]  
-Spezialist: [[../Klassen/Erfinder|Erfinder]]

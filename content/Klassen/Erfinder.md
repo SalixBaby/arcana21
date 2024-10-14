@@ -10,7 +10,7 @@
   
 - **Technomant**: Du kombinierst Magie mit Technologie und erschaffst Artefakte, die sowohl mechanisch als auch magisch funktionieren.  
     - **Vorteil auf** [[Mathematik/Technik|Mathematik/Technik]]  
-    - **+1** [[../Attribute/-Geist-/Arkana|Arkana]]  
+    - **+1** [[../Attribute/Geist/Arkana|Arkana]]  
 - **Tüftler**: Du konzentrierst dich auf das Erschaffen praktischer, mechanischer Lösungen für Probleme und Herausforderungen, von kleinen Gadgets bis zu komplexen Maschinen.  
     - **Vorteil auf** [[../Ausrüstungen/-Ausrüstungssets-/Tüftler Set|Tüftler Set]]  
     - **Wissen in** [[Mathematik/Technik|Mathematik/Technik]]  

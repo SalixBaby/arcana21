@@ -10,17 +10,17 @@
   
 - **Wilderer**: Du bist spezialisiert darauf, Tiere unauffällig zu jagen und dich in der Wildnis zu bewegen.  
       
-    - **Vorteil auf** [[../Attribute/-Körper-/Geschicklichkeit|Geschicklichkeit]] und [[Überleben/Orientierung|Überleben/Orientierung]]  
-    - **+1** [[../Attribute/-Körper-/Geschicklichkeit|Geschicklichkeit]]  
+    - **Vorteil auf** [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]] und [[Überleben/Orientierung|Überleben/Orientierung]]  
+    - **+1** [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
 - **Spurenleser**: Deine Fähigkeit, kleinste Hinweise in der Umgebung zu entdecken, ist unübertroffen.  
       
-    - **Vorteil auf** [[../Attribute/-Körper-/Instinkt|Instinkt]] und [[../Attribute/-Geist-/Wahrnehmung|Wahrnehmung]]  
-    - **+1** [[../Attribute/-Geist-/Wahrnehmung|Wahrnehmung]]  
+    - **Vorteil auf** [[../Attribute/Körper/Instinkt|Instinkt]] und [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]  
+    - **+1** [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]  
   
 #### **1. Level:**  
   
 - **Präziser Schuss**: Du erhältst einen Bonus auf alle Fernkampfangriffe, insbesondere mit Bögen oder anderen Projektilwaffen. Dein geschultes Auge erlaubt es dir, die Schwachstellen deiner Beute zu erkennen und gezielt anzugreifen.  
-- **Fährtenlesen**: Du kannst die Umgebung nach Spuren und Hinweisen durchsuchen, um Beute oder Feinde zu verfolgen. Du erhältst einen Vorteil bei [[../Attribute/-Körper-/Instinkt|Instinkt]]- und [[Überleben/Orientierung|Überleben/Orientierung]]-Proben.  
+- **Fährtenlesen**: Du kannst die Umgebung nach Spuren und Hinweisen durchsuchen, um Beute oder Feinde zu verfolgen. Du erhältst einen Vorteil bei [[../Attribute/Körper/Instinkt|Instinkt]]- und [[Überleben/Orientierung|Überleben/Orientierung]]-Proben.  
   
 #### **2. Level:**  
   
@@ -40,4 +40,4 @@
 #### **5. Level:**  
   
 - **Meisterschütze**: Du kannst mit deinem Bogen oder anderen Fernkampfwaffen auf beeindruckende Distanzen zielen. Einmal täglich kannst du einen kritischen Treffer landen, wenn du einen Fernkampfangriff ausführst.  
-- **Meisterjäger**: Deine Jagdfähigkeiten sind legendär. Du erhältst einen dauerhaften Bonus auf deine [[../Attribute/-Körper-/Geschicklichkeit|Geschicklichkeit]] und [[../Attribute/-Geist-/Wahrnehmung|Wahrnehmung]] im Kampf und bei der Verfolgung deiner Beute. Du kannst dich zudem auf eine Art von Beute spezialisieren, sei es Mensch, Tier oder Monster.
+- **Meisterjäger**: Deine Jagdfähigkeiten sind legendär. Du erhältst einen dauerhaften Bonus auf deine [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]] und [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]] im Kampf und bei der Verfolgung deiner Beute. Du kannst dich zudem auf eine Art von Beute spezialisieren, sei es Mensch, Tier oder Monster.

@@ -12,3 +12,25 @@
 - [[./Militär|Militär]]  
 - [[./Natur|Natur]]  
 - [[./Vasall|Vasall]]  
+  
+1. Adel  
+2. Gelehrter  
+3. Glaube  
+4. Straßenkind  
+5. Militär  
+6. Natur  
+7. Vasall  
+8. Seefahrer  
+9. Schausteller  
+10. Handwerker  
+11. Nomade  
+12. Händler  
+13. Bauer  
+14. Höfling  
+15. Forscher  
+16. Diener  
+17. Schmuggler  
+18. Gefangener  
+19. Mediziner   
+20. Schüler  
+21. Spieler

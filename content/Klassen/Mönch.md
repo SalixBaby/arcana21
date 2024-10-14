@@ -9,11 +9,11 @@
 #### **Variationen:**  
   
 - **Kampfmönch**: Du bist ein Meister der Kampfkünste und nutzt deinen Körper als Waffe.  
-    - **Vorteil auf** [[../Attribute/-Körper-/Geschicklichkeit|Geschicklichkeit]] und [[../Attribute/-Körper-/-Körper-|-Körper-]]  
-    - **+1** [[../Attribute/-Körper-/Geschicklichkeit|Geschicklichkeit]]  
+    - **Vorteil auf** [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]] und [[Attribute/Körper/Körper|Attribute/Körper/Körper]]  
+    - **+1** [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
 - **Spiritueller Meister**: Du hast dich in die Lehren der Erleuchtung vertieft und nutzt geistige Kraft, um dich selbst und andere zu stärken.  
-    - **Vorteil auf** [[../Attribute/-Geist-/Fokus|Fokus]] und [[../Attribute/-Passive-/Willensstärke|Willensstärke]]  
-    - **+1** [[../Attribute/-Seele-/-Seele-|-Seele-]]  
+    - **Vorteil auf** [[../Attribute/Geist/Fokus|Fokus]] und [[../Attribute/Passiv/Willensstärke|Willensstärke]]  
+    - **+1** [[Attribute/Seele/Seele|Attribute/Seele/Seele]]  
   
 #### **1. Level:**  
   

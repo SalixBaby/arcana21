@@ -10,10 +10,10 @@
   
 - **Schulmagier**: Du hast an einer der großen Akademien der Magie studiert und bist ein Spezialist in der arkanen Theorie.  
     - **Vorteil auf** [[Arkane Magie|Arkane Magie]] und [[Mathematik/Technik|Mathematik/Technik]]  
-    - **+1** [[../Attribute/-Geist-/-Geist-|-Geist-]]  
+    - **+1** [[Attribute/Geist/Geist|Attribute/Geist/Geist]]  
 - **Einsiedlermagier**: Du hast dich in die Abgeschiedenheit zurückgezogen und dort die tiefen Geheimnisse der Magie erlernt.  
-    - **Vorteil auf** [[../Attribute/-Geist-/Fokus|Fokus]] und [[Illusion|Illusion]]  
-    - **+1** [[../Attribute/-Seele-/-Seele-|-Seele-]]  
+    - **Vorteil auf** [[../Attribute/Geist/Fokus|Fokus]] und [[Illusion|Illusion]]  
+    - **+1** [[Attribute/Seele/Seele|Attribute/Seele/Seele]]  
   
 #### **1. Level:**  
   

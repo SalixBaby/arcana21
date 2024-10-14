@@ -10,21 +10,21 @@
 #### **Variationen:**  
   
 - **Spion**: Du bist spezialisiert darauf, dich unauffällig in verschiedene Umgebungen zu integrieren.  
-    - **Vorteil auf** [[../Attribute/-Seele-/Lügen|Lügen]]  
-    - **+1** [[../Attribute/-Körper-/Geschicklichkeit|Geschicklichkeit]]  
+    - **Vorteil auf** [[../Attribute/Seele/Lügen|Lügen]]  
+    - **+1** [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
 - **Gerüchtehändler**: Du bist bekannt dafür, Informationen zu sammeln und weiterzugeben – manchmal gegen eine kleine Belohnung.  
-    - **Vorteil auf** [[../Attribute/-Seele-/Überzeugen|Überzeugen]]  
-    - **+1** [[../Attribute/-Geist-/Wahrnehmung|Wahrnehmung]]  
+    - **Vorteil auf** [[../Attribute/Seele/Überzeugen|Überzeugen]]  
+    - **+1** [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]  
   
 #### **1. Level:**  
   
-- **Durchschauen**: Du erhältst die Fähigkeit die Schwachstelle eines Gegners herauszufinden. Du kannst durch eine [[../Attribute/-Seele-/Einsicht|Einsicht]]-Probe herausfinden, welches soziale Talent bei jemanden am Besten funktionieren würde.  
+- **Durchschauen**: Du erhältst die Fähigkeit die Schwachstelle eines Gegners herauszufinden. Du kannst durch eine [[../Attribute/Seele/Einsicht|Einsicht]]-Probe herausfinden, welches soziale Talent bei jemanden am Besten funktionieren würde.  
 - **Unauffällig**: Du erhältst einen Bonus auf Proben, bei denen es darum geht, unerkannt zu bleiben oder Informationen unbemerkt zu sammeln. (+1w4)  
   
 #### **2. Level:**  
   
-- **Spuren lesen**: Du kannst die Umgebung nach Hinweisen durchsuchen und versteckte Informationen entdecken, die anderen entgehen. Dies gibt dir einen Vorteil bei [[../Attribute/-Geist-/Wahrnehmung|Wahrnehmung]]s-Proben.  
-- **Schwachpunkt erkennen**: Du kannst 1AP dafür nutzen um dir Vorteil auf deinen nächsten Angriff gegen ein Ziel zu verschaffen. Dies erfordert jedoch eine gelungene [[../Attribute/-Geist-/Erfahrung|Erfahrung]] oder [[../Attribute/-Körper-/Instinkt|Instinkt]]- Probe.  
+- **Spuren lesen**: Du kannst die Umgebung nach Hinweisen durchsuchen und versteckte Informationen entdecken, die anderen entgehen. Dies gibt dir einen Vorteil bei [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]s-Proben.  
+- **Schwachpunkt erkennen**: Du kannst 1AP dafür nutzen um dir Vorteil auf deinen nächsten Angriff gegen ein Ziel zu verschaffen. Dies erfordert jedoch eine gelungene [[../Attribute/Geist/Erfahrung|Erfahrung]] oder [[../Attribute/Körper/Instinkt|Instinkt]]- Probe.  
   
 #### **3. Level:**  
   
@@ -43,4 +43,4 @@
   
 - Durschauen (3 AP --> Vorteil auf alle Angriffe gegen ein Ziel)  
 - Schwachpunkt erkennen (1 AP --> Vorteil auf einen Angriff)  
-- Menschlicher Lügendetektor (Vorteil auf [[../Attribute/-Seele-/Einsicht|Einsicht]])
+- Menschlicher Lügendetektor (Vorteil auf [[../Attribute/Seele/Einsicht|Einsicht]])

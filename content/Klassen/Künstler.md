@@ -9,11 +9,11 @@
 #### **Variationen:**  
   
 - **Meister der Masken**: Du bist ein Verwandlungskünstler und kannst dein Aussehen und deine Identität nach Belieben ändern.  
-    - **Vorteil auf** [[Verkleidung|Verkleidung]] und [[../Attribute/-Seele-/Lügen|Lügen]]  
-    - **+1** [[../Attribute/-Seele-/-Seele-|-Seele-]]  
+    - **Vorteil auf** [[Verkleidung|Verkleidung]] und [[../Attribute/Seele/Lügen|Lügen]]  
+    - **+1** [[Attribute/Seele/Seele|Attribute/Seele/Seele]]  
 - **Barde**: Deine Musik und Geschichten inspirieren andere, und du kannst sie nutzen, um Mut zu machen oder die Stimmung zu beeinflussen.  
-    - **Vorteil auf** [[../Attribute/-Seele-/Auftritt|Auftritt]] und [[Kunst/Kultur|Kunst/Kultur]]  
-    - **+1** [[../Attribute/-Seele-/-Seele-|-Seele-]]  
+    - **Vorteil auf** [[../Attribute/Seele/Auftritt|Auftritt]] und [[Kunst/Kultur|Kunst/Kultur]]  
+    - **+1** [[Attribute/Seele/Seele|Attribute/Seele/Seele]]  
   
 #### **1. Level:**  
   

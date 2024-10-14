@@ -13,7 +13,7 @@
     - **Wissen in** Überleben/Orientierung (Bewegungen in Wildnis und Städten)  
 - **Giftmischer**: Du nutzt heimtückische Gifte, um deine Opfer lautlos und unauffällig auszuschalten.  
     - **Vorteil auf** alle Gift-Proben  
-    - **+1** [[../Attribute/-Geist-/-Geist-|-Geist-]]  
+    - **+1** [[Attribute/Geist/Geist|Geist]]  
   
 #### **1. Level:**  
   

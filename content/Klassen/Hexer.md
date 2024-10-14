@@ -11,7 +11,7 @@
   
 - **Pakt mit einem Patron**: Du hast einen Pakt mit einem mächtigen Wesen geschlossen, sei es ein Dämon, eine Fee oder ein anderer jenseitiger Patron. Deine Macht wird von diesem Wesen gespeist, das dir seine Magie im Austausch für Gehorsam oder gelegentliche Dienste verleiht. Der Pakt mit einem Patron gibt dir Zugang zu mächtigen Zaubern, aber du musst stets vorsichtig sein, die Gunst deines Meisters nicht zu verlieren.  
     - **Vorteil auf** [[../Zauberausrichtungen/-Seele-/Fluch|Fluch]]  
-	- **+1** [[../Attribute/-Passive-/Willensstärke|Willensstärke]]  
+	- **+1** [[../Attribute/Passiv/Willensstärke|Willensstärke]]  
 - **Pakt mit einem Gegenstand**: Deine Macht entspringt einem mächtigen, verzauberten Gegenstand, mit dem du eine tiefe Verbindung eingegangen bist. Ob es sich um eine uralte Klinge, einen verfluchten Ring oder ein Artefakt handelt, der Gegenstand verleiht dir Kräfte, die über das hinausgehen, was gewöhnliche Sterbliche erreichen können. Dieser Pakt gibt dir nicht nur magische Fähigkeiten, sondern oft auch physische Vorteile, da du lernst, die Essenz des Gegenstands in deine eigene Kraft zu kanalisieren.  
     - **Zauberausrichtung**: [[../Zauberausrichtungen/-Kraft-/Energie|Energie]]  
     - **+1** [[../Spiel-Mechaniken/Ausdauerpunkte|Ausdauerpunkte]]  
@@ -43,6 +43,6 @@
   
   
   
-- Blutmagie (anstatt Mana-Punkte kann eigene [[../Attribute/-Passive-/Gesundheit|Gesundheit]] eingesetzt werden, 2 [[../Attribute/-Passive-/Gesundheit|Gesundheit]] = 1 Mana-Punkt)  
+- Blutmagie (anstatt Mana-Punkte kann eigene [[../Attribute/Passiv/Gesundheit|Gesundheit]] eingesetzt werden, 2 [[../Attribute/Passiv/Gesundheit|Gesundheit]] = 1 Mana-Punkt)  
 - Überstrapazieren (1x Level für einen zusätzlichen AP, einmal pro Runde)  
-- Lebensraub (Beim Kritischen Treffen oder Töten erhältst du 1x Level [[../Attribute/-Passive-/Gesundheit|Gesundheit]] zurück)
+- Lebensraub (Beim Kritischen Treffen oder Töten erhältst du 1x Level [[../Attribute/Passiv/Gesundheit|Gesundheit]] zurück)

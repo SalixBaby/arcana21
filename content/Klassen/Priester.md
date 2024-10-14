@@ -10,10 +10,10 @@
   
 - **Tempelpriester**: Du bist ein Hüter des Glaubens, der sich um die spirituellen Bedürfnisse seiner Gemeinde kümmert.  
     - **Vorteil auf** [[Religion|Religion]] und [[../Zauberausrichtungen/-Seele-/Heilung|Heilung]]  
-    - **+1** [[../Attribute/-Geist-/-Geist-|-Geist-]]  
+    - **+1** [[Attribute/Geist/Geist|Attribute/Geist/Geist]]  
 - **Wanderpriester**: Du bringst den Glauben zu den entlegensten Orten und hilfst jenen, die spirituelle Führung benötigen.  
-    - **Vorteil auf** [[Überleben|Überleben]] und [[../Attribute/-Seele-/Überzeugen|Überzeugen]]  
-    - **+1** [[../Attribute/-Körper-/-Körper-|-Körper-]]  
+    - **Vorteil auf** [[Überleben|Überleben]] und [[../Attribute/Seele/Überzeugen|Überzeugen]]  
+    - **+1** [[Attribute/Körper/Körper|Attribute/Körper/Körper]]  
   
 #### **1. Level:**  
   

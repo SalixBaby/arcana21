@@ -10,12 +10,12 @@
   
 - **Kreuzritter**: Du kämpfst für den Glauben und bist an vorderster Front, um das Böse zu bekämpfen.  
       
-    - **Vorteil auf** [[../Attribute/-Körper-/Stärke|Stärke]] und [[../Attribute/-Körper-/Konstitution|Konstitution]]  
-    - **+1** [[../Attribute/-Körper-/Stärke|Stärke]]  
+    - **Vorteil auf** [[../Attribute/Körper/Stärke|Stärke]] und [[../Attribute/Körper/Konstitution|Konstitution]]  
+    - **+1** [[../Attribute/Körper/Stärke|Stärke]]  
 - **Heiliger Heiler**: Deine Hauptaufgabe ist es, Wunden zu heilen und den Bedürftigen zu helfen.  
       
-    - **Vorteil auf** [[../Attribute/-Passive-/Willensstärke|Willensstärke]] und [[../Zauberausrichtungen/-Seele-/Heilung|Heilung]]  
-    - **+1** [[../Attribute/-Geist-/Fokus|Fokus]]  
+    - **Vorteil auf** [[../Attribute/Passiv/Willensstärke|Willensstärke]] und [[../Zauberausrichtungen/-Seele-/Heilung|Heilung]]  
+    - **+1** [[../Attribute/Geist/Fokus|Fokus]]  
   
 #### **1. Level:**  
   
