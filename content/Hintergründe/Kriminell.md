@@ -7,7 +7,7 @@
   
 **Segen: Praktische Erfahrung***  
   
-- +1 auf [[../Attribute/-Körper-/-Körper-|-Körper-]] oder [[../Attribute/-Geist-/-Geist-|-Geist-]]  
+- +1 auf [[Attribute/Körper/Körper|Körper]] oder [[Attribute/Geist/Geist|Geist]]  
 - Vorteil auf Heimlichkeit  
 - Wissen in Überleben / Orientierung  
   
