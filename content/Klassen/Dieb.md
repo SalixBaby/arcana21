@@ -12,8 +12,8 @@
     - **Vorteil auf** [[Heimlichkeit|Heimlichkeit]]  
     - **Wissen in** [[Überleben/Orientierung|Überleben/Orientierung]] (Bewegung durch Städte und Verstecke)  
 - **Mechaniker**: Du hast ein tiefes Verständnis von mechanischen Vorrichtungen und bist besonders geschickt darin, Schlösser, Fallen und geheimnisvolle Apparaturen zu manipulieren.  
-    - **Vorteil auf** [[../Attribute/-Körper-/Geschicklichkeit|Geschicklichkeit]]  
-    - **+1** [[../Attribute/-Körper-/Instinkt|Instinkt]]  
+    - **Vorteil auf** [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
+    - **+1** [[../Attribute/Körper/Instinkt|Instinkt]]  
   
 #### **1. Level:**  
   
