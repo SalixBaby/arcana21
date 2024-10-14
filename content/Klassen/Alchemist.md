@@ -10,12 +10,12 @@
 #### **Variationen:**  
   
 - **Laborratte**: Du hast unzählige Stunden in deinem Labor verbracht, was dich sozial unbeholfen, aber körperlich widerstandsfähiger macht.  
-    - **Nachteil auf** [[../Attribute/-Seele-/Auftritt|Auftritt]]  
-    - **Vorteil auf** [[../Attribute/-Körper-/Konstitution|Konstitution]]  
-    - **+1** [[../Attribute/-Körper-/Konstitution|Konstitution]]  
+    - **Nachteil auf** [[../Attribute/Seele/Auftritt|Auftritt]]  
+    - **Vorteil auf** [[../Attribute/Körper/Konstitution|Konstitution]]  
+    - **+1** [[../Attribute/Körper/Konstitution|Konstitution]]  
 - **Gaukler**: Du mischst dich unter das Volk, täuschst mit Alchemie-Tricks und gewinnst mit Charme das Vertrauen deiner Zuschauer.  
-    - **Vorteil auf** [[../Attribute/-Seele-/Auftritt|Auftritt]]  
-    - **+1 [[../Attribute/-Seele-/Einsicht|Einsicht]]**  
+    - **Vorteil auf** [[../Attribute/Seele/Auftritt|Auftritt]]  
+    - **+1 [[../Attribute/Seele/Einsicht|Einsicht]]**  
     - **Wissen in** Kunst/Kultur  
   
 #### **1. Level:**  
