@@ -10,7 +10,7 @@
   
 - **Wandler**: Du konzentrierst dich auf deine Fähigkeit, dich in verschiedene Tiere zu verwandeln, und nutzt diese Formwechsel sowohl für den Kampf als auch zur Erkundung.  
     - **Vorteil auf** [[../Zauberausrichtungen/-Körper-/Transformation|Transformation]]  
-    - **+1** [[../Attribute/-Körper-/Instinkt|Instinkt]]  
+    - **+1** [[../Attribute/Körper/Instinkt|Instinkt]]  
 - **Elementarhüter**: Du nutzt die rohen Kräfte der Naturgewalten und bist in der Lage, mächtige Naturzauber zu wirken, die Erde, Wind, Feuer und Wasser kontrollieren.  
     - **Vorteil auf** [[../Zauberausrichtungen/-Elementar-/-Elementar-|-Elementar-]]  
     - **Wissen in** [[Natur/Tiere|Natur/Tiere]]  
