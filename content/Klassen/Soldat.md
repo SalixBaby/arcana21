@@ -10,12 +10,12 @@
   
 - **Frontkämpfer**: Du bist spezialisiert auf den Nahkampf und schwere Waffen, die du mit großer Effizienz einsetzt.  
       
-    - **Vorteil auf** [[../Attribute/-Körper-/Stärke|Stärke]] und [[../Attribute/-Körper-/Konstitution|Konstitution]]  
-    - **+1** [[../Attribute/-Körper-/Stärke|Stärke]]  
+    - **Vorteil auf** [[../Attribute/Körper/Stärke|Stärke]] und [[../Attribute/Körper/Konstitution|Konstitution]]  
+    - **+1** [[../Attribute/Körper/Stärke|Stärke]]  
 - **Schütze**: Du hast ein ausgezeichnetes Auge und bevorzugst Fernkampfwaffen wie Bögen oder Schusswaffen.  
       
-    - **Vorteil auf** [[../Attribute/-Körper-/Geschicklichkeit|Geschicklichkeit]] und [[Zielsicherheit|Zielsicherheit]]  
-    - **+1** [[../Attribute/-Körper-/Geschicklichkeit|Geschicklichkeit]]  
+    - **Vorteil auf** [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]] und [[Zielsicherheit|Zielsicherheit]]  
+    - **+1** [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
   
 #### **1. Level:**  
   
