@@ -3,17 +3,17 @@
 ---
 >*Als Zauberer bist du ein Experte auf dem Gebiet der arkanen Magie. Dein umfangreiches Wissen über alte Zauberformeln und magische Theorien erlaubt es dir, mächtige Zauber zu wirken und die Realität nach deinem Willen zu formen. Du nutzt dein Verständnis von Magie, um das Unmögliche zu erreichen.*  
   
-- **Hintergrund**: [[05-Gelehrter|05-Gelehrter]]  
+- **Hintergrund**: [[../Hintergründe/Gelehrter|Gelehrter]]  
 - **Ausbildungs-Punkte**: 3  
   
 #### **Variationen:**  
   
 - **Runenmagier**: Du bist ein Meister darin, magische Runen zu erschaffen, die entweder sofortige oder langanhaltende magische Effekte haben.  
-    - **Vorteil auf** [[Mathematik/Technik|Mathematik/Technik]] und [[../Attribute/-Geist-/Arkana|Arkana]]  
-    - **+1** [[../Attribute/-Geist-/-Geist-|-Geist-]]  
+    - **Vorteil auf** [[Mathematik/Technik|Mathematik/Technik]] und [[../Attribute/Geist/Arkana|Arkana]]  
+    - **+1** [[Attribute/Geist/Geist|Attribute/Geist/Geist]]  
 - **Illusionist**: Du beherrschst die Kunst der Täuschung und kannst mächtige Illusionen erschaffen, die die Sinne deiner Feinde verwirren.  
-    - **Vorteil auf** [[Illusion|Illusion]] und [[../Attribute/-Seele-/Lügen|Lügen]]  
-    - **+1** [[../Attribute/-Seele-/-Seele-|-Seele-]]  
+    - **Vorteil auf** [[../Zauberausrichtungen/-Körper-/Illusionen|Illusionen]] und [[../Attribute/Seele/Lügen|Lügen]]  
+    - **+1** [[Attribute/Seele/Seele|Attribute/Seele/Seele]]  
   
 #### **1. Level:**  
   
