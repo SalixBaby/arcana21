@@ -5,8 +5,8 @@
   
 ### 2. **Charaktererschaffung**  
   
-- **Attribute**: Charaktere haben Attribute wie [[./Attribute/-Körper-/-Körper-|-Körper-]], [[./Attribute/-Geist-/-Geist-|-Geist-]] und [[./Attribute/-Seele-/-Seele-|-Seele-]]. Diese bestimmen, wie gut sie in bestimmten Bereichen sind.  
-- **Passive Werte**: Durch [[./Klassen/Klassen|Klassen]], und Modifikatoren erhalten Charaktere verschiedene [[./Attribute/-Passive-/-Passive-|-Passive-]] Werte.   
+- **Attribute**: Charaktere haben Attribute wie [[Attribute/Körper/Körper|Attribute/Körper/Körper]], [[Attribute/Geist/Geist|Attribute/Geist/Geist]] und [[Attribute/Seele/Seele|Attribute/Seele/Seele]]. Diese bestimmen, wie gut sie in bestimmten Bereichen sind.  
+- **Passive Werte**: Durch [[./Klassen/Klassen|Klassen]], und Modifikatoren erhalten Charaktere verschiedene [[Attribute/Passiv/Passiv|Attribute/Passiv/Passiv]] Werte.   
 - **Fähigkeiten und Fertigkeiten**: Jeder Charakter hat spezielle Fähigkeiten, die seine Stärken betonen (z. B. Kampf, Magie, Heilen).  
 - **Ausrüstung**: Charaktere beginnen oft mit einer Grundausstattung, die von ihrer Klasse oder ihrem Hintergrund abhängt.  
   
@@ -19,8 +19,8 @@
   
 - **Initiative**: Zu Beginn eines Kampfes wird oft gewürfelt, um die Reihenfolge der Aktionen festzulegen.  
 - **Kampfrunden**: In einer Runde kann jeder Charakter in einer bestimmten Reihenfolge angreifen, zaubern oder eine andere Aktion ausführen.  
-- **Todesröcheln**: Fällt ein Held auf 0 [[./Attribute/-Passive-/Gesundheit|Gesundheit]] kann er nur noch 1AP pro Runde einsetzten. Er muss am Ende seines Zuges eine [[./Attribute/-Körper-/Konstitution|Konstitution]]-Probe bestehen oder 1 Gesundheit verlieren.  
-- **Tod eines Helden**: Fällt ein Held auf -3 [[./Attribute/-Passive-/Gesundheit|Gesundheit]] stirbt dieser. Er kann durch spezielle Fähigkeiten von den Toden wiederbelebt werden.  
+- **Todesröcheln**: Fällt ein Held auf 0 [[./Attribute/Passiv/Gesundheit|Gesundheit]] kann er nur noch 1AP pro Runde einsetzten. Er muss am Ende seines Zuges eine [[./Attribute/Körper/Konstitution|Konstitution]]-Probe bestehen oder 1 Gesundheit verlieren.  
+- **Tod eines Helden**: Fällt ein Held auf -3 [[./Attribute/Passiv/Gesundheit|Gesundheit]] stirbt dieser. Er kann durch spezielle Fähigkeiten von den Toden wiederbelebt werden.  
   
 [[./Spiel-Mechaniken/Aktionen & Reaktionen|Aktionen & Reaktionen]]  
   
