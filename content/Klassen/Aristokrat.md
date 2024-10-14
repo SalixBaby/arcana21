@@ -9,11 +9,11 @@
 #### **Variationen:**  
   
 - **Diplomat**: Du bist ein Meister der Verhandlungen und verstehst es, Konflikte zu lösen, bevor sie eskalieren.  
-    - **Vorteil auf** [[../Attribute/-Seele-/Überzeugen|Überzeugen]]  
+    - **Vorteil auf** [[../Attribute/Seele/Überzeugen|Überzeugen]]  
     - **Wissen in** Geschichte/Kultur  
 - **Taktiker**: Du hast gelernt, wie man Menschen und Ressourcen effektiv einsetzt, um den größtmöglichen Nutzen zu erzielen.  
-    - **Vorteil auf** [[../Attribute/-Geist-/Wahrnehmung|Wahrnehmung]]  
-    - **+1** [[../Attribute/-Geist-/-Geist-|-Geist-]]  
+    - **Vorteil auf** [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]  
+    - **+1** [[Attribute/Geist/Geist|Geist]]  
   
 #### **1. Level:**  
   
