@@ -1,26 +1,18 @@
 ---
 {}
 ---
-> *Ein Hintergrund im **Militär** bedeutet, dass dein Charakter in einer Armee, Miliz oder als Söldner gedient hat. Sie sind in den Disziplinen des Krieges geschult, kennen Strategien und haben oft Kampfhandlungen miterlebt. Militärisch ausgebildete Charaktere haben ein tiefes Verständnis von Taktik, Führung und Gehorsam. Sie haben Erfahrung im Umgang mit Waffen und wissen, wie man einen Trupp befehligt oder in gefährlichen Situationen einen kühlen Kopf bewahrt.*  
+>_Der **Militär** Hintergrund beschreibt einen Charakter, der in einer Armee gedient hat und diszipliniert sowie kampferprobt ist. Diese Personen kennen den Drill und die Härte des Soldatenlebens und verstehen sich darauf, ihre Taktiken und Fähigkeiten in jeder Schlacht anzuwenden._  
   
-**Fähigkeiten oder Merkmale:** Taktisches Wissen, Waffenfertigkeiten, militärische Disziplin, Kameradschaft.  
+**Fähigkeiten oder Merkmale:** Waffenumgang, Taktik, Befehlskunst  
   
-**Segen: Disziplinierte Ausbildung**  
+**Segen: Kriegserfahren**  
   
-- +1 auf [[../Attribute/-Körper-/-Körper-|-Körper-]] oder [[../Attribute/-Geist-/-Geist-|-Geist-]]  
-- Initiativen-Wechsel (Kann den Platz in der Kampfreihenfolge mit einem Verbündeten wechseln)  
-- Widerstand gegen Furcht oder Einschüchterung  
+- +1 auf [[Attribute/-Körper-|-Körper-]]  
+- Vorteil auf Militär/Taktik  
+- Übung mit einer zusätzlichen Waffe  
   
-**Fluch: Rastlos**  
+**Fluch: Kampftrauma**  
   
-- Oft stark reglementiertes Denken  
-- Schwierigkeiten, zur Ruhe zu kommen  
-	- Optional: Befehlshörigkeit  
-  
----  
-  
-***Klassen mit diesem Hintergrund:***  
-  
-Aktiv: [[../Klassen/Soldat|Soldat]]  
-Passiv: [[../Klassen/Wache|Wache]]  
-Spezialist: [[../Klassen/Taktiker|Taktiker]]
+- Albträume und Erinnerungen an vergangene Schlachten  
+- Schwierigkeiten im sozialen Umgang in Friedenszeiten  
+    - Optional: Überreaktion bei Bedrohungen
