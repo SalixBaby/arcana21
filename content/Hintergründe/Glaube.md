@@ -1,26 +1,18 @@
 ---
 {}
 ---
-> *Der Hintergrund des **Glaubens** bedeutet, dass dein Charakter stark mit einer religiösen Überzeugung oder spirituellen Tradition verbunden ist. Ob Priester, Mönch oder fanatischer Gläubiger, Charaktere mit diesem Hintergrund schöpfen ihre Stärke aus ihrem Glauben. Sie besitzen tiefe Überzeugungen und können durch Gebete, Rituale oder Zeremonien besondere Kräfte erhalten. Der Glauben gibt ihnen eine Orientierung in der Welt und oft auch Zugang zu heiligen Orten oder Unterstützung von religiösen Gemeinschaften.*  
+>_Der **Glaube** Hintergrund beschreibt Charaktere, die sich einer Religion oder einem spirituellen Pfad verschrieben haben. Sie können Priester, Tempeldiener oder gläubige Wanderer sein, die die Lehren ihres Glaubens verbreiten und die Moral der Gruppe stärken._  
   
-**Fähigkeiten oder Merkmale:** Religiöse Riten, Unterstützung durch Gläubige, Heilungs- oder Segnungskräfte.  
+**Fähigkeiten oder Merkmale:** Religionskenntnisse, Ritualistik, spirituelle Heilung  
   
-**Segen: Hingabe**  
+**Segen: Göttlicher Segen**  
   
-- +1 auf [[../Attribute/-Seele-/-Seele-|-Seele-]] oder [[../Attribute/-Geist-/-Geist-|-Geist-]]  
-- Vorteil auf Religionswürfe  
-- Wissen in Religion/Okkultismus  
+- +1 auf [[Attribute/-Geist-|-Geist-]] oder [[Attribute/-Seele-|-Seele-]]  
+- Vorteil auf Religion/Okkultismus  
+- Zugang zu einfachen Heilungsritualen  
   
-**Fluch: Gottesfurcht**  
+**Fluch: Dogmatisch**  
   
-- Muss strikte Glaubensregeln befolgen  
-- Persönliche Freiheit ist oft eingeschränkt  
-	- Optional: Schuldgefühle bei Regelverstößen  
-  
----  
-  
-***Klassen mit diesem Hintergrund:***  
-  
-Aktiv: [[../Klassen/Kleriker|Kleriker]]  
-Passiv: [[../Klassen/Priester|Priester]]  
-Spezialist: [[../Klassen/Mönch|Mönch]]
+- Strenge moralische Regeln schränken Verhalten ein  
+- Konflikte mit Andersgläubigen  
+    - Optional: Engstirnigkeit
