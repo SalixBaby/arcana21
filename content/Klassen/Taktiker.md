@@ -9,11 +9,11 @@
 #### **Variationen:**  
   
 - **Frontkommandant**: Du führst deine Truppen direkt in die Schlacht und kennst dich mit der Kampfdynamik aus.  
-    - **Vorteil auf** [[../Attribute/-Körper-/Stärke|Stärke]] und [[Taktik|Taktik]]  
-    - **+1** [[../Attribute/-Körper-/-Körper-|-Körper-]]  
+    - **Vorteil auf** [[../Attribute/Körper/Stärke|Stärke]] und [[Taktik|Taktik]]  
+    - **+1** [[Attribute/Körper/Körper|Attribute/Körper/Körper]]  
 - **Hintergrundstratege**: Du planst deine Züge aus sicherer Entfernung und setzt auf den perfekten Zeitpunkt, um zuzuschlagen.  
-    - **Vorteil auf** [[../Attribute/-Geist-/Wahrnehmung|Wahrnehmung]] und [[../Attribute/-Geist-/Wissen|Wissen]]  
-    - **+1** [[../Attribute/-Geist-/-Geist-|-Geist-]]  
+    - **Vorteil auf** [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]] und [[../Attribute/Geist/Wissen|Wissen]]  
+    - **+1** [[Attribute/Geist/Geist|Attribute/Geist/Geist]]  
   
 #### **1. Level:**  
   
