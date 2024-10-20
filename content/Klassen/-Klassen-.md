@@ -1,5 +1,4 @@
->Klassen bestimmen die Fähigkeiten, Stärken und Schwächen einer Spielfigur und prägen ihren Weg durch die Abenteuer. Zusätzlich zu ihrer Spezialisierung besitzen alle Klassen in Arcana21 unterschiedliche passive Boni, Schwächen und exklusive Fähigkeiten, die das Spielgeschehen stark beeinflussen. Jede Klasse wird durch den Hintergrund und Lebensweg der Charaktere ergänzt, wodurch Spieler individuelle und vielseitige Helden erschaffen können.  
->In **Arcana21** sind die Klassen in drei Hauptkategorien unterteilt: **Kampfklassen**, **Zauberklassen** und **Dualklassen**, die physische, magische oder hybride Fähigkeiten kombinieren.  
+>In **Arcana21** sind Klassen der Kern eines Charakters und definieren, welche Fähigkeiten und Talente er im Laufe des Spiels entwickelt. Jede Klasse bringt einzigartige Fähigkeiten, Stärken und Schwächen mit sich, die bestimmen, wie ein Charakter sich im Kampf und bei der Erkundung der Welt verhält. Die 21 verschiedenen Klassen unterteilen sich in drei Hauptkategorien: **Kampfklassen**, **Magienutzer** und **Dualklassen**.  
   
 - **Kampfklassen** spezialisieren sich auf körperliche Auseinandersetzungen, Nahkampf und Taktik.  
 - **Zauberklassen** beherrschen die magischen Künste und sind auf die Manipulation von arkane Energien fokussiert.  
