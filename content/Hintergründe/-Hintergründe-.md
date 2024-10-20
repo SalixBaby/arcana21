@@ -1,0 +1,25 @@
+>*Die **Hintergründe** in **Arcana21** sind ein zentraler Bestandteil der Charaktererschaffung und prägen die Vergangenheit, Persönlichkeit und Fähigkeiten eines Helden. Sie geben nicht nur einen Einblick in den Werdegang des Charakters, sondern verleihen ihm auch besondere Fertigkeiten, Verbindungen oder Vorteile, die sein Abenteuer maßgeblich beeinflussen können. Ob aus noblen Häusern stammend, durch harte Ausbildung geformt oder durch dunkle Pakte gestärkt, die Hintergründe erlauben es den Spielern, ihren Charakter mit einer tiefen, individuellen Geschichte auszustatten.*  
+*Jeder Hintergrund bringt einzigartige Merkmale und Fertigkeiten mit sich, die den Helden in spezifischen Situationen helfen können. Sie bieten außerdem eine Möglichkeit, die eigene Rolle im Spiel zu gestalten – sei es als geborener Anführer, spiritueller Berater oder krimineller Überlebenskünstler. Hintergründe dienen als Brücke zwischen der Vergangenheit des Charakters und seiner gegenwärtigen Reise, und sie beeinflussen, wie der Held mit der Welt und ihren Herausforderungen interagiert.*  
+*In **Arcana21** sind Hintergründe nicht nur erzählerische Elemente, sondern auch wertvolle Mechanismen, die die Fähigkeiten und Stärken des Charakters erweitern und ihm helfen, sich in der gefährlichen Welt der Sagen und Abenteuer zu behaupten.*  
+  
+1. [[./Adel|Adel]]  
+2. [[./Bauer|Bauer]]  
+3. [[./Diener|Diener]]  
+4. [[./Forscher|Forscher]]  
+5. [[./Gefangener|Gefangener]]  
+6. [[./Gelehrter|Gelehrter]]  
+7. [[./Glaube|Glaube]]  
+8. [[./Händler|Händler]]  
+9. [[./Handwerker|Handwerker]]  
+10. [[./Höfling|Höfling]]  
+11. [[./Kriminell|Kriminell]]  
+12. [[./Mediziner|Mediziner]]  
+13. [[./Militär|Militär]]  
+14. [[./Natur|Natur]]  
+15. [[./Schausteller|Schausteller]]  
+16. [[./Schmuggler|Schmuggler]]  
+17. [[./Schüler|Schüler]]  
+18. [[./Seefahrer|Seefahrer]]  
+19. [[./Spieler|Spieler]]   
+20. [[./Straßenkind|Straßenkind]]  
+21. [[./Vasall|Vasall]]
