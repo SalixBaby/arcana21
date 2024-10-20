@@ -7,7 +7,7 @@
   
 **Segen: Hervorragende Ausbildung**  
   
-- +1 auf [[Attribute/Körper/Körper|Körper]] oder [[Attribute/Geist/Geist|Geist]] oder [[Attribute/Seele/Seele|Seele]]  
+- +1 auf [[../Attribute/Körper/-Körper-|-Körper-]] oder [[../Attribute/Geist/-Geist-|-Geist-]] oder [[../Attribute/Seele/-Seele-|Seele]]  
 - Wissen in Kunst/Kultur  
 - +2 Ausbildungspunkte  
   
