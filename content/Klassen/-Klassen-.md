@@ -5,6 +5,7 @@
 - **Zauberklassen** beherrschen die magischen Künste und sind auf die Manipulation von arkane Energien fokussiert.  
 - **Dualklassen** vereinen die Elemente beider Welten und können sowohl physische als auch magische Fähigkeiten einsetzen.  
   
+---  
   
 - [[./Alchemist|Alchemist]]  
 - [[./Aristokrat|Aristokrat]]  
