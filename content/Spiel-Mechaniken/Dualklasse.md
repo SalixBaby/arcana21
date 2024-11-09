@@ -1,0 +1,4 @@
+>*Dualklassen vereinen das Beste aus beiden Welten: Sie haben sowohl körperliche als auch magische Fähigkeiten und können sich je nach Situation flexibel anpassen.*  
+  
+- **Weg der Entscheidung**: Dualklassen können wählen, ob sie den Kampf- oder den Magieweg einschlagen. Je nach Wahl erhalten sie die Vorteile der Kampfklasse oder des Magienutzers.  
+- **Flexibler Bonus**: Sie erhalten den vollen Bonus der gewählten Klasse (Kampf oder Magie) und den anderen Bonus mit einem **Nachteilwurf**, der ihre Flexibilität in bestimmten Situationen etwas einschränkt, aber dennoch beide Optionen offenhält.
