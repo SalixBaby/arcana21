@@ -10,4 +10,4 @@ Erlebe epische Abenteuer, meistere magische Fähigkeiten, stelle dich finsteren 
 
 Egal, ob du dich in spannenden Kämpfen beweisen oder geheimnisvolle Rätsel lösen möchtest, in Arcana21 entscheidest du den Weg. Ein System, das leicht zu lernen ist, aber tiefgründige und taktische Möglichkeiten bietet.
 
-Bereit, dein eigenes Abenteuer zu schreiben? Dann entdecke die [[./Grundregeln|Grundregeln]] und lass deiner Fantasie freien Lauf. Wenn du bereits weißt, wie es geht, springe direkt zur [[./Charaktererstellung|Charaktererstellung]] und erwecke deinen Helden zum Leben.
+Bereit, dein eigenes Abenteuer zu schreiben? Dann entdecke das [[./Grundregelwerk|Grundregelwerk]] und lass deiner Fantasie freien Lauf.
