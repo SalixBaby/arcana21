@@ -4,7 +4,7 @@
   
 **Segen: Wissbegierde**  
   
-- +1 auf [[Attribute/-Geist-|-Geist-]]  
+- +1 auf [[../Attribute/Geist/-Geist-|Geist]]  
 - Wissen und Bonus Mathematik/Technik  
 - +1 Ausbildungspunkte  
 - Zugang zu wissenschaftlicher Ausrüstung  
