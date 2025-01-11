@@ -94,7 +94,7 @@ Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkt
 - [[../Ausdauerpunkte|Ausdauerpunkte]]: [[./Attribute/Körper/-Körper-|Körper]]  
   
 >[!example]- Beispiel   
-Dein Jäger hat folgende passive Werte: **Gesundheit**: 3 + 3 (Konstitution) + 1 (Level) x 2 = 8 | **Manapunkte**: 0 (kein Arkana) | **Bewegungsrate**: 5 + 2 (Geschwindigkeit) = 7 | **Ausweichen**: 10 + 2 (Geschwindigkeit) = 12 | **Willensstärke**: 10 + 0 (Fokus) = 10  
+>Dein Jäger hat folgende passive Werte: **Gesundheit**: 3 + 3 (Konstitution) + 1 (Level) x 2 = 8 | **Manapunkte**: 0 (kein Arkana) | **Bewegungsrate**: 5 + 2 (Geschwindigkeit) = 7 | **Ausweichen**: 10 + 2 (Geschwindigkeit) = 12 | **Willensstärke**: 10 + 0 (Fokus) = 10  
   
   
 ##### **2.8 Wähle deine Ausrüstung**    
