@@ -85,13 +85,13 @@ Mit deinen Ausbildungspunkten (Geist-Wert + Level + 1) kannst du Wissen in versc
 Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkte, Ausweichen, Bewegungsrate und Willensstärke, basierend auf den Attributen und deinem Level. Diese Werte beeinflussen deine Leistung im Spiel und deine Widerstandsfähigkeit.  
   
 - [[./Attribute/Passiv/Gesundheit|Gesundheit]]: 3 + [[./Attribute/Körper/Konstitution|Konstitution]] + (Level x 2)  
-- [[Grundregelwerk#77-manapunkte|Manapunkte]]: [[./Attribute/Geist/Arkana|Arkana]] + (Level x 2) (Nur für [[../Magienutzer|Magienutzer]])  
+- [[Grundregelwerk#77-manapunkte|Manapunkte]]: [[./Attribute/Geist/Arkana|Arkana]] + (Level x 2) (Nur für [[Grundregelwerk#7.6-magienutzer|Magienutzer]])  
 - [[./Zauberausrichtungen/-Zauberausrichtungen-|Zauberausrichtungen]]-Wissen:  3 + Level  
 - [[./Attribute/Passiv/Bewegungsrate|Bewegungsrate]]: 5 + [[./Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
 - [[./Attribute/Passiv/Ausweichen|Ausweichen]]: 10 + [[./Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
 - [[./Attribute/Passiv/Willensstärke|Willensstärke]]: 10 + [[./Attribute/Geist/Fokus|Fokus]]  
-- [[../Inspirationspunkte|Inspirationspunkte]]: [[./Attribute/Seele/-Seele-|Seele]]  
-- [[../Ausdauerpunkte|Ausdauerpunkte]]: [[./Attribute/Körper/-Körper-|Körper]]  
+- [[Grundregelwerk#7.4-inspirationspunkte|Inspirationspunkte]]: [[./Attribute/Seele/-Seele-|Seele]]  
+- [[Grundregelwerk#7.2-ausdauerpunkte|Ausdauerpunkte]]: [[./Attribute/Körper/-Körper-|Körper]]  
   
 >[!example]- Beispiel   
 >Dein Jäger hat folgende passive Werte: **Gesundheit**: 3 + 3 (Konstitution) + 1 (Level) x 2 = 8 | **Manapunkte**: 0 (kein Arkana) | **Bewegungsrate**: 5 + 2 (Geschwindigkeit) = 7 | **Ausweichen**: 10 + 2 (Geschwindigkeit) = 12 | **Willensstärke**: 10 + 0 (Fokus) = 10  
@@ -469,7 +469,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 > _**Manapunkte** in Arcana21 repräsentieren die magische Energie eines Helden, die durch sein tieferes Verständnis der arkanen Kräfte gespeist wird. Diese Punkte basieren auf dem Geist-Wert, insbesondere der Eigenschaft Arkana, und ermöglichen es dem Helden, Zauber zu wirken, Rituale zu vollziehen und seine magischen Fähigkeiten zu entfesseln. Manapunkte sind die Essenz, die Magie am Leben hält, und ihr Einsatz entscheidet über die Kraft und Häufigkeit der magischen Handlungen.  
   
 - **Nutzung:** Manapunkte werden verwendet, um starke Zauber zu wirken oder magische Effekte zu verstärken. Jeder Zauber benötigt eine bestimmte Anzahl an Manapunkten, abhängig von seiner Stärke oder Komplexität. Helden können Manapunkte auch nutzen, um ihre Zauber zu „verstärken“, wodurch sie noch mächtiger werden. Es können immer nur eine bestimmte Anzahl an Manapunkten gleichzeitig verwendet werden: Diese berechnet sich, solange durch keine spezielle Fähigkeit verändert, mit dem Level des Helden. *(z.B. ein Held auf Level 2 kann einen Zauber mit maximal 2 Mana überladen)*  
-  Es ist nur [[../Magienutzer|Magienutzer]]n möglich Manapunkte zu nutzen.  
+  Es ist nur [[Grundregelwerk#7.6-magienutzer|Magienutzern]] möglich Manapunkte zu nutzen.  
   
 - **Regeneration:** Manapunkte regenerieren sich durch Ruhe und Meditation. Nach einer kurzen Rast stellt der Held einen Teil seiner Manapunkte wieder her (im Normalfall 1 + Level), während eine lange Rast die vollständige Regeneration ermöglicht. Einige Klassen oder Fähigkeiten erlauben auch eine beschleunigte oder zusätzliche Regeneration von Manapunkten.  
   
