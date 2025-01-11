@@ -8,7 +8,7 @@
   
 **Segen: Eins mit der Wildnis**  
   
-- +1 auf [[Attribute/Körper/Körper|Körper]] oder [[Attribute/Seele/Seele|Seele]]  
+- +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Seele/-Seele-|Seele]]  
 - Wissen und Bonus in Natur/Tiere  
 - Kenntnis über Kräuterkunde und Heilpflanzen  
   
