@@ -21,6 +21,8 @@ Mach dich bereit für eine Reise voller Herausforderungen, Gefahren und unbegren
   
 ### **2. Charaktererschaffung**  
   
+<a href="./Arcana21_Charakterbogen_newDesign.pdf" download="Arcana21_Charakterbogen">Arcana21 Charakterbogen</a>  
+  
 ##### **2.1 Starte mit einer Charakteridee**    
 Überlege dir, wer dein Charakter ist. Ist er ein mutiger Krieger, ein listiger Dieb oder ein weiser Magier? Wie ist sein Hintergrund, welche Ziele verfolgt er, und welche Persönlichkeit hat er? Diese erste Vorstellung bildet das Fundament für deinen Helden.  
   
@@ -76,7 +78,7 @@ Danach setzt du deine Talentpunkte auf die Unterattribute der Kernattribute, um 
 Mit deinen Ausbildungspunkten (Geist-Wert + Level + 1) kannst du Wissen in verschiedenen Kategorien erlangen, den Umgang mit bestimmten Ausrüstungssets erlernen oder neue Sprachen beherrschen. Diese Punkte ermöglichen es dir, deinen Charakter noch individueller zu gestalten.  
   
 >[!example]- Beispiel   
-Dein Jäger erhält 3 Ausbildungspunkte. Du setzt sie auf **Überleben/Orientierung**, **Natur/Tiere** und **Navigationsset**, um seine Fertigkeiten als Seefahrer und Waldläufer zu verbessern.  
+>Dein Jäger erhält 3 Ausbildungspunkte. Du setzt sie auf **Überleben/Orientierung**, **Natur/Tiere** und **Navigationsset**, um seine Fertigkeiten als Seefahrer und Waldläufer zu verbessern.  
   
   
 ##### **2.7 Bestimme alle passiven Werte**    
@@ -104,7 +106,7 @@ Zum Schluss stattest du deinen Charakter mit passender Ausrüstung aus. Wähle W
   
   
 >[!example]- Beispiel   
-Dein Jäger trägt leichte Rüstung, die 2 Bewegungspunkte kostet, wodurch seine Bewegungsrate auf 5 reduziert wird. Als Waffe trägt er einen Bogen und ein Kurzschwert. Durch seine Ausbildung am Navigationsset erhält er dieses ebenfalls zum Start.  
+>Dein Jäger trägt leichte Rüstung, die 2 Bewegungspunkte kostet, wodurch seine Bewegungsrate auf 5 reduziert wird. Als Waffe trägt er einen Bogen und ein Kurzschwert. Durch seine Ausbildung am Navigationsset erhält er dieses ebenfalls zum Start.  
   
   
 ##### **2.9 Sei kreativ und hab Spaß!**    
