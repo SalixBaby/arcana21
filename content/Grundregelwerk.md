@@ -21,7 +21,7 @@ Mach dich bereit für eine Reise voller Herausforderungen, Gefahren und unbegren
   
 ### **2. Charaktererschaffung**  
   
-<a href="./Arcana21_Charakterbogen_newDesign.pdf" download="Arcana21_Charakterbogen">Arcana21 Charakterbogen</a>  
+<a href="./Arcana21_Charakterbogen_newDesign.pdf" target="_blank" download="Arcana21_Charakterbogen">Arcana21 Charakterbogen</a>  
   
 ##### **2.1 Starte mit einer Charakteridee**    
 Überlege dir, wer dein Charakter ist. Ist er ein mutiger Krieger, ein listiger Dieb oder ein weiser Magier? Wie ist sein Hintergrund, welche Ziele verfolgt er, und welche Persönlichkeit hat er? Diese erste Vorstellung bildet das Fundament für deinen Helden.  
