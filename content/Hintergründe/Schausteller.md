@@ -4,7 +4,7 @@
   
 **Segen: Charismatische Präsenz**  
   
-- +1 auf [[Attribute/-Geist-|-Geist-]] oder [[Attribute/-Seele-|-Seele-]]  
+- +1 auf [[../Attribute/Seele/-Seele-|Seele]]  
 - Vorteil auf Auftritt  
 - Wissen in Kunst/Kultur  
 - Kenntnis über Schauspielerei und Musik  
