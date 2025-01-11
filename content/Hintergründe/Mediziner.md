@@ -4,7 +4,7 @@
   
 **Segen: Heilkunde**  
   
-- +1 auf [[Attribute/-Geist-|-Geist-]]  
+- +1 auf [[../Attribute/Geist/-Geist-|Geist]]  
 - Wissen und Bonus in Medizin/Anatomie  
 - Todesröcheln bis -4 [[../Attribute/Passiv/Gesundheit|Gesundheit]]  
 - Zugang zu medizinischem Equipment  

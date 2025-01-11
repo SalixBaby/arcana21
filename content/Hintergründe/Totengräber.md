@@ -4,7 +4,7 @@
   
 **Segen: Ruf der Stille**  
   
-- +1 auf [[Attribute/-Körper-/-Körper-|-Körper-]] oder [[Attribute/-Seele-/-Seele-|-Seele-]]    
+- +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Seele/-Seele-|Seele]]  
 - Wissen und Bonus in Religion/Okkultismus    
 - Vertrautheit mit Ritualen und Schutzzaubern gegen Untote    
   

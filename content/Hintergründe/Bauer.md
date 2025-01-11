@@ -4,7 +4,7 @@
   
 **Segen: Fruchtbarer Boden**  
   
-- +1 auf [[Attribute/-Körper-|-Körper-]] oder [[Attribute/-Seele-|-Seele-]]  
+- +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Seele/-Seele-|Seele]]  
 - Wissen und Bonus in Überleben/Orientierung und Natur/Tiere  
 - Grundkenntnisse von Heilpflanzen  
   
