@@ -4,7 +4,7 @@
   
 **Segen: Meister des Handwerks**  
   
-- +1 auf [[Attribute/-Körper-|-Körper-]] oder [[Attribute/-Geist-|-Geist-]]  
+- +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Geist/-Geist-|Geist]]  
 - Wissen in Mathematik/Technik  
 - Umgang mit [[../Ausrüstungen/Ausrüstungssets/Lederhandwerks Set|Lederhandwerks Set]] oder [[../Ausrüstungen/Ausrüstungssets/Steinmetz Set|Steinmetz Set]] oder [[../Ausrüstungen/Ausrüstungssets/Schmiede Set|Schmiede Set]]  
 - Halbe Zeiten für Reparatur   
