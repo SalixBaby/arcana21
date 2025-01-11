@@ -4,7 +4,7 @@
   
 **Segen: Glückssträhne**  
   
-- +1 auf [[Attribute/-Geist-|-Geist-]] oder [[Attribute/-Seele-|-Seele-]]  
+- +1 auf [[../Attribute/Geist/-Geist-|Geist]] oder [[../Attribute/Seele/-Seele-|Seele]]  
 - Vorteil auf Glücks- und Überzeugungs-Proben die sich auf Risiken beziehen  
 - Zugang zu Glücksspielnetzwerken  
   
