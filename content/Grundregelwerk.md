@@ -265,7 +265,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
   
 **4.4.1 Angriffszauber**  
 - Angriffszauber kosten **1 AP** und eine definierte Menge an Mana, abhängig von ihrer Stärke.  
-- Der Effekt des Zaubers hängt von der gewählten Magieart und der eingesetzten Mana-Menge ab.  
+- Der Effekt des Zaubers hängt von der gewählten Magieart und der eingesetzten Mana-Menge ab. (Hier entscheidet der SL falls es nicht eindeutig sein sollte)  
 - Ein Angriffszauber hat einen Basisschaden von 1 der durch jedes eingesetzte Mana um 1 erhöht werden kann.  
   
 **4.4.2 Zauberduell**  
@@ -493,3 +493,18 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 **Verbesserung durch Heldenstufen:** Mit jeder Heldenstufe erhältst du neue Talentpunkte, die du in deine Eigenschaften investieren kannst. Dadurch steigt dein Charakter im Laufe des Spiels immer weiter in seinen Spezialgebieten auf und wird zu einem mächtigen Helden.  
   
 Diese Mechanik erlaubt eine flexible Charakterentwicklung und macht jede Klasse und Spielweise einzigartig.  
+  
+  
+##### **7.9 Bonus & Malus**  
+  
+> _**Bonus und Malus** in Arcana21 sind Mechaniken, die bestimmte Proben beeinflussen können, indem sie zusätzliche Würfelergebnisse einbeziehen. Sie spiegeln vorteilhafte oder nachteilige Umstände wider, die das Schicksal deines Charakters beeinflussen._  
+  
+**Nutzung:**  
+  
+- **Bonus:** Ein Vorteil, der eine Aktion erleichtert. Du wirfst einen zusätzlichen **1W4** und addierst das Ergebnis zu deinem Würfelwurf.  
+- **Malus:** Ein Nachteil, der eine Aktion erschwert. Du wirfst einen zusätzlichen **1W4** und ziehst das Ergebnis von deinem Würfelwurf ab.  
+  
+**Anwendung:**  
+  
+- Ein Bonus kann durch unterstützende Umstände, meisterhaftes Training oder äußere Hilfe gewährt werden.  
+- Ein Malus tritt ein, wenn widrige Bedingungen, Ablenkungen oder körperliche/magische Beeinträchtigungen vorliegen.
