@@ -195,7 +195,8 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Laufen** – _1AP_: Nutze deine Bewegungsrate, um dich über das Schlachtfeld zu bewegen. *(1 Bewegungsrate = 1 Feld = 1m)*  
 - **Springen** – _1AP_: Überwinde Hindernisse oder schließe die Distanz zu deinem Ziel. *(1 Stärke = 1 Feld | Kann mit Probe vergrößert werden)*  
 - **Verstecken** – _1AP_: Schlüpfe in den Schatten und werde unsichtbar für deine Feinde. *(Geschicklichkeitsprobe gegen Wahrnehmung)*  
-- **Ausweichen** – _1AP_: Erschwere es deinen Gegnern dich zu treffen. *(Malus auf Angriffe gegen dich)*  
+- **Ausweichen** – _1AP_: Erschwere es deinen Gegnern dich zu treffen. *(Malus auf Angriffe gegen dich für die Runde)*  
+- **Rückzug** - *1AP*. Verlasse den Angriffsbereich eines Gegners ohne einen Gelegenheitsangriff zu provozieren.  
 - **Festhalten** – _1AP_: Greife einen Gegner und verhindere seine Bewegungen. *(Stärkeproben-Wettstreit. Reduziert Bewegungsrate des Ziels auf 0)*  
 - **Lähmen** – _1AP_: Ist dein Gegner bereits festgehalten, kannst du versuchen, ihn vollständig zu lähmen. *(Stärkeproben-Wettstreit. Reduziert deine Bewegungsrate auf 0)*  
 - **Befreien** - *1AP*. Befreie dich aus einem Festhalten oder einer Lähmung. *(Stärkeproben-Wettstreit oder kreative Lösung)*  
@@ -356,7 +357,9 @@ Es ist möglich, **mehrere Zauber von unterschiedlichen SP zu kombinieren**, um 
 ##### **6.1 Levelaufstieg**  
 In Arcana21 ist der Levelaufstieg mehr als nur ein Zahlenwert – er stellt einen wichtigen Meilenstein in der Reise und Entwicklung eines Charakters dar. Neue Fähigkeiten und Kenntnisse werden nicht „einfach so“ erlangt, sondern spiegeln die Erfahrungen, Herausforderungen und Erfolge des Helden wider. Ein Charakter, der plötzlich Wissen über Handel und Wirtschaft erhält, mag dies durch Begegnungen mit Kaufleuten, diplomatische Verhandlungen oder gar Verluste und Gewinne auf dem Markt erlangt haben. Jede neu erlernte Fähigkeit und jedes zusätzliche Wissen sollten im Spielverlauf eine logische und erzählerische Grundlage haben, die die innere und äußere Entwicklung des Charakters nachvollziehbar macht.  
 Bei einem Levelaufstieg werden folgende Werte automatisch aufgewertet:   
- 1. **Gesundheit**:  
+ 1. **Attribute**:  
+    - **Berechnung**: Standartarray (2 | 1 |- 1) + 1 für jeden Levelaufstieg  
+ 2. **Gesundheit**:  
     - **Berechnung**: 3 + Konstitution + (Level x 2)  
 2. **Talentpunkte**:  
     - **Berechnung**: 2 + Level  
@@ -501,8 +504,8 @@ Diese Mechanik erlaubt eine flexible Charakterentwicklung und macht jede Klasse 
   
 **Nutzung:**  
   
-- **Bonus:** Ein Vorteil, der eine Aktion erleichtert. Du wirfst einen zusätzlichen **1W4** und addierst das Ergebnis zu deinem Würfelwurf.  
-- **Malus:** Ein Nachteil, der eine Aktion erschwert. Du wirfst einen zusätzlichen **1W4** und ziehst das Ergebnis von deinem Würfelwurf ab.  
+- **Bonus:** Ein Vorteil, der eine Aktion erleichtert. Du erhältst einen Bonus von +3 auf deine Probe.  
+- **Malus:** Ein Nachteil, der eine Aktion erschwert. Du erhältst einen Malus von -3 auf deine Probe.  
   
 **Anwendung:**  
   

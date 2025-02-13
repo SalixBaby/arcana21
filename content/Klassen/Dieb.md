@@ -1,40 +1,54 @@
 ---
 {}
 ---
->*Als Dieb bist du ein geschickter Manipulator von Schlössern, ein Meister der Täuschung und ein unauffälliger Plünderer. Deine Fingerfertigkeit und dein Verständnis von Mechanismen ermöglichen es dir, Türen, Truhen und sogar magisch verschlossene Objekte zu öffnen. Du bewegst dich unbemerkt durch die Schatten und kannst geschickt stehlen, ohne bemerkt zu werden. Egal, ob es darum geht, wertvolle Schätze zu bergen, in geheime Verstecke einzubrechen oder trickreiche Fallen zu entschärfen – du bist immer bereit, das Beste aus jeder Gelegenheit zu machen.*  
+> _Als Dieb bist du ein Meister der Schatten, der Täuschung und der schnellen Finger. Du bewegst dich lautlos durch die Straßen, kennst jede Abkürzung und jedes Versteck. Ob du Wertgegenstände entwendest, dich unbemerkt an Wachen vorbeischleichst oder dich aus scheinbar ausweglosen Situationen befreist – dein Geschick und dein Instinkt machen dich zu einem Überlebenskünstler. Doch nicht alle Diebe sind einfache Taschendiebe. Manche sind Informationshändler, Trickbetrüger oder Einbrecher, die in den höchsten Kreisen verkehren, ohne dass jemand ihre wahre Identität kennt._  
   
-- **Ausbildungs-Punkte**: 3  
+- **Klassekategorie:** Kampfklasse  
+- **Klassenfähigkeit:** Schnelle Reflexe  
+    - Du kannst die Aktion "Verwenden" im Kampf durchführen, ohne die AP-Kosten zu bezahlen.  
   
-#### **Variationen:**  
+---  
   
-- **Schleicher**: Du konzentrierst dich auf das leise und unauffällige Voranschreiten und bist darin geübt, dich unbemerkt durch belebte Straßen und enge Räume zu bewegen.  
-    - **Vorteil auf** [[Heimlichkeit|Heimlichkeit]]  
-    - **Wissen in** [[Überleben/Orientierung|Überleben/Orientierung]] (Bewegung durch Städte und Verstecke)  
-- **Mechaniker**: Du hast ein tiefes Verständnis von mechanischen Vorrichtungen und bist besonders geschickt darin, Schlösser, Fallen und geheimnisvolle Apparaturen zu manipulieren.  
-    - **Vorteil auf** [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
-    - **+1** [[../Attribute/Körper/Instinkt|Instinkt]]  
+### **Variationen:**  
   
-#### **1. Level:**  
+- **Trickbetrüger**: Du bist ein Meister der Täuschung und des schnellen Redens, stets bereit, andere zu überlisten.  
+    - **Bonus** auf [[../Attribute/Seele/Lügen|Lügen]]  
+    - **Wissen** in Handel/Wirtschaft  
+- **Akrobat**: Du bist wendig und bewegst dich mit beeindruckender Geschicklichkeit über Dächer, Seile und schmale Vorsprünge.  
+    - +1 auf [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
+    - **Wissen** in Überleben/Orientierung  
   
-- **Schnelle Finger**: Du kannst in kürzester Zeit ein Schloss knacken oder einen Gegenstand entwenden. Einmal täglich kannst du eine Schlossknack- oder Fingerfertigkeits-Probe mit einem Vorteil wiederholen.  
-- **Kundschaftler**: Du hast ein Auge für Schwachstellen und versteckte Gefahren. Du erhältst einen Vorteil auf Wahrnehmungsproben, um Fallen oder geheime Durchgänge zu entdecken.  
+---  
   
-#### **2. Level:**  
+### **1. Level:**  
   
-- **Meisterdieb**: Du kannst Wertsachen nahezu unbemerkt stehlen. Einmal täglich kannst du einen Gegenstand entwenden, ohne eine Heimlichkeitsprobe abzulegen, solange du dich in der Nähe des Ziels befindest.  
-- **Fallenentschärfer**: Du hast gelernt, komplexe Fallen in kürzester Zeit zu erkennen und zu entschärfen. Du erhältst Vorteile auf Proben, um mechanische oder magische Fallen zu entschärfen.  
+- **Fingerfertigkeit**: Deine Hände sind flink und präzise. Du erhältst einen Bonus auf Proben zum Stehlen, Entfesseln oder für ähnliche Geschicklichkeitsaufgaben.  
+- **Improvisationskünstler**: Du kannst Alltagsgegenstände kreativ einsetzen. Im Kampf kannst du alles als eine Waffe verwenden und erhältst keinen Malus auf Angriffe.  
   
-#### **3. Level:**  
+---  
   
-- **Unbemerkter Zugriff**: Du kannst Schlösser oder Mechanismen so manipulieren, dass niemand deine Eingriffe bemerkt. Einmal täglich kannst du ein Schloss knacken oder eine Falle entschärfen, ohne Spuren zu hinterlassen.  
-- **Diebesgespür**: Du hast ein ausgezeichnetes Gespür dafür, wertvolle Gegenstände zu erkennen und diese mit minimalem Risiko zu bergen. Du kannst einmal pro Tag bei einer Probe auf Instinkt oder Geschicklichkeit einen Vorteil erhalten, wenn es darum geht, einen Schatz zu bergen.  
+### **2. Level:**  
   
-#### **4. Level:**  
+- **Langsam aber sicher**: Du kannst 1AP bezahlen um dir auf deine Heimlichkeitsproben eine +5 zu geben. Dieser Effekt ist stapelbar.  
+- **Spürsinn**: Du hast ein untrügliches Gespür für verborgene Dinge. Du erhältst einen Bonus auf Proben zum Finden geheimer Türen, versteckter Mechanismen oder verborgener Fallen.  
   
-- **Taschendieb-Meisterschaft**: Du kannst unbemerkt Gegenstände aus den Taschen deiner Feinde oder Verbündeten stehlen. Du kannst 1x pro Tag einen Gegenstand entwenden, ohne dass der Träger dies bemerkt.  
-- **Geheimnisse der Schatten**: Du kannst dich in der Dunkelheit so geschickt bewegen, dass du nahezu unsichtbar wirst. 1x pro Tag kannst du in Schattenumgebungen einen Vorteil auf Heimlichkeitsproben erhalten.  
+---  
   
-#### **5. Level:**  
+### **3. Level:**  
   
-- **Diebeskunst**: Du bist so geschickt im Umgang mit Mechanismen und Fallen, dass du fast alles öffnen kannst. Du kannst einmal pro Woche ein magisch versiegeltes Schloss oder eine Falle entschärfen.  
-- **Unsichtbare Hand**: Du kannst deine Diebeskünste so präzise einsetzen, dass du Gegenstände unbemerkt aus der Ferne entwenden kannst. Einmal pro Woche kannst du ein Objekt in deiner Sichtlinie aus bis zu 5 Metern Entfernung stehlen, ohne bemerkt zu werden.
+- **Flinke Flucht**: Wenn du von einem Gegner getroffen wirst, kannst du einmal pro Kampf sofort zwei Bewegungsaktionen ausführen, ohne Gelegenheitsangriffe zu provozieren oder die AP-Kosten zu bezahlen.  
+- **Selbsterhalt**: Du kannst (Level) x täglich die Ausweichen oder Rückzug Aktion nutzen, ohne die AP-Kosten zu bezahlen.  
+  
+---  
+  
+### **4. Level:**  
+  
+- **Sicherer Schritt**: Du kannst dich blitzschnell an Fassaden, Seilen oder auf anderen Oberflächen bewegen. Klettern kostet dich keine zusätzliche Bewegung, und deine Bewegungsrate kann nicht mehr durch das Terrain beeinflusst werden.  
+- **Doppelleben**: Du kannst mehrere Identitäten besitzen, die dir in sozialen Kreisen oder bei Flucht helfen. Du kannst ohne Verdacht deine Identität wechseln und dich als jemand anderes ausgeben.  
+  
+---  
+  
+### **5. Level:**  
+  
+- **Meister der Flucht**: Du bist fast unmöglich festzuhalten. Wenn du gefesselt, eingesperrt oder von Gegnern umzingelt bist, kannst du einmal pro Tag **sofort entkommen**, egal wie aussichtslos die Lage scheint.  
+- **Beutemacher**: Du weißt, wie man aus jeder Situation Profit schlägt. Wenn du einen Gegner im Kampf triffst, oder dich unentdeckt jemandem näherst kannst du jede nützliche Beute (z. B. Schlüssel, Gold, ein Pergament) aus seiner Tasche entwenden ohne eine Probe machen zu müssen.
