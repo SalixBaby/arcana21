@@ -5,7 +5,7 @@ _Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und d
   
 - **Klassekategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Tödlicher Fokus  
-    - Du kannst (Level) x täglich bei einem Angriff, den dein Gegner nicht kommen sieht, einen Bonus auf deinen Schaden erhalten.  
+    - Du kannst (Level) x täglich bei einem Angriff, den dein Gegner nicht kommen sieht, +2 auf deinen Schaden erhalten.  
   
 #### **Variationen:**  
   
@@ -21,9 +21,9 @@ _Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und d
 - **Lautlos**: Du kannst dich besonders leise bewegen. Du erhältst einen Bonus auf Heimlichkeitsproben und kannst dich lautlos an Gegner heranschleichen.  
 - **Überraschungsangriff**: Wenn du unbemerkt einem Gegner Schaden zufügst, erhält dieser einen zusätzlichen Malus auf seine Würfe für eine Runde.  
   
-#### **2. Level:** (+1 auf Körper, Geist oder Seele)  
+#### **2. Level:**  
   
-- **Verborgene Präsenz**: Du kannst dich in Menschenmengen oder dunklen Ecken leichter verstecken. Gegner haben es schwer, dich zu entdecken.  
+- **Verborgene Präsenz**: Du kannst dich in Menschenmengen oder dunklen Ecken leichter verstecken. Gegner bekommen einen Malus um dich zu entdecken.  
 - **Giftige Klinge**: Du kannst einmal pro Tag eine Waffe mit Gift bestreichen, das einmal zusätzlich +1 Giftschaden verursacht.  
   
 #### **3. Level:**  
@@ -31,7 +31,7 @@ _Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und d
 - **Schattenmeister**: Du kannst in schwach beleuchteten oder dunklen Bereichen praktisch unsichtbar werden.  
 - **Kampf oder Flucht**: Wenn du Schaden erleidest, kannst du direkt einen Gegenangriff ausführen oder deine Bewegungsrate laufen ohne einen Gelegenheitsangriff zu provozieren.  
   
-#### **4. Level:** (+1 auf Körper, Geist oder Seele)  
+#### **4. Level:**  
   
 - **Doppelschlag**: Wenn du einen Gegner aus dem Hinterhalt angreifst, kannst du eine zweite Attacke ausführen ohne AP zu bezahlen.  
 - **Meister der Täuschung**: Du kannst dich meisterhaft verstecken, selbst in ungünstigen Situationen. Einmal pro Kampf kannst du dich sofort verstecken, selbst wenn du beobachtet wirst. Gegner müssen eine Wahrnehmungsprobe gegen dein Heimlichkeits-Wurf bestehen, um dich zu entdecken.  
