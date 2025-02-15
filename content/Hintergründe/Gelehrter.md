@@ -7,9 +7,9 @@
   
 **Segen: Bücherwurm**  
   
-- +1 auf [[../Attribute/Geist/-Geist-|Geist]] oder [[../Attribute/Seele/-Seele-|Seele]]  
+- +1 auf [[../Attribute/Geist/-Geist-|Geist]]  
 - Wissen und Bonus in Mathematik/Technik und Geschichte/Gedächtnis  
-- Vorteil auf Informationssammeln in Bibliotheken oder Archiven  
+- Bonus auf Informationssammeln in Bibliotheken oder Archiven  
 - +3 Ausbildungspunkte  
   
 **Fluch: Wissensdrang**  
