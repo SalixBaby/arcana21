@@ -6,6 +6,7 @@
 - **Hintergrund**: [[04-Adel|04-Adel]]  
 - **Ausbildungs-Punkte**: 3  
   
+!! Todesröcheln bis -5  
 #### **Variationen:**  
   
 - **Turnierkämpfer**: Du bist in der Kunst des Zweikampfes geübt und für deine Fähigkeiten in Wettkämpfen und Turnieren bekannt.  
