@@ -5,7 +5,7 @@
 **Segen: Untergrundkontakte**  
   
 - +1 auf [[../Attribute/Geist/-Geist-|Geist]] oder [[../Attribute/Seele/-Seele-|Seele]]  
-- Vorteil auf Heimlichkeit oder Überzeugen  
+- Bonus auf Heimlichkeit oder Überzeugen  
 - Wissen in Architektur/Städteplanung  
 - Zugang zu Schwarzmärkten und illegalen Waren  
   

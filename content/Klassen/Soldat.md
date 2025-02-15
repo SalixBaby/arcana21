@@ -6,6 +6,8 @@
 - **Hintergrund**: [[../Hintergründe/Militär|Militär]]  
 - **Ausbildungs-Punkte**: 3  
   
+!! Todesröcheln mit 2AP  
+  
 #### **Variationen:**  
   
 - **Frontkämpfer**: Du bist spezialisiert auf den Nahkampf und schwere Waffen, die du mit großer Effizienz einsetzt.  

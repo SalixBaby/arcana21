@@ -21,7 +21,7 @@ Mach dich bereit für eine Reise voller Herausforderungen, Gefahren und unbegren
   
 ### **2. Charaktererschaffung**  
   
-<a href="./Arcana21_Charakterbogen_newDesign.pdf" target="_blank" download="Arcana21_Charakterbogen">Arcana21 Charakterbogen</a>  
+<a href="./Arcana21_Charakterbogen_finalDesign.pdf" target="_blank" download="Arcana21_Charakterbogen">Arcana21 Charakterbogen</a>  
   
 ##### **2.1 Starte mit einer Charakteridee**    
 Überlege dir, wer dein Charakter ist. Ist er ein mutiger Krieger, ein listiger Dieb oder ein weiser Magier? Wie ist sein Hintergrund, welche Ziele verfolgt er, und welche Persönlichkeit hat er? Diese erste Vorstellung bildet das Fundament für deinen Helden.  
@@ -510,4 +510,5 @@ Diese Mechanik erlaubt eine flexible Charakterentwicklung und macht jede Klasse 
 **Anwendung:**  
   
 - Ein Bonus kann durch unterstützende Umstände, meisterhaftes Training oder äußere Hilfe gewährt werden.  
-- Ein Malus tritt ein, wenn widrige Bedingungen, Ablenkungen oder körperliche/magische Beeinträchtigungen vorliegen.
+- Ein Malus tritt ein, wenn widrige Bedingungen, Ablenkungen oder körperliche/magische Beeinträchtigungen vorliegen.  
+- Generell gilt: Bonus ist stabelbar (mehrere Bonus werden addiert) außer es ist explizit ausgeschlossen.

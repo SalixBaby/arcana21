@@ -9,7 +9,6 @@
   
 - +1 auf [[../Attribute/Körper/-Körper-|Körper]]  
 - Wissen und Bonus auf Militär/Taktik  
-- 2 AP beim Todesröcheln  
 - Übung mit zwei zusätzlichen Waffen  
   
 **Fluch: Kampftrauma**  
