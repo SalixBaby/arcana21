@@ -6,7 +6,7 @@
   
 - +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Seele/-Seele-|Seele]]  
 - Wissen und Bonus in Religion/Okkultismus    
-- Vertrautheit mit Ritualen und Schutzzaubern gegen Untote    
+- Vertrautheit mit Ritualen und Schutzzaubern rund um das Thema "Tod".    
   
 **Fluch: Schatten des Todes**  
   
