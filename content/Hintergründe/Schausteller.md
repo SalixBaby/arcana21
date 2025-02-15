@@ -5,7 +5,7 @@
 **Segen: Charismatische Präsenz**  
   
 - +1 auf [[../Attribute/Seele/-Seele-|Seele]]  
-- Vorteil auf Auftritt  
+- Doppelter Bonus auf Auftritt  
 - Wissen in Kunst/Kultur  
 - Kenntnis über Schauspielerei und Musik  
   
