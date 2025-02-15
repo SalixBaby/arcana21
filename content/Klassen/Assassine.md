@@ -28,7 +28,7 @@ _Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und d
   
 #### **3. Level:**  
   
-- **Schattenmeister**: Du kannst in schwach beleuchteten oder dunklen Bereichen praktisch unsichtbar werden.  
+- **Schattenmeister**: Du kannst in schwach beleuchteten oder dunklen Bereichen praktisch unsichtbar werden. Solange du dich erfolgreich versteckt hast und dich nicht bewegst bist du mit Nicht-Magischen Mitteln nicht zu entdecken.  
 - **Kampf oder Flucht**: Wenn du Schaden erleidest, kannst du direkt einen Gegenangriff ausführen oder deine Bewegungsrate laufen ohne einen Gelegenheitsangriff zu provozieren.  
   
 #### **4. Level:**  
