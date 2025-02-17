@@ -5,7 +5,7 @@
 **Segen: Glückssträhne**  
   
 - +1 auf [[../Attribute/Geist/-Geist-|Geist]] oder [[../Attribute/Seele/-Seele-|Seele]]  
-- Bonus auf [[../Attribute/Seele/Überzeugen|Überzeugen]] und auf Glücksproben  
+- Talent in [[../Attribute/Seele/Überzeugen|Überzeugen]] und Bonus auf Glücksproben  
 - Zugang zu Glücksspielnetzwerken  
   
 **Fluch: Spielsucht**  
