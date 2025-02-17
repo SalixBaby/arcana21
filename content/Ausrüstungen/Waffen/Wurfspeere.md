@@ -3,4 +3,5 @@
 [[./Waffeneigenschaften/Projektil Schuss|Projektil Schuss]] [[./Waffeneigenschaften/Wurffähig|Wurffähig]] [[./Waffenfähigkeiten/Zielsicher|Zielsicher]] [[./Waffenfähigkeiten/Durchdringen|Durchdringen]]  
   
 - Projektile: 3  
-- Basisschaden: 1
+- Basisschaden: 1  
+- Reichweite: 10 Felder | 20 Felder
