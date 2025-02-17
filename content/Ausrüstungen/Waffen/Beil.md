@@ -5,4 +5,5 @@
   
 [[./Waffeneigenschaften/Wurffähig|Wurffähig]] [[./Waffenfähigkeiten/Aufschlitzen|Aufschlitzen]]  
   
-- Basisschaden: 1
+- Basisschaden: 1  
+- Reichweite: 10 Felder | 20 Felder

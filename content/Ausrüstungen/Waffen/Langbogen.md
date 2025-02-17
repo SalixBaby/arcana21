@@ -4,4 +4,4 @@
   
 - Projektile: 10  
 - Basisschaden: 1  
-- Reichweite: 50 Felder | 100 Felder
+- Reichweite: 40 Felder | 60 Felder

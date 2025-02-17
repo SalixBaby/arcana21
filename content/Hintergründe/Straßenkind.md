@@ -5,7 +5,7 @@
 **Segen: Diebisches Geschick**  
   
 - +1 auf [[../Attribute/Körper/-Körper-|Körper]]  
-- Bonus auf Heimlichkeit und Wahrnehmung  
+- Talent in [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]] und Bonus auf Heimlichkeitsproben  
 - Kennt lokale Unterweltkontakte  
   
 **Fluch: Misstrauen**  

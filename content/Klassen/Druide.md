@@ -1,41 +1,61 @@
 ---
 {}
 ---
->*Als Druide bist du der Hüter der Natur und ein Beschützer des Gleichgewichts. Du verstehst die Geheimnisse der Wildnis und kannst die Macht der Elemente und der Tiere zu deinem Vorteil nutzen. Deine Verbindung zur Natur erlaubt es dir, nicht nur mit den Kräften der Erde, Luft, Feuer und Wasser zu arbeiten, sondern dich auch in verschiedene Tiere zu verwandeln. Ob du als Wolf durch die Wälder streifst oder als Adler durch die Lüfte gleitest – du passt dich an die Gegebenheiten der Natur an und nutzt ihre Kraft, um deine Feinde zu überwältigen oder deine Verbündeten zu schützen.*  
+> _Als Druide bist du ein Hüter der Natur, tief verbunden mit dem Gleichgewicht der Welt. Ob dichte Wälder, weite Steppen oder dunkle Sümpfe – du verstehst die Sprache der Wildnis und lebst in Einklang mit den Kräften der Erde. Deine Magie entspringt dem natürlichen Fluss des Lebens, und du kannst dich den Tieren oder Pflanzen anpassen, um ihre Stärken für dich zu nutzen. In der Natur bist du unaufhaltsam, und selbst in Städten spürst du ihre verborgenen Wurzeln._  
   
-- **Hintergrund**: [[../Hintergründe/Natur|Natur]]  
-- **Ausbildungs-Punkte**: 3  
+- **Klassenkategorie:** Zauberklasse  
+- **Klassenfähigkeit:** Gestaltenwandlung  
+    - Deine Verbindung zur Natur erlaubt es dir, deine eigene Gestalt zu verändern – von subtilen Anpassungen bis hin zur vollständigen Verwandlung in eine mächtige Kreatur.  
+  
+- ***Zusätzliche Erklärung für Gestaltenwandlung:***  
+	- ***Kosmetische Veränderungen (0 Mana):** Ohne den Einsatz von Mana kannst du kleine Veränderungen an deinem Körper vornehmen, die keinen spielmechanischen Vorteil bringen, aber dein Erscheinungsbild beeinflussen – beispielsweise Schnurrhaare wachsen lassen, deine Haut mit Moos überziehen oder deine Augen leuchten lassen.*  
+	- ***Teilwandlung (1 Mana):** Mit dem Einsatz von 1 Mana kannst du bestimmte Körpermerkmale anpassen, die dir einen situativen Vorteil gewähren. Beispielsweise kannst du die Augen eines Adlers für bessere Sicht, die Arme eines Gorillas für mehr Kraft oder eine Hand aus Ranken zum Klettern erschaffen.*  
+	- ***Vollständige Verwandlung (2+ Mana):** Erst ab einem Einsatz von mindestens 2 Mana kannst du dich vollständig in eine andere Kreatur verwandeln. Je mehr Mana du investierst, desto mächtiger wird die Gestalt, die du annimmst. Während du verwandelt bist, erhältst du zusätzliche Gesundheit in Höhe des eingesetzten Manas (kein Limit). Die Verwandlung hält für (Level) x 10 Minuten an oder endet, sobald deine zusätzliche Gesundheit aufgebraucht ist. Während du vollständig verwandelt bist, kannst du keine Zauber wirken, da deine neue Gestalt deine magische Kontrolle einschränkt.*  
+  
+---  
   
 #### **Variationen:**  
   
-- **Wandler**: Du konzentrierst dich auf deine Fähigkeit, dich in verschiedene Tiere zu verwandeln, und nutzt diese Formwechsel sowohl für den Kampf als auch zur Erkundung.  
-    - **Vorteil auf** [[../Zauberausrichtungen/Körper/Transformation|Transformation]]  
-    - **+1** [[../Attribute/Körper/Instinkt|Instinkt]]  
-- **Elementarhüter**: Du nutzt die rohen Kräfte der Naturgewalten und bist in der Lage, mächtige Naturzauber zu wirken, die Erde, Wind, Feuer und Wasser kontrollieren.  
-    - **Vorteil auf** [[Zauberausrichtungen/Elementar/Elementar|Zauberausrichtungen/Elementar/Elementar]]  
-    - **Wissen in** [[Natur/Tiere|Natur/Tiere]]  
+- **Tierfokus**: Deine Verbindung zu Tieren ist instinktiv, und sie sehen dich als einen der ihren.  
+    - +2 auf [[../Attribute/Körper/Instinkt|Instinkt]]  
+    - **Wissen** und Bonus in Natur/Tiere und in Überleben/Orientierung  
+    - Gestaltenwandlung in Tierform  
+- **Pflanzenfokus**: Du verstehst die Sprache der Pflanzen und kannst ihre Kräfte für dich nutzen.  
+    - +2 auf [[../Attribute/Geist/Erfahrung|Erfahrung]]  
+    - **Wissen** und Bonus in Natur/Tiere und in Überleben/Orientierung  
+    - Gestaltenwandlung in Pflanzenform  
   
-#### **1. Level:**  
+---  
   
-- **Tierform**: Du kannst dich in ein kleines oder mittelgroßes Tier verwandeln (z.B. Wolf, Adler, Bär). Die Verwandlung hält bis zu einer Stunde an, oder bis du beschließt, die Form zu verlassen. Diese Fähigkeit kannst du einmal täglich nutzen.  
-- **Naturverbunden**: Du erhältst Vorteile auf Überlebensproben in der Wildnis und kannst einfache Heilkräuter oder essbare Pflanzen ohne Proben finden.  
+### **1. Level:**  
   
-#### **2. Level:**  
+- **Ruf der Natur**: Du kannst in der Wildnis einfache Heilkräuter oder essbare Pflanzen ohne Proben finden. Wenn du 24 Stunden an einem Ort bleibst kannst du Informationen über die Natur Vorort erfahren.  
+- **Seelengefährte**: Deine tiefe Verbindung zur Natur manifestiert sich in einem treuen Begleiter. Je nach deiner Ausrichtung kann dies ein kleines Tier oder eine lebende Pflanze sein.  
   
-- **Erweiterte Tierform**: Deine Verwandlungsfähigkeit wird stärker. Du kannst dich jetzt auch in größere Tiere verwandeln (z.B. Löwe, Tiger, Büffel). Zudem hält die Verwandlung bis zu zwei Stunden an.  
-- **Elementarruf**: Du kannst einmal pro Tag ein Element herbeirufen, das dir im Kampf hilft. Dies kann z.B. eine Erdbarriere, ein kleiner Feuersturm oder ein starker Windstoß sein, der Gegner zurückdrängt.  
+---  
   
-#### **3. Level:**  
+### **2. Level:**  
   
-- **Meister der Tierformen**: Du kannst dich jetzt in ein größeres oder stärkeres Tier verwandeln (z.B. Bär, Mammut, großer Adler). Die Verwandlung kann bis zu drei Stunden anhalten und bietet dir im Kampf zusätzliche Stärke oder Verteidigung.  
-- **Naturmagie**: Du erhältst Zugriff auf mächtige Naturzauber, die Pflanzen wachsen lassen, die Wetterbedingungen verändern oder Heilkräfte freisetzen. Einmal täglich kannst du einen Naturzauber auf mittlerem Niveau wirken.  
+- **Natürliche Heilung**: Du kannst Wunden mit Kräutern der Natur versorgen. Einmal täglich kannst du jemanden außerhalb eines Kampfes um (Level) Gesundheit heilen.  
+- **Naturverbunden**: Du erhältst einen Bonus auf Instinkt, Erfahrung und Intuition in der Wildnis.  
   
-#### **4. Level:**  
+---  
   
-- **Verschmelzung mit der Natur**: Du kannst dich mit der Natur vereinen und unsichtbar werden, solange du dich in natürlicher Umgebung aufhältst. Diese Fähigkeit hält eine Stunde an und gibt dir einen Vorteil auf Heimlichkeitsproben.  
-- **Große Elementarform**: Du kannst dich für kurze Zeit in ein Elementarwesen verwandeln (z.B. einen Feuer-Elementar oder Erd-Golem). Diese Form hält 10 Minuten an und gibt dir im Kampf große Kraft.  
+### **3. Level:**  
   
-#### **5. Level:**  
+- **Elementarform**: Du bist eins mit den Elementen. Du kannst dich mit deinem Gestaltwandeln zusätzlich in Elementarwesen verwandeln.  
+- **Naturmagie**: Solange du dich in der Natur befindest, bekommst du einen Bonus auf deine Arkanaproben.  
   
-- **Legendäre Tierform**: Du kannst dich jetzt in legendäre Kreaturen verwandeln (z.B. einen Drachen oder einen Phönix). Diese Verwandlung hält bis zu einer Stunde an und verleiht dir immense Kräfte.  
-- **Naturmeisterschaft**: Einmal pro Woche kannst du einen besonders mächtigen Naturzauber wirken, der z.B. einen Sturm beschwört, einen Wald erschafft oder ein ganzes Gebiet heilt. Du kontrollierst die Natur in ihrer reinsten Form.
+---  
+  
+### **4. Level:**  
+  
+- **Wilde Regeneration**: Wenn du unter 50 % deiner Gesundheit fällst, heilst du automatisch 1 Gesundheit am Ende deines Zuges. Dies wird nur einmal am Tag ausgelöst und stoppt wenn du entweder brutal/kritisch getroffen wirst, oder du wieder bei voller Gesundheit bist.  
+- **Zeitloser Beschützer**: Die Natur schenkt dir als Dank für deine Dienste einen zeitlosen Körper. Für jedes Jahr, welches vergehen, altert dein Körper nur um ein Monat.  
+  
+---  
+  
+### **5. Level:**  
+  
+- **Legendäre Form**: Du hast die Gestaltenverwandlung perfektioniert. Du kannst dich einmal in der Woche in legendäre Kreaturen verwandeln (z.B. einen Drachen oder Ent ). Diese Verwandlung hält bis zu einer Minute an und verleiht dir immense Kräfte.  
+- **Naturmeisterschaft**: Du kontrollierst die Natur in ihrer reinsten Form. Einmal pro Woche kannst du einen besonders mächtigen Naturzauber wirken, der z.B. einen Sturm beschwört, einen Wald erschafft oder ein ganzes Gebiet heilt.

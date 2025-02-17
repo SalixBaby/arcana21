@@ -5,4 +5,5 @@
   
 [[./Waffenfähigkeiten/Zielsicher|Zielsicher]] [[./Waffenfähigkeiten/Nachladen|Nachladen]] [[./Waffeneigenschaften/Schwer|Schwer]] [[./Waffenfähigkeiten/Durchdringen|Durchdringen]] [[./Waffeneigenschaften/Projektil Schuss|Projektil Schuss]]  
   
-- Basisschaden: 2
+- Basisschaden: 2  
+- Reichweite: 50 Felder | 70 Felder

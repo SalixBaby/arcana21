@@ -3,4 +3,5 @@
 [[./Waffeneigenschaften/Projektil Schuss|Projektil Schuss]] [[./Waffeneigenschaften/Leise|Leise]] [[./Waffenfähigkeiten/Nachladen|Nachladen]] [[./Waffenfähigkeiten/Zielsicher|Zielsicher]] [[./Waffenfähigkeiten/Betäuben|Betäuben]]  
   
 - Projektile: 20  
-- Basisschaden: 1
+- Basisschaden: 1  
+- Reichweite: 10 Felder | 20 Felder

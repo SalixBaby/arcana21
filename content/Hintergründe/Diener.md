@@ -5,7 +5,7 @@
 **Segen: Diskretion**  
   
 - +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Seele/-Seele-|Seele]]  
-- Bonus auf Intuition und Wahrnehmung  
+- Talent in Intuition und Wahrnehmung  
 - Wissen in Kunst/Kultur  
 - Versteht sich mit anderen Dienern  
   
