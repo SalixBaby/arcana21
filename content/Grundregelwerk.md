@@ -75,10 +75,10 @@ Danach setzt du deine Talentpunkte auf die Unterattribute der Kernattribute, um 
   
   
 ##### **2.6 Verteile deine Ausbildungspunkte**    
-Mit deinen Ausbildungspunkten (Geist-Wert + Level + 1) kannst du Wissen in verschiedenen Kategorien erlangen, den Umgang mit bestimmten Ausrüstungssets erlernen oder neue Sprachen beherrschen. Diese Punkte ermöglichen es dir, deinen Charakter noch individueller zu gestalten.  
+Mit deinen Ausbildungspunkten (Geist-Wert + Level + 2) kannst du Wissen in verschiedenen Kategorien erlangen, den Umgang mit bestimmten Ausrüstungssets erlernen oder neue Sprachen beherrschen. Diese Punkte ermöglichen es dir, deinen Charakter noch individueller zu gestalten.  
   
 >[!example]- Beispiel   
->Dein Jäger erhält 3 Ausbildungspunkte. Du setzt sie auf **Überleben/Orientierung**, **Natur/Tiere** und **Navigationsset**, um seine Fertigkeiten als Seefahrer und Waldläufer zu verbessern.  
+>Dein Jäger erhält 4 Ausbildungspunkte. Du setzt sie auf **Überleben/Orientierung**, **Natur/Tiere**, **Kartographenset** und **Navigationsset**, um seine Fertigkeiten als Seefahrer und Waldläufer zu verbessern.  
   
   
 ##### **2.7 Bestimme alle passiven Werte**    
@@ -364,7 +364,7 @@ Bei einem Levelaufstieg werden folgende Werte automatisch aufgewertet:
 2. **Talentpunkte**:  
     - **Berechnung**: 2 + Level  
 3. **Ausbildungspunkte**:  
-    - **Berechnung**: Geist-Wert + Level + 1  
+    - **Berechnung**: Geist-Wert + Level + 2  
 4. **Manapunkte**:  
     - **Berechnung**: Arkana + (Level x 2)  
 5. **Zauberausrichtungen-Wissen**:  
@@ -402,11 +402,11 @@ Ausbildungspunkte können auf verschiedene Weise eingesetzt werden:
 - **Sprachen**: Lerne neue Sprachen, um dich mit anderen Kulturen und Völkern verständigen zu können.  
   
 **Berechnung:**  
-Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Geist-Wert + deinem Level +1**. Diese Punkte sind flexibel und können individuell auf verschiedene Bereiche verteilt werden, je nach den Bedürfnissen und Zielen deines Charakters.  
+Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Geist-Wert + deinem Level +2**. Diese Punkte sind flexibel und können individuell auf verschiedene Bereiche verteilt werden, je nach den Bedürfnissen und Zielen deines Charakters.  
   
   
 >[!example]- *Beispiel*   
->*Ein **Zauberer** mit einem Geist-Wert von 3 und Level 1 hat insgesamt 5 Ausbildungspunkte. Er könnte 3 Punkte in Wissenskategorien setzen, 1 Punkt ins Kalligraphie Set und 1 Punkt darauf verwenden, eine neue Sprache zu lernen.*  
+>*Ein **Zauberer** mit einem Geist-Wert von 3 und Level 1 hat insgesamt 6 Ausbildungspunkte. Er könnte 4 Punkte in Wissenskategorien setzen, 1 Punkt ins Kalligraphie Set und 1 Punkt darauf verwenden, eine neue Sprache zu lernen.*  
   
   
 ##### **7.2 Ausdauerpunkte**  
@@ -421,21 +421,20 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 ##### **7.3 Dualklasse**  
 >*Dualklassen vereinen das Beste aus beiden Welten: Sie haben sowohl körperliche als auch magische Fähigkeiten und können sich je nach Situation flexibel anpassen.*  
   
-- **Weg der Entscheidung**: Dualklassen können wählen, ob sie den Kampf- oder den Magieweg einschlagen. Je nach Wahl erhalten sie die Vorteile der Kampfklasse oder des Magienutzers.  
-- **Flexibler Bonus**: Sie erhalten den vollen Bonus der gewählten Klasse (Kampf oder Magie) und den anderen Bonus mit einem **Nachteilwurf**, der ihre Flexibilität in bestimmten Situationen etwas einschränkt, aber dennoch beide Optionen offenhält.  
+- **Weg der Entscheidung**: Dualklassen können wählen, ob sie den Kampf- oder den Magieweg einschlagen. Je nach Wahl erhalten sie die Vorteile der Kampfklasse oder des Magienutzers:  
   
 **Weg der Magie bietet Zugang zu:**  
 - Zaubern im Allgemeinen  
 - Manapunkten  
 - Zaubererduellen  
-- Gelegenheitsangriffen mit Nachteil  
-- Waffenfähigkeiten/Eigenschaften mit Nachteilswurf  
-- Ausdauerpunkte zurückgewinnen  
+- Gelegenheitsangriffen mit Malus  
+- ~~Waffenfähigkeiten/Eigenschaften~~  
+- ~~Ausdauerpunkte zurückgewinnen~~  
   
 **Weg des Kampfes bietet Zugang zu:**  
-- Zaubern im Allgemeinen mit Nachteilswirf  
+- Zaubern im Allgemeinen mit Malus  
 - Manapunkten/2 (Abgerundet)  
-- Zaubererduellen mit Nachteilswurf  
+- Zaubererduellen mit Malus  
 - Gelegenheitsangriffen  
 - Waffenfähigkeiten/Eigenschaften  
 - Ausdauerpunkte zurückgewinnen  
@@ -511,4 +510,4 @@ Diese Mechanik erlaubt eine flexible Charakterentwicklung und macht jede Klasse 
   
 - Ein Bonus kann durch unterstützende Umstände, meisterhaftes Training oder äußere Hilfe gewährt werden.  
 - Ein Malus tritt ein, wenn widrige Bedingungen, Ablenkungen oder körperliche/magische Beeinträchtigungen vorliegen.  
-- Generell gilt: Bonus ist stabelbar (mehrere Bonus werden addiert) außer es ist explizit ausgeschlossen.
+- Generell gilt: Bonus/Malus ist stapelbar (mehrere Bonus/Malus werden addiert) außer es ist explizit ausgeschlossen.
