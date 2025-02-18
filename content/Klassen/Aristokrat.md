@@ -7,15 +7,19 @@
 - **Klassenfähigkeit:** Autorität  
 	- Du kannst (Level) x täglich einer deiner Seelen-Proben einen Bonus verschaffen. Dieser Bonus kann gestapelt werden.  
   
+---  
+  
 #### **Variationen:**  
   
 - **Diplomat**: Du bist ein Meister der Verhandlungen und verstehst es, Konflikte zu lösen, bevor sie eskalieren.  
-    - **Bonus** auf [[../Attribute/Seele/Überzeugen|Überzeugen]]  
-    - **Wissen** in Geschichte/Kultur  
+    - Bonus auf [[../Attribute/Seele/Überzeugen|Überzeugen]]  
+    - Wissen in Geschichte/Kultur  
     - +1 Sprache  
 - **Duellant**: Du bist ein Meister des Ehrenkampfes und verstehst es, Konflikte mit Geschick und Klinge im Zweitkampf zu lösen.  
-    - **Bonus** auf Angriffswürfe im Zweitkampf  
-    - **Wissen** in Militär/Taktik  
+    - Bonus auf Angriffswürfe im Zweitkampf  
+    - Wissen in Militär/Taktik  
+  
+---  
   
 #### **1. Level:**  
   
