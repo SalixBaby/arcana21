@@ -7,6 +7,8 @@ _Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und d
 - **Klassenfähigkeit:** Tödlicher Fokus  
     - Du kannst (Level) x täglich bei einem Angriff, den dein Gegner nicht kommen sieht, +2 auf deinen Schaden erhalten.  
   
+---  
+  
 #### **Variationen:**  
   
 - **Schattenklinge**: Du bist ein lautloser Jäger, der sich in den Schatten bewegt und seine Gegner mit präzisen Klingenstößen erledigt.  
@@ -14,7 +16,9 @@ _Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und d
     - +1 auf [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
 - **Giftmischer**: Du nutzt tödliche Toxine, um deine Feinde zu schwächen oder lautlos auszuschalten.  
     - +1 auf [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
-    - **Wissen** in Medizin/Anatomie & Natur/Tiere  
+    - Wissen in Medizin/Anatomie & Natur/Tiere  
+  
+---  
   
 #### **1. Level:**  
   
