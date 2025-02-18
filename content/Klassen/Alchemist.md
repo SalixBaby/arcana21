@@ -7,17 +7,21 @@
 - **Klassenfähigkeit:** Elixirbrauer  
 	- Du kannst 1x täglich bis zu (Level + 1) Zauber in Trankform vorbereiten, welche sich bis zu 24 Stunden halten. Diese können überladen sein und auch von anderen verwendet werden.  
   
+---  
+  
 #### **Variationen:**  
   
 - **Laborratte**: Du hast unzählige Stunden in deinem Labor verbracht, was dich sozial unbeholfen, aber körperlich widerstandsfähiger macht.  
     - **-2 [[../Attribute/Seele/Auftritt|Auftritt]]**  
     - **+2 [[../Attribute/Körper/Konstitution|Konstitution]]**  
     - **+1 [[../Attribute/Geist/Erfahrung|Erfahrung]]**  
+    - Wissen in Medizin/Anatomie  
 - **Gaukler**: Du mischst dich unter das Volk, täuschst mit Alchemie-Tricks und gewinnst mit Charme das Vertrauen deiner Zuschauer.  
     - **+1 [[../Attribute/Seele/Überzeugen|Überzeugen]]**  
     - **+1 [[../Attribute/Seele/Einsicht|Einsicht]]**  
-    - **Wissen** in Kunst/Kultur  
+    - Wissen in Kunst/Kultur  
   
+---  
 #### **1. Level:**  
   
 - **Zutatenmeister**: Du kannst so gut wie überall die richtigen Zutaten für deine Tränke finden. Du erhältst ebenfalls detailliertes Wissen über Chemie und Alchemie.  

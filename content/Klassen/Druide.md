@@ -18,44 +18,44 @@
   
 - **Tierfokus**: Deine Verbindung zu Tieren ist instinktiv, und sie sehen dich als einen der ihren.  
     - +2 auf [[../Attribute/Körper/Instinkt|Instinkt]]  
-    - **Wissen** und Bonus in Natur/Tiere und in Überleben/Orientierung  
+    - Wissen und Bonus in Natur/Tiere und in Überleben/Orientierung  
     - Gestaltenwandlung in Tierform  
 - **Pflanzenfokus**: Du verstehst die Sprache der Pflanzen und kannst ihre Kräfte für dich nutzen.  
     - +2 auf [[../Attribute/Geist/Erfahrung|Erfahrung]]  
-    - **Wissen** und Bonus in Natur/Tiere und in Überleben/Orientierung  
+    - Wissen und Bonus in Natur/Tiere und in Überleben/Orientierung  
     - Gestaltenwandlung in Pflanzenform  
   
 ---  
   
-### **1. Level:**  
+#### **1. Level:**  
   
 - **Ruf der Natur**: Du kannst in der Wildnis einfache Heilkräuter oder essbare Pflanzen ohne Proben finden. Wenn du 24 Stunden an einem Ort bleibst kannst du Informationen über die Natur Vorort erfahren.  
 - **Seelengefährte**: Deine tiefe Verbindung zur Natur manifestiert sich in einem treuen Begleiter. Je nach deiner Ausrichtung kann dies ein kleines Tier oder eine lebende Pflanze sein.  
   
 ---  
   
-### **2. Level:**  
+#### **2. Level:**  
   
 - **Natürliche Heilung**: Du kannst Wunden mit Kräutern der Natur versorgen. Einmal täglich kannst du jemanden außerhalb eines Kampfes um (Level) Gesundheit heilen.  
 - **Naturverbunden**: Du erhältst einen Bonus auf Instinkt, Erfahrung und Intuition in der Wildnis.  
   
 ---  
   
-### **3. Level:**  
+#### **3. Level:**  
   
 - **Elementarform**: Du bist eins mit den Elementen. Du kannst dich mit deinem Gestaltwandeln zusätzlich in Elementarwesen verwandeln.  
 - **Naturmagie**: Solange du dich in der Natur befindest, bekommst du einen Bonus auf deine Arkanaproben.  
   
 ---  
   
-### **4. Level:**  
+#### **4. Level:**  
   
 - **Wilde Regeneration**: Wenn du unter 50 % deiner Gesundheit fällst, heilst du automatisch 1 Gesundheit am Ende deines Zuges. Dies wird nur einmal am Tag ausgelöst und stoppt wenn du entweder brutal/kritisch getroffen wirst, oder du wieder bei voller Gesundheit bist.  
-- **Zeitloser Beschützer**: Die Natur schenkt dir als Dank für deine Dienste einen zeitlosen Körper. Für jedes Jahr, welches vergehen, altert dein Körper nur um ein Monat.  
+- **Zeitloser Beschützer**: Die Natur schenkt dir als Dank für deine Dienste einen zeitlosen Körper. Für jedes Jahr, welches vergeht, altert dein Körper nur um ein Monat.  
   
 ---  
   
-### **5. Level:**  
+#### **5. Level:**  
   
 - **Legendäre Form**: Du hast die Gestaltenverwandlung perfektioniert. Du kannst dich einmal in der Woche in legendäre Kreaturen verwandeln (z.B. einen Drachen oder Ent ). Diese Verwandlung hält bis zu einer Minute an und verleiht dir immense Kräfte.  
 - **Naturmeisterschaft**: Du kontrollierst die Natur in ihrer reinsten Form. Einmal pro Woche kannst du einen besonders mächtigen Naturzauber wirken, der z.B. einen Sturm beschwört, einen Wald erschafft oder ein ganzes Gebiet heilt.
