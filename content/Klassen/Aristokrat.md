@@ -4,8 +4,8 @@
 >*Als Aristokrat bist du in den höchsten Kreisen der Gesellschaft aufgewachsen, vertraut mit den Feinheiten von Etikette, Diplomatie und politischen Intrigen. Deine Position gibt dir Macht, Einfluss und den Zugang zu Ressourcen, die anderen verwehrt bleiben. Du verstehst es, durch Verhandlungen und Charme Konflikte zu lösen und dein Umfeld zu deinem Vorteil zu manipulieren. Dein Name und Ruf sind deine wertvollsten Werkzeuge, die du meisterhaft einsetzt, um Macht zu gewinnen.*  
   
 - **Klassekategorie:** Kampfklasse  
-- **Klassenfähigkeit:** Autorität  
-	- Du kannst (Level) x täglich einer deiner Seelen-Proben einen Bonus verschaffen. Dieser Bonus kann gestapelt werden.  
+- **Klassenfähigkeit:** Adlige Reputation  
+	- Dein Name öffnet dir viele Türen. Du kannst deine Reputation nutzen, um eine Audienz, einen Gefallen oder besondere Behandlung zu erfragen. Deine Reputation wird durch Allianzen, Bündnisse und erfüllte Gefallen gesteigert und durch gebrochene Versprechen und falsche Etikette vermindert.    
   
 ---  
   
@@ -23,7 +23,7 @@
   
 #### **1. Level:**  
   
-- **Adliger Ruf**: Dein Name öffnet dir viele Türen. Du kannst deine Reputation nutzen, um eine Audienz, einen Gefallen oder besondere Behandlung zu erfragen. Deine Reputation wird durch Allianzen, Bündnisse und erfüllte Gefallen gesteigert und durch gebrochene Versprechen und falsche Etikette vermindert.    
+- **Autorität**: Du kannst (Level) x täglich einer deiner Seelen-Proben einen Bonus verschaffen. Dieser Bonus kann gestapelt werden.   
 - **Meister der Etikette**: Du beherrschst die Kunst der Höflichkeit und Diplomatie. Du erhältst Bonus auf alle Proben, die mit höflichen oder diplomatischen Gesprächen zu tun haben.  
   
 #### **2. Level:**  
