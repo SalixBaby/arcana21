@@ -19,7 +19,7 @@
 - [[./Künstler|Künstler]]  
 - [[./Lehrmeister|Lehrmeister]]  
 - [[./Magier|Magier]]  
-- [[./Manipulator|Manipulator]]  
+- [[./Manipulator - Magiebrecher|Manipulator - Magiebrecher]]  
 - [[./Mönch|Mönch]]  
 - [[./Priester|Priester]]  
 - [[./Ritter|Ritter]]  
