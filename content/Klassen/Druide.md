@@ -8,7 +8,7 @@
     - Deine Verbindung zur Natur erlaubt es dir, deine eigene Gestalt zu verändern – von subtilen Anpassungen bis hin zur vollständigen Verwandlung in eine mächtige Kreatur.  
   
 - ***Zusätzliche Erklärung für Gestaltenwandlung:***  
-	- ***Kosmetische Veränderungen (0 Mana):** Ohne den Einsatz von Mana kannst du kleine Veränderungen an deinem Körper vornehmen, die keinen spielmechanischen Vorteil bringen, aber dein Erscheinungsbild beeinflussen – beispielsweise Schnurrhaare wachsen lassen, deine Haut mit Moos überziehen oder deine Augen leuchten lassen.*  
+	- ***Kosmetische Veränderungen (0 Mana):** Ohne den Einsatz von Mana kannst du kleine Veränderungen an deinem Körper vornehmen, die keinen wirklichen spielmechanischen Vorteil bringen, aber dein Erscheinungsbild beeinflussen – beispielsweise Schnurrhaare wachsen lassen, deine Haut mit Moos überziehen oder deine Augen leuchten lassen.*  
 	- ***Teilwandlung (1 Mana):** Mit dem Einsatz von 1 Mana kannst du bestimmte Körpermerkmale anpassen, die dir einen situativen Vorteil gewähren. Beispielsweise kannst du die Augen eines Adlers für bessere Sicht, die Arme eines Gorillas für mehr Kraft oder eine Hand aus Ranken zum Klettern erschaffen.*  
 	- ***Vollständige Verwandlung (2+ Mana):** Erst ab einem Einsatz von mindestens 2 Mana kannst du dich vollständig in eine andere Kreatur verwandeln. Je mehr Mana du investierst, desto mächtiger wird die Gestalt, die du annimmst. Während du verwandelt bist, erhältst du zusätzliche Gesundheit in Höhe des eingesetzten Manas (kein Limit). Die Verwandlung hält für (Level) x 10 Minuten an oder endet, sobald deine zusätzliche Gesundheit aufgebraucht ist. Während du vollständig verwandelt bist, kannst du keine Zauber wirken, da deine neue Gestalt deine magische Kontrolle einschränkt.*  
   
@@ -17,11 +17,11 @@
 #### **Variationen:**  
   
 - **Tierfokus**: Deine Verbindung zu Tieren ist instinktiv, und sie sehen dich als einen der ihren.  
-    - +2 auf [[../Attribute/Körper/Instinkt|Instinkt]]  
+    - Bonus auf [[../Attribute/Körper/Instinkt|Instinkt]]  
     - Wissen und Bonus in Natur/Tiere und in Überleben/Orientierung  
     - Gestaltenwandlung in Tierform  
 - **Pflanzenfokus**: Du verstehst die Sprache der Pflanzen und kannst ihre Kräfte für dich nutzen.  
-    - +2 auf [[../Attribute/Geist/Erfahrung|Erfahrung]]  
+    - Bonus auf [[../Attribute/Geist/Erfahrung|Erfahrung]]  
     - Wissen und Bonus in Natur/Tiere und in Überleben/Orientierung  
     - Gestaltenwandlung in Pflanzenform  
   
@@ -32,28 +32,20 @@
 - **Ruf der Natur**: Du kannst in der Wildnis einfache Heilkräuter oder essbare Pflanzen ohne Proben finden. Wenn du 24 Stunden an einem Ort bleibst kannst du Informationen über die Natur Vorort erfahren.  
 - **Seelengefährte**: Deine tiefe Verbindung zur Natur manifestiert sich in einem treuen Begleiter. Je nach deiner Ausrichtung kann dies ein kleines Tier oder eine lebende Pflanze sein.  
   
----  
-  
 #### **2. Level:**  
   
 - **Natürliche Heilung**: Du kannst Wunden mit Kräutern der Natur versorgen. Einmal täglich kannst du jemanden außerhalb eines Kampfes um (Level) Gesundheit heilen.  
 - **Naturverbunden**: Du erhältst einen Bonus auf Instinkt, Erfahrung und Intuition in der Wildnis.  
   
----  
-  
 #### **3. Level:**  
   
 - **Elementarform**: Du bist eins mit den Elementen. Du kannst dich mit deinem Gestaltwandeln zusätzlich in Elementarwesen verwandeln.  
-- **Naturmagie**: Solange du dich in der Natur befindest, bekommst du einen Bonus auf deine Arkanaproben.  
-  
----  
+- **Naturmagie**: Solange du dich in der Natur befindest, bekommst du einen Bonus auf deine Arkana-Proben.  
   
 #### **4. Level:**  
   
 - **Wilde Regeneration**: Wenn du unter 50 % deiner Gesundheit fällst, heilst du automatisch 1 Gesundheit am Ende deines Zuges. Dies wird nur einmal am Tag ausgelöst und stoppt wenn du entweder brutal/kritisch getroffen wirst, oder du wieder bei voller Gesundheit bist.  
 - **Zeitloser Beschützer**: Die Natur schenkt dir als Dank für deine Dienste einen zeitlosen Körper. Für jedes Jahr, welches vergeht, altert dein Körper nur um ein Monat.  
-  
----  
   
 #### **5. Level:**  
   
