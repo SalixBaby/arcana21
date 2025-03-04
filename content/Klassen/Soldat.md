@@ -7,7 +7,7 @@
 - **Ausbildungs-Punkte**: 3  
   
 !! Todesröcheln mit 2AP  
-  
+- Überstrapazieren (1x Level für einen zusätzlichen AP, einmal pro Runde)  
 #### **Variationen:**  
   
 - **Frontkämpfer**: Du bist spezialisiert auf den Nahkampf und schwere Waffen, die du mit großer Effizienz einsetzt.  
