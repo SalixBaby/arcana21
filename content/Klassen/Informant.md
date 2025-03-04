@@ -1,46 +1,48 @@
 ---
 {}
 ---
->*Als Informant bist du ein Meister der Spionage und Informationsbeschaffung. Du bewegst dich in den Schatten, stets auf der Suche nach Geheimnissen, die du zu deinem Vorteil nutzen kannst. Dein Netzwerk von Kontakten und deine Fähigkeit, in sozialen Kreisen unerkannt zu bleiben, machen dich zu einer unschätzbaren Quelle für Wissen. Du lieferst Informationen, manipulierst Situationen hinter den Kulissen und bist in der Lage, Verbindungen aufzubauen, die anderen verborgen bleiben.*  
+>*Wissen ist Macht – und du weißt mehr als die meisten. Deine Augen und Ohren sind überall, deine Worte sind scharf wie Dolche, und du verstehst es, Informationen zu beschaffen, die andere lieber verborgen halten würden. Du lieferst Informationen, manipulierst Situationen hinter den Kulissen und bist in der Lage, Verbindungen aufzubauen, die anderen verborgen bleiben.*  
   
-- **Klasse**: [[../../Kampfklasse|Kampfklasse]]  
-- **Hintergrund**: [[../Hintergründe/Athlet|Athlet]]  
-- **Wissen**: Politik / Diplomatie  
+- **Klassekategorie:** Kampfklasse  
+- **Klassenfähigkeit:** Informationsnetzwerk  
+    - Du hast ein weitreichendes Netzwerk aus Informanten, Händlern und Gefallen-Schuldnern aufgebaut. Jedes Mal, wenn du eine Information kaufst, verkaufst oder jemandem einen Gefallen tust (oder erhältst), wächst dein Einfluss. Mit jedem neuen Kontakt erhältst du Zugriff auf wertvollere Geheimnisse, bessere Ressourcen oder diskrete Unterstützung. Dein Netzwerk kann dir dabei helfen, Gerüchte zu streuen, an seltene Informationen zu gelangen oder sogar heimliche Operationen auszuführen – doch je größer es wird, desto schwieriger wird es, alle Fäden in der Hand zu behalten.  
+  
+---  
   
 #### **Variationen:**  
   
-- **Spion**: Du bist spezialisiert darauf, dich unauffällig in verschiedene Umgebungen zu integrieren.  
-    - **Vorteil auf** [[../Attribute/Seele/Lügen|Lügen]]  
-    - **+1** [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
-- **Gerüchtehändler**: Du bist bekannt dafür, Informationen zu sammeln und weiterzugeben – manchmal gegen eine kleine Belohnung.  
-    - **Vorteil auf** [[../Attribute/Seele/Überzeugen|Überzeugen]]  
-    - **+1** [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]  
+- **Spion:** Du arbeitest aus den Schatten heraus, bewegst dich ungesehen und beschaffst dir Informationen direkt aus erster Hand.  
+    - +1 [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]  
+	- +1 [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
+	- Wissen in Überleben/Orientierung  
+- **Ränkeschmied**: Du bist kein stiller Beobachter, sondern ein Strippenzieher. Dein Wissen ist eine Währung, und du weißt genau, wann du welche Information einsetzen musst.  
+	- +1 [[../Attribute/Seele/Lügen|Lügen]]  
+	- +1 [[../Attribute/Seele/Überzeugen|Überzeugen]]  
+	- Wissen in Politik/Diplomatie  
+  
+---  
   
 #### **1. Level:**  
   
-- **Durchschauen**: Du erhältst die Fähigkeit die Schwachstelle eines Gegners herauszufinden. Du kannst durch eine [[../Attribute/Seele/Einsicht|Einsicht]]-Probe herausfinden, welches soziale Talent bei jemanden am Besten funktionieren würde.  
-- **Unauffällig**: Du erhältst einen Bonus auf Proben, bei denen es darum geht, unerkannt zu bleiben oder Informationen unbemerkt zu sammeln.   
+- **Menschenkenntnis**: Du hast ein untrügliches Gespür für die Emotionen und inneren Schwächen anderer. Du kannst durch eine Einsicht-Probe herausfinden, welches soziale Talent bei jemanden am Besten funktionieren würde.  
+- **Meister des Feilschens**: Deine Erfahrung im Kauf und Verkauf von Informationen stärkt dein Talent zum Verhandeln. Du erhältst einen Bonus auf alle Verhandlungsproben.  
   
 #### **2. Level:**  
   
-- **Spuren lesen**: Du kannst die Umgebung nach Hinweisen durchsuchen und versteckte Informationen entdecken, die anderen entgehen. Dies gibt dir einen Vorteil bei [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]s-Proben.  
-- **Schwachpunkt erkennen**: Du kannst 1AP dafür nutzen um dir Vorteil auf deinen nächsten Angriff gegen ein Ziel zu verschaffen. Dies erfordert jedoch eine gelungene [[../Attribute/Geist/Erfahrung|Erfahrung]] oder [[../Attribute/Körper/Instinkt|Instinkt]]- Probe.  
+- **Gerüchte streuen**: Einmal am Tag kannst du gezielt eine Information streuen oder ein Gerücht verbreiten. Je nachdem, wie glaubhaft es und wie groß dein Netzwerk ist, kann es innerhalb der nächsten Stunden oder Tage Auswirkungen haben und sich ausbreiten.  
+- **Schwachpunkt erkennen**: Du kannst 1AP dafür nutzen um dir einen Bonus auf deinen nächsten Angriff gegen ein Ziel zu verschaffen.  
   
 #### **3. Level:**  
   
-- **Schattenspieler**: Du kannst einmal täglich eine Aktion ausführen, während du dich versteckt hältst, ohne entdeckt zu werden. Dies gibt dir einen entscheidenden Vorteil in gefährlichen Situationen, da du deine Position unbemerkt wechseln oder Feinde täuschen kannst.  
-- **Kontaktmann**: Du kannst über dein Netzwerk einen speziellen Kontakt anfordern, der dir in einer bestimmten Situation hilft, sei es durch Informationen, Ressourcen oder Unterstützung.  
+- **Kontaktmann**: Du kannst einmal die Woche über dein Netzwerk einen speziellen Kontakt anfordern, der dir in einer bestimmten Situation hilft, sei es durch Informationen, Ressourcen oder Unterstützung.  
+- **Menschlicher Lügendetektor**: Falschinformationen und Lügen gehören zu deinem täglich Brot. Du erhältst einen doppelten Bonus auf Einsicht-Proben um Unwahrheiten festzustellen.  
   
 #### **4. Level:**  
   
-- **Falsche Identität**: Du bist ein Meister der Täuschung und kannst eine falsche Identität annehmen, die dich in andere soziale oder kriminelle Kreise einführt. Diese Fähigkeit hilft dir, an Informationen zu gelangen, die nur Insidern zugänglich sind.  
-- **Manipulative Taktik**: Du kannst einmal täglich eine Person oder Gruppe durch gezielte Worte und Täuschungen dazu bringen, dir für eine kurze Zeit zu vertrauen oder in deinem Sinne zu handeln.  
+- **Lukratives Geschäft**: Du hast dein Netzwerk zu einer ertragreichen Organisation gewirtschaftet und das bleibt nicht unbemerkt. Ohne Aufwand deinerseits schließen sich deinem Netzwerk immer mehr Leute an und dein Profit wächst mit.  
+- **Vertrauliche Dokumente**: Du kannst Dokumente so manipulieren, dass sie echt wirken oder echte Dokumente entschlüsseln, auch wenn sie in Geheimsprache oder verschlüsselt sind. Dies umfasst Briefe, Verträge oder offizielle Papiere.  
   
 #### **5. Level:**  
   
-- **Geheimnisverräter**: Du kannst einmal täglich eine tief verborgene Wahrheit oder ein wichtiges Geheimnis über eine Person oder eine Organisation aufdecken, das dir einen entscheidenden Vorteil verschafft. Diese Enthüllung kann in sozialen, politischen oder kriminellen Kreisen verheerende Auswirkungen haben.  
-- **Schattengestalt**: Du kannst dich einmal täglich für eine kurze Zeit in den Schatten verbergen und so nahezu unsichtbar werden. Diese Fähigkeit erlaubt es dir, unbemerkt durch Feindeslinien zu gehen oder aus einer gefährlichen Situation zu entkommen.  
-  
-- Durschauen (3 AP --> Vorteil auf alle Angriffe gegen ein Ziel)  
-- Schwachpunkt erkennen (1 AP --> Vorteil auf einen Angriff)  
-- Menschlicher Lügendetektor (Vorteil auf [[../Attribute/Seele/Einsicht|Einsicht]])
+- **Marionettenspieler**: Du hast die Humanoide Psychologie geknackt. Du kannst eine Person oder Gruppe durch gezielte Worte und Täuschungen dazu bringen, dir für eine gewisse Zeit zu vertrauen oder in deinem Sinne zu handeln.  
+- **Syndikat**: Dein Informationsnetzwerk hat eine kritische Masse angenommen. Einmal die Woche kannst du es nutzen um Gerüchte zu streuen, die die Bevölkerung als Fakt ansieht. Du kannst die Reputation von Leuten zu diskreditieren oder mit dem richtigen Gerücht auch Kriege provozieren.
