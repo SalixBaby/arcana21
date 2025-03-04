@@ -1,48 +1,50 @@
 ---
 {}
 ---
->*Als Hexer hast du einen Pakt mit einer mächtigen, jenseitigen Entität geschlossen, die dir einzigartige magische Fähigkeiten verleiht. Deine Kräfte stammen nicht aus jahrelangem Studium oder einem angeborenen Talent, sondern aus einem Bündnis mit einer höheren Macht. Du zapfst die Energie dieser fremden Kraft an, um mächtige Flüche, verheerende Zauber und dunkle Magie zu wirken. Doch dieser Pakt hat seinen Preis, und du wirst ständig an die Verpflichtungen gegenüber deinem Patron erinnert.*  
+> _Du wandelst an der Schwelle zwischen Leben und Tod, Macht und Opfer. Deine Kraft entspringt nicht göttlicher Gnade oder disziplinierter Studien, sondern deinem eigenen Blut. Wo andere auf äußere Quellen der Magie angewiesen sind, ziehst du deine Macht aus deinem eigenen Körper – und zahlst dafür einen hohen Preis. Ob dunkle Rituale, verfluchte Klingen oder arkanes Wissen, das für andere tabu ist – du kennst keine Furcht, wenn es um das Streben nach Macht geht._  
   
-- **Klasse**: [[../../Dualklasse|Dualklasse]]  
-- **Hintergrund**: [[../Hintergründe/Vasall|Vasall]]  
-- **Wissen**: -  
+- **Klassenkategorie:** Dualklasse  
+- **Klassenfähigkeit:** **Blutmagie**  
+    - Du kannst deine eigene Gesundheit opfern, um magische oder kämpferische Vorteile zu erlangen. Jedes Mal, wenn du Gesundheit opferst, kannst du diese in eine andere Ressource umwandeln, abhängig von deiner Spezialisierung.  
+  
+---  
   
 #### **Variationen:**  
   
-- **Pakt mit einem Patron**: Du hast einen Pakt mit einem mächtigen Wesen geschlossen, sei es ein Dämon, eine Fee oder ein anderer jenseitiger Patron. Deine Macht wird von diesem Wesen gespeist, das dir seine Magie im Austausch für Gehorsam oder gelegentliche Dienste verleiht. Der Pakt mit einem Patron gibt dir Zugang zu mächtigen Zaubern, aber du musst stets vorsichtig sein, die Gunst deines Meisters nicht zu verlieren.  
-    - **Vorteil auf** [[../Zauberausrichtungen/Seele/Fluch|Fluch]]  
-	- **+1** [[../Attribute/Passiv/Willensstärke|Willensstärke]]  
-- **Pakt mit einem Gegenstand**: Deine Macht entspringt einem mächtigen, verzauberten Gegenstand, mit dem du eine tiefe Verbindung eingegangen bist. Ob es sich um eine uralte Klinge, einen verfluchten Ring oder ein Artefakt handelt, der Gegenstand verleiht dir Kräfte, die über das hinausgehen, was gewöhnliche Sterbliche erreichen können. Dieser Pakt gibt dir nicht nur magische Fähigkeiten, sondern oft auch physische Vorteile, da du lernst, die Essenz des Gegenstands in deine eigene Kraft zu kanalisieren.  
-    - **Zauberausrichtung**: [[../Zauberausrichtungen/Kraft/Energie|Energie]]  
-    - **+1** [[../../Ausdauerpunkte|Ausdauerpunkte]]  
+- **Blutmagier:** Dein Körper ist eine unerschöpfliche Quelle arkaner Energie – solange du bereit bist, den Preis zu zahlen. Du kannst deine eigene Gesundheit in Mana umwandeln und so Zauber wirken, wenn andere längst erschöpft sind.  
+    - +1 [[../Attribute/Geist/Fokus|Fokus]]  
+    - +1 [[../Attribute/Körper/Konstitution|Konstitution]]  
+    - Wissen in Religion/Okkultismus  
+    - **Blutmagie-Ausprägung:** _1AP_ - Du kannst 1 Gesundheit in 1 Mana umwandeln.  
+- **Blutjäger:** Deine Klinge ist getränkt mit der Essenz deiner Feinde – und deiner eigenen. Du kannst deine Gesundheit opfern, um Angriffe zu verstärken, brutale Schläge zu führen oder tödliche Präzision zu erlangen.  
+    - +1 [[../Attribute/Körper/Stärke|Stärke]]  
+    - +1 [[../Attribute/Körper/Konstitution|Konstitution]]  
+    - Wissen in Religion/Okkultismus  
+    - **Blutmagie-Ausprägung:** _1AP_ - Du kannst 1 Gesundheit opfern, um 1 zusätzlichen Schaden zu verursachen.  
+  
+---  
   
 #### **1. Level:**  
   
-- **Paktmagie**: Du kannst anstatt Mana zu bezahlen deine Gesundheit opfern. 1 Manapunkt = 2 Lebenspunkte.  
-- **Dunkler Bund**: Du kannst einmal täglich mit deinem Patron kommunizieren und dabei eine Frage stellen oder eine Vision von zukünftigen Ereignissen erhalten.  
+- **Zeichen des Blutes:** Du kannst ein Ritual ausführen, bei dem du Blut als Medium nutzt, um Informationen zu gewinnen oder eine Spur zu verfolgen.  
+- **Verbotenes Wissen**: Du erhältst einen Bonus auf Wissensproben die mit dunkler Magie, Riten oder Ähnlichem zu tun haben.  
   
 #### **2. Level:**  
   
-- **Verfluchter Angriff**: Einmal pro Tag kannst du einen verfluchten Schlag ausführen, der zusätzlich zu deinem normalen Schaden einen Fluch auf das Ziel legt. Das Ziel erleidet bis zu deinem nächsten Zug Nachteil auf Angriffe oder Proben.  
-- **Mächtiger Fluch**: Einmal pro Tag kannst du eine Kreatur mit einem Fluch belegen, der deren Fähigkeiten schwächt oder ihre Bewegungen einschränkt (Nachteil auf einen Attributswurf oder eine Aktion).  
+- **Verfluchter Angriff**: Einmal pro Tag kannst du einen verfluchten Schlag ausführen, der zusätzlich zu deinem normalen Schaden einen Fluch auf das Ziel legt. Das Ziel erleidet bis zu deinem nächsten Zug einen Malus auf alle Proben.  
+- **Blutsbrüderschaft**: Du kannst außerhalb eines Kampfes ein Ritual durchführen und dich mit einem Verbündeten im Blute vereinen. Ihr beide wisst nun immer wo sich der andere befindet und könnt einmal am Tag durch die Augen des anderen schauen. Dieses Band ist einzigartig und endet nur mit dem Tod.  
   
 #### **3. Level:**  
   
-- **Erweiterter Pakt**: Deine Verbindung zu deinem Patron vertieft sich. Du kannst zusätzliche Zauber aus der Kategorie **Seele** oder **Kraft** wählen und diese 1x täglich kostenlos wirken.  
-- **Energieraub**: Du kannst einem Gegner seine Lebensenergie entziehen und sie in Mana oder Lebenspunkte umwandeln. Diese Fähigkeit kann einmal täglich eingesetzt werden und heilt dich um einen kleinen Betrag, während dein Gegner geschwächt wird.  
+- **Lebensraub**: Du kannst einem Gegner seine Lebensenergie entziehen und sie in Gesundheit umwandeln. Diese Ritual stellt bis zu 5 Gesundheit wieder her, muss aber außerhalb des Kampfes ausgeführt werden. Dieses Ritual dauert 10 Minuten, in denen der Gegner sich nicht nicht bewegen darf, und tötet unwiderruflich den Gegner.  
+- **Jenseitsflüstern**: Wenn du einen Gegner getötet hast kannst du ein Fragment seiner Seele an dich binden. Du kannst bis zu (Level) x Fragmente gleichzeitig halten und dich mit diesen Fragmenten unterhalten.  
   
 #### **4. Level:**  
   
-- **Dunkler Strahl**: Du kannst einen verheerenden magischen Strahl abfeuern, der reinen Fluchschaden verursacht. Gegner, die von dem Strahl getroffen werden, erleiden zusätzlichen Schaden und haben für eine Runde Nachteile auf ihre Angriffe. Diese Fähigkeit kostet dich keine AP, aber eine Menge Mana.  
-- **Patronsgnade**: Dein Patron gewährt dir einen göttlichen Schutz. Du kannst einmal täglich deine Mana-Punkte vollständig regenerieren oder einen kritischen Treffer verhindern, indem du eine übernatürliche Gnade empfängst.  
+- **Blutverzehrung:** Jedes Mal, wenn du einen Gegner tötest, kannst du 2 AP als Reaktion bezahlen und einen Teil ihrer Lebenskraft absorbieren. Du stellst dadurch sofort 2 Gesundheit wieder her.  
+- **Blutausbruch**: Wenn du unter 50% deiner maximalen Gesundheit besitzt erhältst du einen weiteren AP pro Runde.  
   
 #### **5. Level:**  
   
-- **Avatar des Patrons**: Du wirst zu einem Kanal für die Macht deines Patrons und kannst für kurze Zeit seine volle Stärke entfesseln. Für 1 Minute (10 Runden) bist du in einem verstärkten Zustand: Deine Zauber wirken mit doppelter Stärke, und du erhältst verringerten Schaden durch alle Angriffe.  
-- **Paktmeister**: Du kannst einmal täglich einen mächtigen Zauber wirken, der die physische oder geistige Kontrolle über ein Ziel übernimmt. Dieser Zauber wirkt auf eine Kreatur, die deinem Patron feindlich gesinnt ist, und zwingt sie, für kurze Zeit deinem Willen zu folgen.  
-  
-  
-  
-- Blutmagie (anstatt Mana-Punkte kann eigene [[../Attribute/Passiv/Gesundheit|Gesundheit]] eingesetzt werden, 2 [[../Attribute/Passiv/Gesundheit|Gesundheit]] = 1 Mana-Punkt)  
-- Überstrapazieren (1x Level für einen zusätzlichen AP, einmal pro Runde)  
-- Lebensraub (Beim Kritischen Treffen oder Töten erhältst du 1x Level [[../Attribute/Passiv/Gesundheit|Gesundheit]] zurück)
+- **Erwachte Blutlinie**: Dein Körper hat sich an die Blutmagie angepasst. Jedes Mal, wenn du Gesundheit opferst, erhältst du den dreifachen Bonus.  
+- **Augen um Auge**: Du kannst einmal in der Woche ein großes Ritual abhalten, in dem du die Enzens von willigen Kreaturen absorbierst. Für jede willige Seele die sich so für dich opfert erhöht sich deine maximale Gesundheit und Lebenszeit – allerdings zu einem hohen Preis.
