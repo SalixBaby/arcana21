@@ -6,6 +6,7 @@
 - **Hintergrund**: [[02-Militär|02-Militär]]  
 - **Ausbildungs-Punkte**: 3  
   
+Detektiv / Bodyguard  
 #### **Variationen:**  
   
 - **Patrouillenwächter**: Du kennst die Straßen wie deine Westentasche und bist immer bereit, in brenzligen Situationen zu helfen.  
