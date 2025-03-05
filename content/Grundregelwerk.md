@@ -213,7 +213,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
   
 **4.1.6 Mögliche Reaktionen**  
 - **Gelegenheitsangriff:** *1AP.* Greife einen Gegner an, der deinen Nahkampfradius verlässt. *(Angriffsprobe | Nur wenn Nahkampfwaffe gezogen)*  
-- **Parieren:** *1AP.* Verhindere 1 physischen Schaden. *(Benötigt gezogene Waffe mit [[./Ausrüstungen/Waffen/Waffenfähigkeiten/Parieren|Parieren]])*  
+- **Parieren:** *1AP.* Gib einer gegnerischen Angriffsprobe einen Malus. *(Benötigt gezogene Waffe mit [[./Ausrüstungen/Waffen/Waffenfähigkeiten/Parieren|Parieren]])*  
 - **Zauberduell:** *1AP*. Verhindere gegnerische Zauber. *(siehe 4.4.2)*  
   
 **4.1.7 Lebensgefahr**  
