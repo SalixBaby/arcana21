@@ -22,7 +22,7 @@
 - [[./Manipulator - Magiebrecher|Manipulator - Magiebrecher]]  
 - [[./Mönch|Mönch]]  
 - [[./Priester|Priester]]  
-- [[./Ritter|Ritter]]  
+- [[./Ritter - Paladin|Ritter - Paladin]]  
 - [[./Soldat|Soldat]]  
 - [[./Taktiker|Taktiker]]  
 - [[./Wächter|Wächter]]  

@@ -1,43 +1,48 @@
 ---
 {}
 ---
->*Als Kleriker bist du ein Diener des Göttlichen, der die Macht des Glaubens in die Schlacht führt. Deine Stärke kommt von deiner Verbindung zu höheren Mächten, die dich mit Heilkräften und heiligen Zaubern segnen. Du kämpfst für deine Überzeugungen und verteidigst die Schwachen, wobei du sowohl deine Waffen als auch die Macht deines Glaubens einsetzt.*  
+Du bist kein einfacher Diener deines Gottes – du bist sein Schwert, sein Schild und seine vergeltende Hand. Während Priester predigen und beten, ziehst du in den Kampf, um den Willen deines Glaubens mit Feuer und Stahl durchzusetzen. Ob als fanatischer Inquisitor, heiliger Krieger oder unerbittlicher Vollstrecker einer höheren Macht – du bist nicht nur ein Gläubiger, du bist eine lebende Waffe, geschmiedet im Namen deines Gottes.  
   
-- **Hintergrund**: [[../Hintergründe/Glaube|Glaube]]  
-- **Ausbildungs-Punkte**: 3  
+- **Klassenkategorie:** Dualklasse  
+- **Klassenfähigkeit:** Göttlicher Schlag  
+	- Du kannst 2 mal pro Tag die Macht deines Glaubens kanalisieren. Du kannst bei einem Nahkampf-Angriff bis zu (Level) x zusätzlichen heiligen Schaden verursachen. Du kannst diese Fähigkeit nur gegen einen Gegner einsetzen, der gegen die Interessen deines Gottes gehandelt hat.  
+  
+---  
   
 #### **Variationen:**  
   
-- **Kreuzritter**: Du kämpfst für den Glauben und bist an vorderster Front, um das Böse zu bekämpfen.  
-      
-    - **Vorteil auf** [[../Attribute/Körper/Stärke|Stärke]] und [[../Attribute/Körper/Konstitution|Konstitution]]  
-    - **+1** [[../Attribute/Körper/Stärke|Stärke]]  
-- **Heiliger Heiler**: Deine Hauptaufgabe ist es, Wunden zu heilen und den Bedürftigen zu helfen.  
-      
-    - **Vorteil auf** [[../Attribute/Passiv/Willensstärke|Willensstärke]] und [[../Zauberausrichtungen/Seele/Heilung|Heilung]]  
-    - **+1** [[../Attribute/Geist/Fokus|Fokus]]  
+- **Inquisitor:** Kein Frevler entkommt deinem Blick, keine Lüge überdauert dein Urteil. Du jagst Ketzer und Abtrünnige mit fanatischem Eifer und setzt deine göttlichen Kräfte ein, um Feinde zu richten.  
+    - Bonus auf [[../Attribute/Körper/Instinkt|Instinkt]]  
+    - +1 [[../Attribute/Körper/Stärke|Stärke]]  
+    - Wissen in Religion/Okkultismus  
+- **Templer:** Du bist der unbeugsame Schild deines Glaubens, ein Bollwerk gegen Häresie und Chaos. Deine Macht schützt Verbündete und gewährt dir übermenschliche Standhaftigkeit.  
+    - +1 [[../Attribute/Körper/Konstitution|Konstitution]]  
+    - +1 [[../Attribute/Seele/Überzeugen|Überzeugen]]  
+    - Wissen in Religion/Okkultismus  
+  
+---  
   
 #### **1. Level:**  
   
-- **Göttlicher Zorn**: Du kannst einmal pro Tag die Macht deines Glaubens kanalisieren, um heiligen Schaden zu verursachen. Diese Fähigkeit verleiht deinen Waffen heilige Kraft und fügt Untoten oder bösen Kreaturen zusätzlichen Schaden zu.  
-- **Segnung**: Du kannst eine Kreatur deiner Wahl segnen und ihr für eine bestimmte Dauer einen Bonus auf Angriffs-, Verteidigungs- oder Heilproben geben.  
+- **Göttliche Einsicht**: Dein Gott gewährt dir Visionen oder Eingebungen. Einmal pro Tag kannst du eine göttliche Offenbarung erhalten, die dir eine kryptische, aber vielleicht hilfreiche Eingebung zu einer aktuellen Herausforderung gibt.  
+- **Göttliche Präsenz**: Du kannst einmal pro Tag deine Präsenz so verstärken, dass sie von anderen wahrgenommen wird. Du erhältst für eine Konversation einen doppelten Bonus auf Einschüchtern oder Überzeugenproben.  
   
 #### **2. Level:**  
   
-- **Heilige Aura**: Du erschaffst eine leuchtende Aura, die dich und deine Verbündeten schützt. Kreaturen in dieser Aura erhalten einen Bonus auf Verteidigungsproben gegen böse Wesen oder Angriffe.  
-- **Göttliche Heilung**: Du kannst deine göttliche Verbindung nutzen, um schwerwiegende Verletzungen zu heilen. Einmal täglich kannst du eine Kreatur um einen signifikanten Betrag ihrer Lebenspunkte heilen.  
+- **Göttliches Urteil**: Einmal am Tag kannst du einen Gegner mit einem heiligen Urteil belegen. Das Ziel erhält einen Malus auf Angriffsproben für die nächsten drei Runden.  
+- **Göttliche Heilung**: Du kannst deine göttliche Verbindung nutzen, um Verletzungen zu heilen. Einmal täglich kannst du dich selber für 2AP um (Level) x Gesundheit heilen.  
   
 #### **3. Level:**  
   
-- **Göttliche Macht**: Du kannst deine göttlichen Fähigkeiten steigern und eine zusätzliche Aktion pro Runde durchführen, die entweder ein Zauber oder ein Angriff sein kann. Diese Fähigkeit kann einmal täglich genutzt werden.  
-- **Bannzauber**: Du kannst Flüche und böse Magie aufheben. Deine Fähigkeit, Banne zu wirken, verbessert sich mit der Zeit, sodass du mächtigere Effekte aufheben kannst.  
+- **Göttliche Macht**: Du kannst deine göttlichen Fähigkeiten steigern und bis zu 4 AP pro Kampf zusätzlich nutzen, die entweder Teil eines Zauber oder ein Angriffs sein müssen.  
+- **Göttliches Schild**: Du kannst einmal pro Tag als Reaktion einen Schaden gänzlich negieren. Dies kostet jedoch 2 AP.  
   
 #### **4. Level:**  
   
-- **Erweiterte Segnungen**: Deine Segnungen sind mächtiger und können mehrere Kreaturen gleichzeitig betreffen. Du kannst Gruppenmitglieder für eine begrenzte Zeit stärken, heilen oder vor bösen Kräften schützen.  
-- **Göttliche Waffen**: Deine Waffen sind dauerhaft von göttlicher Kraft erfüllt, was dir einen Bonus auf Angriffs- und Schadensproben verleiht. Zudem kannst du heilige Waffenbeschwörungen nutzen, um besondere Waffeneffekte zu erzeugen.  
+- **Göttlicher Zorn**: Wenn du einen Gegner mit einem Göttlichem Schlag niederstreckst kannst du einen zusätzlichen Göttlichen Schlag in diesem Kampf ausführen.  
+- **Göttliche Waffen**: Deine Waffen sind dauerhaft von göttlicher Kraft erfüllt, was dir einen permanent +1 heiligen Schaden auf alle Angriff gibt.  
   
 #### **5. Level:**  
   
-- **Erzengel-Form**: Du kannst einmal täglich die Form eines Erzengels annehmen, wodurch du für kurze Zeit mächtige Fähigkeiten erhältst. In dieser Form kannst du fliegen, verstärkte Angriffe durchführen und heilige Strahlen schießen, die deine Feinde durchbohren.  
-- **Göttliches Wunder**: Als Höhepunkt deiner göttlichen Macht kannst du ein Wunder wirken, das den Lauf des Kampfes dramatisch verändern kann. Diese Fähigkeit ist jedoch nur in den kritischsten Momenten nutzbar und verlangt große Konzentration.
+- **Göttliche Form**: Du kannst die Form eines Avatars deines Gottes für eine Minute annehmen. In dieser Form erhältst du keinen Schaden und alle deine Angriff gelten als Göttliche Schläge.  
+- **Göttliches Geschenk**: Dein Gott hat dich ausgewählt um seinen Glauben zu verteidigen. Und das auf ewig. Solange du dich deinem Glauben entsprechend verhältst alterts du nicht und bist immun gegen Krankheiten und kleineren Verletzungen.

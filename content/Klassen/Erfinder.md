@@ -4,7 +4,7 @@
 > _Du bist ein Tüftler, ein Visionär, ein Meister der Mechanik und Innovation. Während andere auf Magie oder rohe Kraft setzen, verlässt du dich auf deinen Verstand, deine Werkzeuge und deine unermüdliche Kreativität. Mit geschickten Händen und einem brillanten Geist erschaffst du mechanische Wunderwerke, raffinierte Gadgets und tödliche Konstruktionen. Ob ausgeklügelte Waffen, nützliche Apparaturen oder autonome Maschinen – deine Erfindungen sind dein größter Trumpf._  
   
 - **Klassenkategorie:** Dualklasse  
-- **Klassenfähigkeit:** **Gadget-Meister**  
+- **Klassenfähigkeit:** Gadget-Meister  
 	- Du kannst einmal täglich ein kleines, nützliches Gadget bauen. Gadget können dir Bonus auf Proben geben oder andere Effekte haben. Du kannst (Level) x2 Gadget gleichzeitig funktional halten.   
   
 ---  

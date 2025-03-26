@@ -4,7 +4,7 @@
 > _Du wandelst an der Schwelle zwischen Leben und Tod, Macht und Opfer. Deine Kraft entspringt nicht göttlicher Gnade oder disziplinierter Studien, sondern deinem eigenen Blut. Wo andere auf äußere Quellen der Magie angewiesen sind, ziehst du deine Macht aus deinem eigenen Körper – und zahlst dafür einen hohen Preis. Ob dunkle Rituale, verfluchte Klingen oder arkanes Wissen, das für andere tabu ist – du kennst keine Furcht, wenn es um das Streben nach Macht geht._  
   
 - **Klassenkategorie:** Dualklasse  
-- **Klassenfähigkeit:** **Blutmagie**  
+- **Klassenfähigkeit:** Blutmagie  
     - Du kannst deine eigene Gesundheit opfern, um magische oder kämpferische Vorteile zu erlangen. Jedes Mal, wenn du Gesundheit opferst, kannst du diese in eine andere Ressource umwandeln, abhängig von deiner Spezialisierung.  
   
 ---  

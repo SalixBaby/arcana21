@@ -5,7 +5,7 @@ _Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und d
   
 - **Klassekategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Tödlicher Fokus  
-    - Du kannst (Level) x täglich bei einem Angriff, den dein Gegner nicht kommen sieht, +2 auf deinen Schaden erhalten.  
+    - Du kannst (Level) x täglich bei einem Angriff, den dein Gegner nicht kommen sieht einen zusätzlichen Schaden verursachen.  
   
 ---  
   
@@ -43,4 +43,4 @@ _Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und d
 #### **5. Level:**  
   
 - **Treffsicher**: Dein Können im Umgang mit tödlichen Waffen erreicht seinen Höhepunkt. Einmal pro Kampf kannst du einen Angriff automatisch als kritischen Treffer werten lassen.  
-- **Meister-Assassine**: Du kannst einen Gegner lautlos und sofort töten, wenn er dich nicht bemerkt und seine Gesundheit unter 6 ist.
+- **Meister-Assassine**: Du kannst einen Gegner lautlos und sofort töten, wenn er dich nicht bemerkt und seine Gesundheit unter 5 ist.

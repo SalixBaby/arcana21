@@ -1,43 +1,53 @@
 ---
 {}
 ---
->*Als Jäger bist du ein Meister der Wildnis und des Überlebens. Du verstehst die Natur in all ihren Facetten und nutzt dein Wissen, um Beute zu jagen oder Gefahren aus dem Weg zu gehen. Mit scharfem Auge und präzisem Bogen begibst du dich auf die Jagd, sei es auf wilde Kreaturen oder gefährliche Gegner. Dein Verständnis von Fährtenlesen, Tarnung und Fallenbau macht dich zu einem unverzichtbaren Mitglied in jeder Gruppe, die sich der Wildnis stellt.*  
+> _Geduld, Präzision und Überlebenskunst – das sind die Waffen eines Jägers. Während andere mit roher Gewalt oder Magie kämpfen, verlässt du dich auf dein Geschick, deine Erfahrung und dein Wissen über Beute und Umgebung. Ob du in der Wildnis auf der Jagd bist oder in der Stadt nach einer Zielperson suchst – nichts entgeht deinen scharfen Sinnen. Du kennst die Spuren deiner Beute, weißt, wo sie sich versteckt, und schlägst zu, wenn der Moment am günstigsten ist._  
   
-- **Hintergrund**: [[../Hintergründe/Natur|Natur]]  
-- **Ausbildungs-Punkte**: 3  
+- **Klassenkategorie:** Kampfklasse  
+- **Klassenfähigkeit:** Todfeind  
+    - Du hast deine Fähigkeiten geschärft, um gegen eine bestimmte Art von Gegner besonders effektiv zu sein. Ob es persönliche Rache, jahrelange Erfahrung oder einfach pragmatische Notwendigkeit ist – wenn du gegen dein bevorzugtes Ziel kämpfst oder es jagst, bist du unerbittlich und präzise.  
+  
+- ***Zusätzliche Erklärung für Todfeind:***  
+	- ***Feindwahl:** Wähle bei der Charaktererstellung eine Kreaturenart (z. B. Mensch, Untoter, Drache, Bestie, Dämon, Konstrukte usw.). Du kannst im späteren Spielverlauf noch weitere Arten als Todfeind wählen, dies muss aber mit dem SL besprochen werden.  
+	- ***Effekt:** Wenn du gegen ein Wesen deiner gewählten Art kämpfst oder es jagst, erhältst du Bonus auf alle Angriffsproben, Wahrnehmungsproben, Instinktproben und Willensstärkeproben.*  
+  
+___  
   
 #### **Variationen:**  
   
-- **Wilderer**: Du bist spezialisiert darauf, Tiere unauffällig zu jagen und dich in der Wildnis zu bewegen.  
-      
-    - **Vorteil auf** [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]] und [[Überleben/Orientierung|Überleben/Orientierung]]  
-    - **+1** [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
-- **Spurenleser**: Deine Fähigkeit, kleinste Hinweise in der Umgebung zu entdecken, ist unübertroffen.  
-      
-    - **Vorteil auf** [[../Attribute/Körper/Instinkt|Instinkt]] und [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]  
-    - **+1** [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]  
+- **Waldläufer:** Du bist ein erfahrener Jäger, der seine Umgebung wie seine eigene Westentasche kennt. Egal ob Tier oder Monster– du weißt, wie du deine Beute verfolgst und zur Strecke bringst.  
+    - Bonus auf [[../Attribute/Körper/Instinkt|Instinkt]]  
+    - +2 auf [[../Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
+    - Wissen in **Natur/Tiere** & **Medizin/Anatomie** & **Überleben/Orientierung**  
   
-#### **1. Level:**  
+- **Kopfgeldjäger:** Du jagst nicht nur Monster, sondern auch Menschen – und du lässt keine Beute entkommen. Du bist Meister darin, Zielpersonen aufzuspüren, Fallen zu stellen und sie lebendig oder tot abzuliefern.  
+    - Bonus auf [[../Attribute/Seele/Intuition|Intuition]]  
+    - +1 auf [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
+    - Wissen in **Architektur/Städteplanung** & **Medizin/Anatomie** & **Überleben/Orientierung**  
   
-- **Präziser Schuss**: Du erhältst einen Bonus auf alle Fernkampfangriffe, insbesondere mit Bögen oder anderen Projektilwaffen. Dein geschultes Auge erlaubt es dir, die Schwachstellen deiner Beute zu erkennen und gezielt anzugreifen.  
-- **Fährtenlesen**: Du kannst die Umgebung nach Spuren und Hinweisen durchsuchen, um Beute oder Feinde zu verfolgen. Du erhältst einen Vorteil bei [[../Attribute/Körper/Instinkt|Instinkt]]- und [[Überleben/Orientierung|Überleben/Orientierung]]-Proben.  
+---  
+  
+### **1. Level:**  
+  
+- **Tiergefährte**: Du kannst ein Tiergefährten an deiner Seite haben. Dieses Tier kann dir im Kampf beistehen oder dich bei der Jagd unterstützen. Dies muss mit dem SL besprochen werden.  
+- **Bevorzugtes Terrain**: Du bist in einer bestimmten Umgebung aufgewachsen und hast dich dort bestens an die Gegebenheiten angepasst. Wähle eine Kategorie aus: Zivilisation, Wälder, Gebirge, Wasser, Wüste. Solange du dich in diesem Gebiet aufhältst, erhältst du auf alle Proben eine +1.  
   
 #### **2. Level:**  
   
-- **Tarnung in der Wildnis**: Du kannst dich in der Natur so gut tarnen, dass du nahezu unsichtbar wirst. Du erhältst einen Vorteil bei [[Heimlichkeit|Heimlichkeit]] in natürlichen Umgebungen wie Wäldern, Dschungeln oder Bergen.  
-- **Überlebenskünstler**: Du bist ein Meister des Überlebens in der Wildnis und kannst aus wenigem viel machen. Du erhältst einen Vorteil bei [[Überleben|Überleben]] und kannst einfache Fallen, Unterkünfte und improvisierte Waffen herstellen.  
+- **Fallensteller**: Du kannst ausgeklügelte Fallen bauen, um Tiere oder Feinde zu fangen. Diese Fallen sind besonders effektiv mit genügend Vorwissen über deine Beute und das Terrain.   
+- **Markieren**: Du kannst 3 AP bezahlen um einen Gegner mit dem einzigartigem Zeichen des Jägers zu versehen. Du erhältst einen Bonus auf Angriffsproben gegen den markierten Gegner. Wenn du einen markierten Gegner zu Fall bringst kannst du das Zeichen des Jägers auf einen Gegner in unmittelbarer Nähe übertragen ohne die AP Kosten zu bezahlen.  
   
 #### **3. Level:**  
   
-- **Fallensteller**: Du kannst ausgeklügelte Fallen aufstellen, um Tiere oder Feinde zu fangen. Diese Fallen sind besonders effektiv in der Wildnis und geben dir einen Vorteil im Kampf oder bei der Jagd.  
-- **Tiergefährte**: Du kannst einen Tiergefährten an deiner Seite haben, der dir in der Wildnis hilft. Dieses Tier kann dir im Kampf beistehen oder dich bei der Jagd unterstützen.  
+- **Fesselfalle**: Du kannst einmal pro Tag eine speziell präparierte Fesselfalle einsetzen, die einen Gegner nach einem erfolgreichen Treffer für eine Runde bewegungsunfähig macht. Dieser Angriff verursacht keinen Schaden, hält das Ziel jedoch an Ort und Stelle, bis der Effekt endet. Du kannst auch die Fesselfalle an Projektilen befestigen, sodass sie bereits beim Aufprall ausgelöst wird – dies musst du jedoch vor dem Angriff ansagen.  
+- **Mustererkennung**: Jeder Fehlschlag birgt Informationen über das Ausweichmuster deines Gegners. Nach einem nicht getroffenen Angriff auf einen Gegner erhältst auf auf die nächste Angriffsprobe einen Bonus.  
   
 #### **4. Level:**  
   
-- **Gezielte Jagd**: Du kannst deine Beute oder einen Feind gezielt verfolgen und erhältst einen Bonus, wenn du denselben Gegner wiederholt angreifst. Diese Fähigkeit gibt dir einen taktischen Vorteil, da du die Schwächen deines Ziels immer besser einschätzen kannst.  
-- **Naturkundiger**: Dein Wissen über die Natur und ihre Gesetze ist außergewöhnlich. Du kannst seltene Pflanzen, Kräuter und Tiere erkennen und nutzen, um Tränke oder Gifte herzustellen, oder besondere Boni aus der Umgebung ziehen.  
+- **Jagdinstinkt**: Du erhältst einen permanent Bonus auf alle Instinkt-, Erfahrung- und Intuitionsproben.  
+- **Geländemeister**: Du kannst ein zusätzliches Bevorzugtes Terrain auswählen. Solange du dich in einem Bevorzugten Terrain aufhältst erhältst du einen Bonus auf alle Proben.  
   
 #### **5. Level:**  
   
-- **Meisterschütze**: Du kannst mit deinem Bogen oder anderen Fernkampfwaffen auf beeindruckende Distanzen zielen. Einmal täglich kannst du einen kritischen Treffer landen, wenn du einen Fernkampfangriff ausführst.  
-- **Meisterjäger**: Deine Jagdfähigkeiten sind legendär. Du erhältst einen dauerhaften Bonus auf deine [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]] und [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]] im Kampf und bei der Verfolgung deiner Beute. Du kannst dich zudem auf eine Art von Beute spezialisieren, sei es Mensch, Tier oder Monster.
+- **Meisterjäger**: Du wirst zum ultimativen Jäger. Du kannst jede Kreatur aufspüren, egal wie weit entfernt oder wie gut versteckt sie ist. Du erhältst wage Eindrücke wo sich deine Beute aufhält und erhältst einen zusätzlichen Bonus auf alle Such- und Jagdproben.   
+- **Scharfschütze**: Deine Fähigkeiten mit Fernkampfwaffen erreicht ihren Höhepunkt. Kannst du etwas sehen, kannst du es treffen. Solange du deine Beute sehen kannst erhältst du kein Malus auf Reichweite oder Deckung.

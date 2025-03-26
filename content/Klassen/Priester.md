@@ -14,9 +14,10 @@
 - **Wanderpriester**: Du bringst den Glauben zu den entlegensten Orten und hilfst jenen, die spirituelle Führung benötigen.  
     - **Vorteil auf** [[Überleben|Überleben]] und [[../Attribute/Seele/Überzeugen|Überzeugen]]  
     - **+1** [[Attribute/Körper/Körper|Attribute/Körper/Körper]]  
-  
+    - **Göttliches Urteil – Segen:** _1AP_ – Einmal pro Kampf kannst du dich oder einen Verbündeten mit heiliger Energie erfüllen, wodurch Angriffe abgeschwächt werden und du oder der Verbündete für eine Runde weniger Schaden erleiden.  
+    -     - **Göttliches Urteil – Strafe:** _1AP_ – Einmal pro Kampf kannst du den Zorn deines Gottes kanalisieren, wodurch dein nächster Angriff zusätzlichen Schaden verursacht und das Ziel schwächt.  
 #### **1. Level:**  
-  
+- **Segnung**: Du kannst eine Kreatur deiner Wahl segnen und ihr für eine bestimmte Dauer einen Bonus auf Angriffs-, Verteidigungs- oder Heilproben geben.  
 - **Segnung**: Du kannst einmal täglich eine Kreatur mit göttlichem Segen belegen, wodurch sie bei Proben oder im Kampf Vorteile erhält.  
 - **Heiliger Schutz**: Du kannst eine schützende Aura um dich und deine Verbündeten erzeugen, die Schaden von göttlichen oder unheiligen Angriffen mindert.  
   
