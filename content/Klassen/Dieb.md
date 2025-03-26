@@ -39,10 +39,10 @@
   
 #### **4. Level:**  
   
-- **Sicherer Schritt**: Du kannst dich blitzschnell an Fassaden, Seilen oder auf anderen Oberflächen bewegen. Klettern kostet dich keine zusätzliche Bewegung, und deine Bewegungsrate kann nicht mehr durch das Terrain beeinflusst werden. Ebenfalls erhältst du einen Bonus auf deine Bewegungsrate.  
+- **Sicherer Schritt**: Du kannst dich blitzschnell an Fassaden, Seilen oder auf anderen Oberflächen bewegen. Klettern kostet dich keine zusätzliche Bewegung, und deine Bewegungsrate kann nicht mehr durch das Terrain beeinflusst werden. Ebenfalls erhältst du einen Bonus auf deine Geschwindigkeit.  
 - **Doppelleben**: Du kannst mehrere Identitäten besitzen, die dir in sozialen Kreisen oder bei Flucht helfen. Du kannst ohne Verdacht deine Identität wechseln und dich als jemand anderes ausgeben. Du kannst bis zu (Level) x Identitäten aufrechterhalten. Diese müssen geplant und mit dem SL abgesprochen werden.  
   
 #### **5. Level:**  
   
-- **Meister der Flucht**: Du bist fast unmöglich festzuhalten. Wenn du gefesselt, eingesperrt oder von Gegnern umzingelt bist, kannst du einmal pro Tag **sofort entkommen**, egal wie aussichtslos die Lage scheint.  
+- **Meister der Flucht**: Du bist fast unmöglich festzuhalten. Wenn du gefesselt, eingesperrt oder von Gegnern umzingelt bist, kannst du einmal pro Tag **sofort entkommen**, egal wie aussichtslos die Lage scheint. Ebenfalls erhältst du einen erneuten Bonus auf Geschwindigkeit.  
 - **Beutemacher**: Wenn du einen Gegner im Kampf triffst, oder dich unentdeckt jemandem näherst kannst du jede nützliche Beute (z. B. Schlüssel, Gold, ein Pergament) aus seiner Tasche entwenden ohne eine Probe machen zu müssen.
