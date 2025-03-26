@@ -12,13 +12,13 @@
 #### **Variationen:**  
   
 - **Laborratte**: Du hast unzählige Stunden in deinem Labor verbracht, was dich sozial unbeholfen, aber körperlich widerstandsfähiger macht.  
-    - **-2 [[../Attribute/Seele/Auftritt|Auftritt]]**  
-    - **+2 [[../Attribute/Körper/Konstitution|Konstitution]]**  
-    - **+1 [[../Attribute/Geist/Erfahrung|Erfahrung]]**  
+    - Malus auf [[../Attribute/Seele/Auftritt|Auftritt]]  
+    - +2 [[../Attribute/Körper/Konstitution|Konstitution]]  
+    - +1 [[../Attribute/Geist/Erfahrung|Erfahrung]]  
     - Wissen in Medizin/Anatomie  
 - **Gaukler**: Du mischst dich unter das Volk, täuschst mit Alchemie-Tricks und gewinnst mit Charme das Vertrauen deiner Zuschauer.  
-    - **+1 [[../Attribute/Seele/Überzeugen|Überzeugen]]**  
-    - **+1 [[../Attribute/Seele/Einsicht|Einsicht]]**  
+    - +1 [[../Attribute/Seele/Überzeugen|Überzeugen]]  
+    - +1 [[../Attribute/Seele/Einsicht|Einsicht]]  
     - Wissen in Kunst/Kultur  
   
 ---  
@@ -45,4 +45,4 @@
 #### **5. Level:**  
   
 - **Meisteralchemist**: Du kannst bis zu 5 experimentelle Elixiere am Tag herstellen, wobei du die Möglichkeit hast, die Effekte gezielt zu kontrollieren. Deine Tränke sind so stark, dass sie Effekte verstärken oder sogar permanenter Natur werden können.  
-- **Philosophenstein**: Du hast die Fähigkeit erlangt, den legendären Philosophenstein zu erschaffen. Dieser ermöglicht es dir, Tränke herzustellen, die ewige Jugend, Unsterblichkeit oder extreme Kräfte verleihen – allerdings zu einem hohen Preis.  
+- **Stein der Weisen**: Du hast die Fähigkeit erlangt, den legendären Stein der Weisen zu erschaffen. Dieser ermöglicht es dir, Tränke herzustellen, die ewige Jugend, Unsterblichkeit oder extreme Kräfte verleihen – allerdings zu einem hohen Preis.  
