@@ -1,41 +1,48 @@
 ---
 {}
 ---
->*Als Künstler bringst du die Welt mit deiner Kreativität und deinem einzigartigen Talent zum Staunen. Du bist nicht nur ein Meister in deinem Handwerk, sondern auch ein charismatischer Kommunikator, der Menschen durch seine Werke inspiriert und berührt. Deine Fähigkeiten gehen über die reine Kunst hinaus, indem du dein Talent zur Täuschung oder Manipulation einsetzen kannst.*  
+>*Ein Pinselstrich, eine Melodie, ein poetisches Wort – deine Kunst ist mehr als bloße Unterhaltung. Sie bewegt Herzen, beeinflusst Gedanken und kann sogar die Realität formen. Du bist nicht nur ein Darsteller oder Handwerker, sondern ein Schöpfer von Emotionen, Illusionen und Wahrheiten. Deine Werke inspirieren, verwirren oder manipulieren – je nachdem, was die Welt gerade braucht.*  
   
-- **Hintergrund**: [[../Hintergründe/Vasall|Vasall]]  
-- **Ausbildungs-Punkte**: 3  
+- **Klassenkategorie:** Dualklasse  
+- **Klassenfähigkeit:** **Magische Kunst**  
+    - Deine Kunst ist nicht nur schön – sie besitzt eine übernatürliche Wirkung. Ob durch Musik, Malerei, Poesie oder eine andere Ausdrucksform: Du kannst mit deiner Kunst das Verhalten anderer beeinflussen, magische Effekte hervorrufen oder sogar die Zukunft vorhersehen.  
+  
+___  
   
 #### **Variationen:**  
   
-- **Meister der Masken**: Du bist ein Verwandlungskünstler und kannst dein Aussehen und deine Identität nach Belieben ändern.  
-    - **Vorteil auf** [[Verkleidung|Verkleidung]] und [[../Attribute/Seele/Lügen|Lügen]]  
-    - **+1** [[Attribute/Seele/Seele|Attribute/Seele/Seele]]  
-- **Barde**: Deine Musik und Geschichten inspirieren andere, und du kannst sie nutzen, um Mut zu machen oder die Stimmung zu beeinflussen.  
-    - **Vorteil auf** [[../Attribute/Seele/Auftritt|Auftritt]] und [[Kunst/Kultur|Kunst/Kultur]]  
-    - **+1** [[Attribute/Seele/Seele|Attribute/Seele/Seele]]  
+- **Virtuose:** Dein Talent liegt in der Darbietung – sei es Musik, Schauspiel oder Tanz. Deine Auftritte können verzaubern, beruhigen oder aufwühlen.  
+    - Bonus auf [[../Attribute/Seele/Auftritt|Auftritt]]  
+    - Bonus auf [[../Attribute/Seele/Überzeugen|Überzeugen]]  
+    - Wissen und doppelten Bonus in Kunst/Kultur  
+- **Visionär:** Deine Kunst ist nicht nur emotional, sondern fast prophetisch. Mit deinen Bildern, Skulpturen oder Schriften kannst du Visionen einfangen oder sogar in die Zukunft blicken.  
+    - +1 [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
+    - +1 auf [[../Attribute/Geist/Fokus|Fokus]]  
+    - Wissen und doppelten Bonus in Kunst/Kultur  
+  
+----  
   
 #### **1. Level:**  
   
-- **Inspirierende Kunst**: Du kannst einmal täglich eine Kunstform nutzen, um deinen Verbündeten einen Bonus auf eine Probe zu geben.  
-- **Täuschendes Talent**: Du kannst einmal täglich eine Illusion oder Verkleidung erschaffen, die es dir erlaubt, jemanden zu täuschen.  
+- **Inspirierende Kunst**: Du kannst (Level) x 2 täglich eine Kunstform nutzen, um deinen Verbündeten in Hör- oder Sehweite einen Bonus auf eine Probe zu geben. Dies muss vorher angesagt werden.  
+- **Alleskönner**: Du hast dir ein breites Spektrum an Fähigkeiten angeeignet und kannst dich in nahezu jeder Situation zurechtfinden. Du erhältst auf alle Proben in denen du nicht talentiert bist eine +1.  
   
 #### **2. Level:**  
   
-- **Kreative Offensive**: Du kannst einmal täglich deine Kunst als Ablenkung nutzen, um einen Überraschungsangriff auszuführen.  
-- **Verführerisches Spiel**: Du kannst einmal täglich eine Person durch deinen Charme und deine Kunst manipulieren, um sie zu einer Handlung zu bewegen.  
+- **Packende Darstellung:** Deine Worte und Darbietungen fesseln die Aufmerksamkeit deines Publikums. Du erhältst einen Bonus auf Überzeugen und Auftritt, wenn du eine Geschichte erzählst, ein Lied spielst oder eine Darbietung aufführst.  
+- **Fälscher**: Du kannst fast perfekte Kopien von Schriften oder anderen Kunstformen erschaffen.   
   
 #### **3. Level:**  
   
-- **Kunstvolle Ablenkung**: Du kannst einmal täglich eine Situation so manipulieren, dass alle Augen auf dich gerichtet sind, während deine Verbündeten agieren.  
-- **Inspiration der Seele**: Du kannst einmal täglich eine verbündete Kreatur inspirieren, wodurch sie bei der nächsten Probe einen doppelten Bonus erhält.  
+- **Inspirierender Auftritt:** Wenn du eine Rede hältst, ein Lied spielst oder eine andere künstlerische Darbietung aufführst, kannst du allen Verbündeten in Hör- oder Sichtweite für eine Minute zwei zusätzliche temporäre Ausdauerpunkte verleihen.  
+- **Kunstvolle Ablenkung**: Du kannst einmal täglich eine Situation so manipulieren, dass alle Augen auf dich gerichtet sind, während deine Verbündeten agieren. Deine Verbündeten erhalten einen doppelten Bonus auf Heimlichkeitsproben während deines Auftritts.  
   
 #### **4. Level:**  
   
-- **Unwiderstehliche Präsenz**: Du kannst einmal täglich so charismatisch und überzeugend auftreten, dass dir niemand widerstehen kann.  
-- **Künstlerische Manipulation**: Du kannst durch Kunst und Worte die Emotionen anderer so stark beeinflussen, dass sie ihre Meinung ändern.  
+- **Meisterhafte Technik:** Du kannst außergewöhnliche Werke erschaffen. Deine Kreationen haben einen merklichen Wert und können für Unsummen veräußert werden.  
+- **Fesselnde Kunst**: Präsentierst du deine Kunst müssen Kreaturen sich zunächst von dem Anblick losreißen bevor sie agieren können. Je besser die Kunst, desto höher der Aufwand sich loszureißen.  
   
 #### **5. Level:**  
   
-- **Meisterwerk**: Du kannst einmal täglich ein solch perfektes Werk schaffen, dass es langanhaltende Auswirkungen auf alle hat, die es betrachten oder hören.  
-- **Illusion der Meisterklasse**: Deine Täuschungen sind so perfekt, dass sie auch erfahrene Beobachter nicht sofort erkennen können.
+- **Meisterwerk**: Du kannst einmal ein solch perfektes Kunstwerk erschaffen, dass es permanente Auswirkungen auf alle hat, die es ausgesetzt sind.  
+- **Koryphäe**: Dein Ruf als bester Künstler in deinem Bereich eilt dir voraus. Die Leute erkennen dich und deine Kunst, was dir viele Türen öffnet und deine Anzahl an Verbündeten steigert.

@@ -4,7 +4,7 @@
   
 **Segen: Schnelllernend**  
   
-- +1 auf [[../Attribute/Geist/-Geist-|-Geist-]]  
+- +1 auf [[../Attribute/Geist/-Geist-|Geist]]  
 - Wissen in Mathematik/Technik  
 - Zugang zu Lehrmaterialien und Grundverständnis von Wissenschaft  
 - +1 Ausbildungspunkt  

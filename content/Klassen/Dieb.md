@@ -44,5 +44,5 @@
   
 #### **5. Level:**  
   
-- **Meister der Flucht**: Du bist fast unmöglich festzuhalten. Wenn du gefesselt, eingesperrt oder von Gegnern umzingelt bist, kannst du einmal pro Tag **sofort entkommen**, egal wie aussichtslos die Lage scheint. Ebenfalls erhältst du einen erneuten Bonus auf Geschwindigkeit.  
+- **Meister der Flucht**: Du bist fast unmöglich festzuhalten. Wenn du gefesselt, eingesperrt oder von Gegnern umzingelt bist, kannst du einmal pro Tag sofort entkommen, egal wie aussichtslos die Lage scheint. Ebenfalls erhältst du einen erneuten Bonus auf Geschwindigkeit.  
 - **Beutemacher**: Wenn du einen Gegner im Kampf triffst, oder dich unentdeckt jemandem näherst kannst du jede nützliche Beute (z. B. Schlüssel, Gold, ein Pergament) aus seiner Tasche entwenden ohne eine Probe machen zu müssen.
