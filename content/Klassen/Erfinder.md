@@ -1,11 +1,11 @@
 ---
 {}
 ---
-> _Du bist ein Tüftler, ein Visionär, ein Meister der Mechanik und Innovation. Während andere auf Magie oder rohe Kraft setzen, verlässt du dich auf deinen Verstand, deine Werkzeuge und deine unermüdliche Kreativität. Mit geschickten Händen und einem brillanten Geist erschaffst du mechanische Wunderwerke, raffinierte Gadgets und tödliche Konstruktionen. Ob ausgeklügelte Waffen, nützliche Apparaturen oder autonome Maschinen – deine Erfindungen sind dein größter Trumpf._  
+> _Du bist ein Tüftler, ein Visionär, ein Meister der Mechanik und Innovation. Während andere auf Magie oder rohe Kraft setzen, verlässt du dich auf deinen Verstand, deine Werkzeuge und deine unermüdliche Kreativität. Mit geschickten Händen und einem brillanten Geist erschaffst du mechanische Wunderwerke, raffinierte Apparaturen und tödliche Konstruktionen. Ob ausgeklügelte Waffen, nützliche Apparaturen oder autonome Maschinen – deine Erfindungen sind dein größter Trumpf._  
   
 - **Klassenkategorie:** Dualklasse  
-- **Klassenfähigkeit:** Gadget-Meister  
-	- Du kannst einmal täglich ein kleines, nützliches Gadget bauen. Gadget können dir Bonus auf Proben geben oder andere Effekte haben. Du kannst (Level) x2 Gadget gleichzeitig funktional halten.   
+- **Klassenfähigkeit:** Apparatur-Meister  
+	- Du kannst einmal täglich ein kleine, nützliche Apparatur bauen. Apparaturen können dir Bonus auf Proben geben oder andere Effekte haben. Du kannst (Level) x2 Apparaturen gleichzeitig funktional halten.   
   
 ---  
   
@@ -16,7 +16,7 @@
     - Umgang mit [[../Ausrüstungen/Ausrüstungssets/Tüftler Set|Tüftler Set]]  
     - +1 [[../Attribute/Geist/Arkana|Arkana]]  
     - +1 [[../Attribute/Geist/Fokus|Fokus]]  
-- **Tüftler**: Du konzentrierst dich auf das Erschaffen praktischer, mechanischer Lösungen für Probleme und Herausforderungen, von kleinen Gadgets bis zu komplexen Maschinen.  
+- **Tüftler**: Du konzentrierst dich auf das Erschaffen praktischer, mechanischer Lösungen für Probleme und Herausforderungen, von kleinen Apparaturen bis zu komplexen Maschinen.  
     - Wissen und Bonus in Mathematik/Technik oder Schmiedekunst/Erzkunde  
     - Umgang mit [[../Ausrüstungen/Ausrüstungssets/Tüftler Set|Tüftler Set]] und [[../Ausrüstungen/Ausrüstungssets/Diebes Set|Diebes Set]]  
     - +1 [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
@@ -32,12 +32,12 @@
 #### **2. Level:**  
   
 - **Automaton-Begleiter:** Du kannst einen kleinen mechanischen Begleiter erschaffen, der dir assistiert. Dieser kann je nach Bauweise Nachrichten überbringen, kleine Aufgaben erledigen oder sogar im Kampf unterstützen.  
-- **Schwarzpulver-Magier**: Du kannst Schwarzpulver in deine Gadgets verbauen um diese zum richtigen Zeitpunkt zum explodieren zu bringen. Dies verursacht 1 Schaden an Kreaturen und deutlich mehr an Bauwerken.  
+- **Schwarzpulver-Magier**: Du kannst Schwarzpulver in deinen Apparaturen verbauen um diese zum richtigen Zeitpunkt zum explodieren zu bringen. Dies verursacht 1 Schaden an Kreaturen und deutlich mehr an Bauwerken.  
   
 #### **3. Level:**  
   
-- **Notfallmechanismus:** Einmal pro Tag kann sich ein Gadget von selbst aktivieren um dich zu schützen. Es reagiert auf ein von dir bestimmten Auslöser und gibt dir ein Bonus auf eine Probe oder passiven Wert.  
-- **Kombinierbar**: Du kannst zwei kleine Gadget zu einem größeren Konstrukt kombinieren. Diese können komplexere Aufgaben übernehmen, mehr Schaden verursachen oder verhindern.  
+- **Notfallmechanismus:** Einmal pro Tag kann sich eine Apparatur von selbst aktivieren um dich zu schützen. Es reagiert auf ein von dir bestimmten Auslöser und gibt dir ein Bonus auf eine Probe oder passiven Wert.  
+- **Kombinierbar**: Du kannst zwei kleine Apparaturen zu einem größeren Konstrukt kombinieren. Diese können komplexere Aufgaben übernehmen, mehr Schaden verursachen oder verhindern.  
   
 #### **4. Level:**  
   
