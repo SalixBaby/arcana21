@@ -38,7 +38,13 @@ Sobald du eine grobe Idee hast, suchst du die passende Klasse aus den 21 verfüg
 >[!example]- *Beispiel*   
 >*Du entscheidest dich für die Klasse **Jäger**, eine Kampfklasse, die sich auf Präzision und Geschicklichkeit spezialisiert.*  
   
-##### **2.3 Wähle einen Hintergrund**    
+##### **2.3 Wähle ein Volk**    
+Das Volk deines Charakters beschreibt seine Kultur. Dein Volk verleiht dir dein grobes Aussehen, Rituale und einige Fähigkeiten. Wähle ein Volk, dass sich für dich am interessantesten anhört.  
+  
+>[!example]- *Beispiel*   
+ >*Dein Charakter ist ein Lupari (Wolfvolk) und verlässt sich gerne auf seine Nase. Dies lässt sich gut mit seiner Klasse des Jägers verbinden.*  
+  
+##### **2.4 Wähle einen Hintergrund**    
 Der Hintergrund deines Charakters beschreibt seine Herkunft und bisherigen Erfahrungen. Er gibt dir zusätzliche Fertigkeiten, Wissen und Eigenschaften, die deinem Helden mehr Tiefe verleihen. Wähle einen Hintergrund, der zur Lebensgeschichte deines Charakters passt.  
   
 [[./Hintergründe/-Hintergründe-|Hintergrundsübersicht]]  
@@ -46,7 +52,7 @@ Der Hintergrund deines Charakters beschreibt seine Herkunft und bisherigen Erfah
 >[!example]- *Beispiel*   
  >*Dein Charakter wuchs als **Seefahrer** auf und hat ein tiefes Verständnis für Navigation und das Leben auf See entwickelt.*  
   
-##### **2.4 Verteile deine Kernattribute**    
+##### **2.5 Verteile deine Kernattribute**    
 Nun setzt du die Standardwerte 2, 1 und -1 auf die drei Hauptattribute:  
   
 - **[[./Attribute/Körper/-Körper-|Körper]]** für physische Fähigkeiten.  
@@ -65,7 +71,7 @@ Diese [[./Attribute/-Attribute-|Attribute]] bestimmen, wie gut dein Charakter in
 >*Dein Jäger ist körperlich stark, aber weniger charismatisch.*  
   
   
-##### **2.5 Setze deine Talentpunkte ein**    
+##### **2.6 Setze deine Talentpunkte ein**    
 Danach setzt du deine Talentpunkte auf die Unterattribute der Kernattribute, um deine Fähigkeiten weiter zu spezialisieren. Du hast dabei so viele Talentpunkte wie dein Level + 2. Diese Punkte steigern den Wert des jeweiligen Attributs und verbessern deine Chancen bei entsprechenden Proben. Bist du in einem Unterattribut talentiert erhältst du einen Bonus von +Level auf alle Unterattributs-Proben. Es nicht nicht möglich mehrere Talentpunkte auf das selbe Unterattribut zu setzen.  
   
 [[./Attribute/-Attribute-|Attributsübersicht]]  
@@ -74,20 +80,20 @@ Danach setzt du deine Talentpunkte auf die Unterattribute der Kernattribute, um 
 >Du setzt 1 Talentpunkte auf **Geschicklichkeit**, 1 Punkt auf **Wahrnehmung** und deinen letzten auf **Geschwindigkeit**, um deinem Jäger in diesen Bereichen Vorteile zu verschaffen.  
   
   
-##### **2.6 Verteile deine Ausbildungspunkte**    
+##### **2.7 Verteile deine Ausbildungspunkte**    
 Mit deinen Ausbildungspunkten (Geist-Wert + Level + 2) kannst du Wissen in verschiedenen Kategorien erlangen, den Umgang mit bestimmten Ausrüstungssets erlernen oder neue Sprachen beherrschen. Diese Punkte ermöglichen es dir, deinen Charakter noch individueller zu gestalten.  
   
 >[!example]- Beispiel   
 >Dein Jäger erhält 4 Ausbildungspunkte. Du setzt sie auf **Überleben/Orientierung**, **Natur/Tiere**, **Kartographenset** und **Navigationsset**, um seine Fertigkeiten als Seefahrer und Waldläufer zu verbessern.  
   
   
-##### **2.7 Bestimme alle passiven Werte**    
+##### **2.8 Bestimme alle passiven Werte**    
 Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkte, Ausweichen, Bewegungsrate und Willensstärke, basierend auf den Attributen und deinem Level. Diese Werte beeinflussen deine Leistung im Spiel und deine Widerstandsfähigkeit.  
   
 - [[./Attribute/Passiv/Gesundheit|Gesundheit]]: 3 + [[./Attribute/Körper/Konstitution|Konstitution]] + (Level x 2)  
 - [[Grundregelwerk#77-manapunkte|Manapunkte]]: [[./Attribute/Geist/Arkana|Arkana]] + (Level x 2) (Nur für [[Grundregelwerk#7.6-magienutzer|Magienutzer]])  
 - [[./Zauberausrichtungen/-Zauberausrichtungen-|Zauberausrichtungen]]-Wissen:  3 + Level  
-- [[./Attribute/Passiv/Bewegungsrate|Bewegungsrate]]: 5 + [[./Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
+- [[./Attribute/Passiv/Bewegungsrate|Bewegungsrate]]: (Bewegungsrate des Volkes) + [[./Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
 - [[./Attribute/Passiv/Ausweichen|Ausweichen]]: 10 + [[./Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
 - [[./Attribute/Passiv/Willensstärke|Willensstärke]]: 10 + [[./Attribute/Geist/Fokus|Fokus]]  
 - [[Grundregelwerk#7.4-inspirationspunkte|Inspirationspunkte]]: [[./Attribute/Seele/-Seele-|Seele]]  
@@ -97,7 +103,7 @@ Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkt
 >Dein Jäger hat folgende passive Werte: **Gesundheit**: 3 + 3 (Konstitution) + 1 (Level) x 2 = 8 | **Manapunkte**: 0 (kein Arkana) | **Bewegungsrate**: 5 + 2 (Geschwindigkeit) = 7 | **Ausweichen**: 10 + 2 (Geschwindigkeit) = 12 | **Willensstärke**: 10 + 0 (Fokus) = 10  
   
   
-##### **2.8 Wähle deine Ausrüstung**    
+##### **2.9 Wähle deine Ausrüstung**    
 Zum Schluss stattest du deinen Charakter mit passender Ausrüstung aus. Wähle Waffen, Rüstungen und andere Gegenstände, die zu deiner Klasse und deinem Hintergrund passen. Achte darauf, dass Rüstungen deine Bewegungsrate beeinflussen können:  
   
 - [[./Ausrüstungen/Waffen/-Waffen-|Waffen]] (Maximal 2 Waffen, wobei nicht beide [[./Ausrüstungen/Waffen/Waffeneigenschaften/Schwer|Schwer]] sein dürfen)  
@@ -109,7 +115,7 @@ Zum Schluss stattest du deinen Charakter mit passender Ausrüstung aus. Wähle W
 >Dein Jäger trägt leichte Rüstung, die 2 Bewegungspunkte kostet, wodurch seine Bewegungsrate auf 5 reduziert wird. Als Waffe trägt er einen Bogen und ein Kurzschwert. Durch seine Ausbildung am Navigationsset erhält er dieses ebenfalls zum Start.  
   
   
-##### **2.9 Sei kreativ und hab Spaß!**    
+##### **2.10 Sei kreativ und hab Spaß!**    
 Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abenteuer zusammen mit deinen Freunden erleben. Und ob ihr die Helden oder die Bösen sein wollt, am wichtigsten ist es jedoch: Habt Spaß!  
   
 ---  
@@ -193,7 +199,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
   
  **4.1.5 Mögliche Aktionen**  
 - **Laufen** – _1AP_: Nutze deine Bewegungsrate, um dich über das Schlachtfeld zu bewegen. *(1 Bewegungsrate = 1 Feld = 1m)*  
-- **Springen** – _1AP_: Überwinde Hindernisse oder schließe die Distanz zu deinem Ziel. *(1 Stärke = 1 Feld | Kann mit Probe vergrößert werden)*  
+- **Springen** – _1AP_: Überwinde Hindernisse oder schließe die Distanz zu deinem Ziel. *(Standard: 2 Felder + Stärke | Kann mit Probe vergrößert werden)*  
 - **Verstecken** – _1AP_: Schlüpfe in den Schatten und werde unsichtbar für deine Feinde. *(Geschicklichkeitsprobe gegen Wahrnehmung)*  
 - **Ausweichen** – _1AP_: Erschwere es deinen Gegnern dich zu treffen. *(Malus auf Angriffe gegen dich für die Runde)*  
 - **Rückzug** - *1AP*. Verlasse den Angriffsbereich eines Gegners ohne einen Gelegenheitsangriff zu provozieren.  
@@ -208,6 +214,9 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Zielen** - *1AP*. Nimm dir etwas Zeit für deinen Angriff oder Zauber. *(Bonus auf nächsten Angriff oder Zauber in dieser Runde)*  
 - **Überladen** – _1AP_: Lade deinen Zauber mit Mana auf. *(z.B. mehr Schaden verursachen, mehr Ziele zu bestimmen, größeren Wirkungsbereich etc.)*  
 - **Aufrechthalten** – _1AP_: Halte einen laufenden Zauber länger aufrecht. *(Fokusprobe gegen 10 + erlittenen Schaden in der Runde)*  
+  
+- **Freie Aktion**: - _0AP_. Manche Aktionen sind so klein, dass der SL dies als freie Aktion durchgehen lässt.  
+- **Sprechen**: - _0AP_. Ein Spieler darf in einem gewissen Maße in seinem Zug sprechen. Hier gilt als Faustregel: ein Atemzug.  
   
 - **Kreative Aktion**: - In **Arcana21** geht es um Kreativität. Du hast eine Idee für eine coole Aktion? Frage den SL ob dieser Diese zulässt.  
   
@@ -433,8 +442,8 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
   
 **Weg des Kampfes bietet Zugang zu:**  
 - Zaubern im Allgemeinen mit Malus  
-- Manapunkten/2 (Abgerundet)  
-- Zaubererduellen mit Malus  
+- ~~Manapunkten~~  
+- ~~Zaubererduellen~~  
 - Gelegenheitsangriffen  
 - Waffenfähigkeiten/Eigenschaften  
 - Ausdauerpunkte zurückgewinnen  
