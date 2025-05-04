@@ -29,7 +29,7 @@ Du bist kein einfacher Diener deines Gottes – du bist sein Schwert, sein Schil
   
 #### **2. Level:**  
   
-- **Göttliches Urteil**: Einmal am Tag kannst du einen Gegner mit einem heiligen Urteil belegen. Das Ziel erhält einen Malus auf Angriffsproben für die nächsten drei Runden.  
+- **Göttliches Urteil**: Einmal am Tag kannst du einen Gegner mit einem heiligen Urteil belegen. Das Ziel erhält einen Malus auf Angriffsproben für die nächsten 2 Runden.  
 - **Göttliche Heilung**: Du kannst deine göttliche Verbindung nutzen, um Verletzungen zu heilen. Einmal täglich kannst du dich selber für 2AP um (Level) x Gesundheit heilen.  
   
 #### **3. Level:**  
