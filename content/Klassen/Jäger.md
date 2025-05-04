@@ -50,4 +50,4 @@ ___
 #### **5. Level:**  
   
 - **Meisterjäger**: Du wirst zum ultimativen Jäger. Du kannst jede Kreatur aufspüren, egal wie weit entfernt oder wie gut versteckt sie ist. Du erhältst wage Eindrücke wo sich deine Beute aufhält und erhältst einen zusätzlichen Bonus auf alle Such- und Jagdproben.   
-- **Scharfschütze**: Deine Fähigkeiten mit Fernkampfwaffen erreicht ihren Höhepunkt. Kannst du etwas sehen, kannst du es treffen. Solange du deine Beute sehen kannst erhältst du kein Malus auf Reichweite oder Deckung.
+- **Scharfschütze**: Deine Fähigkeiten mit Fernkampfwaffen erreicht ihren Höhepunkt. Kannst du etwas sehen, kannst du es treffen. Solange du deine Beute direkt sehen kannst erhältst du kein Malus auf Reichweite oder Deckung.
