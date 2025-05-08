@@ -1,6 +1,6 @@
 > ***Zauberausrichtungen in Arcana21** repräsentieren die verschiedenen Arten von magischen Kräften, die Helden nutzen können, um die Welt zu formen und ihre Gegner zu beeinflussen. Diese Ausrichtungen sind in sechs große Kategorien unterteilt, die die Bandbreite magischer Möglichkeiten widerspiegeln. Jede Zauberausrichtung erlaubt es den Helden, auf spezifische Elementar- oder metaphysische Kräfte zuzugreifen, die sich oft noch weiter spezialisieren lassen. So kann z.B. die Ausrichtung Wasser auch Gift, Eis oder Säure beinhalten. Durch die Freiheit, Zauber individuell zu gestalten, werden die Zauberausrichtungen zu einem flexiblen Werkzeug im Arsenal der Helden.*  
   
-	Auch wenn man selbst keine Magie beherrscht kann das Wissen über verschiedene Zauberausrichtung in bestimmten Situationen wichtig sein.  
+==Auch wenn man selbst keine Magie beherrscht kann das Wissen über verschiedene Zauberausrichtung in bestimmten Situationen wichtig sein.==  
 ### Die Kategorien:  
   
 1. **Elementar**    
