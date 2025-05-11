@@ -8,7 +8,7 @@
 **Segen: Hervorragende Ausbildung**  
   
 - +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Geist/-Geist-|Geist]] oder [[../Attribute/Seele/-Seele-|Seele]]  
-- Wissen und Bonus in Kunst/Kultur  
+- Wissen in Politik/Diplomatie  
 - +2 zusätzliche Ausbildungspunkte  
   
 **Fluch: Bekannter Name**  
