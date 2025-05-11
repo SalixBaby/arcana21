@@ -5,9 +5,8 @@
 **Segen: Diskretion**  
   
 - +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Seele/-Seele-|Seele]]  
-- Talent in Intuition und Wahrnehmung  
 - Wissen in Kunst/Kultur  
-- Versteht sich mit anderen Dienern  
+- Wissen in Politik/Diplomatie  
   
 **Fluch: Unterwürfig**  
   

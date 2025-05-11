@@ -5,8 +5,8 @@
 **Segen: Charismatische Präsenz**  
   
 - +1 auf [[../Attribute/Seele/-Seele-|Seele]]  
-- Talent und  Bonus auf [[../Attribute/Seele/Auftritt|Auftritt]]  
 - Wissen in Kunst/Kultur  
+- Talent in [[../Attribute/Seele/Auftritt|Auftritt]]  
 - Kenntnis über Schauspielerei und Musik  
   
 **Fluch: Ruhelosigkeit**  

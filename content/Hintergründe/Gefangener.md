@@ -6,7 +6,7 @@
   
 - +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Seele/-Seele-|Seele]]  
 - Wissen und Bonus in Überleben/Orientierung   
-- Fähigkeiten in Selbstverteidigung und Improvisation  
+- Grundkenntnisse von Gefängnissen  
   
 **Fluch: Paranoia**  
   
