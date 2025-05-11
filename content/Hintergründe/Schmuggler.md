@@ -5,8 +5,7 @@
 **Segen: Untergrundkontakte**  
   
 - +1 auf [[../Attribute/Geist/-Geist-|Geist]] oder [[../Attribute/Seele/-Seele-|Seele]]  
-- Talent in [[../Attribute/Seele/Überzeugen|Überzeugen]] oder Bonus auf Heimlichkeitsproben  
-- Wissen in Architektur/Städteplanung  
+- Wissen und Bonus in Architektur/Städteplanung  
 - Zugang zu Schwarzmärkten und illegalen Waren  
   
 **Fluch: Gesetzlos**  
