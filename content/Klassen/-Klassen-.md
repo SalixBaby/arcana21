@@ -19,7 +19,7 @@
 - [[./Künstler|Künstler]]  
 - [[./Lehrmeister - Draft|Lehrmeister - Draft]]  
 - [[./Magier - Draft|Magier - Draft]]  
-- [[./Magiebrecher - Draft|Magiebrecher - Draft]]  
+- [[./Magiebrecher|Magiebrecher]]  
 - [[./Mönch - Draft|Mönch - Draft]]  
 - [[./Priester - Draft|Priester - Draft]]  
 - [[./Ritter - Paladin - Draft|Ritter - Paladin - Draft]]  
