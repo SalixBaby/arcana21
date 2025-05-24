@@ -30,7 +30,7 @@ Mach dich bereit für eine Reise voller Herausforderungen, Gefahren und unbegren
 Sobald du eine grobe Idee hast, suchst du die passende Klasse aus den 21 verfügbaren Optionen. Jede Klasse bringt besondere Fähigkeiten mit sich, die den Spielstil deines Charakters prägen. Die Klassen sind in drei Kategorien unterteilt:  
   
 - **Kampfklassen** für physische Stärke und Kampfkunst.  
-- **Magienutzer** für magische Fähigkeiten und das Wirken von Zaubern.  
+- **Zauberklassen** für magische Fähigkeiten und das Wirken von Zaubern.  
 - **Dualklassen**, die eine Mischung aus beiden Welten sind und sich flexibel einsetzen lassen.  
     
 [[./Klassen/-Klassen-|Klassenübersicht]]  
@@ -91,7 +91,7 @@ Mit deinen Ausbildungspunkten (Geist-Wert + Level + 2) kannst du Wissen in versc
 Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkte, Ausweichen, Bewegungsrate und Willensstärke, basierend auf den Attributen und deinem Level. Diese Werte beeinflussen deine Leistung im Spiel und deine Widerstandsfähigkeit.  
   
 - [[./Attribute/Passiv/Gesundheit|Gesundheit]]: 3 + [[./Attribute/Körper/Konstitution|Konstitution]] + (Level x 2)  
-- [[Grundregelwerk#77-manapunkte|Manapunkte]]: [[./Attribute/Geist/Arkana|Arkana]] + (Level x 2) (Nur für [[Grundregelwerk#7.6-magienutzer|Magienutzer]])  
+- [[Grundregelwerk#77-manapunkte|Manapunkte]]: [[./Attribute/Geist/Arkana|Arkana]] + (Level x 2) (Nur für Zauberklassen)  
 - [[./Zauberausrichtungen/-Zauberausrichtungen-|Zauberausrichtungen]]-Wissen:  3 + Level  
 - [[./Attribute/Passiv/Bewegungsrate|Bewegungsrate]]: (Bewegungsrate des Volkes) + [[./Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
 - [[./Attribute/Passiv/Ausweichen|Ausweichen]]: 10 + [[./Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
@@ -326,7 +326,7 @@ Zauberausrichtungen bestimmen die Art und Weise, wie Magie im Spiel eingesetzt w
 19. **Schutz** – Errichtung von Barrieren und Verteidigungen.  
 20. **Segen** – Vergabe von positiven Effekten und Verstärkungen.  
  **Beschwörung**  
-21. **Beschwörung** – Herbeirufen von Wesen, Objekten oder Energien aus anderen Dimensionen.  
+21. **Beschwörung** – Herbeirufen von Wesen, Objekten oder Energien.  
   
   
 **5.1.2 Zauberarten:**    
@@ -358,6 +358,63 @@ Es ist möglich, **mehrere Zauber von unterschiedlichen SP zu kombinieren**, um 
 **5.2.4 Erholung von Mana:**  
 - **Lange Ruhe:** Der Mana-Pool regeneriert sich vollständig nach einer langen Ruhephase.  
 - **Andere Methoden:** Bestimmte Tränke, Zauber oder Fähigkeiten können die Regeneration beschleunigen oder Mana sofort wiederherstellen.  
+  
+**5.2.5 Struktur von Zaubereffekten**  
+Zauber in **Arcana21** folgen einem klaren Grundaufbau, der alle Zaubereffekte nach vier Hauptaspekten gliedert:    
+**Reichweite**, **Wirkung**, **Ziel** und **Dauer**.  
+Ein einfacher Zauber (Stufe 0) besitzt die folgende **Basiskonfiguration**, ohne dass Mana dafür aufgewendet werden muss:  
+- **Reichweite:** 10 Felder  
+- **Wirkung:** 1 Punkt Schaden **oder** 1 einfacher Effekt  
+- **Ziel:** 1 Person oder Objekt  
+- **Dauer:** 1 Runde  
+Diese vier Elemente stellen die Ausgangsbasis jedes Zaubers dar.  
+  
+---  
+  
+**Fokuslenkung – Verstärken durch Verzicht**  
+Spieler*innen können bewusst auf eine dieser vier Grundkomponenten verzichten, um eine andere zu verstärken.    
+Beispiele:  
+- **Berührungszauber (Reichweite 0):** Erlaubt stärkeren Effekt (z. B. +1 Schaden)  
+- **Selbstzauber (kein Zielwechsel):** Kann längere Dauer oder verbesserte Wirkung erhalten  
+- **Statischer Effekt (z. B. Bodenfalle):** Kann Zielanzahl oder Präzision steigern  
+  
+---  
+  
+**Manaeinsatz – Überladung von Zaubern**  
+Wird ein Zauber über seine Grundstufe hinaus verstärkt, wird Mana eingesetzt. Für **jeden Manapunkt** darf **eine der folgenden Modifikationen** gewählt werden:  
+  
+|**1 Manapunkt =**|**Veränderung**|  
+|---|---|  
+|**+1 Schaden**|Stärkere Wirkung|  
+|**+1 Ziel**|Zusätzliche Personen/Objekte|  
+|**+10 Felder Reichweite**|Erweiterte Distanz|  
+|**+1 Feld Fläche**|Flächenwirkung statt Einzelziel|  
+|**+1 Runde Dauer**|Effekt hält länger|  
+  
+Das **Überladen kostet immer 1 AP**, unabhängig davon, wie viel Mana verwendet wird.  
+  
+---  
+  
+ **Brutale & Kritische Erfolge – Verstärkung ohne Mana**  
+Beim Wirken eines Zaubers entscheidet eine **Arkana- oder Fokus-Probe**, ob er gelingt. Besonders gute Würfe können Boni gewähren – allerdings **ausschließlich auf die Wirkung des Zaubers** (z. B. mehr Schaden oder stärkere Effekte), **nicht auf Reichweite, Zielanzahl oder Dauer**.  
+  
+- **Brutaler Erfolg** _(5 über dem Zielwert)_    
+    → **+1 Bonus auf die Wirkung** (z. B. +1 Schaden)  
+- **Kritischer Erfolg** _(10 über dem Zielwert)_    
+    → **+2 Boni auf die Wirkung** (z. B. +2 Schaden oder +1 Schaden & verbesserter Effekt)  
+  
+> _Wirkungsverstärkungen durch kritische/brutale Erfolge ersetzen nicht den Einsatz von Mana – sie ergänzen ihn._  
+  
+---  
+  
+ **Zusammenfassung: Zauberkomponenten & Verstärkung**  
+  
+|**Komponente**|**Basiswert**|**Verstärkung durch Mana**|**Verstärkung durch Erfolg**|  
+|---|---|---|---|  
+|**Reichweite**|10 Felder|+10 Felder pro Mana|✖️|  
+|**Wirkung**|1 Schaden / Effekt|+1 pro Mana|Brutal: +1, Kritisch: +2|  
+|**Ziel**|1 Person / Objekt|+1 Ziel pro Mana|✖️|  
+|**Dauer**|1 Runde|+1 Runde pro Mana|✖️|  
   
 ---  
   
@@ -430,7 +487,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 ##### **7.3 Dualklasse**  
 >*Dualklassen vereinen das Beste aus beiden Welten: Sie haben sowohl körperliche als auch magische Fähigkeiten und können sich je nach Situation flexibel anpassen.*  
   
-- **Weg der Entscheidung**: Dualklassen können wählen, ob sie den Kampf- oder den Magieweg einschlagen. Je nach Wahl erhalten sie die Vorteile der Kampfklasse oder des Magienutzers:  
+- **Weg der Entscheidung**: Dualklassen können wählen, ob sie den Kampf- oder den Magieweg einschlagen. Je nach Wahl erhalten sie die Vorteile der Kampfklasse oder der Zauberklasse:  
   
 **Weg der Magie bietet Zugang zu:**  
 - Zaubern im Allgemeinen  
@@ -469,18 +526,18 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 - **Ausdauerpunkte zurückgewinnen**: Durch kritische Treffer können sie verbrauchte Ausdauerpunkte zurückerhalten, was ihnen mehr Möglichkeiten im Kampf bietet.  
 - **Waffenfähigkeiten und -Eigenschaften nutzen**: Sie sind in der Lage, spezielle Waffenfähigkeiten und -Eigenschaften wie Parieren, Aufschlitzen oder Betäuben zu verwenden, um das Schlachtfeld zu dominieren. Dies gilt im Normalfall nur für die Waffen, die in der Charaktererstellung verwendet werden. Dein Charakter kann sich später mit anderen Waffen vertraut machen.  
   
-##### **7.6 Magienutzer**  
->*Magienutzer setzen die Kraft der Magie ein, um die Realität zu formen, ihre Feinde zu besiegen und ihre Verbündeten zu unterstützen. Sie schöpfen ihre Kraft aus Mana und den Zauberausrichtungen.*  
+##### **7.6 Zauberklasse**  
+>*Zauberklassen setzen die Kraft der Magie ein, um die Realität zu formen, ihre Feinde zu besiegen und ihre Verbündeten zu unterstützen. Sie schöpfen ihre Kraft aus Mana und den Zauberausrichtungen.*  
   
-- **Zauber wirken**: Magienutzer können mächtige Zauber aus verschiedenen Zauberausrichtungen wirken, um ihre Gegner zu besiegen oder Verbündeten zu helfen.  
+- **Zauber wirken**: Zauberklassen können mächtige Zauber aus verschiedenen Zauberausrichtungen wirken, um ihre Gegner zu besiegen oder Verbündeten zu helfen.  
 - **Mana-Punkte**: Diese Klassen verfügen über Mana-Punkte, die sie für ihre Zauber einsetzen. Diese regenerieren sich während Pausen oder durch spezielle Fähigkeiten.  
-- **Zauberduell**: Magienutzer können im direkten Wettstreit der Magie stehen und ein Zauberduell führen, bei dem sie ihre arkane Kraft gegen die eines anderen Magienutzers messen.  
+- **Zauberduell**: Zauberklassen können im direkten Wettstreit der Magie stehen und ein Zauberduell führen, bei dem sie ihre arkane Kraft gegen die eines anderen Magienutzers messen.  
   
 ##### **7.7 Manapunkte**  
 > _**Manapunkte** in Arcana21 repräsentieren die magische Energie eines Helden, die durch sein tieferes Verständnis der arkanen Kräfte gespeist wird. Diese Punkte basieren auf dem Geist-Wert, insbesondere der Eigenschaft Arkana, und ermöglichen es dem Helden, Zauber zu wirken, Rituale zu vollziehen und seine magischen Fähigkeiten zu entfesseln. Manapunkte sind die Essenz, die Magie am Leben hält, und ihr Einsatz entscheidet über die Kraft und Häufigkeit der magischen Handlungen.  
   
 - **Nutzung:** Manapunkte werden verwendet, um starke Zauber zu wirken oder magische Effekte zu verstärken. Jeder Zauber benötigt eine bestimmte Anzahl an Manapunkten, abhängig von seiner Stärke oder Komplexität. Helden können Manapunkte auch nutzen, um ihre Zauber zu „verstärken“, wodurch sie noch mächtiger werden. Es können immer nur eine bestimmte Anzahl an Manapunkten gleichzeitig verwendet werden: Diese berechnet sich, solange durch keine spezielle Fähigkeit verändert, mit dem Level des Helden. *(z.B. ein Held auf Level 2 kann einen Zauber mit maximal 2 Mana überladen)*  
-  Es ist nur [[Grundregelwerk#7.6-magienutzer|Magienutzern]] möglich Manapunkte zu nutzen.  
+  Es ist nur Zauberklassen möglich Manapunkte zu nutzen.  
   
 - **Regeneration:** Manapunkte regenerieren sich durch Ruhe und Meditation. Nach einer kurzen Rast stellt der Held einen Teil seiner Manapunkte wieder her (im Normalfall 1 + Level), während eine lange Rast die vollständige Regeneration ermöglicht. Einige Klassen oder Fähigkeiten erlauben auch eine beschleunigte oder zusätzliche Regeneration von Manapunkten.  
   
@@ -519,4 +576,20 @@ Diese Mechanik erlaubt eine flexible Charakterentwicklung und macht jede Klasse 
   
 - Ein Bonus kann durch unterstützende Umstände, meisterhaftes Training oder äußere Hilfe gewährt werden.  
 - Ein Malus tritt ein, wenn widrige Bedingungen, Ablenkungen oder körperliche/magische Beeinträchtigungen vorliegen.  
-- Generell gilt: Bonus/Malus ist stapelbar (mehrere Bonus/Malus werden addiert) außer es ist explizit ausgeschlossen.
+- Generell gilt: Bonus/Malus ist stapelbar (mehrere Bonus/Malus werden addiert) außer es ist explizit ausgeschlossen.  
+  
+##### **7.10 Glücksproben**  
+  
+> _**Glücksproben** kommen dann zum Einsatz, wenn weder die Fähigkeiten eines Charakters noch das Wissen des Spielleiters eine klare Antwort liefern. Wenn eine Entscheidung dem Zufall überlassen werden soll, entscheidet das Schicksal – in Form eines einfachen Wurfs._  
+  
+**Nutzung:**  
+  
+- Der Spielleiter oder die Gruppe entscheidet, ob eine Glücksprobe angemessen ist.  
+- Es wird ein W20 geworfen:  
+    - **11 oder höher**: Das Glück war dem Charakter hold.  
+    - **10 oder niedriger**: Das Schicksal hatte andere Pläne.  
+  
+**Anwendung:**  
+  
+- Glücksproben eignen sich für spontane Entscheidungen, Zufallsergebnisse oder unvorhersehbare Umstände – z. B. ob jemand zufällig am richtigen Ort ist, ob ein vergessener Schlüssel noch im Schloss steckt oder ob der Boden unter einem alten Brett nachgibt.  
+- Sie sind unabhängig von den Werten oder Fähigkeiten des Charakters und spiegeln reine Zufälligkeit wider
