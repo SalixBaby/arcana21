@@ -1,4 +1,4 @@
->In **Arcana21** sind Klassen der Kern eines Charakters und definieren, welche Fähigkeiten und Talente er im Laufe des Spiels entwickelt. Jede Klasse bringt einzigartige Fähigkeiten, Stärken und Schwächen mit sich, die bestimmen, wie ein Charakter sich im Kampf und bei der Erkundung der Welt verhält. Die 21 verschiedenen Klassen unterteilen sich in drei Hauptkategorien: **Kampfklassen**, **Magienutzer** und **Dualklassen**.  
+>In **Arcana21** sind Klassen der Kern eines Charakters und definieren, welche Fähigkeiten und Talente er im Laufe des Spiels entwickelt. Jede Klasse bringt einzigartige Fähigkeiten, Stärken und Schwächen mit sich, die bestimmen, wie ein Charakter sich im Kampf und bei der Erkundung der Welt verhält. Die 21 verschiedenen Klassen unterteilen sich in drei Hauptkategorien: **Kampfklassen**, **Zauberklassen** und **Dualklassen**.  
   
 - **Kampfklassen** spezialisieren sich auf körperliche Auseinandersetzungen, Nahkampf und Taktik.  
 - **Zauberklassen** beherrschen die magischen Künste und sind auf die Manipulation von arkane Energien fokussiert.  
@@ -17,10 +17,10 @@
 - [[./Jäger|Jäger]]  
 - [[./Kleriker|Kleriker]]  
 - [[./Künstler|Künstler]]  
-- [[./Lehrmeister - Draft|Lehrmeister - Draft]]  
+- [[./Nekromant- Draft|Nekromant- Draft]]  
 - [[./Magier - Draft|Magier - Draft]]  
 - [[./Magiebrecher|Magiebrecher]]  
-- [[./Mönch - Draft|Mönch - Draft]]  
+- [[./Mönch|Mönch]]  
 - [[./Priester - Draft|Priester - Draft]]  
 - [[./Ritter - Paladin - Draft|Ritter - Paladin - Draft]]  
 - [[./Soldat - Draft|Soldat - Draft]]  
