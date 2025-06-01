@@ -5,7 +5,7 @@
   
 - **Klassenkategorie:** Dualklasse  
 - **Klassenfähigkeit:** Blutmagie  
-    - Du kannst deine eigene Gesundheit opfern, um magische oder kämpferische Vorteile zu erlangen. Jedes Mal, wenn du Gesundheit opferst, kannst du diese in eine andere Ressource umwandeln, abhängig von deiner Spezialisierung.  
+    - Du kannst deine eigene Gesundheit opfern, um magische oder kämpferische Vorteile zu erlangen. Jedes Mal, wenn du Gesundheit opferst, kannst du diese in eine andere Ressource umwandeln, abhängig von deiner Spezialisierung. Dies kannst du nur einmal pro Runde machen.  
   
 ---  
   
@@ -37,7 +37,7 @@
 #### **3. Level:**  
   
 - **Lebensraub**: Du kannst einem Gegner seine Lebensenergie entziehen und sie in Gesundheit umwandeln. Diese Ritual stellt bis zu 5 Gesundheit wieder her, muss aber außerhalb des Kampfes ausgeführt werden. Dieses Ritual dauert 10 Minuten, in denen der Gegner sich nicht nicht bewegen darf, und tötet unwiderruflich den Gegner.  
-- **Jenseitsflüstern**: Wenn du einen Gegner getötet hast kannst du ein Fragment seiner Seele an dich binden. Du kannst bis zu (Level) x Fragmente gleichzeitig halten und dich mit diesen Fragmenten unterhalten.  
+- **Blutsinn**: Du kannst in einem (Level x) 10m Radius frisches Blut wahrnehmen und bestimmen wem es gehört. Du erhältst wage Eindrücke der Kreatur und wie sie verletzt wurde.  
   
 #### **4. Level:**  
   
@@ -46,5 +46,5 @@
   
 #### **5. Level:**  
   
-- **Erwachte Blutlinie**: Dein Körper hat sich an die Blutmagie angepasst. Jedes Mal, wenn du Gesundheit opferst, erhältst du den dreifachen Bonus.  
+- **Erwachte Blutlinie**: Dein Körper hat sich an die Blutmagie angepasst. Jedes Mal, wenn du Gesundheit opferst, erhältst du den doppelten Bonus.  
 - **Augen um Auge**: Du kannst einmal in der Woche ein großes Ritual abhalten, in dem du die Enzens von willigen Kreaturen absorbierst. Für jede willige Seele die sich so für dich opfert erhöht sich deine maximale Gesundheit und Lebenszeit – allerdings zu einem hohen Preis.
