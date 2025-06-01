@@ -179,7 +179,8 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - Der Kampf beginnt, sobald der Spielleiter ihn ansagt. Aktionen, die vorher ausgeführt wurden und in einen Kampf münden, können das Kampfgeschehen entscheidend beeinflussen. Eine gute Koordination unter den Spielern wird belohnt.  
 - Jede Figur führt zu Beginn des Kampfes einen **Initiativewurf** durch.  
     - Die Spieler können entscheiden, ob sie **Instinkt**, **Erfahrung** oder **Intuition** für ihren Wurf nutzen wollen.  
-    - Die Initiative bestimmt die Reihenfolge, in der die Figuren ihre Züge ausführen.  
+	- Das Ergebnis des Initiativewurfs bestimmt die Reihenfolge, in der die Beteiligten ihre Züge ausführen.  
+- Wenn mehrere Figuren – seien es Spielercharaktere oder Gegner – direkt hintereinander an der Reihe sind, dürfen sie sich zu einer **Initiativegruppe** zusammenschließen. Innerhalb dieser Gruppe können die Mitglieder selbst entscheiden, wer in welcher Reihenfolge handelt. Allerdings sind nur einfache Absprachen erlaubt – etwa: _„Ich warte, bis der Kämpfer aus der Schusslinie ist.“_ Komplexe Taktikplanung ist in dieser Phase nicht vorgesehen.  
   
 **4.1.2 Rundenstruktur**  
 - Jede Figur hat pro Runde **4 Aktionspunkte (AP)**, die sie für Aktionen wie Angriffe, Bewegungen, Zauber oder andere Tätigkeiten ausgeben kann.  
@@ -207,13 +208,13 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Lähmen** – _1AP_: Ist dein Gegner bereits festgehalten, kannst du versuchen, ihn vollständig zu lähmen. *(Stärkeproben-Wettstreit. Reduziert deine Bewegungsrate auf 0)*  
 - **Befreien** - *1AP*. Befreie dich aus einem Festhalten oder einer Lähmung. *(Stärkeproben-Wettstreit oder kreative Lösung)*  
 - **Schubsen** – _1AP_: Bringe einen Gegner aus dem Gleichgewicht oder stoße ihn von dir weg. *(Stärkeproben-Wettstreit. 1 Stärke = 1/2 Feld aufgerundet)*  
-- **Helfen** – _1AP_: Helfe einem Mistreiter bei einer bevorstehenden Probe, in der du geübt bist. *(Bonus auf nächste Probe)*  
+- **Helfen** – _1AP_: Helfe einem Mistreiter bei einer bevorstehenden Angriffsprobe oder einer Probe, in der du geübt bist. *(Bonus auf nächste Probe)*  
 - **Verwenden** – _1AP_: Interagiere mit einem Gegenstand *(z.B. Trank trinken, Tür öffnen, Waffe ziehen etc.)*  
 - **Angriff** – _1AP_: Greife einen Gegner physisch an. *(Angriffsprobe)*  
-- **Zaubern** – _1AP_: Nutze deinen Magie um anzugreifen, zu helfen oder deine Umgebung zu verändern. *(Arkanaprobe*)  
+- **Zaubern** – _1AP_: Nutze deine Magie um anzugreifen, zu helfen oder deine Umgebung zu verändern. *(Arkanaprobe*)  
 - **Zielen** - *1AP*. Nimm dir etwas Zeit für deinen Angriff oder Zauber. *(Bonus auf nächsten Angriff oder Zauber in dieser Runde)*  
 - **Überladen** – _1AP_: Lade deinen Zauber mit Mana auf. *(z.B. mehr Schaden verursachen, mehr Ziele zu bestimmen, größeren Wirkungsbereich etc.)*  
-- **Aufrechthalten** – _1AP_: Halte einen laufenden Zauber länger aufrecht. *(Fokusprobe gegen 10 + erlittenen Schaden in der Runde)*  
+- **Aufrechthalten** – _1AP_: Halte einen laufenden Zauber länger aufrecht. *(Fokusprobe gegen 10 + 2x erlittenen Schaden in der Runde)*  
   
 - **Freie Aktion**: - _0AP_. Manche Aktionen sind so klein, dass der SL dies als freie Aktion durchgehen lässt.  
 - **Sprechen**: - _0AP_. Ein Spieler darf in einem gewissen Maße in seinem Zug sprechen. Hier gilt als Faustregel: ein Atemzug.  
@@ -415,6 +416,8 @@ Beim Wirken eines Zaubers entscheidet eine **Arkana- oder Fokus-Probe**, ob er g
 |**Wirkung**|1 Schaden / Effekt|+1 pro Mana|Brutal: +1, Kritisch: +2|  
 |**Ziel**|1 Person / Objekt|+1 Ziel pro Mana|✖️|  
 |**Dauer**|1 Runde|+1 Runde pro Mana|✖️|  
+  
+*(An dieser Stelle ist nochmal zu erwähnen, dass es sich hier um eher so etwas wie "Richtlinien" handelt. Es geht darum das sowohl der SL als auch die Spieler eine gewisse Grundlage haben. Am Ende hat wie immer der SL das letzte Sagen, wie und ob etwas funktioniert.)*  
   
 ---  
   
