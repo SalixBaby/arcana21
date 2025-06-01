@@ -17,7 +17,7 @@
 - [[./Jäger|Jäger]]  
 - [[./Kleriker|Kleriker]]  
 - [[./Künstler|Künstler]]  
-- [[./Nekromant- Draft|Nekromant- Draft]]  
+- [[./Nekromant|Nekromant]]  
 - [[./Magier - Draft|Magier - Draft]]  
 - [[./Magiebrecher|Magiebrecher]]  
 - [[./Mönch|Mönch]]  

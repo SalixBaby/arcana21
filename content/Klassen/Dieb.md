@@ -30,7 +30,7 @@
 #### **2. Level:**  
   
 - **Langsam aber sicher**: Du kannst 1AP bezahlen um dir auf deine Heimlichkeitsproben eine +5 zu geben. Dieser Effekt ist stapelbar.  
-- **Spürsinn**: Du hast ein untrügliches Gespür für verborgene Dinge. Du erhältst einen Bonus auf Proben zum Finden geheimer Türen, versteckter Mechanismen oder verborgener Fallen.  
+- **Spürsinn**: Du hast ein untrügliches Gespür für verborgene Dinge. Du erhältst einen doppelten Bonus auf Proben zum Finden geheimer Türen, versteckter Mechanismen oder verborgener Fallen.  
   
 #### **3. Level:**  
   
