@@ -88,11 +88,11 @@ Mit deinen Ausbildungspunkten (Geist-Wert + Level + 2) kannst du Wissen in versc
   
   
 ##### **2.8 Bestimme alle passiven Werte**    
-Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkte, Ausweichen, Bewegungsrate und Willensstärke, basierend auf den Attributen und deinem Level. Diese Werte beeinflussen deine Leistung im Spiel und deine Widerstandsfähigkeit.  
+Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkte, Ausweichen, Bewegungsrate und Willensstärke, basierend auf den Attributen und deinem Level. Diese Werte beeinflussen deine Leistung im Spiel und deine Widerstandsfähigkeit. Sollte einer der passiven Werte auf unter 0 fallen wird dies auf 0 aufgerundet.  
   
 - [[./Attribute/Passiv/Gesundheit|Gesundheit]]: 3 + [[./Attribute/Körper/Konstitution|Konstitution]] + (Level x 2)  
-- [[Grundregelwerk#77-manapunkte|Manapunkte]]: [[./Attribute/Geist/Arkana|Arkana]] + (Level x 2) (Nur für Zauberklassen)  
-- [[./Zauberausrichtungen/-Zauberausrichtungen-|Zauberausrichtungen]]-Wissen:  3 + Level  
+- [[Grundregelwerk#77-manapunkte|Manapunkte]]: [[./Attribute/Geist/-Geist-|Geist]] + (Level x 2) (Nur für Zauberklassen)  
+- [[./Zauberausrichtungen/-Zauberausrichtungen-|Zauberausrichtungen]]: [[./Attribute/Geist/Wissen|Wissen]] + 3 + Level  
 - [[./Attribute/Passiv/Bewegungsrate|Bewegungsrate]]: (Bewegungsrate des Volkes) + [[./Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
 - [[./Attribute/Passiv/Ausweichen|Ausweichen]]: 10 + [[./Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
 - [[./Attribute/Passiv/Willensstärke|Willensstärke]]: 10 + [[./Attribute/Geist/Fokus|Fokus]]  
@@ -227,10 +227,25 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Zauberduell:** *1AP*. Verhindere gegnerische Zauber. *(siehe 4.4.2)*  
   
 **4.1.7 Lebensgefahr**  
-- **Todesröcheln**: Fällt ein Held auf **0 Gesundheit**, kann er nur noch **1 AP pro Runde** einsetzen. Am Ende seines Zuges muss er eine **Konstitution-Probe** bestehen oder 1 Gesundheit verlieren.  
+- **Todesröcheln**: Fällt ein Held auf **0 Gesundheit**, kann er nur noch **1 AP pro Runde** einsetzen. Er kann keine Ausdauerpunkte in diesem Zustand nutzen. Am Ende seines Zuges muss er eine **Konstitution-Probe** bestehen oder 1 Gesundheit verlieren.  
 - **Stabilisieren**: Ein Held der sich im Todesröcheln befindet kann von jemandem mit Wissen in Medizin und einer Probe um 1 Gesundheit geheilt werden.  
 - **Tod eines Helden**: Fällt ein Held auf **-3 Gesundheit**, stirbt er endgültig. Es gibt allerdings spezielle Fähigkeiten oder Zauber, um ihn wiederzubeleben.  
 - **Tod eines Nicht-Spieler-Charakters**: Ein NPC hat im Normalfall 3 Gesundheit. Fällt ein NPC auf 1 Gesundheit befindet er sich im Todesröcheln. Fällt ein NPC auf 0 Gesundheit stirbt dieser endgültig.  
+  
+**4.1.8 Gelände und Umgebung**  
+- **Erhöhte Position**: Du erhältst einen Bonus auf Angriffsproben gegen Ziele in niedrigerer Position.  
+- **Niedere Position**: Du erhältst einen Malus auf Angriffsproben gegen Ziele in erhöhter Position.  
+- **Volle Deckung**: Du kannst nicht angegriffen werden, solange du dich nicht bewegst oder angreifst.  
+- **Halbdeckung**: Gegner erhalten einen Malus auf Angriffsproben gegen dich.  
+- **Unwegsames Gelände**: Deine Bewegungsrate ist halbiert (abgerundet).  
+- **Rutschiger Boden**: Bei Bewegung musst du eine Geschicklichkeitsprobe ablegen oder stürzt.  
+- **Erschwerte Sicht**: Dunkelheit, Nebel etc. schränken die Sicht ein. Heimlichkeitsproben erhalten einen Bonus.  
+- (Der Spielleiter setzt die Szene und es kann immer zu neuen Gelände und Umgebung führen.)  
+  
+**4.1.9 Taktische Kampfvorteile**  
+- **Flankieren**: Greifst du einen Gegner an, der von einem Verbündeten im Nahkampf gebunden ist, erhältst du einen Bonus auf deine Angriffsprobe.  
+- **Umzingelung**: Wenn ein Gegner von mindestens zwei Seiten gleichzeitig im Nahkampf bedroht wird, erhalten **alle** Angriffe gegen ihn einen Bonus.  
+- **Hinterhalt**: Überraschst du einen Gegner (z. B. durch Heimlichkeit oder Magie), erhält du einen Bonus auf deinen ersten Angriff.  
   
 ##### **4.2 Schaden**  
   
@@ -240,8 +255,8 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
     
 **4.2.2 Zauberschaden**  
 - Der Schaden eines Zaubers hängt von der eingesetzten **Mana-Menge** ab:  
-    - **Kein Mana (Nicht Überladen):** Der Zauber verursacht 1 Schaden.  
-    - **Zusätzlich eingesetztes Mana (Überladen):** Pro Mana-Punkt steigt der Schaden um +1.  
+    - **Kein Mana (Nicht Überladen):** Der Zauber kann 1 Schaden verursachen.  
+    - **Zusätzlich eingesetztes Mana (Überladen):** Pro Mana-Punkt kann der Schaden um +1 steigen.  
 - Überladene Zauber können besonders riskant sein, da sie die Figur erschöpfen können.  
   
 **4.2.3 Trefferarten**  
@@ -481,10 +496,8 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 ##### **7.2 Ausdauerpunkte**  
 > ***Ausdauerpunkte** (AP) in Arcana21 repräsentieren die physische Reserven eines Helden, die er in intensiven Momenten des Kampfes oder bei anderen anstrengenden Aktionen anzapfen kann. Diese Punkte erlauben es dem Helden, kurzfristig seine Leistung zu steigern, indem er zusätzliche Aktionen in einem Zug durchführt. Ausdauerpunkte werden verbraucht, um zum Beispiel eine weitere Bewegung oder einen zusätzlichen Angriff auszuführen, und können durch kritische Treffer oder andere besondere Umstände wieder aufgefrischt werden. Der Grundwert der Ausdauerpunkte hängt vom Attribut Körper ab, wodurch physisch starke Helden mehr Ausdauer besitzen.*  
   
-- **Nutzung:** Ausdauerpunkte können eingesetzt werden, um in einer Runde eine zusätzliche Aktion zu ermöglichen. Dies könnte der entscheidende Angriff oder eine taktische Bewegung sein, die den Unterschied zwischen Sieg und Niederlage ausmacht.  
-      
+- **Nutzung:** Ausdauerpunkte können eingesetzt werden, um in einer Runde einen zusätzlichen AP zu erhalten. Dies könnte der entscheidende Angriff oder eine taktische Bewegung sein, die den Unterschied zwischen Sieg und Niederlage ausmacht. Es kann normalerweise nur ein Ausdauerpunkt pro Runde verbraucht werden.  
 - **Regeneration:** Ausdauerpunkte werden durch bestimmte Aktionen, wie kritische Treffer oder spezielle Fähigkeiten, wiederhergestellt. Dadurch können Helden in entscheidenden Momenten zurückschlagen oder sich verteidigen. Nur Kampfklassen können ohne eine rast Ausdauerpunkte wiederherstellen.  
-      
 - **Berechnung:** Die Anzahl der Ausdauerpunkte eines Charakters wird durch das Kernattribut _Körper_ bestimmt. Ein Held mit höherem Körper-Wert hat also mehr Ausdauer und kann häufiger zusätzliche Aktionen ausführen, was seine Flexibilität im Kampf erhöht.  
   
 ##### **7.3 Dualklasse**  
@@ -496,12 +509,12 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 - Zaubern im Allgemeinen  
 - Manapunkten  
 - Zaubererduellen  
-- Gelegenheitsangriffen mit Malus  
+- ~~Gelegenheitsangriffen~~  
 - ~~Waffenfähigkeiten/Eigenschaften~~  
 - ~~Ausdauerpunkte zurückgewinnen~~  
   
 **Weg des Kampfes bietet Zugang zu:**  
-- Zaubern im Allgemeinen mit Malus  
+- ~~Zaubern im Allgemeinen~~  
 - ~~Manapunkten~~  
 - ~~Zaubererduellen~~  
 - Gelegenheitsangriffen  
@@ -517,9 +530,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 > ***Inspirationspunkte** in Arcana21 symbolisieren die Fähigkeit eines Helden, andere durch seine innere Stärke und Ausstrahlung zu motivieren und zu unterstützen. Diese Punkte basieren auf dem Seelen-Wert des Charakters und ermöglichen es dem Helden, anderen im richtigen Moment einen Vorteil zu verschaffen. Ob im hitzigen Gefecht oder bei einer schwierigen Verhandlung, kann der Held durch den Einsatz von Inspirationspunkten einem Verbündeten einen Vorteil auf dessen nächsten Wurf gewähren. Diese Fähigkeit reflektiert die tiefe Verbindung zur Seele, die es erlaubt, andere zu inspirieren, ihnen Mut zu geben oder ihre Entschlossenheit zu stärken.*  
   
 - **Nutzung:** Der Held kann Inspirationspunkte einsetzen, um einem Verbündeten im Kampf oder außerhalb davon einen Vorteil auf seinen nächsten Wurf zu geben. Der Vorteil muss vor dem Wurf angekündigt werden.  
-      
 - **Regeneration:** Inspirationspunkte werden durch bestimmte Aktionen, wie Rasten oder spezielle Fähigkeiten, wiederhergestellt. Dadurch können sich Helden in entscheidenden Momenten einen Vorteil verschaffen.  
-      
 - **Berechnung:** Die Anzahl der Inspirationspunkte eines Charakters wird durch das Kernattribut _Seele_ bestimmt. Ein Held mit höherem Seele-Wert hat also mehr Inspiration und kann häufiger seine Kameraden Vorteil verschaffen, was ihn zu einem wichtigen Gefährten sowohl im Kampf als auch außerhalb macht.  
   
 ##### **7.5 Kampfklasse**  
@@ -541,14 +552,10 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
   
 - **Nutzung:** Manapunkte werden verwendet, um starke Zauber zu wirken oder magische Effekte zu verstärken. Jeder Zauber benötigt eine bestimmte Anzahl an Manapunkten, abhängig von seiner Stärke oder Komplexität. Helden können Manapunkte auch nutzen, um ihre Zauber zu „verstärken“, wodurch sie noch mächtiger werden. Es können immer nur eine bestimmte Anzahl an Manapunkten gleichzeitig verwendet werden: Diese berechnet sich, solange durch keine spezielle Fähigkeit verändert, mit dem Level des Helden. *(z.B. ein Held auf Level 2 kann einen Zauber mit maximal 2 Mana überladen)*  
   Es ist nur Zauberklassen möglich Manapunkte zu nutzen.  
-  
 - **Regeneration:** Manapunkte regenerieren sich durch Ruhe und Meditation. Nach einer kurzen Rast stellt der Held einen Teil seiner Manapunkte wieder her (im Normalfall 1 + Level), während eine lange Rast die vollständige Regeneration ermöglicht. Einige Klassen oder Fähigkeiten erlauben auch eine beschleunigte oder zusätzliche Regeneration von Manapunkten.  
-  
 - **Berechnung:** Die Anzahl der Manapunkte eines Charakters wird durch das Attribut _Arkana_ und das Level des Helden bestimmt:  
-  
     - **Manapunkte = Arkana-Wert + (Level x 2)**  
     - Ein Held mit höherem Arkana-Wert und Level hat somit eine größere magische Reserve und kann öfter oder stärkere Zauber wirken.  
-  
   
 ##### **7.8 Talentpunkte**  
 >***Talentpunkte** (**TP**) in Arcana21 repräsentieren die Fertigkeiten und das spezialisierte Wissen deines Helden. Sie ermöglichen es, bestimmte Eigenschaften oder Fähigkeiten gezielt zu verbessern, um so einen Vorteil in verschiedenen Situationen zu erlangen. Talentpunkte sind ein zentraler Bestandteil des Fortschrittssystems, mit denen du deinen Charakter individualisieren und spezialisieren kannst.*  
@@ -560,23 +567,16 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 - Die Anzahl der Talentpunkte, die du am Anfang erhältst ist 3  
   
 **Berechnung:** Der Wert der Eigenschaften wird durch die verteilten Talentpunkte und das übergeordnete Kernattribut bestimmt. Wenn du etwa einen Geist-Wert von 2 hast und 1 Talentpunkt auf **Fokus** verteilst, wird der endgültige Wert von **Fokus** 3 betragen.  
-  
 **Verbesserung durch Heldenstufen:** Mit jeder Heldenstufe erhältst du neue Talentpunkte, die du in deine Eigenschaften investieren kannst. Dadurch steigt dein Charakter im Laufe des Spiels immer weiter in seinen Spezialgebieten auf und wird zu einem mächtigen Helden.  
-  
-Diese Mechanik erlaubt eine flexible Charakterentwicklung und macht jede Klasse und Spielweise einzigartig.  
-  
   
 ##### **7.9 Bonus & Malus**  
   
 > _**Bonus und Malus** in Arcana21 sind Mechaniken, die bestimmte Proben beeinflussen können, indem sie zusätzliche Würfelergebnisse einbeziehen. Sie spiegeln vorteilhafte oder nachteilige Umstände wider, die das Schicksal deines Charakters beeinflussen._  
   
 **Nutzung:**  
-  
 - **Bonus:** Ein Vorteil, der eine Aktion erleichtert. Du erhältst einen Bonus von +3 auf deine Probe.  
 - **Malus:** Ein Nachteil, der eine Aktion erschwert. Du erhältst einen Malus von -3 auf deine Probe.  
-  
 **Anwendung:**  
-  
 - Ein Bonus kann durch unterstützende Umstände, meisterhaftes Training oder äußere Hilfe gewährt werden.  
 - Ein Malus tritt ein, wenn widrige Bedingungen, Ablenkungen oder körperliche/magische Beeinträchtigungen vorliegen.  
 - Generell gilt: Bonus/Malus ist stapelbar (mehrere Bonus/Malus werden addiert) außer es ist explizit ausgeschlossen.  
@@ -586,13 +586,69 @@ Diese Mechanik erlaubt eine flexible Charakterentwicklung und macht jede Klasse 
 > _**Glücksproben** kommen dann zum Einsatz, wenn weder die Fähigkeiten eines Charakters noch das Wissen des Spielleiters eine klare Antwort liefern. Wenn eine Entscheidung dem Zufall überlassen werden soll, entscheidet das Schicksal – in Form eines einfachen Wurfs._  
   
 **Nutzung:**  
-  
 - Der Spielleiter oder die Gruppe entscheidet, ob eine Glücksprobe angemessen ist.  
 - Es wird ein W20 geworfen:  
     - **11 oder höher**: Das Glück war dem Charakter hold.  
     - **10 oder niedriger**: Das Schicksal hatte andere Pläne.  
+**Anwendung:**  
+- Glücksproben eignen sich für spontane Entscheidungen, Zufallsergebnisse oder unvorhersehbare Umstände – z. B. ob jemand zufällig am richtigen Ort ist, ob ein vergessener Schlüssel noch im Schloss steckt oder ob der Boden unter einem alten Brett nachgibt.  
+- Sie sind normalerweise unabhängig von den Werten oder Fähigkeiten des Charakters und spiegeln reine Zufälligkeit wider.  
+  
+##### **7.11 Zustände**  
+  
+> _**Zustände** beschreiben anhaltende Effekte, die eine Kreatur im Laufe eines Abenteuers beeinflussen können. Sie wirken sich direkt auf Proben aus – entweder positiv oder negativ – und können durch Magie, Rast oder Zeit überwunden werden._  
+  
+**Grundprinzipien:**  
+- **Positive Zustände** verleihen **einen Bonus** auf bestimmte oder alle Proben.  
+- **Negative Zustände** verursachen **einen Malus** auf bestimmte oder alle Proben.  
+- Zustände können **stapelbar** sein – ihre Effekte summieren sich.  
+- Einige Zustände enden **automatisch nach einer bestimmten Zeit**, andere nur durch **Magie, Hilfe oder eine lange Rast**.  
+  
+**Positive Zustände (Beispiele)**  
+- **Gestärkt:** Du fühlst dich kräftiger und energischer.  
+- **Fokussiert:** Dein Geist ist geschärft, du bist voll konzentriert.  
+- **Belebt:** Deine Seele ist aufgeladen mit Lebensfreude oder Magie.  
+- **Geschärft:** Deine Sinne sind besonders aufmerksam und präzise.  
+- **Entschlossen:** Du bist geistig und emotional gefestigt.  
+- **Inspiriert:** Eine Idee oder ein Ereignis motiviert dich spürbar.  
+- **Magisch erfüllt:** Deine arkane Kraft ist über das Normalmaß hinaus verstärkt.  
+- **Schwebend:** Du bewegst dich mühelos, fast schwerelos.  
+  
+> _Positive Zustände enden meist nach kurzer Zeit oder nach der nächsten Aktion, können aber auch gezielt durch Magie oder besondere Umstände gewährt werden._  
+  
+**Negative Zustände (Beispiele)**  
+- **Vergiftet:** Dein Körper ist geschwächt durch eine toxische Substanz.  
+- **Erschöpft:** Du hast deine körperlichen oder geistigen Reserven überzogen.  
+- **Verängstigt:** Du bist gehemmt oder eingeschüchtert.  
+- **Geblendet:** Deine Sicht ist stark beeinträchtigt.  
+- **Verwirrt:** Deine Gedanken sind unklar oder instabil.  
+- **Blutend:** Du verlierst kontinuierlich Gesundheit.  
+- **Gebunden:** Deine Bewegungsfreiheit ist eingeschränkt.  
+- **Geschwächt:** Deine Kraft oder Widerstandsfähigkeit ist reduziert.  
+  
+> _Negative Zustände vergehen unterschiedlich schnell:_  
+> - Manche verschwinden **automatisch nach einigen Runden oder Minuten**.  
+> - Andere erfordern **aktive Hilfe, Magie oder ein Heilmittel**.  
+> - **Erschöpfung** bleibt bestehen, bis du eine **lange Rast** abgeschlossen hast – dabei wird jeweils nur **ein Stapel** entfernt.  
+> - Wenn eine Kreatur 3 mal den gleichen negativen Zustand hat, ist diese Kampfunfähig. Der SL entscheidet was genau passiert.    
+  
+  
+#### **7.12 Rast**  
+  
+> _**Rasten** erlaubt es deinem Charakter, sich von den Strapazen des Abenteurerlebens zu erholen. Sie stellt Ressourcen wieder her und markiert erzählerisch den Übergang zwischen intensiven Ereignissen._  
+  
+**Arten von Rasten:**  
+- **Kurze Rast:**    
+    Eine Ruhephase von mindestens 24 Stunden ohne Kampf, Stress oder Reisen – z. B. ein Tag in einem sicheren Lager oder einer friedlichen Stadt.  
+    - Stelle **1 + Level Gesundheit, Manapunkte, Ausdauerpunkte und Inspirationspunkte** wieder her.  
+  
+- **Lange Rast:**    
+    Eine vollständige Erholung über mindestens eine Woche hinweg in einer sicheren Umgebung mit Nahrung, Schlafplatz und Wärme – z. B. in einem Gasthaus oder Zuhause.  
+    - Stelle **alle Gesundheit, Manapunkte, Ausdauerpunkte und Inspirationspunkte** wieder her.  
+    - Entfernt **1 Zustand „Erschöpfung“**.  
+    - Entfernt einige negative Effekte, wenn vom Spielleiter erlaubt.  
   
 **Anwendung:**  
-  
-- Glücksproben eignen sich für spontane Entscheidungen, Zufallsergebnisse oder unvorhersehbare Umstände – z. B. ob jemand zufällig am richtigen Ort ist, ob ein vergessener Schlüssel noch im Schloss steckt oder ob der Boden unter einem alten Brett nachgibt.  
-- Sie sind unabhängig von den Werten oder Fähigkeiten des Charakters und spiegeln reine Zufälligkeit wider
+- Rasten fördert das Verwalten von Ressourcen und gibt Raum für Charakterentwicklung, Gespräche und Handlungen abseits des Kampfes.  
+- Während einer Rast können Handlungen wie Handwerk, Forschung, Studium oder Training erfolgen – jedoch nur, wenn die Rast nicht durch äußere Einflüsse gestört wird.  
+- Die Spielleitung kann Rastzeiten an die Welt und Geschichte anpassen – in gefährlichen Regionen sind selbst kurze Rasten ein Luxus.
