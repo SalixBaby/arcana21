@@ -25,17 +25,17 @@ Du bist kein einfacher Diener deines Gottes – du bist sein Schwert, sein Schil
 #### **1. Level:**  
   
 - **Göttliche Einsicht**: Dein Gott gewährt dir Visionen oder Eingebungen. Einmal pro Tag kannst du eine göttliche Offenbarung erhalten, die dir eine kryptische, aber vielleicht hilfreiche Eingebung zu einer aktuellen Herausforderung gibt.  
-- **Göttliche Präsenz**: Du kannst einmal pro Tag deine Präsenz so verstärken, dass sie von anderen wahrgenommen wird. Du erhältst für eine Konversation einen doppelten Bonus auf Einschüchtern oder Überzeugenproben.  
+- **Göttliche Präsenz**: Du kannst einmal pro Tag deine Präsenz so verstärken, dass sie von anderen wahrgenommen wird. Du erhältst für eine Konversation einen Bonus auf Einschüchtern oder Überzeugenproben.  
   
 #### **2. Level:**  
   
 - **Göttliches Urteil**: Einmal am Tag kannst du einen Gegner mit einem heiligen Urteil belegen. Das Ziel erhält einen Malus auf Angriffsproben für die nächsten 2 Runden.  
-- **Göttliche Heilung**: Du kannst deine göttliche Verbindung nutzen, um Verletzungen zu heilen. Einmal täglich kannst du dich selber für 2AP um (Level) x Gesundheit heilen.  
+- **Göttliche Heilung**: Du kannst deine göttliche Verbindung nutzen, um Verletzungen zu heilen. Einmal täglich kannst du dich selber für 2 AP um (Level) x Gesundheit heilen.  
   
 #### **3. Level:**  
   
-- **Göttliche Macht**: Du kannst deine göttlichen Fähigkeiten steigern und bis zu 4 AP pro Kampf zusätzlich nutzen, die entweder Teil eines Zauber oder ein Angriffs sein müssen.  
-- **Göttliches Schild**: Du kannst einmal pro Tag als Reaktion einen Schaden gänzlich negieren. Dies kostet jedoch 2 AP.  
+- **Göttliche Macht**: Du kannst deine göttlichen Fähigkeiten steigern und bis zu 3 AP pro Kampf zusätzlich nutzen, die entweder Teil eines Zauber oder ein Angriffs sein müssen.  
+- **Göttliches Schild**: Du kannst einmal pro Tag als Reaktion einen Schaden gänzlich negieren. Dies kostet jedoch 3 AP.  
   
 #### **4. Level:**  
   
