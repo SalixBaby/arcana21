@@ -11,12 +11,12 @@ _Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und d
   
 #### **Variationen:**  
   
-- **Schattenklinge**: Du bist ein lautloser Jäger, der sich in den Schatten bewegt und seine Gegner mit präzisen Klingenstößen erledigt.  
+- **Auftragsmörder**: Du tötest nicht aus Leidenschaft oder Not – du tust es, weil es dein Beruf ist. Du kennst deine Ziele, bereitest dich vor, und schlägst dann zu, wenn der Moment perfekt ist. Ob mit Dolch, Gift oder präzisem Schuss – deine Kunst ist der saubere Tod.  
     - +1 auf [[../Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
     - +1 auf [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
-- **Giftmischer**: Du nutzt tödliche Toxine, um deine Feinde zu schwächen oder lautlos auszuschalten.  
+- **Chirurg**: Du kennst den menschlichen Körper besser als jeder andere. Du weißt genau, wo du schneiden musst – um zu lähmen, zu töten oder nur Schmerz zu erzeugen. Deine Klinge ist präzise wie ein Skalpell – und ebenso tödlich.  
     - +1 auf [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
-    - Wissen in Medizin/Anatomie & Natur/Tiere  
+    - Wissen und Bonus in Medizin/Anatomie  
   
 ---  
   
@@ -42,5 +42,5 @@ _Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und d
   
 #### **5. Level:**  
   
-- **Treffsicher**: Dein Können im Umgang mit tödlichen Waffen erreicht seinen Höhepunkt. Einmal pro Kampf kannst du einen Angriff automatisch als kritischen Treffer werten lassen.  
+- **Treffsicher**: Dein Können im Umgang mit tödlichen Waffen erreicht seinen Höhepunkt. Du erhältst auf alle Angriffproben einen doppelten Bonus.  
 - **Meister-Assassine**: Du kannst einen Gegner lautlos und sofort töten, wenn er dich nicht bemerkt und seine Gesundheit unter 5 ist.
