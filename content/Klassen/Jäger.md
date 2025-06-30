@@ -27,7 +27,7 @@ ___
   
 ---  
   
-### **1. Level:**  
+#### **1. Level:**  
   
 - **Tiergefährte**: Du kannst ein Tiergefährten an deiner Seite haben. Dieses Tier kann dir im Kampf beistehen oder dich bei der Jagd unterstützen. Dies muss mit dem SL besprochen werden.  
 - **Bevorzugtes Terrain**: Du bist in einer bestimmten Umgebung aufgewachsen und hast dich dort bestens an die Gegebenheiten angepasst. Wähle eine Kategorie aus: Zivilisation, Wälder, Gebirge, Wasser, Wüste. Solange du dich in diesem Gebiet aufhältst, erhältst du auf alle Proben eine +1.  
@@ -40,7 +40,7 @@ ___
 #### **3. Level:**  
   
 - **Fesselfalle**: Du kannst einmal pro Tag eine speziell präparierte Fesselfalle einsetzen, die einen Gegner nach einem erfolgreichen Treffer für eine Runde bewegungsunfähig macht. Dieser Angriff verursacht keinen Schaden, hält das Ziel jedoch an Ort und Stelle, bis der Effekt endet. Du kannst auch die Fesselfalle an Projektilen befestigen, sodass sie bereits beim Aufprall ausgelöst wird – dies musst du jedoch vor dem Angriff ansagen.  
-- **Mustererkennung**: Jeder Fehlschlag birgt Informationen über das Ausweichmuster deines Gegners. Nach einem nicht getroffenen Angriff auf einen Gegner erhältst auf auf die nächste Angriffsprobe einen Bonus.  
+- **Mustererkennung**: Jeder Fehlschlag birgt Informationen über das Ausweichmuster deines Gegners. Nach einem nicht getroffenen Angriff auf einen Gegner erhältst auf auf die nächste Angriffsprobe gegen diesen Gegner einen Bonus.  
   
 #### **4. Level:**  
   

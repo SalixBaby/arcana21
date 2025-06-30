@@ -5,7 +5,7 @@
   
 - **Klassekategorie:** Zauberklasse  
 - **Klassenfähigkeit:** Elixirbrauer  
-	- Du kannst 1x täglich bis zu (Level + 1) Zauber in Trankform vorbereiten, welche sich bis zu 24 Stunden halten. Diese können überladen sein und auch von anderen verwendet werden.  
+	- Du kannst 1x täglich bis zu (Level + 1) Zauber in Trankform vorbereiten, welche sich bis zu 24 Stunden halten. Diese können überladen sein und auch von anderen verwendet werden. Es muss niedergeschrieben werden, was genau die Tränke bewirken und beim Einsatz muss trotzdem eine Arkanaprobe bestanden werden.  
   
 ---  
   
