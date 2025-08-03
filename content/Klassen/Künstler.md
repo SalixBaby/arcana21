@@ -44,5 +44,5 @@ ___
   
 #### **5. Level:**  
   
-- **Meisterwerk**: Du kannst einmal ein solch perfektes Kunstwerk erschaffen, dass es permanente Auswirkungen auf alle hat, die es ausgesetzt sind.  
+- **Meisterwerk**: Du kannst einmalig ein solch perfektes Kunstwerk erschaffen, dass es permanente Auswirkungen auf alle hat, die es ausgesetzt sind.  
 - **Koryphäe**: Dein Ruf als bester Künstler in deinem Bereich eilt dir voraus. Die Leute erkennen dich und deine Kunst, was dir viele Türen öffnet und deine Anzahl an Verbündeten steigert.

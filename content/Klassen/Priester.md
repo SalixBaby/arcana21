@@ -34,7 +34,7 @@ _Du dienst einer höheren Macht – sei es ein Gott, ein spirituelles Prinzip od
   
 #### **3. Level**  
   
-- **Segen der Erneuerung**: Du kannst einmal am Tag einem Verbündeten alle negativen Effekte entfernen (z. B. Krankheit, Fluch; außer Erschöpfung).  
+- **Segen der Wiederbelebung**: Du kannst einmal am Tag versuchen eine verstorbene Kreatur wiederzubeleben. Du musst eine Fokus-Probe bestehen und der Tod darf nicht länger als eine Minute her sein.  
 - **Segen der Stille**: Du kannst einmal am Tag eine Aura von (Level x) 5m erschaffen, die für eine Minute äußere magische Einflüsse dämpft. Innerhalb dieser Aura erhalten Gegner einen Malus auf Zauber, jedoch muss für jeden geschwächten Zauber eine Fokus-Probe bestanden werden.  
   
 #### **4. Level**  
@@ -44,5 +44,5 @@ _Du dienst einer höheren Macht – sei es ein Gott, ein spirituelles Prinzip od
   
 #### **5. Level:**  
   
-- **Segen der Stärke** Deine bloße Präsenz erfüllt Verbündete mit Mut und Entschlossenheit, während sie Feinde ins Wanken bringt. Alle Verbündeten in einem Umkreis von 20 Metern erhalten einen Bonus auf ihre Proben; alle Gegner im selben Radius erleiden einen Malus.  
+- **Segen der Stärke** Deine bloße Präsenz erfüllt Verbündete mit Mut und Entschlossenheit, während sie Feinde ins Wanken bringt. Alle Verbündeten in einem Umkreis von 20m erhalten einen Bonus auf ihre Proben; alle Gegner im selben Radius erleiden einen Malus.  
 - **Segen der Wunder**: Einmal pro Woche kannst du ein göttliches Wunder erbitten – ein außergewöhnliches Ereignis, das weit über gewöhnliche Magie hinausgeht. Ob Regen in der Dürre, die Offenbarung eines verborgenen Pfades oder eine himmlische Erscheinung: Die Wirkung ist einzigartig und wird gemeinsam mit dem Spielleiter festgelegt.

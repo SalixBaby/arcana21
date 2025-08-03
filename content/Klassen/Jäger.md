@@ -44,7 +44,7 @@ ___
   
 #### **4. Level:**  
   
-- **Jagdinstinkt**: Du erhältst einen permanent Bonus auf alle Instinkt-, Erfahrung- und Intuitionsproben.  
+- **Jagdinstinkt**: Du erhältst einen permanent Bonus auf alle Instinkt-, Erfahrung- und Intuition.  
 - **Geländemeister**: Du kannst ein zusätzliches Bevorzugtes Terrain auswählen. Solange du dich in einem Bevorzugten Terrain aufhältst erhältst du einen Bonus auf alle Proben.  
   
 #### **5. Level:**  

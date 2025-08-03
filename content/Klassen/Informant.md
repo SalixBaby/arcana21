@@ -11,10 +11,10 @@
   
 #### **Variationen:**  
   
-- **Spion:** Du arbeitest aus den Schatten heraus, bewegst dich ungesehen und beschaffst dir Informationen direkt aus erster Hand.  
-    - +1 [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]  
-	- +1 [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
-	- Wissen in Überleben/Orientierung  
+- **Detektiv**: Du beobachtest, analysierst und kombinierst. Du siehst, was anderen entgeht, und erkennst Muster, wo andere Chaos sehen. Deine Stärke liegt nicht im Angriff – sondern in Informationen.  
+    - +1 auf [[../Attribute/Geist/Wissen|Wissen]]  
+    - +1 auf [[../Attribute/Seele/Einsicht|Einsicht]]  
+    - +1 auf [[../Attribute/Geist/Fokus|Fokus]]  
 - **Ränkeschmied**: Du bist kein stiller Beobachter, sondern ein Strippenzieher. Dein Wissen ist eine Währung, und du weißt genau, wann du welche Information einsetzen musst.  
 	- +1 [[../Attribute/Seele/Lügen|Lügen]]  
 	- +1 [[../Attribute/Seele/Überzeugen|Überzeugen]]  
@@ -45,4 +45,4 @@
 #### **5. Level:**  
   
 - **Marionettenspieler**: Du hast die Humanoide Psychologie geknackt. Du kannst eine Person oder Gruppe durch gezielte Worte und Täuschungen dazu bringen, dir für eine gewisse Zeit zu vertrauen oder in deinem Sinne zu handeln.  
-- **Syndikat**: Dein Informationsnetzwerk hat eine kritische Masse angenommen. Einmal die Woche kannst du es nutzen um Gerüchte zu streuen, die die Bevölkerung als Fakt ansieht. Du kannst die Reputation von Leuten zu diskreditieren oder mit dem richtigen Gerücht auch Kriege provozieren.
+- **Syndikat**: Dein Informationsnetzwerk hat eine kritische Masse angenommen. Einmal die Woche kannst du es nutzen um Gerüchte zu streuen, die die Bevölkerung als Fakt ansieht. Du kannst die Reputation von Leuten diskreditieren oder mit dem richtigen Gerücht auch Kriege provozieren.

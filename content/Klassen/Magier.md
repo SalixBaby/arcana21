@@ -1,7 +1,7 @@
 ---
 {}
 ---
-> _Die Magie fließt durch deine Adern wie Blut – wild, leuchtend, lebendig. Du bist kein Schüler der Künste, sondern ihr Gefäß. Wo andere Formeln pauken, lenkst du die arkanen Ströme mit Instinkt und Verstand. Man nennt dich einen Kanal, ein Wunder, eine Bedrohung – doch du weißt: Du bist Magie, geboren in Menschengestalt._  
+> _Die Magie fließt durch deine Adern wie Blut – wild, leuchtend, lebendig. Du bist kein Schüler der Künste, sondern ihr Gefäß. Wo andere Formeln pauken, lenkst du die arkanen Ströme mit Instinkt und Verstand. Man nennt dich einen Kanal, ein Wunder, eine Bedrohung – doch du weißt: Du bist Magie, geboren in lebendiger Gestalt._  
   
 - **Klassenkategorie:** Zauberklasse  
 - **Klassenfähigkeit:** Überstrapazieren  
@@ -9,7 +9,7 @@
 ---  
   
 #### **Variationen:**  
-- **Ordensmagus:** Deine Magie folgt Prinzipien, Mustern und uralten Formeln. Du strebst nach Kontrolle, Präzision und Effizienz. In dir brennt kein wildes Feuer – sondern ein stetiges Licht.  
+- **Magus:** Deine Magie folgt Prinzipien, Mustern und uralten Formeln. Du strebst nach Kontrolle, Präzision und Effizienz. In dir brennt kein wildes Feuer – sondern ein stetiges Licht.  
     - +1 [[../Attribute/Geist/Wissen|Wissen]]  
     - +1 [[../Attribute/Geist/Erfahrung|Erfahrung]]  
     - Wissen in Kunst/Kultur  
@@ -29,7 +29,7 @@
 #### **2. Level:**  
   
 - **Arkanes Feld:** Deine Präsenz verstärkt die Magie um dich herum – alle Verbündeten in 10 m Radius erhalten +1 auf ihre Arkanaproben.  
-- **Arkane Einsicht**: Zauber hinterlassen immer ihre Spure. Du kannst einmal durch eine Einsichtprobe versuchen herauszufinden, welche Zauberausrichtung jemand in deiner Nähe besitzt.  
+- **Arkane Einsicht**: Zauber hinterlassen immer ihre Spure. Du kannst einmal durch eine Fokusprobe versuchen herauszufinden, welche Zauberausrichtung jemand in deiner Nähe (Level x 5m) besitzt.  
   
 #### **3. Level:**  
   
@@ -39,9 +39,9 @@
 #### **4. Level:**  
   
 - **Arkane Leichtigkeit**: Wenn du mehrere nicht-überladenen Zauber in einer Runde wirkst, kannst du für diese die Wiederholungssanktion ignorieren.   
-- **Arkaner Instinkt:** Wenn du auf 0 Gesundheit fällst, kannst du überladene Zauber für 1 AP wirken.   
+- **Arkanes Überleben:** Wenn du auf 0 Gesundheit fällst, kannst du überladene Zauber für 1 AP wirken.   
   
 #### **5. Level:**  
   
 - **Arkane Manifestation:** Du kannst einmal pro Woche deinen Körper mit reiner Magie durchfluten lassen – dabei leuchtest du, Zauber kosten kein Mana und du schwebst leicht über dem Boden. Du musst jede Runde eine immer schwerer werdende Fokusprobe bestehen um diesem Zustand beizubehalten.  
-- **Arkanes Regenerieren**: Die Magie ist Teil deines Wesens. Du regenerierst automatisch am Anfang deines Zuges 1 Manapunkt .
+- **Arkanes Regenerieren**: Die Magie ist Teil deines Wesens. Du regenerierst automatisch am Anfang deines Zuges 1 Manapunkt.
