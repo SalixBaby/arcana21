@@ -6,7 +6,7 @@
   
 - +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Seele/-Seele-|Seele]]  
 - Wissen in Kunst/Kultur  
-- Wissen in Politik/Diplomatie  
+- Grundwissen über verschiedene Hierarchien und Gepflogenheiten   
   
 **Fluch: Unterwürfig**  
   
