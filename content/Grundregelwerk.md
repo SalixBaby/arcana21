@@ -11,17 +11,32 @@ Das Ziel des Spiels ist es, gemeinsam mit deinen Mitspielern in eine dynamische 
 **Flexibilität und Individualität:** Das System bietet eine Vielzahl an Klassen, Hintergründen und Fähigkeiten, die es dir ermöglichen, deinen Charakter nach deinen Vorstellungen zu gestalten.  
 **Taktische Tiefe:** Ob im Kampf oder bei sozialen Interaktionen – strategisches Denken und die geschickte Nutzung von Ressourcen spielen eine zentrale Rolle.  
 **Magische Vielfalt:** Die Magie in Arcana21 ist nicht nur ein Werkzeug, sondern ein mächtiges Element, das die Welt prägt und ihre Geheimnisse offenbart.  
+In Arcana21 bist du nicht an vorgefertigte Zauberlisten gebunden.  
+Statt restriktiver Auswahl gibt dir das System die Freiheit, jeden Zauber individuell zu erschaffen – kreativ, situationsbezogen und maßgeschneidert auf deinen Charakter. Die Magie folgt deinen Ideen, nicht umgekehrt.  
   
 ##### **1.3 Überblick über das System**  
 Arcana21 kombiniert die Eleganz eines modularen Attributssystems mit tiefgehenden Klassenmechaniken und einem dynamischen Kampfsystem. Jeder Charakter wird durch drei Kernattribute definiert: **Körper**, **Geist** und **Seele**, die jeweils unterschiedliche Aspekte deiner Fähigkeiten repräsentieren. Das System ist darauf ausgelegt, den Spielern sowohl taktische Entscheidungsfreiheit als auch erzählerische Tiefe zu bieten.  
 Ob du dich als mächtiger Magier den arkanen Kräften verschreibst, als unerschrockener Kämpfer für Gerechtigkeit kämpfst oder als charismatischer Vermittler Konflikte löst – **Arcana21** lädt dich ein, deine eigene Legende zu schreiben. Die Welt wartet nur darauf, von dir entdeckt und geprägt zu werden.  
-Mach dich bereit für eine Reise voller Herausforderungen, Gefahren und unbegrenzter Möglichkeiten. Willkommen bei **Arcana21** – der Ort, an dem deine Abenteuer beginnen!  
+Mach dich bereit für eine Reise voller Herausforderungen, Gefahren und unbegrenzter Möglichkeiten.  
+  
+##### **1.4 Proben und Würfelwürfe**  
+In Arcana21 werden Proben immer dann gewürfelt, wenn der Ausgang einer Handlung ungewiss ist – ob du nun eine Wand erklimmen, ein Schloss knacken oder jemanden belügen willst. Die Spielleitung entscheidet, wann eine Probe nötig ist, welches Attribut oder welche Eigenschaft betroffen ist und wie schwer die Aufgabe ausfällt.  
+**Der Wurfmechanismus ist einfach:**  
+- Du würfelst **3W20** (drei zwanzigseitige Würfel).  
+- Du nimmst den **mittleren Wert** der drei (Median).  
+- Anschließend **addierst du den Modifikator** des passenden Attributs oder der passenden Eigenschaft.  
+Das Ergebnis wird mit dem Schwierigkeitsgrad der Probe verglichen, um festzustellen, ob du erfolgreich warst.  
+  
+Nicht jede Probe lässt sich direkt einem Attribut zuordnen. Für komplexere oder kreative Situationen – etwa **Einschüchtern, Heimlichkeit oder Ablenkung** – wird die Probe im erzählerischen Kontext interpretiert. In solchen Fällen dürfen die Spieler der Spielleitung Vorschläge machen, welches Attribut man anwenden möchte:  
+- _„Ich haue mit voller Wucht auf den Tisch, um Respekt zu erzwingen.“ → Stärke-Probe zum Einschüchtern._  
+- _„Ich schleiche an der Wache vorbei, während mein Kamerad lautstark diskutiert.“ → Überzeugen-, Lügen- oder Auftritts-Probe zur Ablenkung._  
+Diese Flexibilität fördert kreatives Rollenspiel und macht jede Szene einzigartig. Die Spielleitung trifft letztlich die Entscheidung, welche Kombination sinnvoll ist – aber gute Ideen finden in Arcana21 fast immer ihren Weg ins Spiel.  
   
 ---  
   
 ### **2. Charaktererschaffung**  
   
-<a href="./Arcana21_Charakterbogen_finalDesign.pdf" target="_blank" download="Arcana21_Charakterbogen">Arcana21 Charakterbogen</a>  
+<a href="./Arcana21_Charakterbogen_finalDesign2.pdf" target="_blank" download="Arcana21_Charakterbogen">Arcana21 Charakterbogen</a>  
   
 ##### **2.1 Starte mit einer Charakteridee**    
 Überlege dir, wer dein Charakter ist. Ist er ein mutiger Krieger, ein listiger Dieb oder ein weiser Magier? Wie ist sein Hintergrund, welche Ziele verfolgt er, und welche Persönlichkeit hat er? Diese erste Vorstellung bildet das Fundament für deinen Helden.  
@@ -39,7 +54,7 @@ Sobald du eine grobe Idee hast, suchst du die passende Klasse aus den 21 verfüg
 >*Du entscheidest dich für die Klasse **Jäger**, eine Kampfklasse, die sich auf Präzision und Geschicklichkeit spezialisiert.*  
   
 ##### **2.3 Wähle ein Volk**    
-Das Volk deines Charakters beschreibt seine Kultur. Dein Volk verleiht dir dein grobes Aussehen, Rituale und einige Fähigkeiten. Wähle ein Volk, dass sich für dich am interessantesten anhört.  
+Das Volk deines Charakters beschreibt seine Kultur. Dein Volk verleiht dir dein grobes Aussehen, Kultur und einige Fähigkeiten. Wähle ein Volk, dass sich für dich am interessantesten anhört.  
   
 >[!example]- *Beispiel*   
  >*Dein Charakter ist ein Lupari (Wolfvolk) und verlässt sich gerne auf seine Nase. Dies lässt sich gut mit seiner Klasse des Jägers verbinden.*  
@@ -55,9 +70,9 @@ Der Hintergrund deines Charakters beschreibt seine Herkunft und bisherigen Erfah
 ##### **2.5 Verteile deine Kernattribute**    
 Nun setzt du die Standardwerte 2, 1 und -1 auf die drei Hauptattribute:  
   
-- **[[./Attribute/Körper/-Körper-|Körper]]** für physische Fähigkeiten.  
+- **[[./Attribute/Körper/-Körper-|Körper]]** für physische Fähigkeiten und Ausdauer.  
 - **[[./Attribute/Geist/-Geist-|Geist]]** für Intelligenz und Magie.  
-- **[[./Attribute/Seele/-Seele-|Seele]]** für Charisma und innere Stärke.  
+- **[[./Attribute/Seele/-Seele-|Seele]]** für Charisma und Inspiration.  
   
 Diese [[./Attribute/-Attribute-|Attribute]] bestimmen, wie gut dein Charakter in verschiedenen Situationen abschneidet und beeinflussen die Verteilung von Unterattributen wie Geschicklichkeit, Wahrnehmung oder Überzeugen.  
   
@@ -72,7 +87,7 @@ Diese [[./Attribute/-Attribute-|Attribute]] bestimmen, wie gut dein Charakter in
   
   
 ##### **2.6 Setze deine Talentpunkte ein**    
-Danach setzt du deine Talentpunkte auf die Unterattribute der Kernattribute, um deine Fähigkeiten weiter zu spezialisieren. Du hast dabei so viele Talentpunkte wie dein Level + 2. Diese Punkte steigern den Wert des jeweiligen Attributs und verbessern deine Chancen bei entsprechenden Proben. Bist du in einem Unterattribut talentiert erhältst du einen Bonus von +Level auf alle Unterattributs-Proben. Es nicht nicht möglich mehrere Talentpunkte auf das selbe Unterattribut zu setzen.  
+Danach setzt du deine Talentpunkte auf die Unterattribute der Kernattribute, um deine Fähigkeiten weiter zu spezialisieren. Du hast dabei so viele Talentpunkte wie dein Level + 2. Diese Punkte steigern den Wert des jeweiligen Attributs und verbessern deine Chancen bei entsprechenden Proben. Bist du in einem Unterattribut talentiert erhältst du einen Bonus von + (Level) auf alle Unterattributs-Proben. Es nicht nicht möglich mehrere Talentpunkte auf das selbe Unterattribut zu setzen.  
   
 [[./Attribute/-Attribute-|Attributsübersicht]]  
   
