@@ -6,7 +6,7 @@ Beschreibt das Maß an akademischem, historischem oder spezifischem Fachwissen, 
 *Unterteilt sich in folgende Kategorien:*  
   
 - **Architektur / Städteplanung**  
-- **Geschichte / Gedächtnis**  
+- **Geschichte / Sprachen**  
 - **Handel / Wirtschaft**  
 - **Kunst / Kultur**  
 - **Mathematik / Technik**  
