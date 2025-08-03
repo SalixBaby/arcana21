@@ -242,9 +242,9 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Zauberduell:** *1AP*. Verhindere gegnerische Zauber. *(siehe 4.4.2)*  
   
 **4.1.7 Lebensgefahr**  
-- **Todesröcheln**: Fällt ein Held auf **0 Gesundheit**, kann er nur noch **1 AP pro Runde** einsetzen. Er kann keine Ausdauerpunkte in diesem Zustand nutzen. Am Ende seines Zuges muss er eine **Konstitution-Probe** bestehen oder 1 Gesundheit verlieren.  
-- **Stabilisieren**: Ein Held der sich im Todesröcheln befindet kann von jemandem mit Wissen in Medizin und einer Probe um 1 Gesundheit geheilt werden.  
-- **Tod eines Helden**: Fällt ein Held auf **-3 Gesundheit**, stirbt er endgültig. Es gibt allerdings spezielle Fähigkeiten oder Zauber, um ihn wiederzubeleben.  
+- **Todesröcheln**: Sinkt ein Held auf 0 Gesundheit, gerät er in den Zustand des Todesröchelns. In diesem kritischen Moment erleidet er sofort eine Erschöpfung und ist stark eingeschränkt: Er kann nur noch einen einzigen Aktionspunkt pro Runde einsetzen, und der Einsatz von Ausdauerpunkten ist ihm nicht länger möglich. Zudem muss er am Ende jedes eigenen Zuges eine Konstitution-Probe (12 + 2xGesundheit unter 0) ablegen. Misslingt diese, verliert er 1 weiteren Punkt Gesundheit.  
+- **Stabilisieren**: Ein Held im Todesröcheln kann versuchen, sich für 1 AP selbst zu stabilisieren – auf kreative, der Situation entsprechende Weise. Hierzu ist eine Probe gegen (15 + 2xGesundheit unter 0) erforderlich. Befindet sich ein Verbündeter in unmittelbarer Nähe, kann er ebenfalls eine Stabilisierung versuchen – per Wissens-Probe gegen denselben Wert. Charaktere mit Wissen in Medizin erhalten dabei doppelten Bonus. Ein stabilisierter Held muss keine Konstitution-Proben mehr am Zugende ablegen – jedoch gilt: Erleidet er erneut Schaden, endet die Stabilisierung sofort.  
+- **Tod eines Helden**: Sinkt die Gesundheit eines Charakters auf -3 oder weniger, bedeutet dies seinen endgültigen Tod. Nur mächtige Fähigkeiten oder Zauber vermögen es, einen gefallenen Helden ins Leben zurückzuholen.  
 - **Tod eines Nicht-Spieler-Charakters**: Ein NPC hat im Normalfall 3 Gesundheit. Fällt ein NPC auf 1 Gesundheit befindet er sich im Todesröcheln. Fällt ein NPC auf 0 Gesundheit stirbt dieser endgültig.  
   
 **4.1.8 Gelände und Umgebung**  
@@ -499,6 +499,8 @@ Ausbildungspunkte können auf verschiedene Weise eingesetzt werden:
 - **Wissensbereiche**: Erhalte Wissen in einer der verschiedenen Kategorien wie **Natur/Tiere**, **Religion/Okkultismus**, **Medizin/Anatomie** und mehr.  
 - **Ausrüstungssets**: Werde geübt im Umgang mit bestimmten **Ausrüstungen** und spezialisierten Sets wie dem **Kräuterkundeset**, dem **Diebesset** oder dem **Kochset**.  
 - **Sprachen**: Lerne neue Sprachen, um dich mit anderen Kulturen und Völkern verständigen zu können.  
+  
+- **Doppelte Ausbildung**: Hat man bereits eine Ausbildung in einem Bereich und erhält den gleichen Bereich erneut kann dieser in einen zusätzlichen Bonus in diesem verbucht werden.  
   
 **Berechnung:**  
 Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Geist-Wert + deinem Level +2**. Diese Punkte sind flexibel und können individuell auf verschiedene Bereiche verteilt werden, je nach den Bedürfnissen und Zielen deines Charakters.  
