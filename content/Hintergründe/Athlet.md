@@ -8,7 +8,7 @@
 **Segen: Willensstärke des Siegers**  
   
 - +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Geist/-Geist-|Geist]]  
-- Bonus bei Proben, die körperliche Ausdauer oder Leistung erfordern  
+- +1 bei Proben, die körperliche Ausdauer oder Leistung erfordern  
 - Grundwissen über verschiedene Wettkämpfe und sportliche Taktiken  
   
  **Fluch: Tunnelblick**  
