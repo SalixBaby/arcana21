@@ -6,7 +6,7 @@
   
 - +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Seele/-Seele-|Seele]]  
 - Wissen in Natur/Tiere  
-- Grundkenntnisse von Heilpflanzen  
+- Grundkenntnisse von Heilpflanzen und Überleben in der Wildnis  
   
 **Fluch: Ortsgebunden**  
   
