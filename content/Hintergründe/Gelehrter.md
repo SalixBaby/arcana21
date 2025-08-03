@@ -10,7 +10,7 @@
 - +1 auf [[../Attribute/Geist/-Geist-|Geist]]  
 - Wissen in Geschichte/Sprachen  
 - Bonus auf Informationssammeln in Bibliotheken oder Archiven  
-- +3 Ausbildungspunkte  
+- +1 Ausbildungspunkt  
   
 **Fluch: Wissensdrang**  
   

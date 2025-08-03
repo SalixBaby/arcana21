@@ -5,8 +5,8 @@
 **Segen: Zähigkeit**  
   
 - +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Seele/-Seele-|Seele]]  
-- Wissen und Bonus in Überleben/Orientierung   
-- Grundkenntnisse von Gefängnissen  
+- Wissen Überleben/Orientierung   
+- Grundkenntnisse von Kerkern und Gefangenrituale  
   
 **Fluch: Paranoia**  
   

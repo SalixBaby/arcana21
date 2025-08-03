@@ -8,7 +8,7 @@
 **Segen: Kriegserfahren**  
   
 - +1 auf [[../Attribute/Körper/-Körper-|Körper]]  
-- Wissen und Bonus auf Militär/Taktik  
+- Wissen auf Militär/Taktik  
 - Übung mit zwei zusätzlichen Waffen  
   
 **Fluch: Kampftrauma**  

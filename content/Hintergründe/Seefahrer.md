@@ -6,7 +6,6 @@
   
 - +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Geist/-Geist-|Geist]]  
 - Wissen in Überleben/Orientierung  
-- Wissen in Handel/Wirtschaft  
 - Kenntnis über Nautik und Meteorologie  
   
 **Fluch: Landfremd**  
