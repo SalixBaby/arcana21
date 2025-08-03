@@ -13,7 +13,7 @@
   
 - **Diplomat**: Du bist ein Meister der Verhandlungen und verstehst es, Konflikte zu lösen, bevor sie eskalieren.  
     - Bonus auf [[../Attribute/Seele/Überzeugen|Überzeugen]]  
-    - Wissen in Geschichte/Kultur  
+    - Wissen in Geschichte/Sprachen  
     - +1 Sprache  
 - **Duellant**: Du bist ein Meister des Ehrenkampfes und verstehst es, Konflikte mit Geschick und Klinge im Zweitkampf zu lösen.  
     - Bonus auf Angriffswürfe im Zweitkampf  
