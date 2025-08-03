@@ -8,7 +8,7 @@
 **Segen: Bücherwurm**  
   
 - +1 auf [[../Attribute/Geist/-Geist-|Geist]]  
-- Wissen in Geschichte/Gedächtnis  
+- Wissen in Geschichte/Sprachen  
 - Bonus auf Informationssammeln in Bibliotheken oder Archiven  
 - +3 Ausbildungspunkte  
   
