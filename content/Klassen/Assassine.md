@@ -22,8 +22,8 @@ _Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und d
   
 #### **1. Level:**  
   
-- **Lautlos**: Du kannst dich besonders leise bewegen. Du erhältst einen Bonus auf Heimlichkeitsproben und kannst dich lautlos an Gegner heranschleichen.  
-- **Überraschungsangriff**: Wenn du unbemerkt einem Gegner Schaden zufügst, erhält dieser einen zusätzlichen Malus auf seine Würfe für eine Runde.  
+- **Lautlos**: Du kannst dich besonders leise bewegen und erhältst einen Bonus auf Heimlichkeitsproben.  
+- **Überraschungsangriff**: Wenn du unbemerkt einem Gegner Schaden zufügst, erhält dieser einen Malus auf seine Angriffsproben für den nächsten Zug.  
   
 #### **2. Level:**  
   
@@ -33,12 +33,12 @@ _Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und d
 #### **3. Level:**  
   
 - **Schattenmeister**: Du kannst in schwach beleuchteten oder dunklen Bereichen praktisch unsichtbar werden. Solange du dich erfolgreich versteckt hast und dich nicht bewegst bist du mit Nicht-Magischen Mitteln nicht zu entdecken.  
-- **Kampf oder Flucht**: Wenn du Schaden erleidest, kannst du direkt einen Gegenangriff ausführen oder deine Bewegungsrate laufen ohne einen Gelegenheitsangriff zu provozieren.  
+- **Kampf oder Flucht**: Wenn du Schaden erleidest, kannst du für einen AP direkt einen Gegenangriff ausführen oder deine Bewegungsrate laufen ohne einen Gelegenheitsangriff zu provozieren.  
   
 #### **4. Level:**  
   
 - **Doppelschlag**: Wenn du einen Gegner aus dem Hinterhalt angreifst, kannst du eine zweite Attacke ausführen ohne AP zu bezahlen.  
-- **Meister der Täuschung**: Du kannst dich meisterhaft verstecken, selbst in ungünstigen Situationen. Einmal pro Kampf kannst du dich sofort verstecken, selbst wenn du beobachtet wirst. Gegner müssen eine Wahrnehmungsprobe gegen dein Heimlichkeits-Wurf bestehen, um dich zu entdecken.  
+- **Meister der Täuschung**: Du kannst dich meisterhaft verstecken, selbst in ungünstigen Situationen. Einmal pro Kampf kannst du dich sofort verstecken, selbst wenn du beobachtet wirst. Gegner müssen eine Wahrnehmungsprobe bestehen, um dich zu entdecken.  
   
 #### **5. Level:**  
   
