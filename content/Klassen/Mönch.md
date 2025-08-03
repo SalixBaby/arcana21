@@ -14,13 +14,11 @@
   
 #### **Variationen:**  
   
-- **Wanderasket:**    
-    Du bist ein Reisender auf der Suche nach Erleuchtung. Du lebst asketisch, bist beweglich, wachsam und geistig geschärft.  
+- **Wanderasket:** Du bist ein Reisender auf der Suche nach Erleuchtung. Du lebst asketisch, bist beweglich, wachsam und geistig geschärft.  
     - +1 [[../Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
     - +1 [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]  
     - Wissen in Überleben/Orientierung  
-- **Kriegermönch:**    
-    Dein Körper ist deine Waffe. Du nutzt Kampfkunst, um mit bloßen Händen oder einfachen Waffen gegen jede Bedrohung zu bestehen.  
+- **Kriegermönch:** Dein Körper ist deine Waffe. Du nutzt Kampfkunst, um mit bloßen Händen oder einfachen Waffen gegen jede Bedrohung zu bestehen.  
     - +1 [[../Attribute/Geist/Fokus|Fokus]]  
     - +1 [[../Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
     - Wissen in Medizin/Anatomie  
