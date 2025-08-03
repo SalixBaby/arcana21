@@ -7,9 +7,7 @@
 - +1 auf [[../Attribute/Geist/-Geist-|Geist]]  
 - Wissen und Bonus in Medizin/Anatomie  
 - Zugang zu medizinischem Equipment  
-- Notversorgung  
-	- Ermöglicht es für 3AP jemanden nach erfolgreicher Medizinprobe (12 + Leben unter 0) um 1 Gesundheit zu heilen.  
-	- Dies ermöglicht nur Heilung bis 0 Gesundheit. Wenn 0 Gesundheit erreicht ist, ist derjenige automatisch stabil.  
+- Notversorgung: Du erhältst auf die Stabilisierungs-Probe für dich selbst und für andere einen zusätzlichen Bonus.  
   
 **Fluch: Helferkomplex**  
   
