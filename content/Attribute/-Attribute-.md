@@ -27,16 +27,16 @@ Die drei Kernattribute – **Körper**, **Geist** und **Seele** – bilden die B
   
 Die Kernattribute sind in jeweils fünf Eigenschaften unterteilt, die spezifischere Fähigkeiten deines Charakters beschreiben.  
   
-[[./Körper/-Körper-|Körper]]:  
-- **[[./Körper/Geschicklichkeit|Geschicklichkeit]]:** Präzise Bewegungen und Hand-Auge-Koordination. Beeinflusst Heimlichkeit und Fernkampf.  
-- **[[./Körper/Geschwindigkeit|Geschwindigkeit]]:** Bewegungstempo und Reaktionsfähigkeit. Beeinflusst Ausweichen und Initiativen.  
-- **[[./Körper/Instinkt|Instinkt]]:** Fähigkeit, schnell zu reagieren und Gefahren zu spüren. Beeinflusst Wahrnehmung in Kampf und Erkundung.  
-- **[[./Körper/Konstitution|Konstitution]]:** Physische Ausdauer und Resistenz. Beeinflusst Gesundheit und Widerstand gegen Erschöpfung.  
-- **[[./Körper/Stärke|Stärke]]:** Körperkraft. Beeinflusst Nahkampfschaden und die Fähigkeit, schwere Objekte zu bewegen.  
+**[[./Körper/-Körper-|Körper]]:**  
+- **[[./Körper/Geschicklichkeit|Geschicklichkeit]]:** Präzise Bewegungen und Hand-Auge-Koordination. Beeinflusst das physische Treffen im Kampf.  
+- **[[./Körper/Geschwindigkeit|Geschwindigkeit]]:** Bewegungstempo und Reaktionsfähigkeit. Beeinflusst Ausweichen und Bewegungsrate.  
+- **[[./Körper/Instinkt|Instinkt]]:** Fähigkeit, schnell zu reagieren und Gefahren zu spüren. Beeinflusst kreative Proben und Initiative.  
+- **[[./Körper/Konstitution|Konstitution]]:** Physische Ausdauer und Resistenz. Beeinflusst Gesundheit und Widerstand gegen physische Einflüsse.  
+- **[[./Körper/Stärke|Stärke]]:** Körperkraft. Beeinflusst Sprungreichweite, Festhalten und Lähmen von Gegnern.  
   
 **[[./Geist/-Geist-|Geist]]:**  
 - **[[./Geist/Arkana|Arkana]]:** Wissen und Kontrolle über magische Kräfte. Beeinflusst das Wirken und Verstärken von Zaubern.  
-- **[[./Geist/Erfahrung|Erfahrung]]:** Praktisches Wissen und Problemlösungsfähigkeit. Beeinflusst Handwerk und improvisiertes Können.  
+- **[[./Geist/Erfahrung|Erfahrung]]:** Praktisches Wissen und Problemlösungsfähigkeit. Beeinflusst kreative Proben und Initiative.  
 - **[[./Geist/Fokus|Fokus]]:** Konzentrationsfähigkeit und mentale Stärke. Beeinflusst die Stabilität von Zaubern und Willenskraft.  
 - **[[./Geist/Wahrnehmung|Wahrnehmung]]:** Fähigkeit, Details in der Umgebung wahrzunehmen. Beeinflusst Entdeckung und Überraschungen.  
 - **[[./Geist/Wissen|Wissen]]:** Allgemeinbildung und intellektuelle Tiefe. Ermöglicht Zugang zu spezifischen Wissensgebieten.  
@@ -44,7 +44,7 @@ Die Kernattribute sind in jeweils fünf Eigenschaften unterteilt, die spezifisch
 **[[./Seele/-Seele-|Seele]]:**  
 - **[[./Seele/Auftritt|Auftritt]]:** Charisma und Präsenz. Beeinflusst die Wahrnehmung anderer von dir.  
 - **[[./Seele/Einsicht|Einsicht]]:** Fähigkeit, die Emotionen und Absichten anderer zu lesen. Beeinflusst soziale Interaktionen.  
-- **[[./Seele/Intuition|Intuition]]:** Bauchgefühl und die Fähigkeit, spontan Entscheidungen zu treffen. Beeinflusst das Erkennen von Lügen und Gefahr.  
+- **[[./Seele/Intuition|Intuition]]:** Bauchgefühl und die Fähigkeit, spontan Entscheidungen zu treffen. Beeinflusst kreative Proben und Initiative.  
 - **[[./Seele/Lügen|Lügen]]:** Geschicklichkeit im Täuschen und Manipulieren. Beeinflusst Bluffen und Intrigen.  
 - **[[./Seele/Überzeugen|Überzeugen]]:** Fähigkeit, andere von einer Idee oder Handlung zu überzeugen. Beeinflusst Verhandlungen und Diplomatie.  
   
@@ -58,11 +58,11 @@ Das Attribut _Wissen_ ist in 12 spezialisierte Kategorien unterteilt, die spezif
 Kenntnisse über Baukunst, Stadtstrukturen und die Konstruktion von Gebäuden und Infrastrukturen.  
 - Nützlich für das Analysieren von Ruinen, das Verstehen von Verteidigungsanlagen oder das Erkennen geheimer Durchgänge.  
   
-**Geschichte / Gedächtnis**  
+**Geschichte / Sprachen**  
 Wissen über historische Ereignisse, Mythen, Legenden und vergangene Kulturen.  
 - Ermöglicht es, alte Schriften zu entziffern, Artefakte zu identifizieren oder politische Zusammenhänge aus der Vergangenheit zu verstehen.  
    
- **Handel / Wirtschaft**  
+**Handel / Wirtschaft**  
 Verständnis von Ressourcenmanagement, Märkten und finanziellen Zusammenhängen.  
 - Hilfreich beim Verhandeln von Preisen, dem Planen von Handelsrouten oder dem Erkennen von wirtschaftlichen Intrigen.  
   
@@ -114,3 +114,4 @@ Neben den Kernattributen und ihren Eigenschaften gibt es weitere wichtige Werte,
 - **Ausweichen:** Die Fähigkeit, Angriffen auszuweichen, beeinflusst durch Geschwindigkeit.  
 - **Willensstärke:** Mentale Widerstandskraft gegen Beeinflussung, beeinflusst durch Fokus.  
 - **Ausdauerpunkte:** Ressourcen für zusätzliche Aktionen oder besondere Manöver, basierend auf dem Körper-Wert.  
+- **Inspirationspunkte:** Ressource um eine Probe erneut zu würfeln, basierend auf dem Seele-Wert.
