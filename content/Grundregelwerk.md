@@ -214,7 +214,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Zaubern** – _1AP_: Nutze deine Magie um anzugreifen, zu helfen oder deine Umgebung zu verändern. *(Arkanaprobe*)  
 - **Zielen** - *1AP*. Nimm dir etwas Zeit für deinen Angriff oder Zauber. *(Bonus auf nächsten Angriff oder Zauber in dieser Runde)*  
 - **Überladen** – _1AP_: Lade deinen Zauber mit Mana auf. *(z.B. mehr Schaden verursachen, mehr Ziele zu bestimmen, größeren Wirkungsbereich etc.)*  
-- **Aufrechthalten** – _1AP_: Halte einen laufenden Zauber länger aufrecht. *(Fokusprobe gegen 10 + 2x erlittenen Schaden in der Runde)*  
+- **Aufrechthalten** – _1AP_: Halte einen laufenden Zauber länger aufrecht. Max. einen Zauber gleichzeitig. *(Fokusprobe gegen 10 + 2x erlittenen Schaden in der Runde)*  
   
 - **Freie Aktion**: - _0AP_. Manche Aktionen sind so klein, dass der SL dies als freie Aktion durchgehen lässt.  
 - **Sprechen**: - _0AP_. Ein Spieler darf in einem gewissen Maße in seinem Zug sprechen. Hier gilt als Faustregel: ein Atemzug.  
