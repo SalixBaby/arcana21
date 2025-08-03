@@ -2,7 +2,7 @@
   
 - **Kampfklassen** spezialisieren sich auf körperliche Auseinandersetzungen, Nahkampf und Taktik.  
 - **Zauberklassen** beherrschen die magischen Künste und sind auf die Manipulation von arkane Energien fokussiert.  
-- **Dualklassen** vereinen die Elemente beider Welten und können sowohl physische als auch magische Fähigkeiten einsetzen.  
+- **Dualklassen** vereinen die Elemente beider Welten und können sowohl physische als auch magische Fähigkeiten erlenen.  
   
 ---  
   
