@@ -9,7 +9,7 @@
   
 - +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Geist/-Geist-|Geist]] oder [[../Attribute/Seele/-Seele-|Seele]]  
 - Wissen in Politik/Diplomatie  
-- +1 zusätzliche Ausbildungspunkte  
+- +1 Ausbildungspunkte  
   
 **Fluch: Bekannter Name**  
   

@@ -5,7 +5,7 @@ _Als Wächter bist du der Schild in der Dunkelheit, das Auge im Sturm und die er
   
 - **Klassenkategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Niedergang  
-	- Wenn ein Verbündeter auf 0 Gesundheit fällt, erwacht in dir ein unbändiger Wille: Du erhältst solange einen zusätzlichen AP pro Runde. Fällst du selbst, erhalten alle Verbündeten einen zusätzlichen AP. Stirbst du endgültig, stärkt dein Vermächtnis sie bis zum Ende des Kampfes – mit Bonus auf alle Werte und alle Proben.  
+	- Wenn ein Verbündeter auf 0 Gesundheit fällt, erwacht in dir ein unbändiger Wille: Du erhältst solange zwei zusätzliche AP pro Runde. Fällst du selbst, erhalten alle Verbündeten zwei zusätzliche AP. Stirbst du endgültig, stärkt dein Vermächtnis sie bis zum Ende des Kampfes – mit Bonus auf alle Werte und alle Proben.  
   
 ---  
   
@@ -34,7 +34,7 @@ _Als Wächter bist du der Schild in der Dunkelheit, das Auge im Sturm und die er
   
 #### **3. Level:**  
   
-- **Beschützer**: Wenn ein Verbündeter direkt neben dir physischen Schaden erleidet, kannst du als Reaktion 1 AP bezahlen, um die Hälfte (abgerundet) des Schadens auf dich zu nehmen.  
+- **Beschützer**: Wenn ein Verbündeter direkt neben dir physischen Schaden erleidet, kannst du als Reaktion 1 AP bezahlen, um die Hälfte (aufgerundet) des Schadens auf dich zu nehmen.  
 - **Stillstand**: Wenn du einen Gegner mit einem Gelegenheitsangriff triffst, kann dieser Gegner in dieser Runde nicht mehr Laufen oder Springen. Ebenfalls erhältst du auf Gelegenheitsangriffe einen Bonus und kannst auch Gegner treffen, die Rückzug verwenden.  
   
 #### **4. Level:**  
