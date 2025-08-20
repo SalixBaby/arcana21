@@ -5,4 +5,5 @@
   
 - Kosten: 2 AP  
 - Wirkung: Doppelter Bonus auf nächsten Angriff  
-- Dauer: 1 Runde
+- Dauer: 1 Runde  
+- Anforderung: Muss einen sichern Stand und sich diese Runde nicht bewegt haben
