@@ -4,18 +4,27 @@ Feen entstammen dem verwobenen Geflecht zwischen der natürlichen Welt und der s
 **Kultur & Lebensweise:**    
 Feen sind launisch, verspielt und von tiefer Neugier getrieben. Ihre Kultur basiert auf Tausch, Versprechen und Geschichten – allerdings verstehen sie Wahrheit und Besitz oft anders als andere Völker. Musik, Tanz und Magie durchdringen ihr tägliches Leben. Manche Feen sind wohlwollend und hilfsbereit, andere schelmisch bis gefährlich. Ihre Gesellschaft kennt kaum Hierarchien, doch ältere Feenwesen genießen natürlichen Respekt, besonders jene, die mit der Natur oder uralten Zaubern im Einklang stehen.  
   
-**Größe:**    
-Klein – zwischen 60 und 120 cm, leicht gebaut, oft mit schillernden Flügeln oder leuchtenden Augen.  
+**Körper:**   
+- Kategorie: Klein  
+- Größe: 60-80 cm  
   
 **Alter:**    
-Feen können bis zu 200 Jahre alt werden, altern aber nicht gleichmäßig. Manche wirken ewig jung, andere reifen plötzlich nach Jahrzehnten kindlicher Verspieltheit. Sie gelten ab etwa 20 Jahren als erwachsen – zumindest biologisch.  
+- Lebensspanne: ~200 Jahre  
+- Erwachsen: 20 Jahre  
   
-**Bewegungsrate:**  
+**Bewegungsrate**:  
+- Laufen: 4 Felder  
+- Schwimmen: -  
+- Springen: 1 Feld  
+- Fliegen: 5 Felder  
   
-- **Laufen:** 4 Felder  
-- **Schwimmen:** 1 Feld  
-- **Springen:** 1 Feld  
-- **Fliegen:** 4 Felder  
+**Volkseigenschaften**:  
+- Bindende Verträge - Feen können keine Verträge ohne schwerwiegende Konsequenzen brechen.  
   
-**Besondere Fähigkeit:**    
-Feen können einmal pro Tag einen kleinen Zauber wirken, der ihnen erlaubt, sich kurz unsichtbar zu machen, ihre Stimme zu verändern oder winzige Gegenstände schweben zu lassen – oft zur Unterhaltung, manchmal zur Flucht. Ihre Magie basiert auf Emotionen, was ihre Fähigkeiten unvorhersehbar, aber kreativ macht.
+**Volksfähigkeiten**:  
+- Fliegen – _1AP_: Feen können fliegen solange sie kein allzu großes zusätzliches Gewicht tragen.  
+- Schrumpfen – _1AP_: Feen können einmal am Tag ihre Körpergröße für bis zu einer Minute bis zur Größe einer Hand verkleinern.  
+  
+*Zusätzliche Erklärung für Fliegen:  
+- *Fliegen verlangt Konzentration*  
+- *Während des Fliegens erhält man einen dreifachen Malus auf alle Angriffs- oder Zauberproben*
