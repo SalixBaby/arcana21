@@ -1,7 +1,8 @@
 >*Leichte Speere, die sowohl im Nahkampf als auch im Fernkampf eingesetzt werden können. Perfekt für schnelle Würfe auf mittlere Distanz.*  
   
-[[./Waffeneigenschaften/Projektil Schuss|Projektil Schuss]] [[./Waffeneigenschaften/Wurffähig|Wurffähig]] [[./Waffenfähigkeiten/Zielsicher|Zielsicher]] [[./Waffenfähigkeiten/Durchdringen|Durchdringen]]  
-  
-- Projektile: 3  
 - Basisschaden: 1  
-- Reichweite: 10 Felder | 20 Felder
+- Waffeneigenschaften: [[./Waffeneigenschaften/Wurffähig|Wurffähig]]  
+- Waffenfähigkeiten: [[./Waffenfähigkeiten/Durchdringen|Durchdringen]], [[./Waffenfähigkeiten/Zielsicher|Zielsicher]]  
+- Projektile: 2 Speere  
+- Reichweite: 10 Felder | 20 Felder (mit Malus)  
+- Alternative: Pilum, Leichte Lanze
