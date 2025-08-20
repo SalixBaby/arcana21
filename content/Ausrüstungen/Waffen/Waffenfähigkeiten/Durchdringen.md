@@ -5,4 +5,5 @@
   
 - Kosten: 1 AP  
 - Wirkung: Ignorieren von Rüstung  
-- Dauer: 1 Angriff
+- Dauer: 1 Angriff  
+- Anforderung: Der ursprüngliche Angriff muss treffen

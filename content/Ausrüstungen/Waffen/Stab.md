@@ -3,6 +3,9 @@
 ---
 >*Eine lange, vielseitige und oft unterschätzte Waffe, die für ihre Flexibilität im Kampf bekannt ist.*  
   
-[[./Waffenfähigkeiten/Parieren|Parieren]] (Nur Waffenangriffe) [[./Waffenfähigkeiten/Betäuben|Betäuben]]  
-  
-- Basisschaden: 1
+- Basisschaden: 1  
+- Waffeneigenschaften: [[./Waffeneigenschaften/Absprunghilfe|Absprunghilfe]], [[./Waffeneigenschaften/Unauffällig|Unauffällig]]  
+- Waffenfähigkeiten: [[./Waffenfähigkeiten/Parieren|Parieren]], [[./Waffenfähigkeiten/Betäuben|Betäuben]]  
+- Projektile: -  
+- Reichweite: -  
+- Alternative: Kampfstab, Wanderstab

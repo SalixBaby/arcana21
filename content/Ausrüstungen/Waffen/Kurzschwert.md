@@ -3,6 +3,9 @@
 ---
 >*Ein vielseitiges und leichtes Schwert, das sich für schnelle Angriffe eignet und oft von Abenteurern genutzt wird.*  
   
-[[./Waffeneigenschaften/Leise|Leise]] [[./Waffenfähigkeiten/Aufschlitzen|Aufschlitzen]] [[./Waffenfähigkeiten/Parieren|Parieren]] (Nur Waffenangriffe)  
-  
-- Basisschaden: 1
+- Basisschaden: 1  
+- Waffeneigenschaften: [[./Waffeneigenschaften/Leise|Leise]]  
+- Waffenfähigkeiten: [[./Waffenfähigkeiten/Aufschlitzen|Aufschlitzen]], [[./Waffenfähigkeiten/Parieren|Parieren]]  
+- Projektile: -  
+- Reichweite: -  
+- Alternative: Gladius, Säbel

@@ -1,7 +1,8 @@
 >*Ein großer Bogen, der eine größere Reichweite und Durchschlagskraft als der Kurzbogen besitzt.*  
   
-[[./Waffeneigenschaften/Leise|Leise]] [[./Waffenfähigkeiten/Zielsicher|Zielsicher]] [[./Waffeneigenschaften/Reichweite|Reichweite]] [[./Waffeneigenschaften/Schwer|Schwer]] [[./Waffenfähigkeiten/Durchdringen|Durchdringen]] [[./Waffeneigenschaften/Projektil Schuss|Projektil Schuss]]  
-  
-- Projektile: 10  
 - Basisschaden: 1  
-- Reichweite: 40 Felder | 60 Felder
+- Waffeneigenschaften: [[./Waffeneigenschaften/Projektil Schuss|Projektil Schuss]], [[./Waffeneigenschaften/Reichweite|Reichweite]], [[./Waffeneigenschaften/Schwer|Schwer]]  
+- Waffenfähigkeiten: [[./Waffenfähigkeiten/Zielsicher|Zielsicher]], [[./Waffenfähigkeiten/Durchdringen|Durchdringen]]  
+- Projektile: 10 Pfeile  
+- Reichweite: 40 Felder | 70 Felder (mit Malus)  
+- Alternative: Kompositbogen

@@ -1,8 +1,11 @@
 ---
 {}
 ---
->*Eine schlanke und elegante Klingenwaffe, die für präzise Stiche und schnelle Manöver ausgelegt ist. Sie wird oft von Adligen oder Duellanten getragen.*  
+_Eine elegante Klinge, die auf Präzision und Geschwindigkeit setzt. Perfekt für Duelle und schnelle Stiche._  
   
-[[./Waffeneigenschaften/Leise|Leise]] [[./Waffenfähigkeiten/Parieren|Parieren]] [[./Waffenfähigkeiten/Durchdringen|Durchdringen]]  
-  
-- Basisschaden: 1
+- Basisschaden: 1  
+- Waffeneigenschaften: [[./Waffeneigenschaften/Leise|Leise]]  
+- Waffenfähigkeiten: [[./Waffenfähigkeiten/Parieren|Parieren]], [[./Waffenfähigkeiten/Durchdringen|Durchdringen]]  
+- Projektile: -  
+- Reichweite: -  
+- Alternative: Rapier, Florett

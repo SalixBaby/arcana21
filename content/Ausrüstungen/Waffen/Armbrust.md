@@ -1,9 +1,11 @@
 ---
 {}
 ---
->*Eine Fernkampfwaffe, die Bolzen mit hoher Präzision und Durchschlagskraft abschießt, ideal für versteckte Schüsse.*  
-  
-[[./Waffenfähigkeiten/Zielsicher|Zielsicher]] [[./Waffenfähigkeiten/Nachladen|Nachladen]] [[./Waffeneigenschaften/Schwer|Schwer]] [[./Waffenfähigkeiten/Durchdringen|Durchdringen]] [[./Waffeneigenschaften/Projektil Schuss|Projektil Schuss]]  
+  > _Eine mechanische Fernkampfwaffe, die Bolzen mit enormer Durchschlagskraft verschießt. Sie ist langsamer als ein Bogen, aber oft tödlicher._  
   
 - Basisschaden: 2  
-- Reichweite: 50 Felder | 70 Felder
+- Waffeneigenschaften: [[./Waffeneigenschaften/Projektil Schuss|Projektil Schuss]], [[./Waffenfähigkeiten/Nachladen|Nachladen]], [[./Waffeneigenschaften/Schwer|Schwer]], [[./Waffeneigenschaften/Reichweite|Reichweite]]  
+- Waffenfähigkeiten: [[./Waffenfähigkeiten/Zielsicher|Zielsicher]], [[./Waffenfähigkeiten/Durchdringen|Durchdringen]]  
+- Projektile: 8 Bolzen  
+- Reichweite: 50 Felder | 70 Felder (mit Malus)  
+- Alternative: Arbalest, Handarmbrust

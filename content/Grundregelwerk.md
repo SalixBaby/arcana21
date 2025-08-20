@@ -214,7 +214,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
     - Beispiel: Nutzt eine Figur 2 AP für Reaktionen, hat sie in ihrem nächsten Zug nur noch 2 AP.  
   
  **4.1.5 Mögliche Aktionen**  
-- **Laufen** – _1AP_: Nutze deine Bewegungsrate, um dich über das Schlachtfeld zu bewegen. *(1 Bewegungsrate = 1 Feld = 1m)*  
+- **Laufen / Schwimmen / Fliegen** – _1AP_: Nutze deine Bewegungsrate, um dich über das Schlachtfeld zu bewegen. *(1 Bewegungsrate = 1 Feld = 1m)*  
 - **Springen** – _1AP_: Überwinde Hindernisse oder schließe die Distanz zu deinem Ziel. *(Standard: 2 Felder + Stärke | Kann mit Probe vergrößert werden)*  
 - **Verstecken** – _1AP_: Schlüpfe in den Schatten und werde unsichtbar für deine Feinde. *(Geschicklichkeitsprobe gegen Wahrnehmung)*  
 - **Ausweichen** – _1AP_: Erschwere es deinen Gegnern dich zu treffen. *(Malus auf Angriffe gegen dich für die Runde)*  

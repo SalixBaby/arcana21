@@ -1,9 +1,11 @@
 ---
 {}
 ---
->*Ein traditionelles Schwert, das durch seine Reichweite und Balance gleichermaßen für offensive und defensive Manöver geeignet ist.*  
-  
-[[./Waffeneigenschaften/Schwer|Schwer]] [[./Waffenfähigkeiten/Aufschlitzen|Aufschlitzen]] [[./Waffenfähigkeiten/Parieren|Parieren]] (Nur Waffenangriffe)  
+> _Eine vielseitige und ausgewogene Waffe – lang genug, um Reichweite zu bieten, und scharf genug, um sowohl Rüstung als auch Fleisch zuverlässig zu durchtrennen. Beliebt bei Rittern wie auch bei erfahrenen Söldnern._  
   
 - Basisschaden: 1  
-- Kollateralschaden : 1 (Kann auf das Ziel oder ein daneben stehendes Ziel angewendet werden)  
+- Waffeneigenschaften: [[./Waffeneigenschaften/Schwer|Schwer]]  
+- Waffenfähigkeiten: [[./Waffenfähigkeiten/Parieren|Parieren]], [[./Waffenfähigkeiten/Aufschlitzen|Aufschlitzen]] [[./Waffenfähigkeiten/Kollateralschaden|Kollateralschaden]]  
+- Projektile: -  
+- Reichweite: -  
+- Alternative: Duellschwert, Bastardschwert

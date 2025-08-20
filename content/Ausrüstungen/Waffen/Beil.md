@@ -1,9 +1,11 @@
 ---
 {}
 ---
->*Ein kleines, einhändiges Beil, das sowohl als Werkzeug als auch als Waffe verwendet wird. Es ist leicht und eignet sich besonders für schnelle, kraftvolle Schläge.*  
-  
-[[./Waffeneigenschaften/Wurffähig|Wurffähig]] [[./Waffenfähigkeiten/Aufschlitzen|Aufschlitzen]]  
+_Ein einhändig geführtes Beil, gleichermaßen nützlich im Kampf wie beim Holzfällen. Brutal, aber handlich._  
   
 - Basisschaden: 1  
-- Reichweite: 10 Felder | 20 Felder
+- Waffeneigenschaften: [[./Waffeneigenschaften/Wurffähig|Wurffähig]]  
+- Waffenfähigkeiten: [[./Waffenfähigkeiten/Aufschlitzen|Aufschlitzen]]  
+- Projektile: -  
+- Reichweite: -  
+- Alternative: Handbeil, Tomahawk

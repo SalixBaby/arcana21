@@ -4,18 +4,23 @@ Gnomen stammen aus den uralten Wäldern, nebelverhangenen Mooren und verborgenen
 **Kultur & Lebensweise:**    
 Gnomen sind bekannt für ihre Begeisterung für Tüfteleien, Geschichten und Magie. Sie gelten als exzentrisch, aber herzlich, und legen großen Wert auf Familie, Handwerk und Wissen. Ihr Humor ist verspielt, oft voller Wortspiele und doppelter Bedeutungen. Viele Gnome dokumentieren ihre Gedanken in Tagebüchern, bauen kleine Apparaturen zum Zeitvertreib oder erzählen Geschichten, die Stunden dauern können. Ihre Gesellschaft ist gleichberechtigt, aber sie bewundern besonders weise oder kreative Köpfe.  
   
-**Größe:**    
-Klein – etwa 90 bis 120 cm, oft gedrungen oder drahtig, mit großen Ohren, spitzen Nasen und lebendigen Augen.  
+**Körper:**   
+- Kategorie: Klein  
+- Größe: 70-100 cm  
   
 **Alter:**    
-Gnomen können bis zu 300 Jahre alt werden. Sie gelten ab etwa 20 Jahren als erwachsen, behalten aber oft eine kindliche Neugier bis ins hohe Alter.  
+- Lebensspanne: 250 Jahre  
+- Erwachsen: 21 Jahre  
   
-**Bewegungsrate:**  
+**Bewegungsrate**:  
+- Laufen: 4 Felder  
+- Schwimmen: 2 Felder  
+- Springen: 2 Felder  
+- Fliegen: -  
   
-- **Laufen:** 4 Felder  
-- **Schwimmen:** 2 Felder  
-- **Springen:** 1 Feld  
-- **Fliegen:** –  
+**Volkseigenschaften**:  
+- Dunkelsicht - Gnome haben ein feines Gespür für Schatten und Konturen. Selbst in fast völliger Finsternis können sie sich noch erstaunlich gut zurechtfinden.  
+- Hartnäckig - Ihr unbeugsamer Geist macht sie widerstandsfähig gegen Beeinflussung. Gnome lassen sich nur schwer von mentalen Zaubern aus der Fassung bringen.  
   
-**Besondere Fähigkeit:**    
-Gnome sind zäher als ihre kleine Gestalt vermuten lässt. Versucht man einen Gnome magisch zu verzaubern erhält man einen Malus auf die Probe. Zudem sind Gnome mechanisch sehr visiert und verstehen mechanische Komponenten instinktiv.
+**Volksfähigkeiten**:  
+- Scharfsinn – _40AP_: - Einmal pro Tag können Gnome innehalten, die Lage genau studieren und ihre Schlüsse ziehen. Bei einer gelungenen Probe erkennen sie zusätzliche Details, Zusammenhänge oder verborgene Aspekte, die anderen verborgen bleiben würden.

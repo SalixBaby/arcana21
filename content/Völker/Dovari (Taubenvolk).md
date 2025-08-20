@@ -4,18 +4,27 @@ Die Dovari stammen aus den weiten Hochebenen, windumtosten Hängen und luftigen 
 **Kultur & Lebensweise:**    
 Die Dovari pflegen eine ruhige, meditative Lebensweise und schätzen Musik, Harmonie und Gleichgewicht. Viele von ihnen wirken wie wandernde Pilger, Boten oder Himmelspriester. Kommunikation ist für die Dovari essenziell – sie legen Wert auf klare, friedliche Worte und gelten als hervorragende Diplomaten und Vermittler. Ihr Gesang gilt als heilig, manche ihrer Melodien werden über Generationen hinweg weitergegeben.  
   
-**Größe:**    
-Normal – etwa 160–180 cm groß, mit einer aufrechten, anmutigen Haltung.  
+**Körper:**   
+- Kategorie: Normal  
+- Größe: 150-170 cm  
   
 **Alter:**    
-Dovari werden durchschnittlich 90 Jahre alt. Sie gelten ab etwa 16 Jahren als erwachsen.  
+- Lebensspanne: 90 Jahre  
+- Erwachsen: 16 Jahre  
   
-**Bewegungsrate:**  
+**Bewegungsrate**:  
+- Laufen: 3 Felder  
+- Schwimmen: -  
+- Springen: 1 Feld  
+- Fliegen: 8 Felder  
   
-- **Laufen:** 3 Felder  
-- **Schwimmen:** –  
-- **Springen:** 1 Feld  
-- **Fliegen:** 10 Felder (nur ohne Rüstung)  
+**Volkseigenschaften**:  
+- Beruhigende Präsenz - Dovari haben eine beruhigende Wirkung auf viele Kreaturen.  
+- Singstimme - Dovari können von Geburt an gut und harmonisch singen.  
   
-**Besondere Fähigkeit:**    
-Dovari verfügen über breite, helle Schwingen, mit denen sie große Distanzen fliegend zurücklegen können. Besonders in offenem Gelände oder bei hohem Wind zeigen sie ihre volle Eleganz. Ihr Gesang wirkt beruhigend auf viele Lebewesen – manche sagen, Dovari könnten mit einem einzigen Ton die Stimmung in einem Raum verändern.
+**Volksfähigkeiten**:  
+- Fliegen – _1AP_: Dovari können fliegen solange sie kein allzu großes zusätzliches Gewicht tragen.  
+  
+*Zusätzliche Erklärung für Fliegen:  
+- *Fliegen verlangt Konzentration*  
+- *Während des Fliegens erhält man einen dreifachen Malus auf alle Angriffs- oder Zauberproben*

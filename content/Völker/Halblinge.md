@@ -4,18 +4,23 @@ Halblinge stammen aus fruchtbaren Tälern, sanften Hügeln und dicht bewachsenen
 **Kultur & Lebensweise:**    
 Halblinge sind ein lebensfrohes, geselliges Volk, das Wert auf Gemeinschaft, gutes Essen und Geschichten legt. Feste und Familientreffen haben bei ihnen eine große Bedeutung, ebenso wie das Teilen von Ernte, Zeit und Witz. Trotz ihrer gemütlichen Art gelten sie als überraschend zäh, flink und gewitzt. Viele Halblinge haben eine natürliche Neugier auf die große Welt da draußen – manche zieht es auf Reisen, andere verdienen sich als Späher, Boten oder sogar Abenteuerer ihren Namen. Sie meiden Konflikte, wissen sich aber im Notfall gut zu behaupten.  
   
-**Größe:**    
-Klein – etwa 80 bis 110 cm groß, mit rundlichen Gesichtern, kräftigen Füßen und einem beständigen Lächeln.  
+**Körper:**   
+- Kategorie: Klein  
+- Größe: 80-110 cm  
   
 **Alter:**    
-Halblinge gelten ab etwa 20 Jahren als erwachsen und können bis zu 150 Jahre alt werden.  
+- Lebensspanne: 120 Jahre  
+- Erwachsen: 20 Jahre  
   
-**Bewegungsrate:**  
+**Bewegungsrate**:  
+- Laufen: 4 Felder  
+- Schwimmen: 2 Felder  
+- Springen: 2 Felder  
+- Fliegen: -  
   
-- **Laufen:** 4 Felder  
-- **Schwimmen:** 2 Felder  
-- **Springen:** 1 Feld  
-- **Fliegen:** –  
+**Volkseigenschaften**:  
+- Mutig - Halbling können weder durch normale Magie oder Fähigkeiten verängstig werden.  
+- Schlüpfrig - Halblinge können durch Felder laufen auf denen Gegner, die größer sind, stehen.  
   
-**Besondere Fähigkeit:**    
-Halblinge besitzen ein instinktives Gespür für Glück. Einmal pro Tag dürfen sie eine misslungene Probe wiederholen. Zudem sind sie erstaunlich unauffällig und können sich in einer Menschenmenge oder unter natürlichen Gegebenheiten leichter verstecken.
+**Volksfähigkeiten**:  
+- Glückskind – _1AP_: Halblinge können einmal am Tag eine Probe erneut würfeln. 
