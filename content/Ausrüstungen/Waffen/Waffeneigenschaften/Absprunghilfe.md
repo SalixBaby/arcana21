@@ -1,0 +1,1 @@
+Waffen mit dieser Eigenschaft können als Stütze oder Hebel genutzt werden, um Sprünge zu verstärken. Ein Held erhält damit zusätzlichen Schwung, kann höher oder weiter springen und Hindernisse überwinden, die ohne Hilfe kaum erreichbar wären.
