@@ -4,18 +4,23 @@ Die Lupari stammen aus weiten Tundren, dichten Nadelwäldern und schneebedeckten
 **Kultur & Lebensweise:**    
 Lupari leben in enger Gemeinschaft – ihr Sozialverhalten ist stark von Rudelstrukturen geprägt. Loyalität, Ehre und Schutz der Gruppe stehen über allem. Jeder in ihrem „Rudel“ hat eine Rolle, sei es Jäger, Bewahrer, Sprecher oder Heiler. Ihre Kultur schätzt mündliche Überlieferungen, Lieder und gemeinsame Rituale. Fremden begegnen sie zunächst mit reservierter Vorsicht, doch wer ihr Vertrauen gewinnt, wird wie ein Bruder oder eine Schwester behandelt. Lupari verehren oft Geister der Jagd, des Mondes oder der Ahnen.  
   
-**Größe:**    
-Normal – etwa 170 bis 200 cm groß, meist kräftig gebaut, mit dichter Körperbehaarung, spitzen Ohren, scharfen Augen und einem ausgeprägten Geruchssinn. Viele tragen sichtbare Züge ihres tierischen Ursprungs: verlängerte Eckzähne, Klauen oder sogar einen Schweif.  
+**Körper:**   
+- Kategorie: Normal  
+- Größe: 160-180 cm  
   
 **Alter:**    
-Lupari gelten ab etwa 16 Jahren als erwachsen und werden in der Regel zwischen 70 und 90 Jahre alt.  
+- Lebensspanne: 80 Jahre  
+- Erwachsen: 16 Jahre  
   
-**Bewegungsrate:**  
+**Bewegungsrate**:  
+- Laufen: 5 Felder  
+- Schwimmen: 2 Felder  
+- Springen: 2 Felder  
+- Fliegen: -  
   
-- **Laufen:** 6 Felder  
-- **Schwimmen:** 2 Felder  
-- **Springen:** 2 Felder  
-- **Fliegen:** –  
+**Volkseigenschaften**:  
+- Winterfell - Das dichte Fell der Lupari schützt sie zuverlässig vor Kälte. Sie sind sowohl an eisige Umgebungen als auch gegen Angriffe durch Frost oder Kälte von Natur aus widerstandsfähig.  
+- Rudelinstinkt – Lupari spüren die Nähe anderer ihres Volkes instinktiv, selbst ohne Sicht- oder Hörkontakt.  
   
-**Besondere Fähigkeit:**    
-Lupari besitzen ein ausgeprägtes Gespür für ihre Umgebung. Sie können in der Nähe (etwa 10 Meter) andere Wesen anhand von Geruch oder Geräuschen wahrnehmen – selbst durch dünne Wände oder bei Dunkelheit. Außerdem können sie sich für kurze Zeit (einmal pro Tag) besonders schnell bewegen und dabei ihre Laufen-Bewegungsrate um +2 Felder für eine Runde erhöhen.
+**Volksfähigkeiten**:  
+- Geruchssinn – _2AP_: Ein Lupari kann einmal am Tag seine feine Nase einsetzen, um Kreaturen im Umkreis von 10m x Level zu erschnüffeln.
