@@ -5,17 +5,27 @@ Die Corvum leben bevorzugt in hochgelegenen Regionen: auf steilen Klippen, in ze
 Corvum gelten als intelligent, neugierig und ein wenig exzentrisch. Ihre Gesellschaft legt großen Wert auf das Sammeln und Bewahren von Wissen. Viele von ihnen sind Geschichtenerzähler, Orakel, Spione oder Bibliothekare. Ihr Humor ist scharfzüngig, ihre Loyalität tief – aber sie vergessen nichts. Es heißt, ein Corvum trägt jedes Wort, das er je hörte, in seinem Geist mit sich.    
 Sie haben eine besondere Faszination für glänzende Gegenstände, überlieferte Lieder und geheime Wahrheiten.  
   
-**Größe:**    
-Normal – etwa 150–170 cm groß.  
+**Körper:**   
+- Kategorie: Normal  
+- Größe: 150-170 cm  
   
 **Alter:**    
-Corvum werden bis zu 80 Jahre alt. Sie gelten ab etwa 14 Jahren als erwachsen.  
+- Lebensspanne: 80 Jahre  
+- Erwachsen: 15 Jahre  
   
-**Bewegungsrate:**  
-- **Laufen:** 3 Felder  
-- **Schwimmen:**-  
-- **Springen**: 1 Feld  
-- **Fliegen**: 8 Felder (nur ohne Rüstung)  
+**Bewegungsrate**:  
+- Laufen: 3 Felder  
+- Schwimmen: -  
+- Springen: 1 Feld  
+- Fliegen: 8 Felder  
   
-**Besondere Fähigkeit:**    
-Corvum besitzen schwarze, kräftige Schwingen, mit denen sie fliegen können. In urbanen oder engen Umgebungen nutzen sie ihre Flügel aber oft auch zum Gleitflug oder schnellen Positionswechsel. Ihre scharfen Augen ermöglichen es ihnen außerdem, Bewegungen in weiter Ferne oder bei Dämmerlicht früh zu erkennen.
+**Volkseigenschaften**:  
+- Dunkelsicht - Corvum sind es gewohnt, in schummrigen Umgebungen zu leben. Selbst in beinahe völliger Finsternis können sie sich noch erstaunlich sicher orientieren.  
+- Gutes Gedächtnis - Besonders Gesichter brennen sich tief in ihr Gedächtnis ein. Ein Corvum vergisst selten, wem er begegnet ist – sei es Freund oder Feind.  
+  
+**Volksfähigkeiten**:  
+- Fliegen – _1AP_: Corvum können fliegen solange sie kein allzu großes zusätzliches Gewicht tragen.  
+  
+*Zusätzliche Erklärung für Fliegen:  
+- *Fliegen verlangt Konzentration*  
+- *Während des Fliegens erhält man einen dreifachen Malus auf alle Angriffs- oder Zauberproben*
