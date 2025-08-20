@@ -4,18 +4,23 @@ Menschen stammen aus unterschiedlichsten Regionen der Welt – von weiten Ebenen
 **Kultur & Lebensweise:**    
 Menschen sind anpassungsfähig, ehrgeizig und vielseitig. Ihre Kulturen reichen von streng hierarchisch bis basisdemokratisch, von hochgebildet bis mystisch-archaisch. Sie gelten als pragmatisch und neugierig – oft mit dem Wunsch, etwas Bleibendes zu hinterlassen, sei es durch Kunst, Wissen, Herrschaft oder Technologie. In der Vielfalt ihrer Gesellschaften gibt es für fast jede Idee, jedes Glaubenssystem und jede Lebensweise einen Platz.  
   
-**Größe:**    
-Normal – etwa 160 bis 200 cm. Ihre Erscheinung variiert stark je nach Region, Herkunft und Kultur.  
+**Körper:**   
+- Kategorie: Normal  
+- Größe: 160–200 cm  
   
 **Alter:**    
-Menschen werden im Durchschnitt 70 bis 90 Jahre alt. Sie gelten ab etwa 16 Jahren als erwachsen.  
+- Lebensspanne: 80 Jahre  
+- Erwachsen: 16 Jahre  
   
-**Bewegungsrate:**  
+**Bewegungsrate**:  
+- Laufen: 5 Felder  
+- Schwimmen: 2 Felder  
+- Springen: 2 Felder  
+- Fliegen: -  
   
-- **Laufen:** 5 Felder  
-- **Schwimmen:** 2 Felder  
-- **Springen:** 2 Felder  
-- **Fliegen:** –  
+**Volkseigenschaften**:  
+- Ermutigen – Menschen besitzen die beinahe übernatürliche Gabe, sich selbst und ihre Gefährten zu motivieren. Ihre Worte und ihr Beispiel können selbst in aussichtslosen Momenten neuen Mut entfachen.  
+- Breites Spektrum – Menschen sind vielseitig und anpassungsfähig. Bei der Charaktererschaffung dürfen sie eine zusätzliche Zauberausrichtung, Wissensrichtung, Sprache oder ein Ausrüstungsset wählen.  
   
-**Besondere Fähigkeit:**    
-Menschen sind außergewöhnlich anpassungsfähig. Sie können bei der Charaktererschaffung in einem beliebigen Wissensgebiet, einem Werkzeug oder einer Sprache einen zusätzlichen Bonuspunkt vergeben.
+**Volksfähigkeiten**:  
+- Hoffnungsschimmer – _1AP_: Menschen können selbst im dunkelsten Augenblick einen Funken Hoffnung entdecken. Einmal pro Kampf, wenn die Lage aussichtslos erscheint, können sie auf eine Probe, die stilistisch passt, einen doppelten Bonus erhalten.
