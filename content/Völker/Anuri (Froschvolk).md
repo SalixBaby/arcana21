@@ -4,17 +4,24 @@ Die Anuri stammen aus nebligen Sümpfen, moosbedeckten Regenwäldern und überfl
 **Kultur & Lebensweise:**    
 Anuri leben meist in eng verbundenen Gemeinschaften, in denen Entscheidungen gemeinsam getroffen werden. Sie sind bekannt für ihre Geduld, ruhige Lebensweise und ausgeprägte Beobachtungsgabe. Ihre Kunst besteht oft aus gesungenen Geschichten und rhythmischen Trommeln, die das Quaken von Fröschen imitieren. Viele Anuri verehren Naturgeister, insbesondere solche, die mit Wasser und Fruchtbarkeit verbunden sind.  
   
-**Größe:**    
-Klein – etwa 90–120 cm groß.  
+**Körper:**   
+- Kategorie: Klein  
+- Größe: 90-120 cm  
   
 **Alter:**    
-Anuri werden bis zu 50 Jahre alt. Sie gelten ab etwa 10 Jahren als erwachsen.  
+- Lebensspanne: 50 Jahre  
+- Erwachsen: 12 Jahre  
   
 **Bewegungsrate**:  
-- **Laufen:** 4 Felder  
-- **Schwimmen:** 4 Felder  
-- **Springen**: 4 Felder  
-- **Fliegen**: -  
+- Laufen: 4 Felder  
+- Schwimmen: 4 Felder  
+- Springen: 3 Felder  
+- Fliegen: -  
   
-**Besondere Fähigkeit:**    
-Anuri besitzen kräftige Hinterbeine, mit denen sie weite Sprünge ausführen können – sowohl in die Höhe als auch in die Weite. Außerdem sind sie hervorragende Schwimmer und können sich lautlos durch seichtes Wasser bewegen.
+**Volkseigenschaften**:  
+- Amphibisch - Anuri können unbegrenzt tauchen und sich unter Wasser genauso gut orientieren wie an Land.  
+- Schleimhaut - Anuri können nur erschwert mit bloßen Händen festgehalten werden.  
+  
+**Volksfähigkeiten**:  
+- Weitsprung – _2AP_: Anuri können ihre kräftigen Beine dazu nutzen doppelt so weit wie normal zu springen.  
+- Klebrige Zunge – _1AP_: Anuri können ihre Zunge dazu nutzen etwas in 3 Feldern Reichweite zu sich zu ziehen.
