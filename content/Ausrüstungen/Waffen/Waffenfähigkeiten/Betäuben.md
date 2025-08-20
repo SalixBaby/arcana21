@@ -5,4 +5,5 @@
   
 - Kosten: 1 AP  
 - Wirkung: 1 Betäubung (Betäubung mindert die AP für einen Zug; ist stapelbar; pro Runde verliert man eine Betäubung)  
-- Dauer: 1 Runde
+- Dauer: 1 Runde  
+- Anforderung: Der ursprüngliche Angriff muss treffen
