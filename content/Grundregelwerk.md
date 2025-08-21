@@ -656,7 +656,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
   
 **Arten von Rasten:**  
 - **Kurze Rast:**    
-    Eine Ruhephase von mindestens 24 Stunden ohne Kampf, Stress oder Reisen – z. B. ein Tag in einem sicheren Lager oder einer friedlichen Stadt.  
+    Eine Ruhephase von mindestens 24 Stunden ohne Kampf, Stress oder anstrengendes Reisen – z. B. ein Tag in einem sicheren Lager oder einer friedlichen Stadt.  
     - Stelle **1 + Level Gesundheit, Manapunkte, Ausdauerpunkte und Inspirationspunkte** wieder her.  
   
 - **Lange Rast:**    
