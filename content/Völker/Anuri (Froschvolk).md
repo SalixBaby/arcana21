@@ -19,9 +19,9 @@ Anuri leben meist in eng verbundenen Gemeinschaften, in denen Entscheidungen gem
 - Fliegen: -  
   
 **Volkseigenschaften**:  
-- Amphibisch - Anuri können unbegrenzt tauchen und sich unter Wasser genauso gut orientieren wie an Land.  
-- Schleimhaut - Anuri können nur erschwert mit bloßen Händen festgehalten werden.  
+- Amphibisch - Anuri fühlen sich im Wasser ebenso zuhause wie an Land. Sie können unbegrenzt tauchen und behalten auch in trüben Tiefen mühelos die Orientierung.  
+- Schleimhaut - Die feuchte, glatte Haut der Anuri macht es schwierig, sie mit bloßen Händen zu packen oder festzuhalten.  
   
 **Volksfähigkeiten**:  
-- Weitsprung – _2AP_: Anuri können ihre kräftigen Beine dazu nutzen doppelt so weit wie normal zu springen.  
-- Klebrige Zunge – _1AP_: Anuri können ihre Zunge dazu nutzen etwas in 3 Feldern Reichweite zu sich zu ziehen.
+- Sprungkraft – _2AP_: Anuri können ihre kräftigen Beine dazu nutzen um omnidirektional und doppelt so weit wie normal zu springen.  
+- Klebrige Zunge – _1AP_: Ihre lange, flexible Zunge erlaubt es Anuri, Objekte oder kleine Kreaturen aus bis zu 3 Feldern Entfernung zu sich heranzuziehen.
