@@ -1,21 +1,39 @@
 **Herkunft & Lebensraum:**    
-Untote entstehen durch mächtige Magie, uralte Flüche oder außergewöhnliche Umstände zwischen Leben und Tod. Sie sind keine bloßen willenlosen Kreaturen, sondern denkende Wesen mit Bewusstsein – etwa wiederbelebte Skelette, Geister, Ghule oder körperlich erhaltene Wiedergänger. Manche erwachen aus alten Gräbern, andere entstehen durch Rituale oder besondere Ereignisse. Untote ziehen Orte vor, an denen das Gleichgewicht zwischen Leben und Tod gestört ist: verlassene Ruinen, nebelverhangene Friedhöfe, verborgene Katakomben oder magisch beeinflusste Grenzlande.  
+Untote entstehen meist durch seltene, dunkle Magie, die sie an einen bestimmten Zweck bindet – sei es, einen alten Altar zu bewachen, einen uralten Schatz zu schützen oder Rache für ein erlittenes Unrecht zu üben. Sie haben keinen eigenen Lebensraum, leben nicht in Gemeinschaften und bauen keine Städte. Manche Untote wandern frei durch die Welt, auf der Suche nach einem Sinn oder einem Ziel, das sie im Leben verpasst haben.  
   
 **Kultur & Lebensweise:**    
-Die Existenz als Untoter ist geprägt von Erinnerung, Verlust und einem einzigartigen Blick auf die Welt. Viele von ihnen kämpfen mit Fragmenten ihrer früheren Leben, andere empfinden ihre Existenz als Befreiung von sterblichen Zwängen. Sie sind oft zurückgezogen, beobachtend und handeln mit großer Bedacht. Ihre Kultur ist vielfältig: Manche gründen stille Gemeinschaften unter ihresgleichen, andere durchstreifen die Welt, auf der Suche nach Sinn, Ruhe oder einer neuen Bestimmung. Ehre, Erinnerung und der Umgang mit der eigenen Existenz spielen eine zentrale Rolle.  
+Untote besitzen keine Kultur im herkömmlichen Sinn. Ihre Existenz ist geprägt von ihrer Aufgabe oder von den Erinnerungen an ihr früheres Leben. Viele sind gezwungen, ihre wahre Natur zu verbergen, um nicht gejagt oder vernichtet zu werden. Manche lernen, menschliche oder andere lebendige Verhaltensweisen nachzuahmen, um unerkannt unter den Lebenden zu wandeln. Trotz ihres untoten Daseins können sie eigenständig denken und Entscheidungen treffen – oft mit einem melancholischen oder rachsüchtigen Antrieb.  
   
-**Größe:**    
-Unterschiedlich – je nach ursprünglichem Körper. Die meisten liegen im normalen Bereich von 160 bis 190 cm, es gibt jedoch auch kleinere oder größere Varianten je nach Lebensform vor dem Tod.  
+**Körper:**  
+- Kategorie: Variabel – der Körperbau richtet sich nach dem Lebewesen, aus dem der Untote hervorging.  
+- Größe: Entsprechend des ursprünglichen Wesens  
   
-**Alter:**    
-Untote können theoretisch ewig existieren. Viele erinnern sich jedoch nur lückenhaft an ihr früheres Leben. Sie gelten ab dem Moment ihrer Wiedererweckung als „erwachsen“ – unabhängig von ihrem ursprünglichen Alter.  
+**Alter:**  
+- Unbestimmt – Untote altern nicht im herkömmlichen Sinne, ihr körperlicher Zustand bleibt erhalten, soweit Magie oder Verfall es zulassen.  
   
-**Bewegungsrate:**  
+**Bewegungsrate**:  
+- Laufen: Variabel  
+- Schwimmen: Variabel, abhängig vom ursprünglichen Körper  
+- Springen: Variabel  
+- Fliegen: Nur bei Untoten mit entsprechenden anatomischen Eigenschaften  
   
-- **Laufen:** 4 Felder  
-- **Schwimmen:** 1 Feld  
-- **Springen:** 1 Feld  
-- **Fliegen:** –   
+**Volkseigenschaften**:  
+- Verborgene Natur – Untote müssen ihre wahre Gestalt und Natur verbergen, um nicht verfolgt zu werden. Täuschung, Maskierung oder das Imitieren von Lebenden ist oft überlebensnotwendig.  
+- Magische Bindung – Viele Untote sind durch die nekromantische Magie, die sie erschuf, an ein Ziel oder einen Ort gebunden. Manche können diese Bindung nach und nach lösen, wenn sie lernen, ihre Freiheit zu nutzen.  
+- Giftimmunität - Untote können von Gift nicht mehr geschädigt werden.  
+  ---  
+- *Eigenschaft des Volkes - Vor deinem Tod gehörtest du zu einem der anderen Völker. Zusammen mit dem SL kann hier entschieden werden, welche Volkseigenschaften du übernehmen kannst.*  
   
-**Besondere Fähigkeit:**    
-Untote sind immun gegen Krankheiten, Gifte und Effekte, die Schlaf oder Lebenskraft betreffen. Zudem können sie sich einmal pro Tag vollständig stillstellen – ihre Körper scheinen dann wie tot oder leblos, was ihnen erlaubt, sich zu verstecken, Täuschungen durchzuführen oder vor magischer Erkennung zu schützen. Diese Starre kann mehrere Minuten andauern und endet auf eigenen Willen oder durch äußere Einwirkung.
+**Volksfähigkeiten**:  
+- Tödliche Ausdauer – _1AP_: Untote können einmal pro Kampf eine körperliche oder geistige Belastung ignorieren, die einen normalen Lebenden lähmen würde.  
+  ---  
+- *Fähigkeit des Volkes - Vor deinem Tod gehörtest du zu einem der anderen Völker. Zusammen mit dem SL kann hier entschieden werden, welche Volksfähigkeit du übernehmen kannst.*  
+  
+*Zusätzliche Erklärung für Untote:  
+- _Das Spielen eines Untoten sollte vorher mit dem SL besprochen werden._  
+- _Auch Untote haben einen Körper, der beschädigt oder zerstört werden kann._  
+- _Nur weil jemand Untot ist muss diese Person nicht Böse oder Schlecht sein._  
+- _Untote besitzen keine natürliche Heilung wie Lebende; Regeneration oder Reparatur hängt oft von Magie ab._  
+- _Untote können durch bestimmte magische Effekte oder heilige Kräfte besonders gefährdet sein._  
+- _Die Interaktion mit Lebenden erfordert Vorsicht – selbst Freunde könnten von ihrer Existenz erschreckt oder misstrauisch sein._  
+- _Alles was unklar ist, z.B. wie sieht die Heilung in einer Rast aus etc., kann mit dem SL individuell besprochen werden und sollte zur Hintergrundgeschichte des Helden passen._
