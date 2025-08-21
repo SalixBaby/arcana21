@@ -4,18 +4,28 @@ Tieflinge entstammen alten Blutlinien, die einst mit dämonischen oder infernale
 **Kultur & Lebensweise:**    
 Tieflinge wachsen häufig in einer Gesellschaft auf, die ihnen mit Misstrauen oder Furcht begegnet. Dadurch entwickeln viele von ihnen ein starkes Selbstbewusstsein, einen scharfen Verstand und ein Gespür für Täuschung oder Manipulation. Einige ziehen sich zurück, andere begegnen Vorurteilen mit Stolz, Charme oder Provokation. Tieflinge neigen dazu, eigene Wege zu gehen, folgen selten Regeln ohne Grund, und sind oft in den Bereichen Magie, Kunst oder Unterwelt zu finden. Viele Tieflinge führen innere Kämpfe zwischen Licht und Dunkelheit – was sie zugleich verletzlich und faszinierend macht.  
   
-**Größe:**    
-Normal – etwa 160 bis 190 cm, oft schlank bis drahtig gebaut, mit auffälligen Merkmalen wie Hörnern, Schweif, ungewöhnlichen Augenfarben oder Hauttönen (z. B. rötlich, violett, grau).  
+**Körper:**   
+- Kategorie: Normal  
+- Größe: 160–200 cm  
   
 **Alter:**    
-Tieflinge werden bis zu 120 Jahre alt und gelten ab etwa 16 Jahren als erwachsen.  
+- Lebensspanne: 120 Jahre  
+- Erwachsen: 16 Jahre  
   
-**Bewegungsrate:**  
+**Bewegungsrate**:  
+- Laufen: 5 Felder  
+- Schwimmen: 2 Felder  
+- Springen: 2 Felder  
+- Fliegen: -  
   
-- **Laufen:** 5 Felder  
-- **Schwimmen:** 2 Felder  
-- **Springen:** 2 Feld  
-- **Fliegen:** –  
+**Volkseigenschaften**:  
+- Höllisches Erbe – In ihrem Blut pulsiert ein Funke infernaler Macht. Dieses Erbe macht sie widerstandsfähiger gegen Flammen und Hitze.  
+- Verlockende Aura – Tieflinge haben eine Ausstrahlung die gleichermaßen faszinierend wie beunruhigend wirkt. Sie ziehen die Aufmerksamkeit auf sich, ob sie wollen oder nicht.  
   
-**Besondere Fähigkeit:**    
-Tieflinge sind resistent gegenüber magischem Feuer und mentaler Beeinflussung. Sie erhalten einen natürlichen Bonus auf Widerstandswürfe gegen Feuer- und Bezauberungs-Effekte. Zudem können sie einmal pro Tag eine kleine infernalische Magie wirken – z. B. eine flackernde Flamme in ihrer Hand erschaffen, die Licht und Wärme gibt, oder eine Stimme mit hallender Dämonenaura verstärken, um jemanden einzuschüchtern oder zu beeindrucken.
+**Volksfähigkeiten**:  
+- Höllenglut – _1AP_: Wenn ein Tiefling Schaden erleidet, kann er einmal pro Tag die in ihm lodernde infernale Macht entfesseln. Als Reaktion schlägt ein Funken höllischer Energie zurück und trifft den Angreifer.  
+  
+*Zusätzliche Erklärung für Höllenglut:  
+- *Trifft einen Gegner der einem Schaden zugefügt hat*  
+- *Verursacht (Level / 2 aufgerundet) infernalen Schaden*  
+- *Attribut für den Angriff kann mit dem SL abgesprochen werden*
