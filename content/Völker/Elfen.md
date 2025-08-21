@@ -19,8 +19,8 @@ Elfen leben in tiefer Verbindung zur Natur, der Magie und dem Fluss der Zeit. Si
 - Fliegen: -  
   
 **Volkseigenschaften**:  
-- Traumwacht - Elfen benötigen keinen herkömmlichen Schlaf. Stattdessen meditieren sie meist um der Erschöpfung entgegen zu wirken.  
-- Anmut - Elfen bewegen sich von Kindesbeinen an sehr anmutig. Sie brauchen nicht viel zu essen und wiegen kaum etwas.  
+- Traumwacht - Elfen kennen keinen gewöhnlichen Schlaf. Stattdessen versinken sie in tiefe Meditation, um Körper und Geist zu erneuern und Erschöpfung abzustreifen.  
+- Anmut - Von Geburt an bewegen sich Elfen mit natürlicher Eleganz. Sie sind leicht, brauchen nur wenig Nahrung und wirken oft wie schwerelos.  
   
 **Volksfähigkeiten**:  
-- Elfenauge – _1AP_: Elfen können weiter sehen als andere. Sie erhalten einen Bonus auf Wahrnehmungsproben, bei denen es um Entfernung geht.
+- Elfenauge – _1AP_: Mit ihrem scharfen Blick können Elfen Dinge in großer Entfernung erkennen. Bei Wahrnehmungsproben, die auf Reichweite oder Distanz beruhen, erhalten sie einen Bonus.
