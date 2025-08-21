@@ -21,12 +21,12 @@ Untote besitzen keine Kultur im herkömmlichen Sinn. Ihre Existenz ist geprägt 
 - Verborgene Natur – Untote müssen ihre wahre Gestalt und Natur verbergen, um nicht verfolgt zu werden. Täuschung, Maskierung oder das Imitieren von Lebenden ist oft überlebensnotwendig.  
 - Magische Bindung – Viele Untote sind durch die nekromantische Magie, die sie erschuf, an ein Ziel oder einen Ort gebunden. Manche können diese Bindung nach und nach lösen, wenn sie lernen, ihre Freiheit zu nutzen.  
 - Giftimmunität - Untote können von Gift nicht mehr geschädigt werden.  
-  ---  
+    
 - *Eigenschaft des Volkes - Vor deinem Tod gehörtest du zu einem der anderen Völker. Zusammen mit dem SL kann hier entschieden werden, welche Volkseigenschaften du übernehmen kannst.*  
   
 **Volksfähigkeiten**:  
 - Tödliche Ausdauer – _1AP_: Untote können einmal pro Kampf eine körperliche oder geistige Belastung ignorieren, die einen normalen Lebenden lähmen würde.  
-  ---  
+    
 - *Fähigkeit des Volkes - Vor deinem Tod gehörtest du zu einem der anderen Völker. Zusammen mit dem SL kann hier entschieden werden, welche Volksfähigkeit du übernehmen kannst.*  
   
 *Zusätzliche Erklärung für Untote:  
