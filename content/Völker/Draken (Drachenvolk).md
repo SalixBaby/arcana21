@@ -20,10 +20,10 @@ Draken leben in einer von Tradition und Clanstrukturen geprägten Gesellschaft. 
 - Fliegen: -  
   
 **Volkseigenschaften:**  
-- Drachenerbe – Das Blut der Drachen verleiht den Draken eine natürliche Resistenz gegenüber ihrem jeweiligen Element.  
+- Drachenerbe – In den Adern der Draken fließt uraltes Drachenblut, das ihnen eine natürliche Widerstandskraft gegen das Element ihrer Blutlinie verleiht.  
   
 **Volksfähigkeiten:**  
-- Drachenodem – _2AP_: Ein Draken kann einmal pro Tag einen kegelförmigen Atemangriff ausstoßen (Feuer, Säure, Blitz, je nach Blutlinie).  
+- Drachenodem – _2AP_: Ein Draken kann einmal pro Tag die rohe Macht seiner Herkunft entfesseln und einen kegelförmigen Atemstoß seines Elements (Feuer, Säure, Blitz, abhängig von der Blutlinie) wirken.  
   
 *Zusätzliche Erklärung für Drachenodem:  
 - *Trifft 4 Felder direkt vor einem*  
