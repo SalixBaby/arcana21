@@ -4,18 +4,23 @@ Tabaxi stammen aus dichten Dschungeln, nebelverhangenen Regenwäldern und sonnen
 **Kultur & Lebensweise:**    
 Tabaxi sind neugierige, stolze und geschmeidige Wesen mit einem tiefen Sinn für Freiheit und Individualität. Sie schätzen Geschichten, Geheimnisse und ungewöhnliche Entdeckungen über alles. Viele von ihnen führen Reisetagebücher, sammeln merkwürdige Objekte oder jagen Erinnerungen. Ihre Kultur ist von Bewegung, Anpassung und Schönheit geprägt – sei es im Tanz, in der Jagd oder in rituellen Kämpfen. Ruhm und Geschichten werden als Vermächtnis höher geschätzt als materieller Besitz.  
   
-**Größe:**    
-Normal – etwa 150 bis 180 cm, mit schlanken Körpern, katzenartigen Gesichtern, leiser Gangart und langen Schwänzen.  
+**Körper:**   
+- Kategorie: Normal  
+- Größe: 150–180 cm  
   
 **Alter:**    
-Tabaxi werden bis zu 90 Jahre alt und gelten ab etwa 16 Jahren als erwachsen.  
+- Lebensspanne: 80 Jahre  
+- Erwachsen: 15 Jahre  
   
-**Bewegungsrate:**  
+**Bewegungsrate**:  
+- Laufen: 5 Felder  
+- Schwimmen: 1 Felder  
+- Springen: 2 Felder  
+- Fliegen: -  
   
-- **Laufen:** 6 Felder  
-- **Schwimmen:** 1 Feld  
-- **Springen:** 2 Felder  
-- **Fliegen:** –  
+**Volkseigenschaften**:  
+- Neugiertrieb – Tabaxi verspüren einen unstillbaren Drang, Neues zu entdecken. Ihre Neugier schenkt ihnen wertvolle Erfahrungen, bringt sie aber ebenso oft in brenzlige Situationen.  
+- Auf den Pfoten landen – Tabaxi landen nach einem Sturz oft katzengleich auf ihren Füßen, was den Fallschaden halbiert und sie nicht zu Boden stürzen.  
   
-**Besondere Fähigkeit:**    
-Tabaxi sind meisterhafte Sprinter. Einmal pro Szene können sie ihre Laufgeschwindigkeit für eine Runde verdoppeln und selbst auf unebenem Terrain sicher laufen. Zusätzlich besitzen sie eine bemerkenswerte Gleichgewichtsfähigkeit: Sie können auf schmalen Vorsprüngen oder Seilen balancieren, ohne Abzüge zu erleiden, und landen nach einem Sturz oft katzengleich auf den Füßen, was Fallschaden reduziert.
+**Volksfähigkeiten**:  
+- Balanceakt – _1AP_: Tabaxi können automatisch einem Stolpern, Sturz oder einem Effekt, der ihn zu Boden bringen würde, widerstehen.
