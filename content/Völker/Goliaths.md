@@ -6,7 +6,7 @@ Das Leben der Goliaths ist geprägt von Stärke, Ausdauer und Wettbewerb. Ihre G
   
 **Körper:**  
 - Kategorie: Groß  
-- Größe: 210–250 cm  
+- Größe: 220–250 cm  
   
 **Alter:**  
 - Lebensspanne: ~120 Jahre  
