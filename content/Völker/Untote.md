@@ -15,7 +15,7 @@ Untote können theoretisch ewig existieren. Viele erinnern sich jedoch nur lück
 - **Laufen:** 4 Felder  
 - **Schwimmen:** 1 Feld  
 - **Springen:** 1 Feld  
-- **Fliegen:** – _(Einige Geisterformen können levitieren, dies muss jedoch spezifisch festgelegt werden)_  
+- **Fliegen:** –   
   
 **Besondere Fähigkeit:**    
 Untote sind immun gegen Krankheiten, Gifte und Effekte, die Schlaf oder Lebenskraft betreffen. Zudem können sie sich einmal pro Tag vollständig stillstellen – ihre Körper scheinen dann wie tot oder leblos, was ihnen erlaubt, sich zu verstecken, Täuschungen durchzuführen oder vor magischer Erkennung zu schützen. Diese Starre kann mehrere Minuten andauern und endet auf eigenen Willen oder durch äußere Einwirkung.

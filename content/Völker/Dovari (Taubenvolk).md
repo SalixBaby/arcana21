@@ -19,8 +19,8 @@ Die Dovari pflegen eine ruhige, meditative Lebensweise und schätzen Musik, Harm
 - Fliegen: 8 Felder  
   
 **Volkseigenschaften**:  
-- Beruhigende Präsenz - Dovari haben eine beruhigende Wirkung auf viele Kreaturen.  
-- Singstimme - Dovari können von Geburt an gut und harmonisch singen.  
+- Beruhigende Präsenz - Die Ausstrahlung der Dovari wirkt besänftigend und kann selbst aufgeregte Gemüter zur Ruhe bringen.  
+- Melodische Stimme - Von Geburt an verfügen die Dovari über eine klare, harmonische Singstimme, die Herzen berührt und Aufmerksamkeit fesselt.  
   
 **Volksfähigkeiten**:  
 - Fliegen – _1AP_: Dovari können fliegen solange sie kein allzu großes zusätzliches Gewicht tragen.  
