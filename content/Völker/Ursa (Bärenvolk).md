@@ -4,18 +4,23 @@ Die Ursa stammen aus rauen, bewaldeten Gebirgszügen, kalten Nadelwäldern und e
 **Kultur & Lebensweise:**    
 Ursa sind ruhige, kraftvolle Wesen mit großem Familiensinn und tiefer Naturverbundenheit. Sie glauben an die Weisheit der Alten, an Geschichten, die über Generationen weitergegeben werden, und an Rituale zur Ehrung von Geistern, Ahnen und der Wildnis. Konflikten gehen sie eher aus dem Weg – aber wenn sie kämpfen, dann mit Entschlossenheit und unerschütterlicher Kraft. Gastfreundschaft, Schutz der Schwächeren und ein starkes Ehrgefühl sind zentrale Werte. Musik, Handwerk und traditionelle Tätowierungen spielen eine wichtige Rolle in ihrer Kultur.  
   
-**Größe:**    
-Groß – zwischen 220 und 260 cm, sehr kräftig gebaut, mit breiten Schultern, dichtem Fell (in Farben von Braun über Schwarz bis hin zu Grau oder Weiß) und eindrucksvollen Klauenhänden.  
+**Körper:**   
+- Kategorie: Groß  
+- Größe: 220–260 cm  
   
 **Alter:**    
-Ursa werden in der Regel 80 bis 100 Jahre alt. Sie gelten ab etwa 15 Jahren als erwachsen, gelten jedoch erst mit 30 als weise genug, um ein Stammesrat zu sein.  
+- Lebensspanne: 100 Jahre  
+- Erwachsen: 15 Jahre  
   
-**Bewegungsrate:**  
+**Bewegungsrate**:  
+- Laufen: 5 Felder  
+- Schwimmen: 3 Felder  
+- Springen: 1 Felder  
+- Fliegen: -  
   
-- **Laufen:** 5 Felder  
-- **Schwimmen:** 3 Felder  
-- **Springen:** 1 Feld  
-- **Fliegen:** –  
+**Volkseigenschaften**:  
+- Schwerer Schritt – Ihre massige Gestalt verleiht den Ursa eine natürliche Einschüchterung, aber erschwert leises Schleichen. (+1 auf Einschüchterung, Malus auf Heimlichkeit)  
+- Winterschlaf – Ursa können in einer kurzen Rast in einen tiefen und sehr erholsamen Schlaf sinken und bis zu (Level x) Gesundheit regenerieren.  
   
-**Besondere Fähigkeit:**    
-Ursa verfügen über eine natürliche Widerstandskraft: Einmal pro Tag können sie sich für kurze Zeit in einen Zustand versetzen, in dem sie Schmerz und Erschöpfung nahezu ignorieren – sie erhalten temporären Schutz gegen körperliche Beeinträchtigungen wie Blutungen, Kälte oder Erschöpfungseffekte. Diese Fähigkeit ist tief mit ihrer instinktiven Verbindung zur Natur und zu ihrer inneren Stärke verbunden.
+**Volksfähigkeiten**:  
+- Starke Umarmung – _1AP_: Ursa können ihre übernatürliche Größe und Stärke dazu einsetzen einen Bonus auf Festhalten- und Lähmungsproben zu erhalten.
