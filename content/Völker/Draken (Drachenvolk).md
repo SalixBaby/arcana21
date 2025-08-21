@@ -25,7 +25,7 @@ Draken leben in einer von Tradition und Clanstrukturen geprägten Gesellschaft. 
 **Volksfähigkeiten:**  
 - Drachenodem – _2AP_: Ein Draken kann einmal pro Tag die rohe Macht seiner Herkunft entfesseln und einen kegelförmigen Atemstoß seines Elements (Feuer, Säure, Blitz, abhängig von der Blutlinie) wirken.  
   
-*Zusätzliche Erklärung für Drachenodem:  
+_Zusätzliche Erklärung für Drachenodem:_  
 - *Trifft 4 Felder direkt vor einem*  
 - *Verursacht (Level / 2 aufgerundet) Elementarschaden*  
 - *Attribut für den Angriff kann mit dem SL abgesprochen werden*

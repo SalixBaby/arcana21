@@ -26,6 +26,6 @@ Sie haben eine besondere Faszination für glänzende Gegenstände, überlieferte
 **Volksfähigkeiten**:  
 - Fliegen – _1AP_: Corvum können fliegen solange sie kein allzu großes zusätzliches Gewicht tragen.  
   
-*Zusätzliche Erklärung für Fliegen:  
+_Zusätzliche Erklärung für Fliegen:_  
 - *Fliegen verlangt Konzentration*  
 - *Während des Fliegens erhält man einen dreifachen Malus auf alle Angriffs- oder Zauberproben*

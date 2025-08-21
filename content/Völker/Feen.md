@@ -25,6 +25,6 @@ Feen sind launisch, verspielt und von tiefer Neugier getrieben. Ihre Kultur basi
 - Fliegen – _1AP_: Feen können fliegen solange sie kein allzu großes zusätzliches Gewicht tragen.  
 - Schrumpfen – _1AP_: Einmal pro Tag können Feen ihre Gestalt bis auf Handgröße verkleinern und so für bis zu einer Minute fast unsichtbar zwischen Ritzen und Schatten verschwinden.  
   
-*Zusätzliche Erklärung für Fliegen:  
+_Zusätzliche Erklärung für Fliegen:_  
 - *Fliegen verlangt Konzentration*  
 - *Während des Fliegens erhält man einen dreifachen Malus auf alle Angriffs- oder Zauberproben*

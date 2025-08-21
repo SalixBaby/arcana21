@@ -25,6 +25,6 @@ Die Dovari pflegen eine ruhige, meditative Lebensweise und schätzen Musik, Harm
 **Volksfähigkeiten**:  
 - Fliegen – _1AP_: Dovari können fliegen solange sie kein allzu großes zusätzliches Gewicht tragen.  
   
-*Zusätzliche Erklärung für Fliegen:  
+_Zusätzliche Erklärung für Fliegen:_  
 - *Fliegen verlangt Konzentration*  
 - *Während des Fliegens erhält man einen dreifachen Malus auf alle Angriffs- oder Zauberproben*
