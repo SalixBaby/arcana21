@@ -19,8 +19,8 @@ Halblinge sind ein lebensfrohes, geselliges Volk, das Wert auf Gemeinschaft, gut
 - Fliegen: -  
   
 **Volkseigenschaften**:  
-- Mutig - Halbling können weder durch normale Magie oder Fähigkeiten verängstig werden.  
-- Schlüpfrig - Halblinge können durch Felder laufen auf denen Gegner, die größer sind, stehen.  
+- Unerschütterlicher Mut - Halblinge lassen sich weder durch Zauber noch durch gewöhnliche Einschüchterungen erschrecken. Ihr Herz bleibt standhaft, wo andere erzittern würden.  
+- Schlüpfrig - Dank ihrer geringen Statur schlüpfen Halblinge selbst durch enge Lücken und können mühelos zwischen den Beinen größerer Gegner hindurchflitzen.  
   
 **Volksfähigkeiten**:  
-- Glückskind – _1AP_: Halblinge können einmal am Tag eine Probe erneut würfeln. 
+- Glückskind – _1AP_: Einmal pro Tag dürfen Halblinge ihr Glück herausfordern und einen misslungenen Wurf wiederholen.

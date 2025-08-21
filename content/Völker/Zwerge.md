@@ -18,4 +18,27 @@ Zwerge werden etwa 250 bis 300 Jahre alt und gelten ab ca. 25 Jahren als erwachs
 - **Fliegen:** –  
   
 **Besondere Fähigkeit:**    
-Zwerge sind zäh und unbeirrbar. Sie ignorieren die ersten Auswirkungen von Erschöpfung, Schmerz oder geistiger Ablenkung in einer Szene. Zusätzlich erhalten sie Boni beim Widerstehen gegen Gifte, Krankheiten und geistige Beeinflussung. Ihr unerschütterlicher Wille macht sie zu zuverlässigen Kameraden – besonders im Angesicht von Dunkelheit und Gefahr.
+Zwerge sind zäh und unbeirrbar. Sie ignorieren die ersten Auswirkungen von Erschöpfung, Schmerz oder geistiger Ablenkung in einer Szene. Zusätzlich erhalten sie Boni beim Widerstehen gegen Gifte, Krankheiten und geistige Beeinflussung. Ihr unerschütterlicher Wille macht sie zu zuverlässigen Kameraden – besonders im Angesicht von Dunkelheit und Gefahr.  
+  
+  
+  
+**Körper:**   
+- Kategorie: Normal  
+- Größe: 120–140 cm  
+  
+**Alter:**    
+- Lebensspanne: 300 Jahre  
+- Erwachsen: 25 Jahre  
+  
+**Bewegungsrate**:  
+- Laufen: 4 Felder  
+- Schwimmen: 1 Felder  
+- Springen: 1 Felder  
+- Fliegen: -  
+  
+**Volkseigenschaften**:  
+- Dunkelsicht – Jahrzehnte in Minen und unterirdischen Hallen haben ihre Augen geschärft. Zwerge können auch bei schwachem Licht oder in völliger Finsternis noch Strukturen erkennen.  
+- Giftresistenz – Der Körper eines Zwerges ist robust und widerstandsfähig. Viele Gifte wirken deutlich schwächer oder gar nicht auf sie.  
+  
+**Volksfähigkeiten**:  
+- Steinsinn – _4AP_: Durch Berührung eines Steins oder Erzes können Zwerge dessen Geschichte erahnen und verborgene Eigenschaften wahrnehmen.

@@ -19,11 +19,11 @@ Feen sind launisch, verspielt und von tiefer Neugier getrieben. Ihre Kultur basi
 - Fliegen: 5 Felder  
   
 **Volkseigenschaften**:  
-- Bindende Verträge - Feen können keine Verträge ohne schwerwiegende Konsequenzen brechen.  
+- Bindende Verträge - Worte einer Fee tragen Gewicht. Jeder Pakt, jedes Versprechen bindet sie mit unsichtbaren Fäden. Wer einen Vertrag bricht, muss mit schweren Konsequenzen rechnen – sei es durch Magie oder Schicksal selbst.  
   
 **Volksfähigkeiten**:  
 - Fliegen – _1AP_: Feen können fliegen solange sie kein allzu großes zusätzliches Gewicht tragen.  
-- Schrumpfen – _1AP_: Feen können einmal am Tag ihre Körpergröße für bis zu einer Minute bis zur Größe einer Hand verkleinern.  
+- Schrumpfen – _1AP_: Einmal pro Tag können Feen ihre Gestalt bis auf Handgröße verkleinern und so für bis zu einer Minute fast unsichtbar zwischen Ritzen und Schatten verschwinden.  
   
 *Zusätzliche Erklärung für Fliegen:  
 - *Fliegen verlangt Konzentration*  

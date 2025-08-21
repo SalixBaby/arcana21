@@ -4,18 +4,23 @@ Vulpin leben bevorzugt in gemäßigten Wäldern, an Waldrändern oder in verstec
 **Kultur & Lebensweise:**    
 Vulpin gelten als listig, charmant und wortgewandt. Sie legen großen Wert auf Selbstbestimmung, Unabhängigkeit und Raffinesse. Täuschung wird in ihrer Kultur nicht als unehrenhaft, sondern als Zeichen von Verstand angesehen – solange niemand ernsthaft geschadet wird. Geschichten, Maskenspiele und versteckte Bedeutungen prägen ihr kulturelles Leben. In vielen Gemeinschaften wird cleveres Handeln über rohe Stärke gestellt. Vulpin reisen oft und passen sich mühelos an neue Umgebungen und Kulturen an.  
   
-**Größe:**    
-Normal – etwa 150 bis 170 cm groß, schlank gebaut mit buschigem Schweif, spitzen Ohren und wachsamem Blick. Ihr Fell ist oft rötlich, silbern oder fahlbraun.  
+**Körper:**   
+- Kategorie: Normal  
+- Größe: 150-160 cm  
   
 **Alter:**    
-Vulpin werden etwa 70 bis 90 Jahre alt und gelten ab dem 14. Lebensjahr als erwachsen.  
+- Lebensspanne: 80 Jahre  
+- Erwachsen: 15 Jahre  
   
-**Bewegungsrate:**  
+**Bewegungsrate**:  
+- Laufen: 5 Felder  
+- Schwimmen: 2 Felder  
+- Springen: 2 Felder  
+- Fliegen: -  
   
-- **Laufen:** 5 Felder  
-- **Schwimmen:** 2 Felder  
-- **Springen:** 2 Felder  
-- **Fliegen:** –  
+**Volkseigenschaften**:  
+- Leichtfüßig – Vulpin bewegen sich mit beinahe lautloser Eleganz. Ihre Schritte hinterlassen nur selten Spuren, was es Verfolgern ungemein schwer macht, ihre Fährte aufzunehmen.  
+- Anpassungsfähig – Ob in fremden Städten, rauer Wildnis oder ungewohnten Gesellschaften – Vulpin fügen sich instinktiv in neue Umstände ein und finden schneller als andere einen Weg, sich darin zu behaupten.  
   
-**Besondere Fähigkeit:**    
-Vulpin sind Meister der Tarnung und Illusion. Einmal pro Szene können sie sich blitzschnell verbergen oder einen kurzen Moment der Ablenkung erzeugen (z. B. durch ein Geräusch, einen Spiegeltrick oder eine illusorische Bewegung), um aus dem Sichtfeld zu verschwinden oder einen Gegner zu verwirren. In sozialen Situationen erhalten sie zudem einen Bonus beim Täuschen oder Überzeugen, wenn sie ihre Worte geschickt verpacken.
+**Volksfähigkeiten**:  
+- Listige Worte – _4AP_: Vulpin können einmal am Tag ihren Lügen den richtigen Touch verleihen um sie glaubwürdig zu machen. Sie erhalten einen Bonus auf Lügen.
