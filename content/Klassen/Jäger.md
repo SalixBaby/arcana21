@@ -40,11 +40,11 @@ ___
 #### **3. Level:**  
   
 - **Fesselfalle**: Du kannst einmal pro Tag eine speziell präparierte Fesselfalle einsetzen, die einen Gegner nach einem erfolgreichen Treffer für eine Runde bewegungsunfähig macht. Dieser Angriff verursacht keinen Schaden, hält das Ziel jedoch an Ort und Stelle, bis der Effekt endet. Du kannst auch die Fesselfalle an Projektilen befestigen, sodass sie bereits beim Aufprall ausgelöst wird – dies musst du jedoch vor dem Angriff ansagen.  
-- **Mustererkennung**: Jeder Fehlschlag birgt Informationen über das Ausweichmuster deines Gegners. Nach einem nicht getroffenen Angriff auf einen Gegner erhältst auf auf die nächste Angriffsprobe gegen diesen Gegner einen Bonus.  
+- **Jagdinstinkt**: Du erhältst einen permanent Bonus auf alle Instinkt-, Erfahrung- und Intuition.  
   
 #### **4. Level:**  
   
-- **Jagdinstinkt**: Du erhältst einen permanent Bonus auf alle Instinkt-, Erfahrung- und Intuition.  
+-  **Mustererkennung**: Jeder Fehlschlag birgt Informationen über das Ausweichmuster deines Gegners. Nach einem nicht getroffenen Angriff auf einen Gegner erhältst auf auf die nächste Angriffsprobe gegen diesen Gegner einen Bonus.  
 - **Geländemeister**: Du kannst ein zusätzliches Bevorzugtes Terrain auswählen. Solange du dich in einem Bevorzugten Terrain aufhältst erhältst du einen Bonus auf alle Proben.  
   
 #### **5. Level:**  

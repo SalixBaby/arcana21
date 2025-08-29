@@ -5,8 +5,7 @@ _Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und d
   
 - **Klassekategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Tödlicher Fokus  
-    - Du kannst (Level) x täglich bei einem Angriff, den dein Gegner nicht kommen sieht einen zusätzlichen Schaden verursachen.  
-  
+    - Wenn du einen Gegner überraschst oder einen brutalen oder kritischen Treffer erzielst kannst du einen zusätzlichen Schaden verursachen.  
 ---  
   
 #### **Variationen:**  
@@ -27,12 +26,12 @@ _Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und d
   
 #### **2. Level:**  
   
-- **Verborgene Präsenz**: Du kannst dich in Menschenmengen oder dunklen Ecken leichter verstecken. Gegner bekommen einen Malus um dich zu entdecken.  
-- **Giftige Klinge**: Du kannst einmal pro Tag eine Waffe mit Gift bestreichen, das einmal zusätzlich +1 Giftschaden verursacht.  
+- **Verborgene Präsenz**: Du kannst dich in Menschenmengen oder dunklen Ecken leichter verstecken. Gegner bekommen einen Malus um dich zu entdecken. Solange du dich erfolgreich versteckt hast und dich nicht bewegst bist du mit Nicht-Magischen Mitteln nicht zu entdecken.  
+- **Giftige Klinge**: Du kannst (Level x) pro Tag eine Waffe mit Gift bestreichen, das einmal zusätzlich +1 Giftschaden verursacht.  
   
 #### **3. Level:**  
   
-- **Schattenmeister**: Du kannst in schwach beleuchteten oder dunklen Bereichen praktisch unsichtbar werden. Solange du dich erfolgreich versteckt hast und dich nicht bewegst bist du mit Nicht-Magischen Mitteln nicht zu entdecken.  
+- **Mimikry**: Nach einem kurzen Gespräch oder einer beobachteten Interaktion kannst du die Stimme, Gestik und Ausdrucksweise einer Person täuschend echt nachahmen.  
 - **Kampf oder Flucht**: Wenn du Schaden erleidest, kannst du für einen AP direkt einen Gegenangriff ausführen oder deine Bewegungsrate laufen ohne einen Gelegenheitsangriff zu provozieren.  
   
 #### **4. Level:**  
@@ -42,5 +41,5 @@ _Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und d
   
 #### **5. Level:**  
   
-- **Treffsicher**: Dein Können im Umgang mit tödlichen Waffen erreicht seinen Höhepunkt. Du erhältst auf alle Angriffproben einen doppelten Bonus.  
+- **Treffsicher**: Dein Können im Umgang mit tödlichen Waffen erreicht seinen Höhepunkt. Du erhältst auf alle Angriffsproben einen doppelten Bonus.  
 - **Meister-Assassine**: Du kannst einen Gegner lautlos und sofort töten, wenn er dich nicht bemerkt und seine Gesundheit unter 5 ist.

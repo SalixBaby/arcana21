@@ -5,7 +5,7 @@
   
 - Basisschaden: 1  
 - Waffeneigenschaften: [[./Waffeneigenschaften/Schwer|Schwer]]  
-- Waffenfähigkeiten: [[./Waffenfähigkeiten/Parieren|Parieren]], [[./Waffenfähigkeiten/Aufschlitzen|Aufschlitzen]] [[./Waffenfähigkeiten/Kollateralschaden|Kollateralschaden]]  
+- Waffenfähigkeiten: [[./Waffenfähigkeiten/Aufschlitzen|Aufschlitzen]] [[./Waffenfähigkeiten/Kollateralschaden|Kollateralschaden]]  
 - Projektile: -  
 - Reichweite: -  
 - Alternative: Duellschwert, Bastardschwert
