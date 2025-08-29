@@ -13,10 +13,12 @@
   
 - **Diplomat**: Du bist ein Meister der Verhandlungen und verstehst es, Konflikte zu lösen, bevor sie eskalieren.  
     - Bonus auf [[../Attribute/Seele/Überzeugen|Überzeugen]]  
+    - +1 [[../Attribute/Seele/Auftritt|Auftritt]]  
     - Wissen in Geschichte/Sprachen  
     - +1 Sprache  
 - **Duellant**: Du bist ein Meister des Ehrenkampfes und verstehst es, Konflikte mit Geschick und Klinge im Zweitkampf zu lösen.  
     - Bonus auf Angriffswürfe im Zweitkampf  
+    - +1 auf [[../Attribute/Seele/Auftritt|Auftritt]]  
     - Wissen in Militär/Taktik  
   
 ---  
@@ -28,8 +30,8 @@
   
 #### **2. Level:**  
   
-- **Einschüchternde Präsenz**: Deine Stellung und dein Auftreten können Gegner verunsichern. Du kannst 1x täglich einen Gegner zwingen, bei einer Willensstärke-Probe nachzugeben. Dies muss vorher angesagt werden.  
-- **Inspirierende Präsenz**: Dein Auftreten kann deine Verbündeten zu Großem verhelfen. Du kannst 1x täglich einen Verbündeten helfen, bei einer Willensstärke-Probe erfolgreich zu sein. Dies muss vorher angesagt werden.  
+- **Einschüchternde Präsenz**: Deine Stellung und dein Auftreten können Gegner verunsichern. Sie erhalten in deiner Umgebung (Level x) 10m eine -2 auf ihre Willensstärke.  
+- **Inspirierende Präsenz**: Dein Auftreten kann deine Verbündeten zu Großem verhelfen. Sie erhalten in deiner Umgebung (Level x) 10m eine +2 auf ihre Willensstärke.  
   
 #### **3. Level:**  
   
