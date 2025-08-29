@@ -31,11 +31,11 @@
 ### **2. Level:**  
   
 - **Zäh**: Du bist widerstandsfähiger als andere. Gegner erhalten einen Malus auf Proben um dich körperlich zu beeinflussen.  
-- **Kampfrausch:** Solange deine aktuelle Gesundheit unter der Hälfte deines Maximums liegt, verursachst du +1 zusätzlichen Schaden mit allen Angriffen.  
+- **Gebrüll:** Du kannst einmal pro Kampf ein mächtiges Kriegsgebrüll ausstoßen, das Gegner in Reichweite (Level x 5m) mit Furcht belegt (Malus auf alle Proben für 1 Runde).  
   
 ### **3. Level:**  
   
-- **Gebrüll:** Du kannst einmal pro Kampf ein mächtiges Kriegsgebrüll ausstoßen, das Gegner in Reichweite (Level x 5m) mit Furcht belegt (Malus auf alle Proben für 1 Runde).  
+- **Kampfrausch:** Solange deine aktuelle Gesundheit unter der Hälfte deines Maximums liegt, verursachst du +1 zusätzlichen Schaden mit allen Angriffen.  
 - **Blutdurst:** Immer wenn du einem Gegner kritisch triffst, kannst du 1 Gesundheit wiederherstellen.  
   
 ### **4. Level:**  
