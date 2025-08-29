@@ -223,7 +223,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Lähmen** – _1AP_: Ist dein Gegner bereits festgehalten, kannst du versuchen, ihn vollständig zu lähmen. *(Stärkeproben-Wettstreit. Reduziert deine Bewegungsrate auf 0)*  
 - **Befreien** - *1AP*. Befreie dich aus einem Festhalten oder einer Lähmung. *(Stärkeproben-Wettstreit oder kreative Lösung)*  
 - **Schubsen** – _1AP_: Bringe einen Gegner aus dem Gleichgewicht oder stoße ihn von dir weg. *(Stärkeproben-Wettstreit. 1 Stärke = 1/2 Feld aufgerundet)*  
-- **Helfen** – _1AP_: Helfe einem Mistreiter bei einer bevorstehenden Angriffsprobe oder einer Probe, in der du geübt bist. *(Bonus auf nächste Probe)*  
+- **Helfen** – _1AP_: Helfe einem Mistreiter bei einer bevorstehenden Angriffsprobe oder einer Probe, in der du talentiert bist. *(Bonus auf nächste Probe)*  
 - **Verwenden** – _1AP_: Interagiere mit einem Gegenstand *(z.B. Trank trinken, Tür öffnen, Waffe ziehen etc.)*  
 - **Angriff** – _1AP_: Greife einen Gegner physisch an. *(Angriffsprobe)*  
 - **Zaubern** – _1AP_: Nutze deine Magie um anzugreifen, zu helfen oder deine Umgebung zu verändern. *(Arkanaprobe*)  
