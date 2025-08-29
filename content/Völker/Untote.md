@@ -5,17 +5,17 @@ Untote entstehen meist durch seltene, dunkle Magie, die sie an einen bestimmten 
 Untote besitzen keine Kultur im herkömmlichen Sinn. Ihre Existenz ist geprägt von ihrer Aufgabe oder von den Erinnerungen an ihr früheres Leben. Viele sind gezwungen, ihre wahre Natur zu verbergen, um nicht gejagt oder vernichtet zu werden. Manche lernen, menschliche oder andere lebendige Verhaltensweisen nachzuahmen, um unerkannt unter den Lebenden zu wandeln. Trotz ihres untoten Daseins können sie eigenständig denken und Entscheidungen treffen – oft mit einem melancholischen oder rachsüchtigen Antrieb.  
   
 **Körper:**  
-- Kategorie: Variabel – der Körperbau richtet sich nach dem Lebewesen, aus dem der Untote hervorging.  
-- Größe: Entsprechend des ursprünglichen Wesens  
+- Kategorie: Variabel  
+- Größe: Variabel  
   
 **Alter:**  
-- Unbestimmt – Untote altern nicht im herkömmlichen Sinne, ihr körperlicher Zustand bleibt erhalten, soweit Magie oder Verfall es zulassen.  
+- Variabel – Untote altern nicht im herkömmlichen Sinne, ihr körperlicher Zustand bleibt erhalten, soweit Magie oder Verfall es zulassen.  
   
 **Bewegungsrate**:  
 - Laufen: Variabel  
-- Schwimmen: Variabel, abhängig vom ursprünglichen Körper  
+- Schwimmen: Variabel  
 - Springen: Variabel  
-- Fliegen: Nur bei Untoten mit entsprechenden anatomischen Eigenschaften  
+- Fliegen: Variabel  
   
 **Volkseigenschaften**:  
 - Verborgene Natur – Untote müssen ihre wahre Gestalt und Natur verbergen, um nicht verfolgt zu werden. Täuschung, Maskierung oder das Imitieren von Lebenden ist oft überlebensnotwendig.  
