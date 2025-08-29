@@ -5,7 +5,7 @@
   
 - **Klassekategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Schnelle Reflexe  
-    - Du kannst die Aktion "Verwenden" im Kampf durchführen, ohne die AP-Kosten zu bezahlen.  
+    - Du kannst die Aktionen "Verwenden" und "Rückzug" im Kampf durchführen ohne die AP-Kosten zu bezahlen.  
   
 ---  
   
@@ -34,8 +34,8 @@
   
 #### **3. Level:**  
   
-- **Flinke Flucht**: Wenn du von einem Gegner getroffen wirst, kannst du einmal pro Kampf sofort zwei Bewegungsaktionen ausführen, ohne Gelegenheitsangriffe zu provozieren oder die AP-Kosten zu bezahlen.  
-- **Selbsterhalt**: Du kannst (Level) x täglich die Ausweichen oder Rückzug Aktion nutzen, ohne die AP-Kosten zu bezahlen.  
+- **Flinke Flucht**: Wenn du von einem Gegner getroffen wirst, kannst du einmal pro Kampf sofort zwei Bewegungsaktionen ausführen ohne die AP-Kosten zu bezahlen.  
+- **Selbsterhalt**: Du kannst einmal pro Runde die "Ausweichen" Aktion nutzen, ohne die AP-Kosten zu bezahlen.  
   
 #### **4. Level:**  
   
@@ -45,4 +45,4 @@
 #### **5. Level:**  
   
 - **Meister der Flucht**: Du bist fast unmöglich festzuhalten. Wenn du gefesselt, eingesperrt oder von Gegnern umzingelt bist, kannst du einmal pro Tag sofort entkommen, egal wie aussichtslos die Lage scheint. Ebenfalls erhältst du einen erneuten Bonus auf Geschwindigkeit.  
-- **Beutemacher**: Wenn du einen Gegner im Kampf triffst, oder dich unentdeckt jemandem näherst kannst du jede nützliche Beute (z. B. Schlüssel, Gold, ein Pergament) aus seiner Tasche entwenden ohne eine Probe machen zu müssen.
+- **Beutemacher**: Wenn du einen Gegner im Kampf triffst, oder dich unentdeckt jemandem näherst kannst du jede nützliche Beute (z. B. Schlüssel, Gold, ein Pergament) die dieser an seinem Körper trägt entwenden ohne eine Probe machen zu müssen.
