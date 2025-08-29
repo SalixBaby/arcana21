@@ -5,18 +5,19 @@
   
 - **Klassekategorie:** Zauberklasse  
 - **Klassenfähigkeit:** Elixirbrauer  
-	- Du kannst 1x täglich bis zu (Level + 1) Zauber in Trankform vorbereiten, welche sich bis zu 24 Stunden halten. Diese können überladen sein und auch von anderen verwendet werden. Es muss niedergeschrieben werden, was genau die Tränke bewirken und beim Einsatz muss trotzdem eine Arkanaprobe bestanden werden.  
+	- Du kannst 1x täglich bis zu (Level + 1) Zauber in Trankform vorbereiten, welche sich bis zu 24 Stunden halten. Diese können überladen sein und auch von anderen verwendet werden. Es muss niedergeschrieben werden, was die Tränke bewirken und beim Einsatz entscheidet eine Arkanaprobe wie potent das Mittel ist.  
   
 ---  
   
 #### **Variationen:**  
   
-- **Laborratte**: Du hast unzählige Stunden in deinem Labor verbracht, was dich sozial unbeholfen, aber körperlich widerstandsfähiger macht.  
+- **Laborratte**: Deine ständige Nähe zu giftigen Dämpfen und Explosionen hat dich abgehärtet, doch deine Umgangsformen sind darunter verfallen.  
     - Malus auf [[../Attribute/Seele/Auftritt|Auftritt]]  
     - +2 [[../Attribute/Körper/Konstitution|Konstitution]]  
     - +1 [[../Attribute/Geist/Erfahrung|Erfahrung]]  
     - Wissen in Medizin/Anatomie  
 - **Gaukler**: Du mischst dich unter das Volk, täuschst mit Alchemie-Tricks und gewinnst mit Charme das Vertrauen deiner Zuschauer.  
+	- Bonus auf [[../Attribute/Seele/Auftritt|Auftritt]]  
     - +1 [[../Attribute/Seele/Überzeugen|Überzeugen]]  
     - +1 [[../Attribute/Seele/Einsicht|Einsicht]]  
     - Wissen in Kunst/Kultur  
@@ -24,23 +25,23 @@
 ---  
 #### **1. Level:**  
   
-- **Zutatenmeister**: Du kannst so gut wie überall die richtigen Zutaten für deine Tränke finden. Du erhältst ebenfalls detailliertes Wissen über Chemie und Alchemie.  
+- **Zutatenmeister**: Du kannst so gut wie überall die richtigen Zutaten für deine Tränke finden. Du erhältst ebenfalls detailliertes Wissen über Chemie, Alchemie und magische Pflanzen und Materialen und kannst mögliche alchemistische Essenzen extrahieren.  
 - **Experimentierfreudig**: Du kannst einmal täglich ein experimentelles Elixier herstellen, dessen Wirkung unberechenbar, aber potenziell mächtig ist. (W20-Probe)  
   
 #### **2. Level:**  
   
-- **Verbesserte Extraktion**: Du kannst Zutaten effizienter nutzen und aus weniger Material stärkere Tränke herstellen. Tränke halten nun bis zu 48 Stunden und haben verbesserte Effekte. (Bonus auf Wirkung)  
+- **Wurfkolben**: Du erhältst eine spezielle Konstruktion, mit der du präzise kleine Phiolen werfen kannst und einen Bonus auf Angriffsproben erhältst.  
 - **Gift-Meister**: Du kannst Gifte und Gegengifte schneller herstellen und erhöhst den Heilungseffekt von Tränken gegen Gifte und Krankheiten. (Bonus auf Wirkung)  
   
 #### **3. Level:**  
   
-- **Perfektionist**: Du kannst alle Zutaten für deine Tränke selber herstellen und bist nicht mehr auf externe Zutaten angewiesen. Ebenfalls kannst du jeden Trank den du untersuchst identifizieren und danach selbst herstellen.  
-- **Alchemistische Waffenkunde**: Du kannst sehr explosive oder toxische Mixturen als improvisierte Waffen herstellen und im Kampf verwenden. Diese Angriffe können Flächenschaden oder Vergiftung verursachen ohne Manapunkte zu verwenden.gb  
+- **Resteverwerter**: Misslingt dir eine Arkana-Probe beim Brauen oder Werfen, entsteht dennoch ein Nebeneffekt. Deine Mixtur verpufft nicht nutzlos, sondern erzeugt wahlweise eine kleine Rauchwolke, einen schwachen Knalleffekt oder minimalen Schaden. Ein Fehler wird bei dir nie völlig verschwendet.  
+- **Verbesserte Extraktion**: Du kannst Zutaten effizienter nutzen und aus weniger Material stärkere Tränke herstellen. Tränke halten nun bis zu 48 Stunden und erhalten einen zusätzlichen Bonus auf ihren Effekte. Ebenfalls kannst du jeden Trank den du untersuchst identifizieren und danach selbst herstellen.  
   
 #### **4. Level:**  
   
-- **Transmutation**: Du erlernst die Kunst der Umwandlung von Materialien. Du kannst einfache Stoffe in wertvolle oder nützliche Materialien umwandeln, um Tränke herzustellen oder Ressourcen zu sparen.  
-- **Elixier des Lebens**: Einmal am Tag kannst du ein mächtiges Lebenselixier brauen, das sofortige und vollständige Heilung gewährt und einen kritischen Zustand stabilisieren kann.  
+- **Transmutation**: Du erlernst die Kunst der permanenten Umwandlung von Materialien. Du kannst einfache Stoffe in wertvolle oder nützliche Materialien umwandeln, um Tränke herzustellen oder Profit zu generieren.  
+- **Elixier des Lebens**: Einmal am Tag kannst du ein mächtiges Lebenselixier brauen, das bei sofortiger Einnahme vollständige Heilung gewährt und einen kritischen Zustand stabilisieren kann.  
   
 #### **5. Level:**  
   
