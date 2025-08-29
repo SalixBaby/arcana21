@@ -5,20 +5,21 @@
   
 - **Klassenkategorie:** Dualklasse  
 - **Klassenfähigkeit:** Apparatur-Meister  
-	- Du kannst einmal täglich ein kleine, nützliche Apparatur bauen. Apparaturen können dir Bonus auf Proben geben oder andere Effekte haben. Du kannst (Level) x2 Apparaturen gleichzeitig funktional halten.   
+	- Du kannst einmal täglich ein kleine, nützliche Apparatur bauen. Apparaturen können dir Bonus auf Proben geben oder andere Effekte haben. Du kannst (Level x2) Apparaturen gleichzeitig funktional halten.   
   
 ---  
   
 #### **Variationen:**  
   
-- **Hextech**: Du kombinierst Magie mit Technologie und erschaffst Artefakte, die sowohl mechanisch als auch magisch funktionieren.  
+- **Hextech (Zauberklasse)**: Du kombinierst Magie mit Technologie und erschaffst Artefakte, die sowohl mechanisch als auch magisch funktionieren.  
     - Wissen und Bonus in Mathematik/Technik oder Schmiedekunst/Erzkunde  
     - Umgang mit [[../Ausrüstungen/Ausrüstungssets/Tüftler Set|Tüftler Set]]  
     - +1 [[../Attribute/Geist/Arkana|Arkana]]  
     - +1 [[../Attribute/Geist/Fokus|Fokus]]  
-- **Tüftler**: Du konzentrierst dich auf das Erschaffen praktischer, mechanischer Lösungen für Probleme und Herausforderungen, von kleinen Apparaturen bis zu komplexen Maschinen.  
+- **Tüftler (Kampfklasse)**: Du konzentrierst dich auf das Erschaffen praktischer, mechanischer Lösungen für Probleme und Herausforderungen, von kleinen Apparaturen bis zu komplexen Maschinen.  
     - Wissen und Bonus in Mathematik/Technik oder Schmiedekunst/Erzkunde  
     - Umgang mit [[../Ausrüstungen/Ausrüstungssets/Tüftler Set|Tüftler Set]] und [[../Ausrüstungen/Ausrüstungssets/Diebes Set|Diebes Set]]  
+    - Zugang zu Feuerwaffen (sollte mit dem SL abgesprochen werden)  
     - +1 [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
     - +1 [[../Attribute/Geist/Fokus|Fokus]]  
   
@@ -27,7 +28,7 @@
 #### **1. Level:**  
   
 - **Mechanische Präzision**: Du erhältst Bonus auf Proben, die Geschicklichkeit und Mechanik erfordern, wie das Deaktivieren von Fallen oder das Zusammenbauen komplexer Maschinen unter Zeitdruck.  
-- **Logisches Denken**: Du hast immer einen Plan. (Level) x Tag kannst du deinen Verbündeten helfen ohne in diesem Bereich talentiert zu sein. Dies muss vorher angesagt werden.  
+- **Logisches Denken**: Du hast immer einen Plan. (Level x) pro Tag kannst du deinen Verbündeten helfen ohne in diesem Bereich talentiert zu sein. Dies muss vorher angesagt werden.  
   
 #### **2. Level:**  
   
@@ -41,8 +42,8 @@
   
 #### **4. Level:**  
   
-- **Konstrukten-Rüstung**: Du kannst Konstrukte dazu benutzen als Rüstung zu fungieren. Diese gewähren dem Träger +2 auf Ausweichen und Schutz vor 1 physischen Schaden.   
-- **Geistesblitz**: Dein scharfer Verstand erlaubt es dir, eine gescheiterte Probe zu wiederholen. Du kannst diese Fähigkeit 2x pro Tag mit eigenen Proben oder 1x mit Proben von Verbündeten in Seh- oder Hörreichweite aktivieren.  
+- **Konstrukten-Rüstung**: Du kannst Konstrukte dazu benutzen als Rüstung zu fungieren. Diese gewähren dem Träger +2 auf Ausweichen und Schutz vor 1 physischen Schaden.  
+- **Geistesblitz**: Dein scharfer Verstand erlaubt es dir, eine gescheiterte Probe zu wiederholen. Du kannst diese Fähigkeit 2x pro Tag mit eigenen Proben oder 1x pro Tag mit Proben von Verbündeten in Seh- oder Hörreichweite aktivieren.  
   
 #### **5. Level:**  
   
