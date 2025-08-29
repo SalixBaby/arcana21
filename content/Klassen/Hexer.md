@@ -11,12 +11,12 @@
   
 #### **Variationen:**  
   
-- **Blutmagier:** Dein Körper ist eine unerschöpfliche Quelle arkaner Energie – solange du bereit bist, den Preis zu zahlen. Du kannst deine eigene Gesundheit in Mana umwandeln und so Zauber wirken, wenn andere längst erschöpft sind.  
+- **Blutmagier (Zauberklasse):** Dein Körper ist eine unerschöpfliche Quelle arkaner Energie – solange du bereit bist, den Preis zu zahlen. Du kannst deine eigene Gesundheit in Mana umwandeln und so Zauber wirken, wenn andere längst erschöpft sind.  
     - +1 [[../Attribute/Geist/Fokus|Fokus]]  
     - +1 [[../Attribute/Körper/Konstitution|Konstitution]]  
     - Wissen in Religion/Okkultismus  
     - **Blutmagie-Ausprägung:** _1AP_ - Du kannst 1 Gesundheit in 1 Mana umwandeln.  
-- **Blutjäger:** Deine Klinge ist getränkt mit der Essenz deiner Feinde – und deiner eigenen. Du kannst deine Gesundheit opfern, um Angriffe zu verstärken, brutale Schläge zu führen oder tödliche Präzision zu erlangen.  
+- **Blutjäger (Kampfklasse):** Deine Klinge ist getränkt mit der Essenz deiner Feinde – und deiner eigenen. Du kannst deine Gesundheit opfern, um Angriffe zu verstärken, brutale Schläge zu führen oder tödliche Präzision zu erlangen.  
     - +1 [[../Attribute/Körper/Stärke|Stärke]]  
     - +1 [[../Attribute/Körper/Konstitution|Konstitution]]  
     - Wissen in Religion/Okkultismus  
