@@ -5,7 +5,7 @@
   
 - **Klassenkategorie:** Zauberklasse  
 - **Klassenfähigkeit:** Überstrapazieren  
-	- Du kannst einmal pro Runde deine Grenzen überschreiten und einen Zauber wirken, als hättest du ihn mit (Level x) Manapunkten überladen – ohne diese Kosten zu zahlen. Doch die Überlastung hinterlässt Spuren: Du erleidest eine **Erschöpfung**.  
+	- Du kannst einmal pro Runde deine Grenzen überschreiten und einen Zauber wirken, als hättest du ihn mit (Level x) Manapunkten überladen – ohne diese Kosten zu zahlen. Doch die Überlastung hinterlässt Spuren: Du erleidest eine Erschöpfung.  
 ---  
   
 #### **Variationen:**  
@@ -17,7 +17,7 @@
     - +2 [[../Attribute/Geist/Arkana|Arkana]]  
     - +1 [[../Attribute/Körper/Instinkt|Instinkt]]  
     - -2 [[../Attribute/Geist/Fokus|Fokus]]  
-    - **Besonderheit:** Bei jedem überladenen Zauber kann der Spielleiter eine **Chaostabelle** konsultieren, die unvorhergesehene magische Effekte auslösen kann.  
+    - **Besonderheit:** Bei jedem überladenen Zauber kann der Spielleiter eine Chaostabelle konsultieren, die unvorhergesehene magische Effekte auslösen kann.  
   
 ---  
   
@@ -28,13 +28,13 @@
   
 #### **2. Level:**  
   
-- **Arkanes Feld:** Deine Präsenz verstärkt die Magie um dich herum – alle Verbündeten in 10 m Radius erhalten +1 auf ihre Arkanaproben.  
-- **Arkane Einsicht**: Zauber hinterlassen immer ihre Spure. Du kannst einmal durch eine Fokusprobe versuchen herauszufinden, welche Zauberausrichtung jemand in deiner Nähe (Level x 5m) besitzt.  
+- **Arkanes Feld:** Deine Präsenz verstärkt die Magie um dich herum – du und alle Verbündeten in (Level x) 5m Radius erhalten +1 auf ihre Arkanaproben.  
+- **Arkane Einsicht**: Zauber hinterlassen immer ihre Spure. Du kannst versuchen herauszufinden, welche Zauberausrichtung jemand in deiner Nähe (Level x 5m) besitzt. Dies kannst du pro Ziel nur einmalig einsetzen und bei misslungener Probe bekommt das Ziel mit, was du versuchst.  
   
 #### **3. Level:**  
   
 - **Arkanes Echo:** Wenn du ein Zauber durch dein Arkanen Spürsinn erfolgreich verstanden hast, kannst du versuchen diesen zu kopieren. Du kannst dies nur einmal versuchen und nur solange du in der Reichweite des Arkanen Echos befindest.  
-- **Arkaner Impuls:** Wenn du einen überladenen Zauber erfolgreich wirkst, erhältst du 1 Bonus-AP für diesen Zug.  
+- **Arkaner Impuls:** Wenn du erfolgreich einen überladenen Zauber wirkst, erhältst du 1 zusätzlichen AP für diesen Zug.  
   
 #### **4. Level:**  
   
