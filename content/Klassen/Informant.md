@@ -5,7 +5,7 @@
   
 - **Klassekategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Informationsnetzwerk  
-    - Du hast ein weitreichendes Netzwerk aus Informanten, Händlern und Gefallen-Schuldnern aufgebaut. Jedes Mal, wenn du eine Information kaufst, verkaufst oder jemandem einen Gefallen tust (oder erhältst), wächst dein Einfluss. Mit jedem neuen Kontakt erhältst du Zugriff auf wertvollere Geheimnisse, bessere Ressourcen oder diskrete Unterstützung. Dein Netzwerk kann dir dabei helfen, Gerüchte zu streuen, an seltene Informationen zu gelangen oder sogar heimliche Operationen auszuführen – doch je größer es wird, desto schwieriger wird es, alle Fäden in der Hand zu behalten.  
+    - Du hast ein Netzwerk aus Informanten, Händlern und Gefallen-Schuldnern aufgebaut. Jedes Mal, wenn du eine Information kaufst, verkaufst oder jemandem einen Gefallen tust (oder erhältst), wächst dein Einfluss. Mit jedem neuen Kontakt erhältst du Zugriff auf wertvollere Geheimnisse, bessere Ressourcen oder diskrete Unterstützung. Dein Netzwerk kann dir dabei helfen, Gerüchte zu streuen, an seltene Informationen zu gelangen oder sogar heimliche Operationen auszuführen – doch je größer es wird, desto schwieriger wird es, alle Fäden in der Hand zu behalten.  
   
 ---  
   
@@ -30,7 +30,7 @@
 #### **2. Level:**  
   
 - **Gerüchte streuen**: Einmal am Tag kannst du gezielt eine Information streuen oder ein Gerücht verbreiten. Je nachdem, wie glaubhaft es und wie groß dein Netzwerk ist, kann es innerhalb der nächsten Stunden oder Tage Auswirkungen haben und sich ausbreiten.  
-- **Schwachpunkt erkennen**: Du kannst 1AP dafür nutzen um dir einen Bonus auf deinen nächsten Angriff gegen ein Ziel zu verschaffen.  
+- **Schwachpunkt erkennen**: Du kannst 2AP dafür nutzen um dir einen Gegner genauer anzuschauen. Du erhältst für diesen Kampf einen Bonus auf alle Angriffe gegen dieses Ziel.  
   
 #### **3. Level:**  
   
@@ -44,5 +44,5 @@
   
 #### **5. Level:**  
   
-- **Marionettenspieler**: Du hast die Humanoide Psychologie geknackt. Du kannst eine Person oder Gruppe durch gezielte Worte und Täuschungen dazu bringen, dir für eine gewisse Zeit zu vertrauen oder in deinem Sinne zu handeln.  
+- **Marionettenspieler**: Du hast die Humanoide Psychologie geknackt. Du kannst einmal die Woche eine Person oder Gruppe durch gezielte Worte und Täuschungen dazu bringen, dir für eine gewisse Zeit zu vertrauen oder in deinem Sinne zu handeln.  
 - **Syndikat**: Dein Informationsnetzwerk hat eine kritische Masse angenommen. Einmal die Woche kannst du es nutzen um Gerüchte zu streuen, die die Bevölkerung als Fakt ansieht. Du kannst die Reputation von Leuten diskreditieren oder mit dem richtigen Gerücht auch Kriege provozieren.

@@ -26,11 +26,11 @@
 ### **1. Level:**  
   
 - **Ahnung:** Du spürst instinktiv, wie gefährlich dein Gegenüber ist. Auf einen Blick erkennst du, ob er dir körperlich überlegen, ebenbürtig oder unterlegen ist.  
-- **Rücksichtslos**: Du kannst für 1 AP mit voller Wucht angreifen und für diesen Zug einen Bonus auf deine Angriffsproben erhalten. Bis zu deiner nächsten Runde erhalten allerdings Gegner ebenfalls einen Bonus auf Angriffe gegen dich.  
+- **Zäh**: Du bist widerstandsfähiger als andere. Gegner erhalten einen Malus auf Proben um dich körperlich zu beeinflussen.  
   
 ### **2. Level:**  
   
-- **Zäh**: Du bist widerstandsfähiger als andere. Gegner erhalten einen Malus auf Proben um dich körperlich zu beeinflussen.  
+- **Rücksichtslos**: Du kannst für 1 AP mit voller Wucht angreifen und für diesen Zug einen Bonus auf deine Angriffsproben erhalten. Bis zu deiner nächsten Runde erhalten allerdings Gegner ebenfalls einen Bonus auf Angriffe gegen dich.  
 - **Gebrüll:** Du kannst einmal pro Kampf ein mächtiges Kriegsgebrüll ausstoßen, das Gegner in Reichweite (Level x 5m) mit Furcht belegt (Malus auf alle Proben für 1 Runde).  
   
 ### **3. Level:**  

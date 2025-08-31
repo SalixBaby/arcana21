@@ -34,15 +34,15 @@ _Du fürchtest den Tod nicht – du herrschst über ihn. Während andere sich de
   
 #### **3. Level:**  
   
-- **Erweckung:** Du bist in der Lage, mächtigere Tote zurückzuholen. Um sie deinem Willen zu unterwerfen, musst du eine erfolgreiche Fokus-Probe bestehen – je stärker die Kreatur, desto höher der Widerstand. Du kannst auf diese Weise bis zu zwei Untote gleichzeitig kontrollieren.  
-- **Verfluchter Blick:** Du kannst einen Gegner mit einem Fluch belegen ohne eine Probe zu bestehen. Der Gegner erhält einen Malus auf alle Proben bis zum Ende seiner nächsten Runde.  
+- **Erweckung:** Du bist in der Lage, mächtigere Tote zurückzuholen. Um sie deinem Willen zu unterwerfen, musst du eine erfolgreiche Fokus-Probe bestehen – je stärker die Kreatur, desto höher der Widerstand. Du kannst auf diese Weise bis zu zwei starke Untote gleichzeitig kontrollieren.  
+- **Verfluchter Blick:** Du kannst für 1 AP einen Gegner in (Level x) 5m mit einem Fluch belegen. Dieser Gegner erhält einen Malus auf alle Proben bis zum Ende seiner nächsten Runde.  
   
 #### **4. Level:**  
   
 - **Seelenband:** Du kannst einmal in der Woche eine willige Seele an einen beliebigen toten Körper binden. Diese untersteht nicht deiner Kontrolle.  
-- **Todesberührung:** Deine Magie durchdringt lebende Körper. Du kannst einmal pro Tag eine Kreatur berühren und ihr (Level x) Schaden zufügen. Untote heilst du stattdessen um denselben Wert.  
+- **Todesberührung:** Deine Magie durchdringt auch lebende Körper. Du kannst einmal pro Tag eine Kreatur berühren und ihr (Level x) 2 Schaden zufügen. Untote heilst du stattdessen um denselben Wert.  
   
 #### **5. Level:**  
   
 - **Schwarze Bindung:** Du kannst einmal wöchentlich versuchen eine legendäre Kreatur (z.B. Drache) unter deiner Kontrolle als Untoten wiederbeleben. Hierfür benötigst du ein Ritual, was über mehrere Stunden geht und einen geeigneten Korpus. Du kannst maximal eine legendäre Kreatur gleichzeitig kontrollieren.  
-- **Unsterbliche Essenz:** Der Tod ist nicht das Ende. Zumindest nicht für dich. Dein Körper altert nicht, Krankheiten und Erschöpfung können dir nichts anhaben. Wenn du stirbst, kehrst du nach sieben Tagen an einem bedeutsamen Ort zurück – verändert, aber lebendig. Unsterblichkeit hat ihren Preis. Sie schützt den Körper, doch sie zehrt an Geist und Seele.
+- **Unsterbliche Essenz:** Der Tod ist nicht das Ende. Zumindest nicht für dich. Dein Körper altert nicht, Krankheiten und Erschöpfung können dir nichts anhaben. Wenn du stirbst, kehrst du nach sieben Jahren an einem bedeutsamen Ort zurück – verändert, aber lebendig. Unsterblichkeit hat ihren Preis. Sie schützt den Körper, doch sie zehrt an Geist und Seele.

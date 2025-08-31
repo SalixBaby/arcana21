@@ -11,12 +11,12 @@
   
 #### **Variationen:**  
   
-- **Blutmagier (Zauberklasse):** Dein Körper ist eine unerschöpfliche Quelle arkaner Energie – solange du bereit bist, den Preis zu zahlen. Du kannst deine eigene Gesundheit in Mana umwandeln und so Zauber wirken, wenn andere längst erschöpft sind.  
+- **Blutmagier (Zauberklasse):** Dein Körper ist eine unerschöpfliche Quelle arkaner Energie – solange du bereit bist, den Preis zu zahlen.  
     - +1 [[../Attribute/Geist/Fokus|Fokus]]  
     - +1 [[../Attribute/Körper/Konstitution|Konstitution]]  
     - Wissen in Religion/Okkultismus  
-    - **Blutmagie-Ausprägung:** _1AP_ - Du kannst 1 Gesundheit in 1 Mana umwandeln.  
-- **Blutjäger (Kampfklasse):** Deine Klinge ist getränkt mit der Essenz deiner Feinde – und deiner eigenen. Du kannst deine Gesundheit opfern, um Angriffe zu verstärken, brutale Schläge zu führen oder tödliche Präzision zu erlangen.  
+    - **Blutmagie-Ausprägung:** _1AP_ - Du kannst 1 Gesundheit opfern, um 1 zusätzliches Mana zu erhalten.  
+- **Blutjäger (Kampfklasse):** Deine Angriffe sind tödlich und deine Waffe ist getränkt mit der Essenz deiner Feinde – und deiner eigenen.  
     - +1 [[../Attribute/Körper/Stärke|Stärke]]  
     - +1 [[../Attribute/Körper/Konstitution|Konstitution]]  
     - Wissen in Religion/Okkultismus  
@@ -46,5 +46,5 @@
   
 #### **5. Level:**  
   
-- **Erwachte Blutlinie**: Dein Körper hat sich an die Blutmagie angepasst. Jedes Mal, wenn du Gesundheit opferst, erhältst du den doppelten Bonus.  
+- **Erwachte Blutlinie**: Dein Körper hat sich an die Blutmagie angepasst. Jedes Mal, wenn du Gesundheit opferst, erhältst du den dreifachen Bonus.  
 - **Augen um Auge**: Du kannst einmal in der Woche ein großes Ritual abhalten, in dem du die Enzens von willigen Kreaturen absorbierst. Für jede willige Seele die sich so für dich opfert erhöht sich deine maximale Gesundheit und Lebenszeit – allerdings zu einem hohen Preis.

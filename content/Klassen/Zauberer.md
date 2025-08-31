@@ -20,7 +20,7 @@
     - +2 [[../Attribute/Geist/Fokus|Fokus]]  
     - Wissen in Geschichte/Sprachen & Mathematik/Technik  
 - **Chronist:** Du jagst nicht der Wahrheit nach – du sammelst sie. Deine Magie lebt vom Erlebten, nicht vom Studierten – und du weißt, dass selbst das kleinste Fragment Geschichte große Macht bergen kann.  
-    - +1 [[../Attribute/Geist/Wissen|Wissen]]  
+    - +2 [[../Attribute/Geist/Wissen|Wissen]]  
     - +1 [[../Attribute/Geist/Arkana|Arkana]]  
     - Wissen in Architektur/Städteplanung & Überleben/Orientierung  
   
@@ -33,7 +33,7 @@
   
 #### **2. Level:**  
   
-- **Magischer Katalysator**: Wenn du einen Zauber in Anwesenheit eines passenden Materials (z. B. Flammen für Feuerzauber, Wasser für Eiszauber) wirkst, erhältst +1 auf die Arkana-Probe.  
+- **Magischer Katalysator**: Wenn du einen Zauber in Anwesenheit eines passenden Materials (z. B. Flammen für Feuerzauber, Wasser für Eiszauber) wirkst, erhältst +1 auf die Arkana-Probe. Dabei kann das Material verbraucht werden.  
 - **Magische Erkennung**: Durch dein tiefes Verständnis arkaner Muster kannst du magische Energie gezielt untersuchen. Du erhältst einen Bonus auf Proben, mit denen du magische Effekte erkennst oder neutralisierst.  
   
 #### **3. Level:**  
@@ -44,7 +44,7 @@
 #### **4. Level:**  
   
 - **Magische Konzentration**: Du kannst zwei Zauber gleichzeitig aufrechterhalten. Es erfordert nur ein AP und eine Fokusprobe pro Runde. Wenn du die Konzentration verlierst enden beide Zauber.   
-- **Magisches Dauerfeuer**: Solange du Nicht-Überladene Zauber wiederholt auf ein Ziel wirkst und die Probe bestehst, kosten dich diese Zauber keine AP und sind von der Wiederholungssanktion ausgeschlossen. Die Probe wird bei jedem erfolgreichem mal um eins erschwert.  
+- **Magisches Dauerfeuer**: Solange du Nicht-Überladene Zauber wiederholt auf ein Ziel wirkst und die Probe bestehst, kosten dich diese Zauber keine AP und sind von der Wiederholungssanktion ausgeschlossen. Die Probe wird bei jedem erfolgreichem mal um zwei erschwert.  
   
 #### **5. Level:**  
   

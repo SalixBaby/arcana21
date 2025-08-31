@@ -23,7 +23,7 @@
 - **Pflanzenfokus**: Du verstehst die Sprache der Pflanzen und kannst ihre Kräfte für dich nutzen.  
     - Bonus auf [[../Attribute/Geist/Erfahrung|Erfahrung]]  
     - Wissen und Bonus in Natur/Tiere und in Überleben/Orientierung  
-    - Gestaltenwandlung in Pflanzenform  
+    - Gestaltenwandlung in Pflanzen- oder Pilzform  
   
 ---  
   
@@ -44,10 +44,10 @@
   
 #### **4. Level:**  
   
-- **Wilde Regeneration**: Wenn du unter 50 % deiner Gesundheit fällst, heilst du automatisch 1 Gesundheit am Ende deines Zuges. Dies wird nur einmal am Tag ausgelöst und stoppt wenn du entweder brutal/kritisch getroffen wirst, oder du wieder bei voller Gesundheit bist.  
+- **Wilde Regeneration**: Wenn du unter 50 % deiner Gesundheit fällst, heilst du automatisch 1 Gesundheit am Ende deines Zuges. Dies wird nur einmal am Tag ausgelöst und stoppt wenn du entweder brutal oder kritisch getroffen wirst, oder du wieder bei voller Gesundheit bist.  
 - **Zeitloser Beschützer**: Die Natur schenkt dir als Dank für deine Dienste einen zeitlosen Körper. Für jedes Jahr, welches vergeht, altert dein Körper nur um ein Monat.  
   
 #### **5. Level:**  
   
-- **Legendäre Form**: Du hast die Gestaltenverwandlung perfektioniert. Du kannst dich einmal in der Woche in legendäre Kreaturen verwandeln (z.B. einen Drachen oder Ent ). Diese Verwandlung hält bis zu einer Minute an und verleiht dir immense Kräfte.  
+- **Legendäre Form**: Du hast die Gestaltenverwandlung perfektioniert. Du kannst dich einmal in der Woche in legendäre Kreaturen verwandeln (z.B. einen Drachen oder einen Ent). Diese Verwandlung hält bis zu einer Minute an und verleiht dir immense Kräfte.  
 - **Naturmeisterschaft**: Du kontrollierst die Natur in ihrer reinsten Form. Einmal pro Woche kannst du einen besonders mächtigen Naturzauber wirken, der z.B. einen Sturm beschwört, einen Wald erschafft oder ein ganzes Gebiet heilt.

@@ -5,7 +5,7 @@
   
 - **Klassenkategorie:** Dualklasse  
 - **Klassenfähigkeit:** Apparatur-Meister  
-	- Du kannst einmal täglich ein kleine, nützliche Apparatur bauen. Apparaturen können dir Bonus auf Proben geben oder andere Effekte haben. Du kannst (Level x2) Apparaturen gleichzeitig funktional halten.   
+	- Du kannst einmal täglich ein kleine, nützliche Apparatur bauen. Apparaturen können dir Bonus auf Proben geben oder andere Effekte haben. Du kannst (Level x2) Apparaturen gleichzeitig funktional halten. Die Funktionen aller Apparaturen sollten mit dem SL abgesprochen werden.  
   
 ---  
   
@@ -42,7 +42,7 @@
   
 #### **4. Level:**  
   
-- **Konstrukten-Rüstung**: Du kannst Konstrukte dazu benutzen als Rüstung zu fungieren. Diese gewähren dem Träger +2 auf Ausweichen und Schutz vor 1 physischen Schaden.  
+- **Konstrukten-Rüstung**: Du kannst Konstrukte dazu benutzen als Rüstung zu fungieren. Diese gewähren dem Träger +2 auf Ausweichen und Schutz vor 1 physischen Schaden. Diese müssen genau wie normale Schwere Rüstung alle paar Tage von dir gewartet werden.  
 - **Geistesblitz**: Dein scharfer Verstand erlaubt es dir, eine gescheiterte Probe zu wiederholen. Du kannst diese Fähigkeit 2x pro Tag mit eigenen Proben oder 1x pro Tag mit Proben von Verbündeten in Seh- oder Hörreichweite aktivieren.  
   
 #### **5. Level:**  

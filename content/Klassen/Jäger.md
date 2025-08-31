@@ -35,17 +35,17 @@ ___
 #### **2. Level:**  
   
 - **Fallensteller**: Du kannst ausgeklügelte Fallen bauen, um Tiere oder Feinde zu fangen. Diese Fallen sind besonders effektiv mit genügend Vorwissen über deine Beute und das Terrain.   
-- **Markieren**: Du kannst 3 AP bezahlen um einen Gegner mit dem einzigartigem Zeichen des Jägers zu versehen. Du erhältst einen Bonus auf Angriffsproben gegen den markierten Gegner. Wenn du einen markierten Gegner zu Fall bringst kannst du das Zeichen des Jägers auf einen Gegner in unmittelbarer Nähe übertragen ohne die AP Kosten zu bezahlen.  
+- **Markieren**: Du kannst 3 AP bezahlen um einen Gegner mit dem einzigartigem Zeichen des Jägers zu versehen. Du erhältst einen Bonus auf Angriffsproben gegen den markierten Gegner. Wenn du einen markierten Gegner zu Fall bringst kannst du das Zeichen des Jägers auf einen Gegner in (Level x) 5m Nähe übertragen ohne die AP Kosten zu bezahlen.  
   
 #### **3. Level:**  
   
-- **Fesselfalle**: Du kannst einmal pro Tag eine speziell präparierte Fesselfalle einsetzen, die einen Gegner nach einem erfolgreichen Treffer für eine Runde bewegungsunfähig macht. Dieser Angriff verursacht keinen Schaden, hält das Ziel jedoch an Ort und Stelle, bis der Effekt endet. Du kannst auch die Fesselfalle an Projektilen befestigen, sodass sie bereits beim Aufprall ausgelöst wird – dies musst du jedoch vor dem Angriff ansagen.  
-- **Jagdinstinkt**: Du erhältst einen permanent Bonus auf alle Instinkt-, Erfahrung- und Intuition.  
+- **Fesselfalle**: Du kannst einmal pro Tag eine speziell präparierte Fesselfalle einsetzen, die einen Gegner nach einem erfolgreichen Treffer für eine Runde bewegungsunfähig macht. Du kannst auch die Fesselfalle an Projektilen befestigen, sodass sie bereits beim Aufprall ausgelöst wird – dies musst du jedoch vor dem Angriff ansagen.  
+- **Jagdinstinkt**: Du erhältst einen permanent Bonus auf alle Instinkt-, Erfahrungs- und Intuitionsproben.  
   
 #### **4. Level:**  
   
 -  **Mustererkennung**: Jeder Fehlschlag birgt Informationen über das Ausweichmuster deines Gegners. Nach einem nicht getroffenen Angriff auf einen Gegner erhältst auf auf die nächste Angriffsprobe gegen diesen Gegner einen Bonus.  
-- **Geländemeister**: Du kannst ein zusätzliches Bevorzugtes Terrain auswählen. Solange du dich in einem Bevorzugten Terrain aufhältst erhältst du einen Bonus auf alle Proben.  
+- **Geländemeister**: Du kannst ein zusätzliches Bevorzugtes Terrain auswählen. Solange du dich in einem Bevorzugten Terrain aufhältst erhältst du zusätzlich +1 auf alle Proben.  
   
 #### **5. Level:**  
   
