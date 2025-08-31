@@ -5,7 +5,7 @@ _Als Wächter bist du der Schild in der Dunkelheit, das Auge im Sturm und die er
   
 - **Klassenkategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Niedergang  
-	- Wenn ein Verbündeter auf 0 Gesundheit fällt, erwacht in dir ein unbändiger Wille: Du erhältst solange zwei zusätzliche AP pro Runde. Fällst du selbst, erhalten alle Verbündeten zwei zusätzliche AP. Stirbst du endgültig, stärkt dein Vermächtnis sie bis zum Ende des Kampfes – mit Bonus auf alle Werte und alle Proben.  
+	- Wenn ein Verbündeter auf 0 Gesundheit fällt, erwacht in dir ein unbändiger Wille: Du erhältst solange zwei zusätzliche AP pro Runde. Fällst du selbst auf 0 Gesundheit, erhalten alle Verbündeten zwei zusätzliche AP. Stirbst du endgültig, stärkt dein Vermächtnis sie bis zum Ende des Kampfes – mit Bonus auf alle Proben.  
   
 ---  
   
@@ -17,7 +17,7 @@ _Als Wächter bist du der Schild in der Dunkelheit, das Auge im Sturm und die er
     - Wissen in Medizin/Anatomie  
 - **Hirte**: Du schützt nicht irgendwen, sondern jeden und alles. Du bist gleichzeitig Wächter, Richter und leider manchmal auch Henker.  
     - +1 auf [[../Attribute/Körper/Konstitution|Konstitution]]  
-    - +1 auf [[../Attribute/Seele/Auftritt|Auftritt]]  
+    - +1 auf [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]  
     - Wissen in Politik/Diplomatie  
   
 ---  
@@ -39,10 +39,10 @@ _Als Wächter bist du der Schild in der Dunkelheit, das Auge im Sturm und die er
   
 #### **4. Level:**  
   
-- **Schutzschild**: Solange du dich neben einem Verbündeten befindest und du dich auf diesen konzentrierst, können Gegner diesen Verbündeten nicht mehr angreifen.  
-- **Wachsame Präsenz**: Alle deine Verbündeten in einem (Level x) 5m Radius erhalten einen Bonus auf Initiativeproben und ihre Willensstärke.  
+- **Schutzschild**: Solange du dich neben einem Verbündeten befindest und du dich auf diesen konzentrierst, können Gegner diesen Verbündeten nicht mehr physisch angreifen.  
+- **Wachsame Präsenz**: Alle deine Verbündeten in einem (Level x) 5m Radius erhalten einen Bonus auf Initiativeproben und ihr Ausweichen.  
   
 #### **5. Level:**  
   
 - **Festung**: Du bist eine unüberwindbare Schutzmauer für deine Verbündeten. Alle Gegner, die dich fokussieren können, tun dies auch in jedem Kampf.  
-- **Ein Leben für ein Leben**: Du bist dir nicht sicher wie, aber wenn jemand stirbt, kannst du dein Leben opfern, um ihn ins Leben zurückzuholen. Dein Tod ist dabei endgültig.
+- **Ein Leben für ein Leben**: Du bist dir nicht sicher wie, aber wenn jemand in deiner Nähe stirbt, kannst du dein Leben opfern, um ihn ins Leben zurückzuholen. Dein Tod ist dabei jedoch endgültig.
