@@ -30,7 +30,7 @@ ___
 #### **2. Level:**  
   
 - **Packende Darstellung:** Deine Worte und Darbietungen fesseln die Aufmerksamkeit deines Publikums. Du erhältst einen Bonus auf Überzeugen und Auftritt, wenn du eine Geschichte erzählst, ein Lied spielst oder eine Darbietung aufführst.  
-- **Fälscher**: Du kannst fast perfekte Kopien von Schriften oder anderen Kunstformen erschaffen.   
+- **Fälscher**: Du kannst fast perfekte Kopien von Schriften oder anderen Kunstformen erschaffen solange du sie mit eigenen Augen gesehen hast.  
   
 #### **3. Level:**  
   
@@ -40,9 +40,9 @@ ___
 #### **4. Level:**  
   
 - **Meisterhafte Technik:** Du kannst außergewöhnliche Werke erschaffen. Deine Kreationen haben einen merklichen Wert und können für Unsummen veräußert werden.  
-- **Fesselnde Kunst**: Präsentierst du deine Kunst müssen Kreaturen sich zunächst von dem Anblick losreißen bevor sie agieren können. Je besser die Kunst, desto höher der Aufwand sich loszureißen.  
+- **Fesselnde Kunst**: Präsentierst du deine Kunst müssen Kreaturen sich zunächst von dem Anblick losreißen bevor sie agieren können. Je besser die Kunst, desto höher der Aufwand sich loszureißen. (Auftrittsprobe gegen Willensstärke)  
   
 #### **5. Level:**  
   
-- **Meisterwerk**: Du kannst einmalig ein solch perfektes Kunstwerk erschaffen, dass es permanente Auswirkungen auf alle hat, die es ausgesetzt sind.  
+- **Meisterwerk**: Du kannst einmalig ein solch perfektes Kunstwerk erschaffen, dass es permanente Auswirkungen auf alle hat, die es ausgesetzt sind. Positiv oder negativ ist dir überlassen.  
 - **Koryphäe**: Dein Ruf als bester Künstler in deinem Bereich eilt dir voraus. Die Leute erkennen dich und deine Kunst, was dir viele Türen öffnet und deine Anzahl an Verbündeten steigert.
