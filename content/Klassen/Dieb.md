@@ -13,7 +13,7 @@
   
 - **Trickbetrüger**: Du bist ein Meister der Täuschung und des schnellen Redens, stets bereit, andere zu überlisten.  
     - Bonus auf [[../Attribute/Seele/Lügen|Lügen]]  
-    - +1 auf [[../Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
+    - +1 auf [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
     - Wissen in Handel/Wirtschaft  
 - **Akrobat**: Du bist wendig und bewegst dich mit beeindruckender Geschicklichkeit über Dächer, Seile und schmale Vorsprünge.  
     - +1 auf [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
@@ -29,7 +29,7 @@
   
 #### **2. Level:**  
   
-- **Langsam aber sicher**: Du kannst 1AP bezahlen um dir auf deine Heimlichkeitsproben eine +5 zu geben. Dieser Effekt ist stapelbar.  
+- **Langsam aber sicher**: Du kannst 1AP bezahlen um dir auf deine Heimlichkeitsproben einen Bonus zu geben. Diese Aktion ist von der Wiederholungssanktion ausgeschlossen.  
 - **Spürsinn**: Du hast ein untrügliches Gespür für verborgene Dinge. Du erhältst einen doppelten Bonus auf Proben zum Finden geheimer Türen, versteckter Mechanismen oder verborgener Fallen.  
   
 #### **3. Level:**  
