@@ -24,23 +24,23 @@ Du bist kein einfacher Diener deines Gottes – du bist sein Schwert, sein Schil
   
 #### **1. Level:**  
   
-- **Göttliche Einsicht**: Dein Gott gewährt dir Visionen oder Eingebungen. Einmal pro Tag kannst du eine göttliche Offenbarung erhalten, die dir eine kryptische, aber vielleicht hilfreiche Eingebung zu einer aktuellen Herausforderung gibt.  
+- **Göttliche Einsicht**: Dein Gott gewährt dir Visionen oder Eingebungen. Einmal pro Tag kannst du versuchen eine göttliche Offenbarung zu erhalten, die dir eine kryptische, aber vielleicht hilfreiche Eingebung zu einer aktuellen Herausforderung gibt.  
 - **Göttliche Präsenz**: Du kannst einmal pro Tag deine Präsenz so verstärken, dass sie von anderen wahrgenommen wird. Du erhältst für eine Konversation einen Bonus auf Einschüchtern oder Überzeugenproben.  
   
 #### **2. Level:**  
   
-- **Göttliches Urteil**: Einmal am Tag kannst du einen Gegner mit einem heiligen Urteil belegen. Das Ziel erhält einen Malus auf Angriffsproben für die nächsten 2 Runden.  
+- **Göttliches Urteil**: Einmal am Tag kannst du einen Gegner berühren und ihn mit einem heiligen Urteil belegen. Das Ziel erhält einen Malus auf alle Zauber- oder Angriffsproben für die nächste Runde.  
 - **Göttliche Heilung**: Du kannst deine göttliche Verbindung nutzen, um Verletzungen zu heilen. Einmal täglich kannst du dich selber für 2 AP um (Level) x Gesundheit heilen.  
   
 #### **3. Level:**  
   
-- **Göttliche Macht**: Du kannst deine göttlichen Fähigkeiten steigern und bis zu 3 AP pro Kampf zusätzlich nutzen, die entweder Teil eines Zauber oder ein Angriffs sein müssen.  
-- **Göttliches Schild**: Du kannst einmal pro Tag als Reaktion einen Schaden gänzlich negieren. Dies kostet jedoch 3 AP.  
+- **Göttliche Macht**: Du kannst deine göttlichen Fähigkeiten steigern und bis zu 2 AP pro Kampf zusätzlich nutzen, die entweder Teil eines Zauber oder ein Angriffs sein müssen.  
+- **Göttliches Schild**: Du kannst einmal pro Tag als Reaktion einen Schaden gegen dich gänzlich negieren. Dies kostet jedoch 3 AP.  
   
 #### **4. Level:**  
   
 - **Göttlicher Zorn**: Wenn du einen Gegner mit einem Göttlichem Schlag niederstreckst kannst du einen zusätzlichen Göttlichen Schlag in diesem Kampf ausführen.  
-- **Göttliche Waffen**: Deine Waffen sind dauerhaft von göttlicher Kraft erfüllt, was dir einen permanent +1 heiligen Schaden auf alle Angriff gibt.  
+- **Göttliche Waffen**: Deine Waffen sind dauerhaft von göttlicher Kraft erfüllt, was dir einen permanent +1 heiligen Schaden auf alle Angriffe gibt.  
   
 #### **5. Level:**  
   
