@@ -27,16 +27,16 @@ _Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und d
 #### **2. Level:**  
   
 - **Verborgene Präsenz**: Du kannst dich in Menschenmengen oder dunklen Ecken leichter verstecken. Gegner bekommen einen Malus um dich zu entdecken. Solange du dich erfolgreich versteckt hast und dich nicht bewegst bist du mit Nicht-Magischen Mitteln nicht zu entdecken.  
-- **Giftige Klinge**: Du kannst (Level x) pro Tag eine Waffe mit Gift bestreichen, das einmal zusätzlich +1 Giftschaden verursacht.  
+- **Mimikry**: Nach einem kurzen Gespräch oder einer beobachteten Interaktion kannst du die Stimme, Gestik und Ausdrucksweise einer Person täuschend echt nachahmen.  
   
 #### **3. Level:**  
   
-- **Mimikry**: Nach einem kurzen Gespräch oder einer beobachteten Interaktion kannst du die Stimme, Gestik und Ausdrucksweise einer Person täuschend echt nachahmen.  
-- **Kampf oder Flucht**: Wenn du Schaden erleidest, kannst du für einen AP direkt einen Gegenangriff ausführen oder deine Bewegungsrate laufen ohne einen Gelegenheitsangriff zu provozieren.  
+- **Vergiftete Klinge**: Du kannst für 1 AP (Level x) pro Tag eine Waffe mit Gift bestreichen, das einmal zusätzlich +1 Giftschaden verursacht.  
+- **Kampf oder Flucht**: Wenn du Schaden erleidest, kannst du für 1 AP direkt einen Gegenangriff ausführen oder deine Bewegungsrate laufen ohne einen Gelegenheitsangriff zu provozieren.  
   
 #### **4. Level:**  
   
-- **Doppelschlag**: Wenn du einen Gegner aus dem Hinterhalt angreifst, kannst du eine zweite Attacke ausführen ohne AP zu bezahlen.  
+- **Doppelschlag**: Wenn du einen Gegner aus dem Hinterhalt angreifst, kannst du einen zweiten Angriff ausführen ohne AP zu bezahlen.  
 - **Meister der Täuschung**: Du kannst dich meisterhaft verstecken, selbst in ungünstigen Situationen. Einmal pro Kampf kannst du dich sofort verstecken, selbst wenn du beobachtet wirst. Gegner müssen eine Wahrnehmungsprobe bestehen, um dich zu entdecken.  
   
 #### **5. Level:**  
