@@ -33,7 +33,7 @@
   
 #### **1. Level:**  
   
-- **Taktisches Verständnis**: Du kannst intuitiv alle Karten auf die du einen Blick wirfst verstehen und aus dem Gedächtnis nachzeichnen.  
+- **Taktisches Verständnis**: Du kannst intuitiv alle Karten oder taktischen Dokumente auf die du einen Blick wirfst verstehen und aus dem Gedächtnis nachzeichnen.  
 - **Taktische Analyse**: Du kannst eine Runde damit verbringen, das Schlachtfeld zu analysieren und einen taktischen Vorteil zu entdecken, der dir und deinen Verbündeten hilft.  
   
 #### **2. Level:**  
@@ -44,11 +44,11 @@
 #### **3. Level:**  
   
 - **Erweiterte Kriegsführung**: Deine Vorteile durch Kriegsführung greifen doppelt. Zudem kannst du nun bis zu zwei taktische Anweisungen pro Kampf geben.  
-- **Taktischer Vorteil**: Zu Beginn der zweiten Runde kannst du die Initiative von Verbündeten einmalig vertauschen oder verändern. Du kannst auch dich selbst oder andere in der Reihenfolge zurückfallen lassen, um koordinierte Angriffe vorzubereiten.  
+- **Taktischer Vorteil**: Zu Beginn der zweiten Runde eines Kampfes kannst du die Initiative von zwei Verbündeten einmalig vertauschen. Du kannst auch dich selbst oder andere Verbündete in der Reihenfolge zurückfallen lassen, um koordinierte Angriffe vorzubereiten.  
   
 #### **4. Level:**  
   
-- **Taktischer Überblick**: Solange du in dieser Runde keinen Schaden genommen hast und dich nicht im Nahkampf befindest, erhältst du 1 zusätzlichen AP.  
+- **Taktischer Überblick**: Solange du in dieser Runde keinen Schaden genommen hast und dich nicht unmittelbar neben einem Gegner befindest, erhältst du 1 zusätzlichen AP.  
 - **Taktische Hilfe**: Wenn du einem Verbündeten durch ein Kommando oder die Hilfe-Aktion unterstützt, erhält dieser 1 zusätzlichen AP für seinen nächsten Zug.  
   
 #### **5. Level:**  
