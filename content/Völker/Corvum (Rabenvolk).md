@@ -17,7 +17,7 @@ Sie haben eine besondere Faszination für glänzende Gegenstände, überlieferte
 - Laufen: 3 Felder  
 - Schwimmen: -  
 - Springen: 1 Feld  
-- Fliegen: 8 Felder  
+- Fliegen: 6 Felder  
   
 **Volkseigenschaften**:  
 - Dunkelsicht - Corvum sind es gewohnt, in schummrigen Umgebungen zu leben. Selbst in beinahe völliger Finsternis können sie sich noch erstaunlich sicher orientieren.  

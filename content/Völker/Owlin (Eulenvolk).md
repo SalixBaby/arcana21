@@ -16,7 +16,7 @@ Owlins gelten als wachsam, weise und traditionsbewusst. Sie legen großen Wert a
 - Laufen: 3 Felder  
 - Schwimmen: -  
 - Springen: 1 Feld  
-- Fliegen: 8 Felder  
+- Fliegen: 6 Felder  
   
 **Volkseigenschaften**:  
 - Dunkelsicht - Owlin besitzen scharfe, lichtempfindliche Augen, die ihnen selbst bei schwachem Mondlicht klare Sicht ermöglichen. In völliger Dunkelheit erkennen sie Bewegungen und Umrisse besser als die meisten anderen Völker.  

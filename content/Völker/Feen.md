@@ -16,7 +16,7 @@ Feen sind launisch, verspielt und von tiefer Neugier getrieben. Ihre Kultur basi
 - Laufen: 4 Felder  
 - Schwimmen: -  
 - Springen: 1 Feld  
-- Fliegen: 5 Felder  
+- Fliegen: 4 Felder  
   
 **Volkseigenschaften**:  
 - Bindende Verträge - Worte einer Fee tragen Gewicht. Jeder Pakt, jedes Versprechen bindet sie mit unsichtbaren Fäden. Wer einen Vertrag bricht, muss mit schweren Konsequenzen rechnen – sei es durch Magie oder Schicksal selbst.  
