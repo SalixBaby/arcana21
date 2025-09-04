@@ -16,7 +16,7 @@ Die Dovari pflegen eine ruhige, meditative Lebensweise und schätzen Musik, Harm
 - Laufen: 3 Felder  
 - Schwimmen: -  
 - Springen: 1 Feld  
-- Fliegen: 8 Felder  
+- Fliegen: 6 Felder  
   
 **Volkseigenschaften**:  
 - Beruhigende Präsenz - Die Ausstrahlung der Dovari wirkt besänftigend und kann selbst aufgeregte Gemüter zur Ruhe bringen.  
