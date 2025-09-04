@@ -1,3 +1,4 @@
+  
 ### **1. Einleitung**  
   
 >*Willkommen bei **Arcana21**, einem fesselnden Rollenspielsystem, das dich in eine Welt voller Abenteuer, Magie und taktischer Herausforderungen entführt. Ob als tapferer Kämpfer, meisterhafter Zauberwirker oder geschickter Spezialist – dein Schicksal liegt in deinen Händen.*  
@@ -20,13 +21,24 @@ Ob du dich als mächtiger Magier den arkanen Kräften verschreibst, als unerschr
 Mach dich bereit für eine Reise voller Herausforderungen, Gefahren und unbegrenzter Möglichkeiten.  
   
 ##### **1.4 Proben und Würfelwürfe**  
-In Arcana21 werden Proben immer dann gewürfelt, wenn der Ausgang einer Handlung ungewiss ist – ob du nun eine Wand erklimmen, ein Schloss knacken oder jemanden belügen willst. Die Spielleitung entscheidet, wann eine Probe nötig ist, welches Attribut oder welche Eigenschaft betroffen ist und wie schwer die Aufgabe ausfällt.  
-**Der Wurfmechanismus ist einfach:**  
-- Du würfelst **3W20** (drei zwanzigseitige Würfel).  
-- Du nimmst den **mittleren Wert** der drei (Median).  
-- Anschließend **addierst du den Modifikator** des passenden Attributs oder der passenden Eigenschaft.  
-Das Ergebnis wird mit dem Schwierigkeitsgrad der Probe verglichen, um festzustellen, ob du erfolgreich warst.  
+In **Arcana21** wird immer dann gewürfelt, wenn der Ausgang einer Handlung ungewiss ist – sei es beim Erklimmen einer steilen Wand, beim Knacken eines komplizierten Schlosses oder beim Versuch, jemanden geschickt zu belügen.    
+Die Spielleitung legt fest, wann eine Probe erforderlich ist, welches Attribut oder welche Eigenschaft zum Tragen kommt und wie hoch der Schwierigkeitsgrad der Aufgabe ist.  
   
+**Der Wurfmechanismus:**  
+1. Würfle **3W20** (drei zwanzigseitige Würfel).  
+2. Bestimme den **mittleren Wert** (den Median).  
+3. Addiere den **Modifikator** des passenden Attributs oder der relevanten Eigenschaft.  
+4. Vergleiche das Ergebnis mit dem Schwierigkeitsgrad – ist es gleich oder höher, gilt die Probe als bestanden.  
+  
+**Besondere Würfelergebnisse:**  
+- **Kritischer Wurf:**    
+    Zeigen zwei der Würfel die gleiche Zahl, handelt es sich um einen kritischen Wurf.  
+    - Liegt der dritte Würfel bei **11–20**, ist es ein **kritischer Erfolg**: Du erzielst das bestmögliche Ergebnis deiner Situation – etwa maximalen Schaden im Kampf oder den überzeugendsten Auftritt in einer Verhandlung.  
+    - Liegt der dritte Würfel bei **1–10**, ist es ein **kritischer Misserfolg**: Stattdessen tritt das Gegenteil ein – dein Angriff geht daneben und du lässt womöglich deine Waffe fallen, oder dein Gegenüber findet dich plötzlich unsympathisch.  
+- **Legendärer Erfolg:**    
+    Zeigen **alle drei Würfel dieselbe Zahl**, erlebst du einen **legendären Erfolg**. Was genau geschieht, entscheidet die Spielleitung – doch im Zweifel bedeutet es das Unmögliche: der spektakulärste und vorteilhafteste Ausgang, den du dir vorstellen kannst.  
+  
+**Besondere Proben:**  
 Nicht jede Probe lässt sich direkt einem Attribut zuordnen. Für komplexere oder kreative Situationen – etwa **Einschüchtern, Heimlichkeit oder Ablenkung** – wird die Probe im erzählerischen Kontext interpretiert. In solchen Fällen dürfen die Spieler der Spielleitung Vorschläge machen, welches Attribut man anwenden möchte:  
 - _„Ich haue mit voller Wucht auf den Tisch, um Respekt zu erzwingen.“ → Stärke-Probe zum Einschüchtern._  
 - _„Ich schleiche an der Wache vorbei, während mein Kamerad lautstark diskutiert.“ → Überzeugen-, Lügen- oder Auftritts-Probe zur Ablenkung._  
@@ -55,6 +67,8 @@ Sobald du eine grobe Idee hast, suchst du die passende Klasse aus den 21 verfüg
   
 ##### **2.3 Wähle ein Volk**    
 Das Volk deines Charakters beschreibt seine Kultur. Dein Volk verleiht dir dein grobes Aussehen, Kultur und einige Fähigkeiten. Wähle ein Volk, dass sich für dich am interessantesten anhört.  
+  
+[[./Völker/-Völker-|Völkerübersicht]]  
   
 >[!example]- *Beispiel*   
  >*Dein Charakter ist ein Lupari (Wolfvolk) und verlässt sich gerne auf seine Nase. Dies lässt sich gut mit seiner Klasse des Jägers verbinden.*  
@@ -97,13 +111,17 @@ Danach setzt du deine Talentpunkte auf die Unterattribute der Kernattribute, um 
   
 ##### **2.7 Verteile deine Ausbildungspunkte**    
 Mit deinen Ausbildungspunkten (Geist-Wert + Level + 2) kannst du Wissen in verschiedenen Kategorien erlangen, den Umgang mit bestimmten Ausrüstungssets erlernen oder neue Sprachen beherrschen. Diese Punkte ermöglichen es dir, deinen Charakter noch individueller zu gestalten.  
+Jeder Held beherrscht von Beginn an die Sprache seines Volkes sowie die Gemeinsprache. Darüber hinaus ist jeder Held im Umgang mit einem Ausrüstungsset seiner Wahl geübt.  
   
 >[!example]- Beispiel   
 >Dein Jäger erhält 4 Ausbildungspunkte. Du setzt sie auf **Überleben/Orientierung**, **Natur/Tiere**, **Kartographenset** und **Navigationsset**, um seine Fertigkeiten als Seefahrer und Waldläufer zu verbessern.  
+>Er beherrscht von Beginn an die Sprache der Lupari und die Gemeinsprache sowie das Jagdset.  
   
   
 ##### **2.8 Bestimme alle passiven Werte**    
 Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkte, Ausweichen, Bewegungsrate und Willensstärke, basierend auf den Attributen und deinem Level. Diese Werte beeinflussen deine Leistung im Spiel und deine Widerstandsfähigkeit. Sollte einer der passiven Werte auf unter 0 fallen wird dies auf 0 aufgerundet.  
+  
+(Nicht vergessen, dass Helden aufgrund ihrer Klasse /Variation oder Fähigkeiten ebenfalls zusätzliche Attribute erhalten.)  
   
 - [[./Attribute/Passiv/Gesundheit|Gesundheit]]: 3 + [[./Attribute/Körper/Konstitution|Konstitution]] + (Level x 2)  
 - [[Grundregelwerk#77-manapunkte|Manapunkte]]: [[./Attribute/Geist/-Geist-|Geist]] + (Level x 2) (Nur für Zauberklassen)  
@@ -118,19 +136,27 @@ Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkt
 >Dein Jäger hat folgende passive Werte: **Gesundheit**: 3 + 3 (Konstitution) + 1 (Level) x 2 = 8 | **Manapunkte**: 0 (kein Arkana) | **Bewegungsrate**: 5 + 2 (Geschwindigkeit) = 7 | **Ausweichen**: 10 + 2 (Geschwindigkeit) = 12 | **Willensstärke**: 10 + 0 (Fokus) = 10  
   
   
-##### **2.9 Wähle deine Ausrüstung**    
+##### **2.9 Wähle deine Zauberausrichtungen**    
+Bestimme nun die Zauberausrichtungen, mit denen dein Charakter vertraut ist. Für Magieklassen ist diese Wahl von entscheidender Bedeutung, da sie bestimmt, welche Arten von Zaubern sie wirken können. Doch auch für Kampfklassen ist sie nicht minder wichtig: Selbst wenn dein Held keine Magie wirken kann, so kennt er doch die Sprachen der Zauberei – und weiß, ihre Formen und Wirkungen zu erkennen.  
+  
+  
+>[!example]- Beispiel   
+>Dein Jäger wirkt selbst keine Zauber, kennt sich jedoch mit den Ausrichtungen Dunkelheit, Sinne, Erde, Luft und Wasser aus. Er kann die entsprechenden Zauber daher einschätzen und identifizieren.  
+  
+  
+##### **2.10 Wähle deine Ausrüstung**    
 Zum Schluss stattest du deinen Charakter mit passender Ausrüstung aus. Wähle Waffen, Rüstungen und andere Gegenstände, die zu deiner Klasse und deinem Hintergrund passen. Achte darauf, dass Rüstungen deine Bewegungsrate beeinflussen können:  
   
 - [[./Ausrüstungen/Waffen/-Waffen-|Waffen]] (Maximal 2 Waffen, wobei nicht beide [[./Ausrüstungen/Waffen/Waffeneigenschaften/Schwer|Schwer]] sein dürfen)  
 - [[./Ausrüstungen/Ausrüstungssets/-Ausrüstungssets-|Ausrüstungssets]] (Durch Ausbildung bestimmt)  
-- [[./Ausrüstungen/Rüstungen/-Rüstungen-|Rüstungen]] (Kann durch die Klasse beschränkt sein)  
+- [[./Ausrüstungen/Rüstungen/-Rüstungen-|Rüstungen]] (Jeder Held kann mit jeder Art von Rüstung starten, die er tragen kann)  
   
   
 >[!example]- Beispiel   
 >Dein Jäger trägt leichte Rüstung, die 2 Bewegungspunkte kostet, wodurch seine Bewegungsrate auf 5 reduziert wird. Als Waffe trägt er einen Bogen und ein Kurzschwert. Durch seine Ausbildung am Navigationsset erhält er dieses ebenfalls zum Start.  
   
   
-##### **2.10 Sei kreativ und hab Spaß!**    
+##### **2.11 Sei kreativ und hab Spaß!**    
 Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abenteuer zusammen mit deinen Freunden erleben. Und ob ihr die Helden oder die Bösen sein wollt, am wichtigsten ist es jedoch: Habt Spaß!  
   
 ---  
@@ -193,13 +219,14 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
  **4.1.1 Initiative**  
 - Der Kampf beginnt, sobald der Spielleiter ihn ansagt. Aktionen, die vorher ausgeführt wurden und in einen Kampf münden, können das Kampfgeschehen entscheidend beeinflussen. Eine gute Koordination unter den Spielern wird belohnt.  
 - Jede Figur führt zu Beginn des Kampfes einen **Initiativewurf** durch.  
-    - Die Spieler können entscheiden, ob sie **Instinkt**, **Erfahrung** oder **Intuition** für ihren Wurf nutzen wollen.  
+    - Die Spieler können entscheiden, ob sie **Instinkt**, **Erfahrung** oder **Intuition** für ihren Wurf nutzen wollen. Dies kann aber im Zweifel durch den SL angesagt werden.  
 	- Das Ergebnis des Initiativewurfs bestimmt die Reihenfolge, in der die Beteiligten ihre Züge ausführen.  
-- Wenn mehrere Figuren – seien es Spielercharaktere oder Gegner – direkt hintereinander an der Reihe sind, dürfen sie sich zu einer **Initiativegruppe** zusammenschließen. Innerhalb dieser Gruppe können die Mitglieder selbst entscheiden, wer in welcher Reihenfolge handelt. Allerdings sind nur einfache Absprachen erlaubt – etwa: _„Ich warte, bis der Kämpfer aus der Schusslinie ist.“_ Komplexe Taktikplanung ist in dieser Phase nicht vorgesehen.  
+- Wenn mehrere Figuren aus dem gleichen Lager – seien es Spielercharaktere oder Gegner – direkt hintereinander an der Reihe sind, dürfen sie sich zu einer **Initiativegruppe** zusammenschließen. Innerhalb dieser Gruppe können die Mitglieder selbst entscheiden, wer in welcher Reihenfolge handelt. Allerdings sind nur einfache Absprachen erlaubt – etwa: _„Ich warte, bis der Kämpfer aus der Schusslinie ist.“_ Komplexe Taktikplanung ist in dieser Phase nicht vorgesehen.  
+- Treffen jedoch mehrere Figuren aus verschiedenen Lagern des Kampfes auf den gleichen Initiativwert, wird die Probe wiederholt. Wer diese entscheidet, darf bestimmen, ob er oder sein Gegner zuerst handelt.  
   
 **4.1.2 Rundenstruktur**  
-- Jede Figur hat pro Runde **4 Aktionspunkte (AP)**, die sie für Aktionen wie Angriffe, Bewegungen, Zauber oder andere Tätigkeiten ausgeben kann.  
-- Die Reihenfolge der Züge folgt der Initiative, wobei die Aktionspunkte in der eigenen Runde flexibel eingesetzt werden können.  
+- Jede Figur hat (normalerweise) **4 Aktionspunkte (AP)** pro Runde, die sie für Aktionen wie Angriffe, Bewegungen, Zauber oder andere Tätigkeiten ausgeben kann.  
+- Die Reihenfolge der Züge folgt der Initiative, wobei die Aktionspunkte in der eigenen Runde (oder manchmal auch in der Runde der Gegner) flexibel eingesetzt werden können.  
   
 **4.1.3 Wiederholungssanktion**  
 - Das wiederholte Ausführen derselben Aktion in derselben Runde kostet pro Wiederholung **+1 zusätzlichen Aktionspunkt**.  
@@ -215,7 +242,8 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
   
  **4.1.5 Mögliche Aktionen**  
 - **Laufen / Schwimmen / Fliegen** – _1AP_: Nutze deine Bewegungsrate, um dich über das Schlachtfeld zu bewegen. *(1 Bewegungsrate = 1 Feld = 1m)*  
-- **Springen** – _1AP_: Überwinde Hindernisse oder schließe die Distanz zu deinem Ziel. *(Standard: 2 Felder + Stärke | Kann mit Probe vergrößert werden)*  
+- **Springen** – _1AP_: Überwinde Hindernisse oder schließe die Distanz zu deinem Ziel. *(Standard: Sprungwert des Volkes + Stärke | Kann mit Probe vergrößert werden)*  
+- **Aufstehen** – _1AP_: Stehe auf, nachdem du auf dem Boden lagst oder gestürzt bist.  
 - **Verstecken** – _1AP_: Schlüpfe in den Schatten und werde unsichtbar für deine Feinde. *(Geschicklichkeitsprobe gegen Wahrnehmung)*  
 - **Ausweichen** – _1AP_: Erschwere es deinen Gegnern dich zu treffen. *(Malus auf Angriffe gegen dich für die Runde)*  
 - **Rückzug** - *1AP*. Verlasse den Angriffsbereich eines Gegners ohne einen Gelegenheitsangriff zu provozieren.  
@@ -241,11 +269,13 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Parieren:** *1AP.* Gib einer gegnerischen Angriffsprobe einen Malus. *(Benötigt gezogene Waffe mit [[./Ausrüstungen/Waffen/Waffenfähigkeiten/Parieren|Parieren]])*  
 - **Zauberduell:** *1AP*. Verhindere gegnerische Zauber. *(siehe 4.4.2)*  
   
+- **Kreative Reaktionen**: - In **Arcana21** geht es um Kreativität. Du hast eine Idee für eine coole Reaktion? Frage den SL ob dieser Diese zulässt.  
+  
 **4.1.7 Lebensgefahr**  
-- **Todesröcheln**: Sinkt ein Held auf 0 Gesundheit, gerät er in den Zustand des Todesröchelns. In diesem kritischen Moment erleidet er sofort eine Erschöpfung und ist stark eingeschränkt: Er kann nur noch einen einzigen Aktionspunkt pro Runde einsetzen, und der Einsatz von Ausdauerpunkten ist ihm nicht länger möglich. Zudem muss er am Ende jedes eigenen Zuges eine Konstitution-Probe (12 + 2xGesundheit unter 0) ablegen. Misslingt diese, verliert er 1 weiteren Punkt Gesundheit.  
+- **Todesröcheln**: Sinkt ein Held auf 0 Gesundheit, gerät er in den Zustand des Todesröchelns. In diesem kritischen Moment erleidet er jede Runde eine Erschöpfung und ist stark eingeschränkt: Er kann nur noch einen einzigen Aktionspunkt pro Runde einsetzen, und der Einsatz von Ausdauerpunkten ist ihm nicht länger möglich. Zudem muss er am Ende jedes eigenen Zuges eine Konstitution-Probe (12 + 2xGesundheit unter 0) ablegen. Misslingt diese, verliert er 1 weiteren Punkt Gesundheit. Diese wird exklusiv zwischen dem Spieler und dem SL abgehandelt, damit die anderen Mitspieler nicht unbewusst Meta-Gamen.  
 - **Stabilisieren**: Ein Held im Todesröcheln kann versuchen, sich für 1 AP selbst zu stabilisieren – auf kreative, der Situation entsprechende Weise. Hierzu ist eine Probe (15 + 2xGesundheit unter 0) erforderlich. Befindet sich ein Verbündeter in unmittelbarer Nähe, kann er ebenfalls eine Stabilisierung versuchen – per Wissens-Probe gegen denselben Wert. Charaktere mit Wissen in Medizin erhalten dabei doppelten Bonus. Ein stabilisierter Held muss keine Konstitution-Proben mehr am Zugende ablegen – jedoch gilt: Erleidet er erneut Schaden, endet die Stabilisierung sofort.  
-- **Tod eines Helden**: Sinkt die Gesundheit eines Charakters auf -3 oder weniger, bedeutet dies seinen endgültigen Tod. Nur mächtige Fähigkeiten oder Zauber vermögen es, einen gefallenen Helden ins Leben zurückzuholen.  
-- **Tod eines Nicht-Spieler-Charakters**: Ein NPC hat im Normalfall 3 Gesundheit. Fällt ein NPC auf 1 Gesundheit befindet er sich im Todesröcheln. Fällt ein NPC auf 0 Gesundheit stirbt dieser endgültig.  
+- **Tod eines Helden**: Sinkt die Gesundheit eines Charakters auf -3 oder weniger, bedeutet dies seinen endgültigen Tod. Nur sehr mächtige Fähigkeiten oder Zauber vermögen es, einen gefallenen Helden ins Leben zurückzuholen.  
+- **Tod eines Nicht-Spieler-Charakters**: Ein NPC hat im Normalfall 3 Gesundheit. Fällt ein NPC auf 0 Gesundheit befindet er sich im Todesröcheln. Fällt ein NPC auf -1 Gesundheit stirbt dieser endgültig.  
   
 **4.1.8 Gelände und Umgebung**  
 - **Erhöhte Position**: Du erhältst einen Bonus auf Angriffsproben gegen Ziele in niedrigerer Position.  
@@ -265,14 +295,13 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 ##### **4.2 Schaden**  
   
 **4.2.1 Waffenschaden**  
-- Jede Waffe hat eine spezifische Schadensart und verursacht in der Regel **1–2 Schaden**.  
+- Jede Waffe verursacht in der Regel **1-2 Schaden** normalen Schaden.  
 - Besondere Eigenschaften oder Fähigkeiten von Waffen können den Schaden modifizieren.  
     
 **4.2.2 Zauberschaden**  
 - Der Schaden eines Zaubers hängt von der eingesetzten **Mana-Menge** ab:  
-    - **Kein Mana (Nicht Überladen):** Der Zauber kann 1 Schaden verursachen.  
+    - **Kein Mana (Nicht Überladen):** Der Zauber verursacht bei einem normalen Treffer 1 Schaden.  
     - **Zusätzlich eingesetztes Mana (Überladen):** Pro Mana-Punkt kann der Schaden um +1 steigen.  
-- Überladene Zauber können besonders riskant sein, da sie die Figur erschöpfen können.  
   
 **4.2.3 Trefferarten**  
 - **Normaler Treffer:** Verursacht den regulären Schaden der Waffe oder des Zaubers.  
@@ -467,7 +496,7 @@ Bei einem Levelaufstieg werden folgende Werte automatisch aufgewertet:
 4. **Manapunkte**:  
     - **Berechnung**: Arkana + (Level x 2)  
 5. **Zauberausrichtungen-Wissen**:  
-    - **Berechnung**: 3 + Level  
+    - **Berechnung**: Wissen + 3 + Level  
   
 ##### **6.2 Klassenkombination**  
 Die Möglichkeit, mehrere Klassen zu kombinieren, erlaubt es Charakteren, sich über die Grenzen ihrer ursprünglichen Klasse hinaus zu entwickeln. Diese sogenannte **Multiklassen-Option** bietet Flexibilität und eröffnet neue Möglichkeiten zur Charaktergestaltung – allerdings nur, wenn es **geschichtenbezogen Sinn ergibt**.  
