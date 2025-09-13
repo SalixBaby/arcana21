@@ -110,11 +110,11 @@ Danach setzt du deine Talentpunkte auf die Unterattribute der Kernattribute, um 
   
   
 ##### **2.7 Verteile deine Ausbildungspunkte**    
-Mit deinen Ausbildungspunkten (Geist-Wert + Level + 2) kannst du Wissen in verschiedenen Kategorien erlangen, den Umgang mit bestimmten Ausrüstungssets erlernen oder neue Sprachen beherrschen. Diese Punkte ermöglichen es dir, deinen Charakter noch individueller zu gestalten.  
+Mit deinen Ausbildungspunkten (Geist-Wert + Level + 3) kannst du Wissen in verschiedenen Kategorien erlangen, den Umgang mit bestimmten Ausrüstungssets erlernen oder neue Sprachen beherrschen. Diese Punkte ermöglichen es dir, deinen Charakter noch individueller zu gestalten.  
 Jeder Held beherrscht von Beginn an die Sprache seines Volkes sowie die Gemeinsprache. Darüber hinaus ist jeder Held im Umgang mit einem Ausrüstungsset seiner Wahl geübt.  
   
 >[!example]- Beispiel   
->Dein Jäger erhält 4 Ausbildungspunkte. Du setzt sie auf **Überleben/Orientierung**, **Natur/Tiere**, **Kartographenset** und **Navigationsset**, um seine Fertigkeiten als Seefahrer und Waldläufer zu verbessern.  
+>Dein Jäger erhält 5 Ausbildungspunkte. Du setzt sie auf **Überleben/Orientierung**, **Natur/Tiere**, **Medizin/Anatomie**, **Kartographenset** und **Navigationsset**, um seine Fertigkeiten als Seefahrer und Waldläufer zu verbessern.  
 >Er beherrscht von Beginn an die Sprache der Lupari und die Gemeinsprache sowie das Jagdset.  
   
   
@@ -308,6 +308,12 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Brutaler Treffer:** Wird ein Ziel mit einem Wurf von **5 über dem SG** (Schwierigkeitsgrad) getroffen, verursacht der Treffer **+1 zusätzlichen Schaden**.  
 - **Kritischer Treffer:** Wird ein Ziel mit einem Wurf von **10 über dem SG** getroffen, verursacht der Treffer **+2 zusätzlichen Schaden**.  
   
+**4.2.3 Schadensarten**  
+- **Normaler Schaden** – Körperlicher Schaden, wie er durch Waffen, Schläge oder andere Formen roher Gewalt entsteht.  
+- **Mentalschaden** – Beeinträchtigungen des Geistes, hervorgerufen durch Magie, Furcht oder andere psychische Einwirkungen.  
+- **Elementarschaden** – Feuer, Eis, Blitz, Gift, Säure und ähnliche Natur- oder Magiekräfte, die direkt auf den Körper einwirken.  
+- **Spezialschaden** – Heilige, infernale oder nekrotische Energien, die oft jenseits gewöhnlicher Verteidigung liegen. Dieser Schaden geht meist von Göttern, finsteren Mächten oder Wesen aus, die nicht dieser Welt entstammen.  
+  
 ##### **4.3 Waffen**  
   
 **4.3.1 Waffenarten**  
@@ -316,6 +322,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Magische Waffen:** Erfordern Mana oder Zauberfokus zur Aktivierung.  
   
 **4.3.2 Waffeneigenschaften**  
+- **Absprunghilfe:** Für Stabilisierung oder weitere Sprünge.  
 - **Leise:** Für unauffällige Angriffe geeignet.  
 - **Projektilschuss:** Waffe muss nachgeladen werden.  
 - **Reichweite**: Waffe kann Gegner in Distanz treffen.  
@@ -327,6 +334,8 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Aufschlitzen:** Zusätzlicher Schaden gegen Gegner.  
 - **Betäuben:** Gegner wird zum Teil handlungsunfähig gemacht.  
 - **Durchdringen:** Ignoriert Teile der Rüstung.  
+- **Fesseln:** Zum festsetzen von Gegnern.  
+- **Kollateralschaden**: Extra Schaden an beistehenden.   
 - **Nachladen**: Waffe kann nachgeladen werden.  
 - **Parieren:** Ermöglicht es, Angriffe abzuwehren (Reaktion).  
 - **Zielsicher:** Ermöglicht es, Schwachstellen zu treffen (erhöht Trefferchance).  
@@ -335,7 +344,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
   
 **4.4.1 Angriffszauber**  
 - Angriffszauber kosten **1 AP** und eine definierte Menge an Mana, abhängig von ihrer Stärke.  
-- Der Effekt des Zaubers hängt von der gewählten Magieart und der eingesetzten Mana-Menge ab. (Hier entscheidet der SL falls es nicht eindeutig sein sollte)  
+- Der Effekt des Zaubers hängt von der gewählten Zauberausrichtung und der eingesetzten Mana-Menge ab. (Hier entscheidet der SL falls es nicht eindeutig sein sollte)  
 - Ein Angriffszauber hat einen Basisschaden von 1 der durch jedes eingesetzte Mana um 1 erhöht werden kann.  
   
 **4.4.2 Zauberduell**  
@@ -362,7 +371,7 @@ Zauberausrichtungen bestimmen die Art und Weise, wie Magie im Spiel eingesetzt w
   
 **Elementar**  
 1. **Erde** – Kontrolle über den Boden und Gravitation.  
-2. **Feuer** – Manipulation von Flammen und Blitze.  
+2. **Feuer** – Manipulation von Flammen und Hitze.  
 3. **Luft** – Kontrolle über Wind und dem Fliegen.  
 4. **Wasser** – Beherrschung von Flüssigkeiten und Eis.  
 **Geist**  
@@ -416,7 +425,7 @@ Es ist möglich, **mehrere Zauber von unterschiedlichen SP zu kombinieren**, um 
 - **Der Spielleiter hat das letzte Wort**, ob die Kombination sinnvoll ist und wie sie sich auswirkt.  
   
 **5.2.4 Erholung von Mana:**  
-- **Lange Ruhe:** Der Mana-Pool regeneriert sich vollständig nach einer langen Ruhephase.  
+- **Lange Rast:** Der Mana-Pool regeneriert sich vollständig nach einer langen Ruhephase.  
 - **Andere Methoden:** Bestimmte Tränke, Zauber oder Fähigkeiten können die Regeneration beschleunigen oder Mana sofort wiederherstellen.  
   
 **5.2.5 Struktur von Zaubereffekten**  
@@ -432,7 +441,7 @@ Diese vier Elemente stellen die Ausgangsbasis jedes Zaubers dar.
 ---  
   
 **Fokuslenkung – Verstärken durch Verzicht**  
-Spieler*innen können bewusst auf eine dieser vier Grundkomponenten verzichten, um eine andere zu verstärken.    
+Spieler können bewusst auf eine dieser vier Grundkomponenten verzichten, um eine andere zu verstärken.    
 Beispiele:  
 - **Berührungszauber (Reichweite 0):** Erlaubt stärkeren Effekt (z. B. +1 Schaden)  
 - **Selbstzauber (kein Zielwechsel):** Kann längere Dauer oder verbesserte Wirkung erhalten  
@@ -492,7 +501,7 @@ Bei einem Levelaufstieg werden folgende Werte automatisch aufgewertet:
 2. **Talentpunkte**:  
     - **Berechnung**: 2 + Level  
 3. **Ausbildungspunkte**:  
-    - **Berechnung**: Geist-Wert + Level + 2  
+    - **Berechnung**: Geist-Wert + Level + 3  
 4. **Manapunkte**:  
     - **Berechnung**: Arkana + (Level x 2)  
 5. **Zauberausrichtungen-Wissen**:  
@@ -532,15 +541,10 @@ Ausbildungspunkte können auf verschiedene Weise eingesetzt werden:
 - **Doppelte Ausbildung**: Hat man bereits eine Ausbildung in einem Bereich und erhält den gleichen Bereich erneut kann dieser in einen zusätzlichen Bonus in diesem verbucht werden.  
   
 **Berechnung:**  
-Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Geist-Wert + deinem Level +2**. Diese Punkte sind flexibel und können individuell auf verschiedene Bereiche verteilt werden, je nach den Bedürfnissen und Zielen deines Charakters.  
-  
-  
->[!example]- *Beispiel*   
->*Ein **Zauberer** mit einem Geist-Wert von 3 und Level 1 hat insgesamt 6 Ausbildungspunkte. Er könnte 4 Punkte in Wissenskategorien setzen, 1 Punkt ins Kalligraphie Set und 1 Punkt darauf verwenden, eine neue Sprache zu lernen.*  
-  
+Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Geist-Wert + Level +3**. Diese Punkte sind flexibel und können individuell auf verschiedene Bereiche verteilt werden, je nach den Bedürfnissen und Zielen deines Charakters.  
   
 ##### **7.2 Ausdauerpunkte**  
-> ***Ausdauerpunkte** (AP) in Arcana21 repräsentieren die physische Reserven eines Helden, die er in intensiven Momenten des Kampfes oder bei anderen anstrengenden Aktionen anzapfen kann. Diese Punkte erlauben es dem Helden, kurzfristig seine Leistung zu steigern, indem er zusätzliche Aktionen in einem Zug durchführt. Ausdauerpunkte werden verbraucht, um zum Beispiel eine weitere Bewegung oder einen zusätzlichen Angriff auszuführen, und können durch kritische Treffer oder andere besondere Umstände wieder aufgefrischt werden. Der Grundwert der Ausdauerpunkte hängt vom Attribut Körper ab, wodurch physisch starke Helden mehr Ausdauer besitzen.*  
+> ***Ausdauerpunkte** in Arcana21 repräsentieren die physische Reserven eines Helden, die er in intensiven Momenten des Kampfes oder bei anderen anstrengenden Aktionen anzapfen kann. Diese Punkte erlauben es dem Helden, kurzfristig seine Leistung zu steigern, indem er zusätzliche Aktionen in einem Zug durchführt. Ausdauerpunkte werden verbraucht, um zum Beispiel eine weitere Bewegung oder einen zusätzlichen Angriff auszuführen, und können durch kritische Treffer oder andere besondere Umstände wieder aufgefrischt werden. Der Grundwert der Ausdauerpunkte hängt vom Attribut Körper ab, wodurch physisch starke Helden mehr Ausdauer besitzen.*  
   
 - **Nutzung:** Ausdauerpunkte können eingesetzt werden, um in einer Runde einen zusätzlichen AP zu erhalten. Dies könnte der entscheidende Angriff oder eine taktische Bewegung sein, die den Unterschied zwischen Sieg und Niederlage ausmacht. Es kann normalerweise nur ein Ausdauerpunkt pro Runde verbraucht werden.  
 - **Regeneration:** Ausdauerpunkte werden durch bestimmte Aktionen, wie kritische Treffer oder spezielle Fähigkeiten, wiederhergestellt. Dadurch können Helden in entscheidenden Momenten zurückschlagen oder sich verteidigen. Nur Kampfklassen können ohne eine rast Ausdauerpunkte wiederherstellen.  
@@ -575,7 +579,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 ##### **7.4 Inspirationspunkte**  
 > ***Inspirationspunkte** in Arcana21 symbolisieren die Fähigkeit eines Helden, andere durch seine innere Stärke und Ausstrahlung zu motivieren und zu unterstützen. Diese Punkte basieren auf dem Seelen-Wert des Charakters und ermöglichen es dem Helden, anderen im richtigen Moment einen Vorteil zu verschaffen. Ob im hitzigen Gefecht oder bei einer schwierigen Verhandlung, kann der Held durch den Einsatz von Inspirationspunkten einem Verbündeten einen Vorteil auf dessen nächsten Wurf gewähren. Diese Fähigkeit reflektiert die tiefe Verbindung zur Seele, die es erlaubt, andere zu inspirieren, ihnen Mut zu geben oder ihre Entschlossenheit zu stärken.*  
   
-- **Nutzung:** Der Held kann Inspirationspunkte einsetzen, um einem Verbündeten im Kampf oder außerhalb davon einen Vorteil auf seinen nächsten Wurf zu geben. Der Vorteil muss vor dem Wurf angekündigt werden.  
+- **Nutzung:** Der Held kann Inspirationspunkte einsetzen, um einem Verbündeten im Kampf oder außerhalb davon einen Vorteil auf seinen nächsten Wurf zu geben. Dieser Vorteil besagt, dass von den 3 Würfeln der höchste genommen werden kann. Der Vorteil muss vor dem Wurf angekündigt werden.  
 - **Regeneration:** Inspirationspunkte werden durch bestimmte Aktionen, wie Rasten oder spezielle Fähigkeiten, wiederhergestellt. Dadurch können sich Helden in entscheidenden Momenten einen Vorteil verschaffen.  
 - **Berechnung:** Die Anzahl der Inspirationspunkte eines Charakters wird durch das Kernattribut _Seele_ bestimmt. Ein Held mit höherem Seele-Wert hat also mehr Inspiration und kann häufiger seine Kameraden Vorteil verschaffen, was ihn zu einem wichtigen Gefährten sowohl im Kampf als auch außerhalb macht.  
   
