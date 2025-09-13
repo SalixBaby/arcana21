@@ -129,7 +129,7 @@ Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkt
 - [[./Attribute/Passiv/Bewegungsrate|Bewegungsrate]]: (Bewegungsrate des Volkes) + [[./Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
 - [[./Attribute/Passiv/Ausweichen|Ausweichen]]: 10 + [[./Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
 - [[./Attribute/Passiv/Willensstärke|Willensstärke]]: 10 + [[./Attribute/Geist/Fokus|Fokus]]  
-- [[Grundregelwerk#7.4-inspirationspunkte|Inspirationspunkte]]: [[./Attribute/Seele/-Seele-|Seele]]  
+- [[Grundregelwerk#7.3-inspirationspunkte|Inspirationspunkte]]: [[./Attribute/Seele/-Seele-|Seele]]  
 - [[Grundregelwerk#7.2-ausdauerpunkte|Ausdauerpunkte]]: [[./Attribute/Körper/-Körper-|Körper]]  
   
 >[!example]- Beispiel   
@@ -550,7 +550,36 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 - **Regeneration:** Ausdauerpunkte werden durch bestimmte Aktionen, wie kritische Treffer oder spezielle Fähigkeiten, wiederhergestellt. Dadurch können Helden in entscheidenden Momenten zurückschlagen oder sich verteidigen. Nur Kampfklassen können ohne eine rast Ausdauerpunkte wiederherstellen.  
 - **Berechnung:** Die Anzahl der Ausdauerpunkte eines Charakters wird durch das Kernattribut _Körper_ bestimmt. Ein Held mit höherem Körper-Wert hat also mehr Ausdauer und kann häufiger zusätzliche Aktionen ausführen, was seine Flexibilität im Kampf erhöht.  
   
-##### **7.3 Dualklasse**  
+##### **7.3 Inspirationspunkte**  
+> ***Inspirationspunkte** in Arcana21 symbolisieren die Fähigkeit eines Helden, andere durch seine innere Stärke und Ausstrahlung zu motivieren und zu unterstützen. Diese Punkte basieren auf dem Seelen-Wert des Charakters und ermöglichen es dem Helden, anderen im richtigen Moment einen Vorteil zu verschaffen. Ob im hitzigen Gefecht oder bei einer schwierigen Verhandlung, kann der Held durch den Einsatz von Inspirationspunkten einem Verbündeten einen Vorteil auf dessen nächsten Wurf gewähren. Diese Fähigkeit reflektiert die tiefe Verbindung zur Seele, die es erlaubt, andere zu inspirieren, ihnen Mut zu geben oder ihre Entschlossenheit zu stärken.*  
+  
+- **Nutzung:** Der Held kann Inspirationspunkte einsetzen, um einem Verbündeten im Kampf oder außerhalb davon einen Vorteil auf seinen nächsten Wurf zu geben. Dieser Vorteil besagt, dass von den 3 Würfeln der höchste genommen werden kann. Der Vorteil muss vor dem Wurf angekündigt werden.  
+- **Regeneration:** Inspirationspunkte werden durch bestimmte Aktionen, wie Rasten oder spezielle Fähigkeiten, wiederhergestellt. Dadurch können sich Helden in entscheidenden Momenten einen Vorteil verschaffen.  
+- **Berechnung:** Die Anzahl der Inspirationspunkte eines Charakters wird durch das Kernattribut _Seele_ bestimmt. Ein Held mit höherem Seele-Wert hat also mehr Inspiration und kann häufiger seine Kameraden Vorteil verschaffen, was ihn zu einem wichtigen Gefährten sowohl im Kampf als auch außerhalb macht.  
+  
+##### **7.4 Manapunkte**  
+> _**Manapunkte** in Arcana21 repräsentieren die magische Energie eines Helden, die durch sein tieferes Verständnis der arkanen Kräfte gespeist wird. Diese Punkte basieren auf dem Geist-Wert, insbesondere der Eigenschaft Arkana, und ermöglichen es dem Helden, Zauber zu wirken, Rituale zu vollziehen und seine magischen Fähigkeiten zu entfesseln. Manapunkte sind die Essenz, die Magie am Leben hält, und ihr Einsatz entscheidet über die Kraft und Häufigkeit der magischen Handlungen.  
+  
+- **Nutzung:** Manapunkte werden verwendet, um starke Zauber zu wirken oder magische Effekte zu verstärken. Jeder Zauber benötigt eine bestimmte Anzahl an Manapunkten, abhängig von seiner Stärke oder Komplexität. Helden können Manapunkte auch nutzen, um ihre Zauber zu „verstärken“, wodurch sie noch mächtiger werden. Es können immer nur eine bestimmte Anzahl an Manapunkten gleichzeitig verwendet werden: Diese berechnet sich, solange durch keine spezielle Fähigkeit verändert, mit dem Level des Helden. *(z.B. ein Held auf Level 2 kann einen Zauber mit maximal 2 Mana überladen)*  
+  Es ist nur Zauberklassen möglich Manapunkte zu nutzen.  
+- **Regeneration:** Manapunkte regenerieren sich durch Ruhe und Meditation. Nach einer kurzen Rast stellt der Held einen Teil seiner Manapunkte wieder her (im Normalfall 1 + Level), während eine lange Rast die vollständige Regeneration ermöglicht. Einige Klassen oder Fähigkeiten erlauben auch eine beschleunigte oder zusätzliche Regeneration von Manapunkten.  
+- **Berechnung:** Die Anzahl der Manapunkte eines Charakters wird durch das Attribut _Arkana_ und das Level des Helden bestimmt:  
+    - **Manapunkte = Arkana-Wert + (Level x 2)**  
+    - Ein Held mit höherem Arkana-Wert und Level hat somit eine größere magische Reserve und kann öfter oder stärkere Zauber wirken.  
+  
+##### **7.5 Talentpunkte**  
+>***Talentpunkte** (**TP**) in Arcana21 repräsentieren die Fertigkeiten und das spezialisierte Wissen deines Helden. Sie ermöglichen es, bestimmte Eigenschaften oder Fähigkeiten gezielt zu verbessern, um so einen Vorteil in verschiedenen Situationen zu erlangen. Talentpunkte sind ein zentraler Bestandteil des Fortschrittssystems, mit denen du deinen Charakter individualisieren und spezialisieren kannst.*  
+  
+**Nutzung:** Talentpunkte werden auf die **Eigenschaften** unter den drei Kernattributen Körper, Geist, und Seele verteilt, um deren Werte zu erhöhen. Jedes Mal, wenn du einen Punkt in eine Eigenschaft investierst, steigert sich deren Wert, wodurch du in entsprechenden Situationen effektiver agieren kannst. Zum Beispiel erhöht das Setzen von Talentpunkten auf **Geschicklichkeit** deine Fähigkeit, Heimlichkeitswürfe oder akrobatische Manöver auszuführen.  
+  
+**Vergabe:**  
+- Du erhältst ein Talentpunkt mit jedem Levelaufstieg.  
+- Die Anzahl der Talentpunkte, die du am Anfang erhältst ist 3  
+  
+**Berechnung:** Der Wert der Eigenschaften wird durch die verteilten Talentpunkte und das übergeordnete Kernattribut bestimmt. Wenn du etwa einen Geist-Wert von 2 hast und 1 Talentpunkt auf **Fokus** verteilst, wird der endgültige Wert von **Fokus** 3 betragen.  
+**Verbesserung durch Heldenstufen:** Mit jeder Heldenstufe erhältst du neue Talentpunkte, die du in deine Eigenschaften investieren kannst. Dadurch steigt dein Charakter im Laufe des Spiels immer weiter in seinen Spezialgebieten auf und wird zu einem mächtigen Helden.  
+  
+##### **7.6 Dualklasse**  
 >*Dualklassen vereinen das Beste aus beiden Welten: Sie haben sowohl körperliche als auch magische Fähigkeiten und können sich je nach Situation flexibel anpassen.*  
   
 - **Weg der Entscheidung**: Dualklassen können wählen, ob sie den Kampf- oder den Magieweg einschlagen. Je nach Wahl erhalten sie die Vorteile der Kampfklasse oder der Zauberklasse:  
@@ -570,57 +599,22 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 - Gelegenheitsangriffen  
 - Waffenfähigkeiten/Eigenschaften  
 - Ausdauerpunkte zurückgewinnen  
-    
   
->[!example]- *Beispiel*   
->*Ein Aristokrat kann sich in seinem früheren Leben dazu entscheiden das Duellieren dem Forschen und Magie erlernen vorzuziehen. Er ist im Stande beides einzusetzen aber ist mit den Waffen deutlich besser als mit den magischen Künsten. Er ist im Stande Waffenfähigkeiten im vollen Umfang einzusetzen aber bei einem Zaubererduell wird er vermutlich immer den Kürzeren ziehen.*  
-  
-  
-##### **7.4 Inspirationspunkte**  
-> ***Inspirationspunkte** in Arcana21 symbolisieren die Fähigkeit eines Helden, andere durch seine innere Stärke und Ausstrahlung zu motivieren und zu unterstützen. Diese Punkte basieren auf dem Seelen-Wert des Charakters und ermöglichen es dem Helden, anderen im richtigen Moment einen Vorteil zu verschaffen. Ob im hitzigen Gefecht oder bei einer schwierigen Verhandlung, kann der Held durch den Einsatz von Inspirationspunkten einem Verbündeten einen Vorteil auf dessen nächsten Wurf gewähren. Diese Fähigkeit reflektiert die tiefe Verbindung zur Seele, die es erlaubt, andere zu inspirieren, ihnen Mut zu geben oder ihre Entschlossenheit zu stärken.*  
-  
-- **Nutzung:** Der Held kann Inspirationspunkte einsetzen, um einem Verbündeten im Kampf oder außerhalb davon einen Vorteil auf seinen nächsten Wurf zu geben. Dieser Vorteil besagt, dass von den 3 Würfeln der höchste genommen werden kann. Der Vorteil muss vor dem Wurf angekündigt werden.  
-- **Regeneration:** Inspirationspunkte werden durch bestimmte Aktionen, wie Rasten oder spezielle Fähigkeiten, wiederhergestellt. Dadurch können sich Helden in entscheidenden Momenten einen Vorteil verschaffen.  
-- **Berechnung:** Die Anzahl der Inspirationspunkte eines Charakters wird durch das Kernattribut _Seele_ bestimmt. Ein Held mit höherem Seele-Wert hat also mehr Inspiration und kann häufiger seine Kameraden Vorteil verschaffen, was ihn zu einem wichtigen Gefährten sowohl im Kampf als auch außerhalb macht.  
-  
-##### **7.5 Kampfklasse**  
+##### **7.7 Kampfklasse**  
 >*Kampfklassen sind Meister im Nah- und Fernkampf, die ihre Fähigkeiten mit Waffen und Taktiken perfektionieren. Diese Charaktere verlassen sich auf ihre körperliche Stärke und Reflexe, um Feinde zu überwältigen.*  
   
 - **Gelegenheitsangriff**: Kampfklassen können Gelegenheitsangriffe durchführen, wenn sich Feinde aus ihrem Angriffsradius entfernen.  
 - **Ausdauerpunkte zurückgewinnen**: Durch kritische Treffer können sie verbrauchte Ausdauerpunkte zurückerhalten, was ihnen mehr Möglichkeiten im Kampf bietet.  
 - **Waffenfähigkeiten und -Eigenschaften nutzen**: Sie sind in der Lage, spezielle Waffenfähigkeiten und -Eigenschaften wie Parieren, Aufschlitzen oder Betäuben zu verwenden, um das Schlachtfeld zu dominieren. Dies gilt im Normalfall nur für die Waffen, die in der Charaktererstellung verwendet werden. Dein Charakter kann sich später mit anderen Waffen vertraut machen.  
   
-##### **7.6 Zauberklasse**  
+##### **7.8 Zauberklasse**  
 >*Zauberklassen setzen die Kraft der Magie ein, um die Realität zu formen, ihre Feinde zu besiegen und ihre Verbündeten zu unterstützen. Sie schöpfen ihre Kraft aus Mana und den Zauberausrichtungen.*  
   
 - **Zauber wirken**: Zauberklassen können mächtige Zauber aus verschiedenen Zauberausrichtungen wirken, um ihre Gegner zu besiegen oder Verbündeten zu helfen.  
 - **Mana-Punkte**: Diese Klassen verfügen über Mana-Punkte, die sie für ihre Zauber einsetzen. Diese regenerieren sich während Pausen oder durch spezielle Fähigkeiten.  
 - **Zauberduell**: Zauberklassen können im direkten Wettstreit der Magie stehen und ein Zauberduell führen, bei dem sie ihre arkane Kraft gegen die eines anderen Magienutzers messen.  
   
-##### **7.7 Manapunkte**  
-> _**Manapunkte** in Arcana21 repräsentieren die magische Energie eines Helden, die durch sein tieferes Verständnis der arkanen Kräfte gespeist wird. Diese Punkte basieren auf dem Geist-Wert, insbesondere der Eigenschaft Arkana, und ermöglichen es dem Helden, Zauber zu wirken, Rituale zu vollziehen und seine magischen Fähigkeiten zu entfesseln. Manapunkte sind die Essenz, die Magie am Leben hält, und ihr Einsatz entscheidet über die Kraft und Häufigkeit der magischen Handlungen.  
-  
-- **Nutzung:** Manapunkte werden verwendet, um starke Zauber zu wirken oder magische Effekte zu verstärken. Jeder Zauber benötigt eine bestimmte Anzahl an Manapunkten, abhängig von seiner Stärke oder Komplexität. Helden können Manapunkte auch nutzen, um ihre Zauber zu „verstärken“, wodurch sie noch mächtiger werden. Es können immer nur eine bestimmte Anzahl an Manapunkten gleichzeitig verwendet werden: Diese berechnet sich, solange durch keine spezielle Fähigkeit verändert, mit dem Level des Helden. *(z.B. ein Held auf Level 2 kann einen Zauber mit maximal 2 Mana überladen)*  
-  Es ist nur Zauberklassen möglich Manapunkte zu nutzen.  
-- **Regeneration:** Manapunkte regenerieren sich durch Ruhe und Meditation. Nach einer kurzen Rast stellt der Held einen Teil seiner Manapunkte wieder her (im Normalfall 1 + Level), während eine lange Rast die vollständige Regeneration ermöglicht. Einige Klassen oder Fähigkeiten erlauben auch eine beschleunigte oder zusätzliche Regeneration von Manapunkten.  
-- **Berechnung:** Die Anzahl der Manapunkte eines Charakters wird durch das Attribut _Arkana_ und das Level des Helden bestimmt:  
-    - **Manapunkte = Arkana-Wert + (Level x 2)**  
-    - Ein Held mit höherem Arkana-Wert und Level hat somit eine größere magische Reserve und kann öfter oder stärkere Zauber wirken.  
-  
-##### **7.8 Talentpunkte**  
->***Talentpunkte** (**TP**) in Arcana21 repräsentieren die Fertigkeiten und das spezialisierte Wissen deines Helden. Sie ermöglichen es, bestimmte Eigenschaften oder Fähigkeiten gezielt zu verbessern, um so einen Vorteil in verschiedenen Situationen zu erlangen. Talentpunkte sind ein zentraler Bestandteil des Fortschrittssystems, mit denen du deinen Charakter individualisieren und spezialisieren kannst.*  
-  
-**Nutzung:** Talentpunkte werden auf die **Eigenschaften** unter den drei Kernattributen Körper, Geist, und Seele verteilt, um deren Werte zu erhöhen. Jedes Mal, wenn du einen Punkt in eine Eigenschaft investierst, steigert sich deren Wert, wodurch du in entsprechenden Situationen effektiver agieren kannst. Zum Beispiel erhöht das Setzen von Talentpunkten auf **Geschicklichkeit** deine Fähigkeit, Heimlichkeitswürfe oder akrobatische Manöver auszuführen.  
-  
-**Vergabe:**  
-- Du erhältst ein Talentpunkt mit jedem Levelaufstieg.  
-- Die Anzahl der Talentpunkte, die du am Anfang erhältst ist 3  
-  
-**Berechnung:** Der Wert der Eigenschaften wird durch die verteilten Talentpunkte und das übergeordnete Kernattribut bestimmt. Wenn du etwa einen Geist-Wert von 2 hast und 1 Talentpunkt auf **Fokus** verteilst, wird der endgültige Wert von **Fokus** 3 betragen.  
-**Verbesserung durch Heldenstufen:** Mit jeder Heldenstufe erhältst du neue Talentpunkte, die du in deine Eigenschaften investieren kannst. Dadurch steigt dein Charakter im Laufe des Spiels immer weiter in seinen Spezialgebieten auf und wird zu einem mächtigen Helden.  
-  
 ##### **7.9 Bonus & Malus**  
-  
 > _**Bonus und Malus** in Arcana21 sind Mechaniken, die bestimmte Proben beeinflussen können, indem sie zusätzliche Würfelergebnisse einbeziehen. Sie spiegeln vorteilhafte oder nachteilige Umstände wider, die das Schicksal deines Charakters beeinflussen._  
   
 **Nutzung:**  
@@ -632,12 +626,11 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 - Generell gilt: Bonus/Malus ist stapelbar (mehrere Bonus/Malus werden addiert) außer es ist explizit ausgeschlossen.  
   
 ##### **7.10 Glücksproben**  
-  
 > _**Glücksproben** kommen dann zum Einsatz, wenn weder die Fähigkeiten eines Charakters noch das Wissen des Spielleiters eine klare Antwort liefern. Wenn eine Entscheidung dem Zufall überlassen werden soll, entscheidet das Schicksal – in Form eines einfachen Wurfs._  
   
 **Nutzung:**  
 - Der Spielleiter oder die Gruppe entscheidet, ob eine Glücksprobe angemessen ist.  
-- Es wird ein W20 geworfen:  
+- Es wird eine reine Probe (kein Bonus/Malus/Inspiration) geworfen:  
     - **11 oder höher**: Das Glück war dem Charakter hold.  
     - **10 oder niedriger**: Das Schicksal hatte andere Pläne.  
 **Anwendung:**  
@@ -645,7 +638,6 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 - Sie sind normalerweise unabhängig von den Werten oder Fähigkeiten des Charakters und spiegeln reine Zufälligkeit wider.  
   
 ##### **7.11 Zustände**  
-  
 > _**Zustände** beschreiben anhaltende Effekte, die eine Kreatur im Laufe eines Abenteuers beeinflussen können. Sie wirken sich direkt auf Proben aus – entweder positiv oder negativ – und können durch Magie, Rast oder Zeit überwunden werden._  
   
 **Grundprinzipien:**  
@@ -657,46 +649,34 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 **Positive Zustände (Beispiele)**  
 - **Gestärkt:** Du fühlst dich kräftiger und energischer.  
 - **Fokussiert:** Dein Geist ist geschärft, du bist voll konzentriert.  
-- **Belebt:** Deine Seele ist aufgeladen mit Lebensfreude oder Magie.  
-- **Geschärft:** Deine Sinne sind besonders aufmerksam und präzise.  
-- **Entschlossen:** Du bist geistig und emotional gefestigt.  
-- **Inspiriert:** Eine Idee oder ein Ereignis motiviert dich spürbar.  
-- **Magisch erfüllt:** Deine arkane Kraft ist über das Normalmaß hinaus verstärkt.  
-- **Schwebend:** Du bewegst dich mühelos, fast schwerelos.  
+- **Leichtfüßig:** Du bewegst dich mühelos, fast schwerelos.  
   
 > _Positive Zustände enden meist nach kurzer Zeit oder nach der nächsten Aktion, können aber auch gezielt durch Magie oder besondere Umstände gewährt werden._  
   
 **Negative Zustände (Beispiele)**  
 - **Vergiftet:** Dein Körper ist geschwächt durch eine toxische Substanz.  
-- **Erschöpft:** Du hast deine körperlichen oder geistigen Reserven überzogen.  
 - **Verängstigt:** Du bist gehemmt oder eingeschüchtert.  
 - **Geblendet:** Deine Sicht ist stark beeinträchtigt.  
 - **Verwirrt:** Deine Gedanken sind unklar oder instabil.  
-- **Blutend:** Du verlierst kontinuierlich Gesundheit.  
 - **Gebunden:** Deine Bewegungsfreiheit ist eingeschränkt.  
 - **Geschwächt:** Deine Kraft oder Widerstandsfähigkeit ist reduziert.  
   
-> _Negative Zustände vergehen unterschiedlich schnell:_  
-> - Manche verschwinden **automatisch nach einigen Runden oder Minuten**.  
-> - Andere erfordern **aktive Hilfe, Magie oder ein Heilmittel**.  
-> - **Erschöpfung** bleibt bestehen, bis du eine **lange Rast** abgeschlossen hast – dabei wird jeweils nur **ein Stapel** entfernt.  
-> - Wenn eine Kreatur 3 mal den gleichen negativen Zustand hat, ist diese Kampfunfähig. Der SL entscheidet was genau passiert.    
+- **Erschöpft:** Du hast deine körperlichen oder geistigen Reserven überstrapaziert.  
   
+> _Negative Zustände vergehen unterschiedlich schnell. Manche verschwinden **automatisch nach einigen Runden oder Minuten** wogegen andere **aktive Hilfe, Magie oder ein Heilmittel** erfordern.  
+> **Erschöpfung** kann ausschließlich durch eine **lange Rast** gelindert werden. Sie steht sinnbildlich für körperliche, geistige und magische Überlastung – etwas, das nur durch Zeit und Ruhe geheilt werden kann. Pro langer Rast kann eine Erschöpfung gelindert werden. Erreicht eine Kreatur jedoch den fünften Punkt an Erschöpfung, erliegt sie der völligen Erschöpfung und stirbt sofort.  
   
 #### **7.12 Rast**  
-  
 > _**Rasten** erlaubt es deinem Charakter, sich von den Strapazen des Abenteurerlebens zu erholen. Sie stellt Ressourcen wieder her und markiert erzählerisch den Übergang zwischen intensiven Ereignissen._  
   
-**Arten von Rasten:**  
-- **Kurze Rast:**    
-    Eine Ruhephase von mindestens 24 Stunden ohne Kampf, Stress oder anstrengendes Reisen – z. B. ein Tag in einem sicheren Lager oder einer friedlichen Stadt.  
-    - Stelle **1 + Level Gesundheit, Manapunkte, Ausdauerpunkte und Inspirationspunkte** wieder her.  
-  
-- **Lange Rast:**    
-    Eine vollständige Erholung über mindestens eine Woche hinweg in einer sicheren Umgebung mit Nahrung, Schlafplatz und Wärme – z. B. in einem Gasthaus oder Zuhause.  
-    - Stelle **alle Gesundheit, Manapunkte, Ausdauerpunkte und Inspirationspunkte** wieder her.  
-    - Entfernt **1 Zustand „Erschöpfung“**.  
-    - Entfernt einige negative Effekte, wenn vom Spielleiter erlaubt.  
+**Kurze Rast:**    
+- Eine Ruhephase von mindestens 24 Stunden ohne Kampf, Stress oder anstrengendes Reisen – z. B. ein Tag in einem sicheren Lager oder einer friedlichen Stadt.  
+- Stelle **1 + Level Gesundheit, Manapunkte, Ausdauerpunkte und Inspirationspunkte** wieder her. Heilt einen negativen Zustand (außer Erschöpfung).  
+**Lange Rast:**    
+- Eine vollständige Erholung über mindestens eine Woche hinweg in einer sicheren Umgebung mit Nahrung, Schlafplatz und Wärme – z. B. in einem Gasthaus oder Zuhause.  
+- Stelle **alle Gesundheit, Manapunkte, Ausdauerpunkte und Inspirationspunkte** wieder her.  
+- Entfernt **1 Zustand „Erschöpfung“**.  
+- Entfernt einige negative Effekte, wenn vom Spielleiter erlaubt.  
   
 **Anwendung:**  
 - Rasten fördert das Verwalten von Ressourcen und gibt Raum für Charakterentwicklung, Gespräche und Handlungen abseits des Kampfes.  
