@@ -5,7 +5,7 @@
   
 - **Klassekategorie:** Zauberklasse  
 - **Klassenfähigkeit:** Elixirbrauer  
-	- Du kannst 1x täglich bis zu (Level + 1) Zauber in Trankform vorbereiten, welche sich bis zu 24 Stunden halten. Diese können überladen sein und auch von anderen verwendet werden. Es muss niedergeschrieben werden, was die Tränke bewirken und beim Einsatz entscheidet eine Arkanaprobe wie potent das Mittel ist.  
+	- Du kannst täglich bis zu (Level + 1) Zauber in Trankform vorbereiten, welche sich bis zu 24 Stunden halten. Diese können überladen sein und auch von anderen verwendet werden. Es muss niedergeschrieben werden, was die Tränke bewirken und beim Einsatz entscheidet eine Arkanaprobe wie potent das Mittel ist.  
   
 ---  
   
@@ -26,7 +26,7 @@
 #### **1. Level:**  
   
 - **Zutatenmeister**: Du kannst so gut wie überall die richtigen Zutaten für deine Tränke finden. Du erhältst ebenfalls detailliertes Wissen über Chemie, Alchemie und magische Pflanzen und Materialen und kannst mögliche alchemistische Essenzen extrahieren.  
-- **Experimentierfreudig**: Du kannst einmal täglich ein experimentelles Elixier herstellen, dessen Wirkung unberechenbar, aber potenziell mächtig ist. (W20-Probe)  
+- **Experimentierfreudig**: Du kannst einmal täglich ein experimentelles Elixier herstellen, dessen Wirkung unberechenbar, aber potenziell mächtig ist. Bei Einnahme kann der Spielleiter eine Chaostabelle konsultieren, die unvorhergesehene magische Effekte auslösen kann.  
   
 #### **2. Level:**  
   
