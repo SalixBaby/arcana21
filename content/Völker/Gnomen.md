@@ -20,7 +20,7 @@ Gnomen sind bekannt für ihre Begeisterung für Tüfteleien, Geschichten und Mag
   
 **Volkseigenschaften**:  
 - Dunkelsicht - Gnome haben ein feines Gespür für Schatten und Konturen. Selbst in fast völliger Finsternis können sie sich noch erstaunlich gut zurechtfinden.  
-- Hartnäckig - Ihr unbeugsamer Geist macht sie widerstandsfähig gegen Beeinflussung. Gnome lassen sich nur schwer von mentalen Zaubern aus der Fassung bringen.  
+- Hartnäckig - Ihr unbeugsamer Geist macht sie widerstandsfähig gegen Beeinflussung. Mentale Zauber haben einen Malus auf Wirkung gegen sie.  
   
 **Volksfähigkeiten**:  
-- Scharfsinn – _40AP_: - Einmal pro Tag können Gnome innehalten, die Lage genau studieren und ihre Schlüsse ziehen. Bei einer gelungenen Probe erkennen sie zusätzliche Details, Zusammenhänge oder verborgene Aspekte, die anderen verborgen bleiben würden.
+- Scharfsinn – _40AP_: - Einmal pro Tag können Gnome innehalten, die Lage genau studieren und ihre Schlüsse ziehen. Bei einer gelungenen Geist-Probe erkennen sie zusätzliche Details, Zusammenhänge oder verborgene Aspekte, die anderen verborgen bleiben würden.
