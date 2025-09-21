@@ -30,7 +30,7 @@
   
 ### **2. Level:**  
   
-- **Rücksichtslos**: Du kannst für 1 AP mit voller Wucht angreifen und für diesen Zug einen Bonus auf deine Angriffsproben erhalten. Bis zu deiner nächsten Runde erhalten allerdings Gegner ebenfalls einen Bonus auf Angriffe gegen dich.  
+- **Rücksichtslos**: Du kannst für 1 AP mit voller Wucht angreifen und für diesen Zug einen Bonus auf deine Angriffsproben im Nahkampf erhalten. Bis zu deinem nächsten Zug erhalten allerdings Gegner ebenfalls einen Bonus auf Angriffe gegen dich.  
 - **Gebrüll:** Du kannst einmal pro Kampf ein mächtiges Kriegsgebrüll ausstoßen, das Gegner in Reichweite (Level x 5m) mit Furcht belegt (Malus auf alle Proben für 1 Runde).  
   
 ### **3. Level:**  

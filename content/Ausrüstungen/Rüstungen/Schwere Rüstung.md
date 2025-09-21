@@ -9,4 +9,4 @@
 - **Wartung**: Muss mit [[../Ausrüstungssets/Schmiede Set|Schmiede Set]] oder von professionellem Schmied min. alle 5 Tage gewartet oder repariert werden. Dauert 2 Stunden.  
   
 - **Nachteil**: Verringert die [[../../Attribute/Körper/Geschwindigkeit|Geschwindigkeit]] um 3 und Fliegen nicht möglich.  
-- **Anforderung**: Minimum Stärke von 2.
+- **Anforderung**: Minimum Stärke von 3.

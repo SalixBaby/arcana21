@@ -9,4 +9,4 @@
 - **Reparatur**: Kann mit [[../Ausrüstungssets/Lederhandwerks Set|Lederhandwerks Set]]  oder vom professionellem Lederer repariert werden. Dauert 1 Stunde.  
   
 - **Nachteil**: Verringert die [[../../Attribute/Körper/Geschwindigkeit|Geschwindigkeit]] um 1.  
-- **Anforderung**: Minimum Stärke von 0.
+- **Anforderung**: Keine.

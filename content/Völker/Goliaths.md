@@ -19,7 +19,7 @@ Das Leben der Goliaths ist geprägt von Stärke, Ausdauer und Wettbewerb. Ihre G
 - Fliegen: -  
   
 **Volkseigenschaften:**  
-- Steinhaut – Goliaths besitzen von Natur aus eine außergewöhnlich widerstandsfähige Haut und Knochenstruktur, die sie teilweise vor physischen Schäden schützt.  
+- Steinhaut – Goliaths besitzen von Natur aus eine außergewöhnlich widerstandsfähige Haut und Knochenstruktur, die sie pro Tag einmal vor einem physischen Schäden schützt.  
 - Wettkampfinstinkt – Sie suchen stets die Herausforderung. Goliaths sind schwer zu entmutigen und blühen besonders auf, wenn sie sich mit ebenbürtigen Gegnern messen können.  
   
 **Volksfähigkeiten:**  

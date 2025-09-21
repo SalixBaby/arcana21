@@ -32,7 +32,7 @@ _Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und d
 #### **3. Level:**  
   
 - **Vergiftete Klinge**: Du kannst für 1 AP (Level x) pro Tag eine Waffe mit Gift bestreichen, das einmal zusätzlich +1 Giftschaden verursacht.  
-- **Kampf oder Flucht**: Wenn du Schaden erleidest, kannst du für 1 AP direkt einen Gegenangriff ausführen oder deine Bewegungsrate laufen ohne einen Gelegenheitsangriff zu provozieren.  
+- **Kampf oder Flucht**: Wenn du Schaden erleidest, kannst du, falls möglich, für 1 AP direkt einen Gegenangriff ausführen oder deine Bewegungsrate nutzen ohne einen Gelegenheitsangriff zu provozieren.  
   
 #### **4. Level:**  
   
