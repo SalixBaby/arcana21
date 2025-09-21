@@ -1,10 +1,5 @@
 @use "sass:map";
 
-$mobileBreakpoint: 600px;
-$tabletBreakpoint: 1000px;
-$sidePanelWidth: 380px;
-$fullPageWidth: $pageWidth + 2 * $sidePanelWidth;
-
 $breakpoints: (
   mobile: 800px,
   desktop: 1200px,
@@ -20,3 +15,8 @@ $topSpacing: 6rem;
 $boldWeight: 700;
 $semiBoldWeight: 600;
 $normalWeight: 400;
+
+$mobileBreakpoint: 600px;
+$tabletBreakpoint: 1000px;
+$sidePanelWidth: 380px;
+$fullPageWidth: $pageWidth + 2 * $sidePanelWidth;
