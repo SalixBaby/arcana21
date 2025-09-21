@@ -19,7 +19,7 @@ Halblinge sind ein lebensfrohes, geselliges Volk, das Wert auf Gemeinschaft, gut
 - Fliegen: -  
   
 **Volkseigenschaften**:  
-- Unerschütterlicher Mut - Halblinge lassen sich weder durch Zauber noch durch gewöhnliche Einschüchterungen erschrecken. Ihr Herz bleibt standhaft, wo andere erzittern würden.  
+- Unerschütterlicher Mut - Halblinge lassen sich weder durch Zauber noch durch gewöhnliche Einschüchterungen mit Furcht belegen. Ihr Herz bleibt standhaft, wo andere erzittern würden.  
 - Schlüpfrig - Dank ihrer geringen Statur schlüpfen Halblinge selbst durch enge Lücken und können mühelos zwischen den Beinen größerer Gegner hindurchflitzen.  
   
 **Volksfähigkeiten**:  
