@@ -13,7 +13,7 @@ Elfen leben in tiefer Verbindung zur Natur, der Magie und dem Fluss der Zeit. Si
 - Erwachsen: 50 Jahre  
   
 **Bewegungsrate**:  
-- Laufen: 6 Felder  
+- Laufen: 5 Felder  
 - Schwimmen: 2 Felder  
 - Springen: 3 Felder  
 - Fliegen: -  
