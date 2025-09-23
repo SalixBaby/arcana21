@@ -558,7 +558,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 - **Berechnung:** Die Anzahl der Inspirationspunkte eines Charakters wird durch das Kernattribut _Seele_ bestimmt. Ein Held mit höherem Seele-Wert hat also mehr Inspiration und kann häufiger seine Kameraden Vorteil verschaffen, was ihn zu einem wichtigen Gefährten sowohl im Kampf als auch außerhalb macht.  
   
 ##### **7.4 Manapunkte**  
-> _**Manapunkte** in Arcana21 repräsentieren die magische Energie eines Helden, die durch sein tieferes Verständnis der arkanen Kräfte gespeist wird. Diese Punkte basieren auf dem Geist-Wert, insbesondere der Eigenschaft Arkana, und ermöglichen es dem Helden, Zauber zu wirken, Rituale zu vollziehen und seine magischen Fähigkeiten zu entfesseln. Manapunkte sind die Essenz, die Magie am Leben hält, und ihr Einsatz entscheidet über die Kraft und Häufigkeit der magischen Handlungen.  
+> ***Manapunkte** in Arcana21 repräsentieren die magische Energie eines Helden, die durch sein tieferes Verständnis der arkanen Kräfte gespeist wird. Diese Punkte basieren auf dem Geist-Wert, insbesondere der Eigenschaft Arkana, und ermöglichen es dem Helden, Zauber zu wirken, Rituale zu vollziehen und seine magischen Fähigkeiten zu entfesseln. Manapunkte sind die Essenz, die Magie am Leben hält, und ihr Einsatz entscheidet über die Kraft und Häufigkeit der magischen Handlungen.*  
   
 - **Nutzung:** Manapunkte werden verwendet, um starke Zauber zu wirken oder magische Effekte zu verstärken. Jeder Zauber benötigt eine bestimmte Anzahl an Manapunkten, abhängig von seiner Stärke oder Komplexität. Helden können Manapunkte auch nutzen, um ihre Zauber zu „verstärken“, wodurch sie noch mächtiger werden. Es können immer nur eine bestimmte Anzahl an Manapunkten gleichzeitig verwendet werden: Diese berechnet sich, solange durch keine spezielle Fähigkeit verändert, mit dem Level des Helden. *(z.B. ein Held auf Level 2 kann einen Zauber mit maximal 2 Mana überladen)*  
   Es ist nur Zauberklassen möglich Manapunkte zu nutzen.  
@@ -620,6 +620,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 **Nutzung:**  
 - **Bonus:** Ein Vorteil, der eine Aktion erleichtert. Du erhältst einen Bonus von +3 auf deine Probe.  
 - **Malus:** Ein Nachteil, der eine Aktion erschwert. Du erhältst einen Malus von -3 auf deine Probe.  
+  
 **Anwendung:**  
 - Ein Bonus kann durch unterstützende Umstände, meisterhaftes Training oder äußere Hilfe gewährt werden.  
 - Ein Malus tritt ein, wenn widrige Bedingungen, Ablenkungen oder körperliche/magische Beeinträchtigungen vorliegen.  
@@ -633,6 +634,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 - Es wird eine reine Probe (kein Bonus/Malus/Inspiration) geworfen:  
     - **11 oder höher**: Das Glück war dem Charakter hold.  
     - **10 oder niedriger**: Das Schicksal hatte andere Pläne.  
+  
 **Anwendung:**  
 - Glücksproben eignen sich für spontane Entscheidungen, Zufallsergebnisse oder unvorhersehbare Umstände – z. B. ob jemand zufällig am richtigen Ort ist, ob ein vergessener Schlüssel noch im Schloss steckt oder ob der Boden unter einem alten Brett nachgibt.  
 - Sie sind normalerweise unabhängig von den Werten oder Fähigkeiten des Charakters und spiegeln reine Zufälligkeit wider.  
