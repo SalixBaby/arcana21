@@ -665,8 +665,8 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
   
 - **Erschöpft:** Du hast deine körperlichen oder geistigen Reserven überstrapaziert.  
   
-> _Negative Zustände vergehen unterschiedlich schnell. Manche verschwinden **automatisch nach einigen Runden oder Minuten** wogegen andere **aktive Hilfe, Magie oder ein Heilmittel** erfordern.  
-> **Erschöpfung** kann ausschließlich durch eine **lange Rast** gelindert werden. Sie steht sinnbildlich für körperliche, geistige und magische Überlastung – etwas, das nur durch Zeit und Ruhe geheilt werden kann. Pro langer Rast kann eine Erschöpfung gelindert werden. Erreicht eine Kreatur jedoch den fünften Punkt an Erschöpfung, erliegt sie der völligen Erschöpfung und stirbt sofort.  
+> _Negative Zustände vergehen unterschiedlich schnell. Manche verschwinden **automatisch nach einigen Runden oder Minuten** wogegen andere **aktive Hilfe, Magie oder ein Heilmittel** erfordern._  
+> _**Erschöpfung** kann ausschließlich durch eine **lange Rast** gelindert werden. Sie steht sinnbildlich für körperliche, geistige und magische Überlastung – etwas, das nur durch Zeit und Ruhe geheilt werden kann. Pro langer Rast kann eine Erschöpfung gelindert werden. Erreicht eine Kreatur jedoch den fünften Punkt an Erschöpfung, erliegt sie der völligen Erschöpfung und stirbt sofort._  
   
 #### **7.12 Rast**  
 > _**Rasten** erlaubt es deinem Charakter, sich von den Strapazen des Abenteurerlebens zu erholen. Sie stellt Ressourcen wieder her und markiert erzählerisch den Übergang zwischen intensiven Ereignissen._  
