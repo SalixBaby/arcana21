@@ -552,3 +552,8 @@ iframe.pdf {
   width: 100%;
   border-radius: 5px;
 }
+.lock-scroll {
+  overflow-x: hidden;
+  width: 100%;
+  max-width: 100%;
+}
