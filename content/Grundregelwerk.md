@@ -101,7 +101,7 @@ Diese [[./Attribute/-Attribute-|Attribute]] bestimmen, wie gut dein Charakter in
   
   
 ##### **2.6 Setze deine Talentpunkte ein**    
-Danach setzt du deine Talentpunkte auf die Unterattribute der Kernattribute, um deine Fähigkeiten weiter zu spezialisieren. Du hast dabei so viele Talentpunkte wie dein Level + 2. Diese Punkte steigern den Wert des jeweiligen Attributs und verbessern deine Chancen bei entsprechenden Proben. Bist du in einem Unterattribut talentiert erhältst du einen Bonus von + (Level) auf alle Unterattributs-Proben. Es nicht nicht möglich mehrere Talentpunkte auf das selbe Unterattribut zu setzen.  
+Danach setzt du deine Talentpunkte auf die Unterattribute der Kernattribute, um deine Fähigkeiten weiter zu spezialisieren. Du hast dabei so viele Talentpunkte wie dein Level + 2. Diese Punkte steigern den Wert des jeweiligen Attributs und verbessern deine Chancen bei entsprechenden Proben. Bist du in einem Unterattribut talentiert erhältst du einen Bonus von + (Level) auf alle Unterattributs-Proben. Es nicht nicht möglich, mehrere Talentpunkte auf das selbe Unterattribut zu setzen.  
   
 [[./Attribute/-Attribute-|Attributsübersicht]]  
   
@@ -121,7 +121,7 @@ Jeder Held beherrscht von Beginn an die Sprache seines Volkes sowie die Gemeinsp
 ##### **2.8 Bestimme alle passiven Werte**    
 Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkte, Ausweichen, Bewegungsrate und Willensstärke, basierend auf den Attributen und deinem Level. Diese Werte beeinflussen deine Leistung im Spiel und deine Widerstandsfähigkeit. Sollte einer der passiven Werte auf unter 0 fallen wird dies auf 0 aufgerundet.  
   
-(Nicht vergessen, dass Helden aufgrund ihrer Klasse /Variation oder Fähigkeiten ebenfalls zusätzliche Attribute erhalten.)  
+(Nicht vergessen: Helden können aufgrund ihrer Klasse, Variation oder Fähigkeiten ebenfalls zusätzliche Attribute erhalten.)  
   
 - [[./Attribute/Passiv/Gesundheit|Gesundheit]]: 3 + [[./Attribute/Körper/Konstitution|Konstitution]] + (Level x 2)  
 - [[Grundregelwerk#77-manapunkte|Manapunkte]]: [[./Attribute/Geist/-Geist-|Geist]] + (Level x 2) (Nur für Zauberklassen)  
@@ -208,7 +208,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Verstehen der Fähigkeiten:** Spieler sollten die Fähigkeiten und Werte ihres Charakters kennen, um sie effektiv im Spiel einsetzen zu können.  
 - **Zusammenarbeit:** Spieler arbeiten als Gruppe zusammen, um Herausforderungen zu meistern und das Abenteuer voranzutreiben.  
 - **Notizen:** Spieler sollten wichtige Ereignisse, NPCs und Orte notieren, um den Überblick über die Handlung zu behalten und langfristige Verbindungen zur Spielwelt herzustellen.  
-- **Rollenspiel:** Spieler bringen ihren Charakter durch Entscheidungen, Dialoge und Aktionen zum Leben.  
+- **Rollenspiel:** Spieler lassen ihren Charakter durch Entscheidungen, Dialoge und Aktionen lebendig werden.  
   
 ---  
   
@@ -262,7 +262,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Freie Aktion**: - _0AP_. Manche Aktionen sind so klein, dass der SL dies als freie Aktion durchgehen lässt.  
 - **Sprechen**: - _0AP_. Ein Spieler darf in einem gewissen Maße in seinem Zug sprechen. Hier gilt als Faustregel: ein Atemzug.  
   
-- **Kreative Aktion**: - In **Arcana21** geht es um Kreativität. Du hast eine Idee für eine coole Aktion? Frage den SL ob dieser Diese zulässt.  
+- **Kreative Aktion**: - In **Arcana21** geht es um Kreativität. Du hast eine Idee für eine coole Aktion? Frage den SL ob dieser sie zulässt.  
   
 **4.1.6 Mögliche Reaktionen**  
 - **Gelegenheitsangriff:** *1AP.* Greife einen Gegner an, der deinen Nahkampfradius verlässt. *(Angriffsprobe | Nur wenn Nahkampfwaffe gezogen)*  
@@ -328,7 +328,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Reichweite**: Waffe kann Gegner in Distanz treffen.  
 - **Schwer**: Waffe muss mit zwei Händen getragen werden.  
 - **Unauffällig**: Kann am Körper versteckt werden.  
-- **Wurffähig:** Kann geworfen und zurückgeholt werden.  
+- **Wurffähig:** Kann geworfen und danach wieder aufgenommen werden.  
   
 **4.3.3 Waffenfähigkeiten**  
 - **Aufschlitzen:** Zusätzlicher Schaden gegen Gegner.  
@@ -359,7 +359,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
         - **Verteidiger gewinnt:** Der Zauber verpufft und hat keine Wirkung.  
         - **Angreifer gewinnt:** Der Zauber wird wie gewohnt ausgeführt.  
         - **Gleichstand:** Der Verteidiger gewinnt das Duell.  
-- Ein Zauberduell kostet den Verteidiger mindestens **2 AP**, da es sich um einen **Überladen Zauber** handeln muss..  
+- Ein Zauberduell kostet den Verteidiger mindestens **2 AP**, da es sich um einen **Überladen Zauber** handeln muss.  
   
 ---  
   
@@ -372,7 +372,7 @@ Zauberausrichtungen bestimmen die Art und Weise, wie Magie im Spiel eingesetzt w
 **Elementar**  
 1. **Erde** – Kontrolle über den Boden und Gravitation.  
 2. **Feuer** – Manipulation von Flammen und Hitze.  
-3. **Luft** – Kontrolle über Wind und dem Fliegen.  
+3. **Luft** – Kontrolle über Wind und das Fliegen.  
 4. **Wasser** – Beherrschung von Flüssigkeiten und Eis.  
 **Geist**  
 5. **Kommunikation** – Verbindung und Austausch zwischen Wesen.  
@@ -561,7 +561,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 > ***Manapunkte** in Arcana21 repräsentieren die magische Energie eines Helden, die durch sein tieferes Verständnis der arkanen Kräfte gespeist wird. Diese Punkte basieren auf dem Geist-Wert, insbesondere der Eigenschaft Arkana, und ermöglichen es dem Helden, Zauber zu wirken, Rituale zu vollziehen und seine magischen Fähigkeiten zu entfesseln. Manapunkte sind die Essenz, die Magie am Leben hält, und ihr Einsatz entscheidet über die Kraft und Häufigkeit der magischen Handlungen.*  
   
 - **Nutzung:** Manapunkte werden verwendet, um starke Zauber zu wirken oder magische Effekte zu verstärken. Jeder Zauber benötigt eine bestimmte Anzahl an Manapunkten, abhängig von seiner Stärke oder Komplexität. Helden können Manapunkte auch nutzen, um ihre Zauber zu „verstärken“, wodurch sie noch mächtiger werden. Es können immer nur eine bestimmte Anzahl an Manapunkten gleichzeitig verwendet werden: Diese berechnet sich, solange durch keine spezielle Fähigkeit verändert, mit dem Level des Helden. *(z.B. ein Held auf Level 2 kann einen Zauber mit maximal 2 Mana überladen)*  
-  Es ist nur Zauberklassen möglich Manapunkte zu nutzen.  
+  Nur Zauberklassen können Manapunkte nutzen.  
 - **Regeneration:** Manapunkte regenerieren sich durch Ruhe und Meditation. Nach einer kurzen Rast stellt der Held einen Teil seiner Manapunkte wieder her (im Normalfall 1 + Level), während eine lange Rast die vollständige Regeneration ermöglicht. Einige Klassen oder Fähigkeiten erlauben auch eine beschleunigte oder zusätzliche Regeneration von Manapunkten.  
 - **Berechnung:** Die Anzahl der Manapunkte eines Charakters wird durch das Attribut _Arkana_ und das Level des Helden bestimmt:  
     - **Manapunkte = Arkana-Wert + (Level x 2)**  
@@ -674,6 +674,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 **Kurze Rast:**    
 - Eine Ruhephase von mindestens 24 Stunden ohne Kampf, Stress oder anstrengendes Reisen – z. B. ein Tag in einem sicheren Lager oder einer friedlichen Stadt.  
 - Stelle **1 + Level Gesundheit, Manapunkte, Ausdauerpunkte und Inspirationspunkte** wieder her. Heilt einen negativen Zustand (außer Erschöpfung).  
+  
 **Lange Rast:**    
 - Eine vollständige Erholung über mindestens eine Woche hinweg in einer sicheren Umgebung mit Nahrung, Schlafplatz und Wärme – z. B. in einem Gasthaus oder Zuhause.  
 - Stelle **alle Gesundheit, Manapunkte, Ausdauerpunkte und Inspirationspunkte** wieder her.  
