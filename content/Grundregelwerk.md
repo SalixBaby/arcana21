@@ -119,7 +119,7 @@ Jeder Held beherrscht von Beginn an die Sprache seines Volkes sowie die Gemeinsp
   
   
 ##### **2.8 Bestimme alle passiven Werte**    
-Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkte, Ausweichen, Bewegungsrate und Willensstärke, basierend auf den Attributen und deinem Level. Diese Werte beeinflussen deine Leistung im Spiel und deine Widerstandsfähigkeit. Sollte einer der passiven Werte auf unter 0 fallen, wird er auf 0 aufgerundet..  
+Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkte, Ausweichen, Bewegungsrate und Willensstärke, basierend auf den Attributen und deinem Level. Diese Werte beeinflussen deine Leistung im Spiel und deine Widerstandsfähigkeit. Sollte einer der passiven Werte auf unter 0 fallen, wird er auf 0 aufgerundet.  
   
 (Nicht vergessen: Helden können aufgrund ihrer Klasse, Variation oder Fähigkeiten ebenfalls zusätzliche Attribute erhalten.)  
   
