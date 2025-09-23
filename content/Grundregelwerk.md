@@ -66,7 +66,7 @@ Sobald du eine grobe Idee hast, suchst du die passende Klasse aus den 21 verfüg
 >*Du entscheidest dich für die Klasse **Jäger**, eine Kampfklasse, die sich auf Präzision und Geschicklichkeit spezialisiert.*  
   
 ##### **2.3 Wähle ein Volk**    
-Das Volk deines Charakters beschreibt seine Kultur. Dein Volk verleiht dir dein grobes Aussehen, Kultur und einige Fähigkeiten. Wähle ein Volk, dass sich für dich am interessantesten anhört.  
+Das Volk deines Charakters beschreibt seine Kultur. Dein Volk verleiht dir dein grobes Aussehen, Kultur und einige Fähigkeiten. Wähle ein Volk, das sich für dich am interessantesten anhört.  
   
 [[./Völker/-Völker-|Völkerübersicht]]  
   
@@ -101,7 +101,7 @@ Diese [[./Attribute/-Attribute-|Attribute]] bestimmen, wie gut dein Charakter in
   
   
 ##### **2.6 Setze deine Talentpunkte ein**    
-Danach setzt du deine Talentpunkte auf die Unterattribute der Kernattribute, um deine Fähigkeiten weiter zu spezialisieren. Du hast dabei so viele Talentpunkte wie dein Level + 2. Diese Punkte steigern den Wert des jeweiligen Attributs und verbessern deine Chancen bei entsprechenden Proben. Bist du in einem Unterattribut talentiert erhältst du einen Bonus von + (Level) auf alle Unterattributs-Proben. Es nicht nicht möglich, mehrere Talentpunkte auf das selbe Unterattribut zu setzen.  
+Danach setzt du deine Talentpunkte auf die Unterattribute der Kernattribute, um deine Fähigkeiten weiter zu spezialisieren. Du hast dabei so viele Talentpunkte wie dein Level + 2. Diese Punkte steigern den Wert des jeweiligen Attributs und verbessern deine Chancen bei entsprechenden Proben. Bist du in einem Unterattribut talentiert erhältst du einen Bonus von + (Level) auf alle Unterattributs-Proben. Es ist nicht möglich, mehrere Talentpunkte auf das selbe Unterattribut zu setzen.  
   
 [[./Attribute/-Attribute-|Attributsübersicht]]  
   
@@ -119,7 +119,7 @@ Jeder Held beherrscht von Beginn an die Sprache seines Volkes sowie die Gemeinsp
   
   
 ##### **2.8 Bestimme alle passiven Werte**    
-Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkte, Ausweichen, Bewegungsrate und Willensstärke, basierend auf den Attributen und deinem Level. Diese Werte beeinflussen deine Leistung im Spiel und deine Widerstandsfähigkeit. Sollte einer der passiven Werte auf unter 0 fallen wird dies auf 0 aufgerundet.  
+Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkte, Ausweichen, Bewegungsrate und Willensstärke, basierend auf den Attributen und deinem Level. Diese Werte beeinflussen deine Leistung im Spiel und deine Widerstandsfähigkeit. Sollte einer der passiven Werte auf unter 0 fallen, wird er auf 0 aufgerundet..  
   
 (Nicht vergessen: Helden können aufgrund ihrer Klasse, Variation oder Fähigkeiten ebenfalls zusätzliche Attribute erhalten.)  
   
@@ -236,7 +236,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 **4.1.4 Reaktionen**  
 - Figuren können Aktionspunkte nutzen, um auf Aktionen anderer Figuren mit einer **Reaktion** zu antworten.  
 - Jede Reaktion kostet entsprechend ihrer Kosten AP und wird während der Runde des Gegners (nach der Auslöser-Aktion) ausgeführt.  
-- Es ist nicht möglich Aktionspunkte aufzusparen oder verspätet zu nutzen. Wenn man Reaktionen nutzt, nutzt man immer die AP seines nächstens Zuges.  
+- Es ist nicht möglich, Aktionspunkte aufzusparen oder verspätet zu nutzen. Wenn man Reaktionen nutzt, nutzt man immer die AP seines nächstens Zuges.  
 - Genutzte Aktionspunkte für Reaktionen fehlen in der nächsten eigenen Runde.  
     - Beispiel: Nutzt eine Figur 2 AP für Reaktionen, hat sie in ihrem nächsten Zug nur noch 2 AP.  
   
@@ -547,7 +547,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 > ***Ausdauerpunkte** in Arcana21 repräsentieren die physische Reserven eines Helden, die er in intensiven Momenten des Kampfes oder bei anderen anstrengenden Aktionen anzapfen kann. Diese Punkte erlauben es dem Helden, kurzfristig seine Leistung zu steigern, indem er zusätzliche Aktionen in einem Zug durchführt. Ausdauerpunkte werden verbraucht, um zum Beispiel eine weitere Bewegung oder einen zusätzlichen Angriff auszuführen, und können durch kritische Treffer oder andere besondere Umstände wieder aufgefrischt werden. Der Grundwert der Ausdauerpunkte hängt vom Attribut Körper ab, wodurch physisch starke Helden mehr Ausdauer besitzen.*  
   
 - **Nutzung:** Ausdauerpunkte können eingesetzt werden, um in einer Runde einen zusätzlichen AP zu erhalten. Dies könnte der entscheidende Angriff oder eine taktische Bewegung sein, die den Unterschied zwischen Sieg und Niederlage ausmacht. Es kann normalerweise nur ein Ausdauerpunkt pro Runde verbraucht werden.  
-- **Regeneration:** Ausdauerpunkte werden durch bestimmte Aktionen, wie kritische Treffer (im Kampf) oder spezielle Fähigkeiten, wiederhergestellt. Dadurch können Helden in entscheidenden Momenten zurückschlagen oder sich verteidigen. Nur Kampfklassen können ohne eine rast Ausdauerpunkte wiederherstellen.  
+- **Regeneration:** Ausdauerpunkte werden durch bestimmte Aktionen, wie kritische Treffer (im Kampf) oder spezielle Fähigkeiten, wiederhergestellt. Dadurch können Helden in entscheidenden Momenten zurückschlagen oder sich verteidigen. Nur Kampfklassen können ohne eine Rast Ausdauerpunkte wiederherstellen.  
 - **Berechnung:** Die Anzahl der Ausdauerpunkte eines Charakters wird durch das Kernattribut _Körper_ bestimmt. Ein Held mit höherem Körper-Wert hat also mehr Ausdauer und kann häufiger zusätzliche Aktionen ausführen, was seine Flexibilität im Kampf erhöht.  
   
 ##### **7.3 Inspirationspunkte**  
