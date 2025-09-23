@@ -254,7 +254,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       overflow: hidden;
       padding: $topSpacing 2rem 2rem;
       height: 100dvh;
-      max-height: 100dvh;
+      max-height: 400dvh;
       margin-top: 0;
       visibility: hidden;
 
