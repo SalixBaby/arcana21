@@ -156,7 +156,6 @@ button#desktop-explorer {
   }
 
   > #explorer-ul {
-    max-height: none;
   }
 }
 
@@ -263,7 +262,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
       }
 
       ul.overflow {
-        max-height: 100%;
+        max-height: none;
         width: 100%;
       }
 
