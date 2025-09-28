@@ -68,6 +68,16 @@ export default {
       `${minutes} ${timeLabel} Abenteuer im Archiv der Helden`,
       `Schon ${minutes} ${timeLabel} ergründest du die Geheimnisse dieser Seite`,
       `Seit ${minutes} ${timeLabel} liest du im Kodex der Sagen`,
+      `Schon ${minutes} ${timeLabel} unter dem Fluch der Runen gefangen`,
+      `Seit ${minutes} ${timeLabel} kämpfst du gegen die Tücken dieser Seite`,
+      `${minutes} ${timeLabel} im Bann der magischen Schriftrollen`,
+      `Bereits ${minutes} ${timeLabel} versuchst du, die Geheimnisse der alten Chroniken zu lüften`,
+      `Schon ${minutes} ${timeLabel} durchstreifst du die Seiten wie ein mutiger Held`,
+      `${minutes} ${timeLabel} Forschungszeit im verbotenen Grimoire`,
+      `Seit ${minutes} ${timeLabel} tauchst du in die verborgenen Mysterien dieser Seite`,
+      `Schon ${minutes} ${timeLabel} ergründest du uralte Weisheiten`,
+      `${minutes} ${timeLabel} lang hältst du stand gegen die Rätsel dieser Chronik`,
+      `Bereits ${minutes} ${timeLabel} auf Abenteuerpfaden zwischen den Worten`,
         ]
     
         const randomIndex = Math.floor(Math.random() * variants.length)
