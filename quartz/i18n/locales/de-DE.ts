@@ -54,7 +54,29 @@ export default {
       title: "Inhaltsverzeichnis",
     },
     contentMeta: {
-      readingTime: ({ minutes }) => `${minutes} min read`,
+      readingTime: ({ minutes }) => {
+        const variants = [
+          `${minutes} Minuten Reise durch vergilbte Pergamente`,
+          `${minutes} Minuten im Archiv der Abenteurer`,
+          `${minutes} Minuten, um diese Runen zu entschlüsseln`,
+          `${minutes} Minuten Studium geheimnisvoller Runen`,
+          `${minutes} Minuten beim Schmökern im Heldenkodex`,
+          `${minutes} Minuten Ausflug in die Sagenwelt`,
+          `${minutes} Minuten Reise durch vergilbte Pergamente`,
+          `${minutes} Minuten Studium uralter Runen`,
+          `${minutes} Minuten Ausflug in die Chroniken der Helden`,
+          `${minutes} Minuten im Archiv der Abenteurer`,
+          `${minutes} Minuten, um die Geheimnisse dieser Seite zu ergründen`,
+          `${minutes} Minuten Schmökern im Kodex der Sagen`,
+          `${minutes} Minuten Forschungszeit im Grimoire`,
+          `${minutes} Minuten Entschlüsselung mystischer Zeichen`,
+          `${minutes} Minuten Wanderung durch die Welt der Worte`,
+          `${minutes} Minuten, bis dieses Kapitel gemeistert ist`,
+        ]
+    
+        const randomIndex = Math.floor(Math.random() * variants.length)
+        return variants[randomIndex]
+      },
     },
   },
   pages: {
