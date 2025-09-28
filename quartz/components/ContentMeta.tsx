@@ -49,7 +49,7 @@ export default ((opts?: Partial<ContentMetaOptions>) => {
         {segments.map((segment, index) => (
           <span key={index}>
             {segment}
-            {index < segments.length - 1 && ", "}
+            {index < segments.length - 1 && " | "}
           </span>
         ))}
       </p>
