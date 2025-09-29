@@ -1,6 +1,6 @@
 @use "../../styles/variables.scss" as *;
 
-@media all and ($mobile) {
+@media all and ($tablet) {
   .page > #quartz-body {
     // Shift page position when toggling Explorer on mobile.
     & > :not(.sidebar.left:has(.explorer)) {
