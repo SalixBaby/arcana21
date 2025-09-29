@@ -1,8 +1,8 @@
 @use "sass:map";
 
 $breakpoints: (
-  mobile: 1400px,
-  desktop: 1400px,
+  mobile: 800px,
+  desktop: 800px,
 );
 
 $mobile: "(max-width: #{map.get($breakpoints, mobile)})";
