@@ -18,5 +18,5 @@ $normalWeight: 400;
 
 $mobileBreakpoint: 600px;
 $tabletBreakpoint: 1000px;
-$fullPageWidth: $pageWidth;
+$fullPageWidth: $pageWidth + 2 * $sidePanelWidth;
 
