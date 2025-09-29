@@ -33,7 +33,7 @@
   flex-direction: column;
   overflow-y: hidden;
 
-  @media all and ($mobile) {
+  @media all and ($tablet) {
     order: -1;
     height: initial;
     overflow: hidden;
@@ -49,7 +49,7 @@
     display: flex;
   }
 
-  @media all and ($mobile) {
+  @media all and ($tablet) {
     button#mobile-explorer {
       display: flex;
     }
@@ -60,7 +60,7 @@
   }
 
   &.desktop-only {
-    @media all and not ($mobile) {
+    @media all and not ($tablet) {
       display: flex;
     }
   }
@@ -238,7 +238,7 @@ li:has(> .folder-outer:not(.open)) > .folder-container > svg {
 }
 
 .explorer {
-  @media all and ($mobile) {
+  @media all and ($tablet) {
     #explorer-content {
       box-sizing: border-box;
       overscroll-behavior: none;
@@ -302,7 +302,7 @@ html:has(.no-scroll) {
   overflow: hidden;
 }
 
-@media all and not ($mobile) {
+@media all and not ($tablet) {
   .no-scroll {
     opacity: 1 !important;
     overflow: auto !important;
