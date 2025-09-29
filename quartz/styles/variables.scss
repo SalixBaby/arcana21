@@ -1,15 +1,14 @@
 @use "sass:map";
 
 $breakpoints: (
-  mobile: 1425px,
-  desktop: 1426px,
+  mobile: 1199px,
+  desktop: 1200px,
 );
 
-// Media Queries
 $mobile: "(max-width: #{map.get($breakpoints, mobile)})";
+$tablet: "(min-width: #{map.get($breakpoints, mobile)}) and (max-width: #{map.get($breakpoints, desktop)})";
 $desktop: "(min-width: #{map.get($breakpoints, desktop)})";
 
-// Variablen
 $pageWidth: map.get($breakpoints, mobile);
 $sidePanelWidth: 320px;
 $topSpacing: 6rem;
