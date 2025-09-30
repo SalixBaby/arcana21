@@ -20,7 +20,7 @@ const observer = new IntersectionObserver((entries) => {
 function toggleExplorer(this: HTMLElement) {
   // Toggle collapsed state of entire explorer
   this.classList.toggle("collapsed")
-
+  window.scrollTo(0, 0)
   // Toggle collapsed aria state of entire explorer
   this.setAttribute(
     "aria-expanded",
