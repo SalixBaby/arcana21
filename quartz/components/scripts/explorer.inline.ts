@@ -20,9 +20,10 @@ const observer = new IntersectionObserver((entries) => {
 function toggleExplorer(this: HTMLElement) {
   // Toggle collapsed state of entire explorer
   this.classList.toggle("collapsed")
-  document.documentElement.style.scrollBehavior = "auto"
-  window.scrollTo({ top: 0, left: 0 })
-  document.documentElement.style.scrollBehavior = ""
+  const html = document.documentElement
+  html.style.setProperty("scroll-behavior", "auto", "important")
+  window.scrollTo(0, 0)
+  html.style.removeProperty("scroll-behavior")
   // Toggle collapsed aria state of entire explorer
   this.setAttribute(
     "aria-expanded",
