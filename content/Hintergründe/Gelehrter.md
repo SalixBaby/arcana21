@@ -6,7 +6,7 @@
 **Mögliche Merkmale:** Wissensvorsprung, Recherchefähigkeiten, Zugang zu Archiven und Bibliotheken.  
   
 **Segen: Bücherwurm**  
-- +1 auf [[../Attribute/Geist/-Geist-|Geist]]  
+- +1 auf [Geist](Attribute/Geist/-Geist-.md)  
 - Wissen in Geschichte/Sprachen  
 - Bonus auf Informationssammeln in Bibliotheken oder Archiven  
 - +1 Ausbildungspunkt  
