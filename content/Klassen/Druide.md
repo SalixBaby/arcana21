@@ -17,11 +17,11 @@
 #### **Variationen:**  
   
 - **Tierfokus**: Deine Verbindung zu Tieren ist instinktiv, und sie sehen dich als einen der ihren.  
-    - Bonus auf [[../Attribute/Körper/Instinkt|Instinkt]]  
+    - Bonus auf [Instinkt](Attribute/K%C3%B6rper/Instinkt.md)  
     - Wissen und Bonus in Natur/Tiere und in Überleben/Orientierung  
     - Gestaltenwandlung in Tierform  
 - **Pflanzenfokus**: Du verstehst die Sprache der Pflanzen und kannst ihre Kräfte für dich nutzen.  
-    - Bonus auf [[../Attribute/Geist/Erfahrung|Erfahrung]]  
+    - Bonus auf [Erfahrung](Attribute/Geist/Erfahrung.md)  
     - Wissen und Bonus in Natur/Tiere und in Überleben/Orientierung  
     - Gestaltenwandlung in Pflanzen- oder Pilzform  
   
