@@ -60,7 +60,7 @@ Sobald du eine grobe Idee hast, suchst du die passende Klasse aus den 21 verfüg
 - **Zauberklassen** für magische Fähigkeiten und das Wirken von Zaubern.  
 - **Dualklassen**, die eine Mischung aus beiden Welten sind und sich flexibel einsetzen lassen.  
     
-[[./Klassen/-Klassen-|Klassenübersicht]]  
+[Klassenübersicht](Klassen/-Klassen-.md)  
   
 >[!example]- *Beispiel*   
 >*Du entscheidest dich für die Klasse **Jäger**, eine Kampfklasse, die sich auf Präzision und Geschicklichkeit spezialisiert.*  
@@ -68,7 +68,7 @@ Sobald du eine grobe Idee hast, suchst du die passende Klasse aus den 21 verfüg
 ##### **2.3 Wähle ein Volk**    
 Das Volk deines Charakters beschreibt seine Kultur. Dein Volk verleiht dir dein grobes Aussehen, Kultur und einige Fähigkeiten. Wähle ein Volk, das sich für dich am interessantesten anhört.  
   
-[[./Völker/-Völker-|Völkerübersicht]]  
+[Völkerübersicht](V%C3%B6lker/-V%C3%B6lker-.md)  
   
 >[!example]- *Beispiel*   
  >*Dein Charakter ist ein Lupari (Wolfvolk) und verlässt sich gerne auf seine Nase. Dies lässt sich gut mit seiner Klasse des Jägers verbinden.*  
@@ -76,7 +76,7 @@ Das Volk deines Charakters beschreibt seine Kultur. Dein Volk verleiht dir dein 
 ##### **2.4 Wähle einen Hintergrund**    
 Der Hintergrund deines Charakters beschreibt seine Herkunft und bisherigen Erfahrungen. Er gibt dir zusätzliche Fertigkeiten, Wissen und Eigenschaften, die deinem Helden mehr Tiefe verleihen. Wähle einen Hintergrund, der zur Lebensgeschichte deines Charakters passt.  
   
-[[./Hintergründe/-Hintergründe-|Hintergrundsübersicht]]  
+[Hintergrundsübersicht](Hintergr%C3%BCnde/-Hintergr%C3%BCnde-.md)  
   
 >[!example]- *Beispiel*   
  >*Dein Charakter wuchs als **Seefahrer** auf und hat ein tiefes Verständnis für Navigation und das Leben auf See entwickelt.*  
@@ -84,11 +84,11 @@ Der Hintergrund deines Charakters beschreibt seine Herkunft und bisherigen Erfah
 ##### **2.5 Verteile deine Kernattribute**    
 Nun setzt du die Standardwerte 2, 1 und -1 auf die drei Hauptattribute:  
   
-- **[[./Attribute/Körper/-Körper-|Körper]]** für physische Fähigkeiten und Ausdauer.  
-- **[[./Attribute/Geist/-Geist-|Geist]]** für Intelligenz und Magie.  
-- **[[./Attribute/Seele/-Seele-|Seele]]** für Charisma und Inspiration.  
+- **[Körper](Attribute/K%C3%B6rper/-K%C3%B6rper-.md)** für physische Fähigkeiten und Ausdauer.  
+- **[Geist](Attribute/Geist/-Geist-.md)** für Intelligenz und Magie.  
+- **[Seele](Attribute/Seele/-Seele-.md)** für Charisma und Inspiration.  
   
-Diese [[./Attribute/-Attribute-|Attribute]] bestimmen, wie gut dein Charakter in verschiedenen Situationen abschneidet und beeinflussen die Verteilung von Unterattributen wie Geschicklichkeit, Wahrnehmung oder Überzeugen.  
+Diese [Attribute](Attribute/-Attribute-.md) bestimmen, wie gut dein Charakter in verschiedenen Situationen abschneidet und beeinflussen die Verteilung von Unterattributen wie Geschicklichkeit, Wahrnehmung oder Überzeugen.  
   
 >[!example]- *Beispiel*   
 >*Du verteilst die Werte folgendermaßen:*  
@@ -103,7 +103,7 @@ Diese [[./Attribute/-Attribute-|Attribute]] bestimmen, wie gut dein Charakter in
 ##### **2.6 Setze deine Talentpunkte ein**    
 Danach setzt du deine Talentpunkte auf die Unterattribute der Kernattribute, um deine Fähigkeiten weiter zu spezialisieren. Du hast dabei so viele Talentpunkte wie dein Level + 2. Diese Punkte steigern den Wert des jeweiligen Attributs und verbessern deine Chancen bei entsprechenden Proben. Bist du in einem Unterattribut talentiert erhältst du einen Bonus von + (Level) auf alle Unterattributs-Proben. Es ist nicht möglich, mehrere Talentpunkte auf das selbe Unterattribut zu setzen.  
   
-[[./Attribute/-Attribute-|Attributsübersicht]]  
+[Attributsübersicht](Attribute/-Attribute-.md)  
   
 >[!example]- Beispiel   
 >Du setzt 1 Talentpunkte auf **Geschicklichkeit**, 1 Punkt auf **Wahrnehmung** und deinen letzten auf **Geschwindigkeit**, um deinem Jäger in diesen Bereichen Vorteile zu verschaffen.  
@@ -123,14 +123,14 @@ Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkt
   
 (Nicht vergessen: Helden können aufgrund ihrer Klasse, Variation oder Fähigkeiten ebenfalls zusätzliche Attribute erhalten.)  
   
-- [[./Attribute/Passiv/Gesundheit|Gesundheit]]: 3 + [[./Attribute/Körper/Konstitution|Konstitution]] + (Level x 2)  
-- [[Grundregelwerk#77-manapunkte|Manapunkte]]: [[./Attribute/Geist/-Geist-|Geist]] + (Level x 2) (Nur für Zauberklassen)  
-- [[./Zauberausrichtungen/-Zauberausrichtungen-|Zauberausrichtungen]]: [[./Attribute/Geist/Wissen|Wissen]] + 3 + Level  
-- [[./Attribute/Passiv/Bewegungsrate|Bewegungsrate]]: (Bewegungsrate des Volkes) + [[./Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
-- [[./Attribute/Passiv/Ausweichen|Ausweichen]]: 10 + [[./Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
-- [[./Attribute/Passiv/Willensstärke|Willensstärke]]: 10 + [[./Attribute/Geist/Fokus|Fokus]]  
-- [[Grundregelwerk#7.3-inspirationspunkte|Inspirationspunkte]]: [[./Attribute/Seele/-Seele-|Seele]]  
-- [[Grundregelwerk#7.2-ausdauerpunkte|Ausdauerpunkte]]: [[./Attribute/Körper/-Körper-|Körper]]  
+- [Gesundheit](Gesundheit.md): 3 + [Konstitution](Konstitution.md) + (Level x 2)  
+- [Manapunkte](.md#77-manapunkte): [Geist](Attribute/Geist/-Geist-.md) + (Level x 2) (Nur für Zauberklassen)  
+- [Zauberausrichtungen](Zauberausrichtungen/-Zauberausrichtungen-.md): [Wissen](Attribute/Geist/Wissen.md) + 3 + Level  
+- [Bewegungsrate](Bewegungsrate.md): (Bewegungsrate des Volkes) + [Geschwindigkeit](Geschwindigkeit.md)  
+- [Ausweichen](Ausweichen.md): 10 + [Geschwindigkeit](Geschwindigkeit.md)  
+- [Willensstärke](Willensst%C3%A4rke.md): 10 + [Fokus](Fokus.md)  
+- [Inspirationspunkte](.md#7.3-inspirationspunkte): [Seele](Attribute/Seele/-Seele-.md)  
+- [Ausdauerpunkte](.md#7.2-ausdauerpunkte): [Körper](Attribute/K%C3%B6rper/-K%C3%B6rper-.md)  
   
 >[!example]- Beispiel   
 >Dein Jäger hat folgende passive Werte: **Gesundheit**: 3 + 3 (Konstitution) + 1 (Level) x 2 = 8 | **Manapunkte**: 0 (kein Arkana) | **Bewegungsrate**: 5 + 2 (Geschwindigkeit) = 7 | **Ausweichen**: 10 + 2 (Geschwindigkeit) = 12 | **Willensstärke**: 10 + 0 (Fokus) = 10  
@@ -147,9 +147,9 @@ Bestimme nun die Zauberausrichtungen, mit denen dein Charakter vertraut ist. Fü
 ##### **2.10 Wähle deine Ausrüstung**    
 Zum Schluss stattest du deinen Charakter mit passender Ausrüstung aus. Wähle Waffen, Rüstungen und andere Gegenstände, die zu deiner Klasse und deinem Hintergrund passen. Achte darauf, dass Rüstungen deine Bewegungsrate beeinflussen können:  
   
-- [[./Ausrüstungen/Waffen/-Waffen-|Waffen]] (Maximal 2 Waffen, wobei nicht beide [[./Ausrüstungen/Waffen/Waffeneigenschaften/Schwer|Schwer]] sein dürfen)  
-- [[./Ausrüstungen/Ausrüstungssets/-Ausrüstungssets-|Ausrüstungssets]] (Durch Ausbildung bestimmt)  
-- [[./Ausrüstungen/Rüstungen/-Rüstungen-|Rüstungen]] (Jeder Held kann mit jeder Art von Rüstung starten, die er tragen kann)  
+- [Waffen](Ausr%C3%BCstungen/Waffen/-Waffen-.md) (Maximal 2 Waffen, wobei nicht beide [Schwer](Ausr%C3%BCstungen/Waffen/Waffeneigenschaften/Schwer.md) sein dürfen)  
+- [Ausrüstungssets](Ausr%C3%BCstungen/Ausr%C3%BCstungssets/-Ausr%C3%BCstungssets-.md) (Durch Ausbildung bestimmt)  
+- [Rüstungen](Ausr%C3%BCstungen/R%C3%BCstungen/-R%C3%BCstungen-.md) (Jeder Held kann mit jeder Art von Rüstung starten, die er tragen kann)  
   
   
 >[!example]- Beispiel   
@@ -266,7 +266,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
   
 **4.1.6 Mögliche Reaktionen**  
 - **Gelegenheitsangriff:** *1AP.* Greife einen Gegner an, der deinen Nahkampfradius verlässt. *(Angriffsprobe | Nur wenn Nahkampfwaffe gezogen)*  
-- **Parieren:** *1AP.* Gib einer gegnerischen Angriffsprobe einen Malus. *(Benötigt gezogene Waffe mit [[./Ausrüstungen/Waffen/Waffenfähigkeiten/Parieren|Parieren]])*  
+- **Parieren:** *1AP.* Gib einer gegnerischen Angriffsprobe einen Malus. *(Benötigt gezogene Waffe mit [Parieren](Ausr%C3%BCstungen/Waffen/Waffenf%C3%A4higkeiten/Parieren.md))*  
 - **Zauberduell:** *1AP*. Verhindere gegnerische Zauber. *(siehe 4.4.2)*  
   
 - **Kreative Reaktionen**: - In **Arcana21** geht es um Kreativität. Du hast eine Idee für eine coole Reaktion? Frage den SL ob dieser Diese zulässt.  
