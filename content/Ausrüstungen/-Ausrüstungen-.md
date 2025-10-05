@@ -1,4 +1,4 @@
->*In **Arcana21** sind **Ausrüstungen** weit mehr als nur praktische Hilfsmittel – sie sind essenzielle Bestandteile der Heldenreise. Ob es sich um Waffen, Rüstungen oder spezialisierte Sets handelt, die richtige Ausrüstung kann den Unterschied zwischen Erfolg und Scheitern ausmachen. Ausrüstungen sind auf die Herausforderungen der Welt abgestimmt und bieten Helden die Möglichkeit, sich auf jede Situation optimal vorzubereiten.*  
+>***Ausrüstungen** sind weit mehr als nur praktische Hilfsmittel – sie sind essenzielle Bestandteile der Heldenreise. Ob es sich um Waffen, Rüstungen oder spezialisierte Sets handelt, die richtige Ausrüstung kann den Unterschied zwischen Erfolg und Scheitern ausmachen. Ausrüstungen sind auf die Herausforderungen der Welt abgestimmt und bieten Helden die Möglichkeit, sich auf jede Situation optimal vorzubereiten.*  
   
 [[./Waffen/-Waffen-|Waffen]] bieten eine Vielzahl an taktischen Möglichkeiten, je nach ihren Eigenschaften und Fähigkeiten. Sie erlauben es den Helden, sowohl im Nahkampf als auch aus der Distanz ihre Feinde zu bezwingen, oder sich leise und unauffällig durch gefährliche Gebiete zu bewegen.  
   
