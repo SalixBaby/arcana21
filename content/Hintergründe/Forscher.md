@@ -3,7 +3,7 @@
 **Mögliche Merkmale:** Forschung, wissenschaftliche Methodik, Analyse  
   
 **Segen: Wissbegierde**  
-- +1 auf [[../Attribute/Geist/-Geist-|Geist]]  
+- +1 auf [Geist](Attribute/Geist/-Geist-.md)  
 - Wissen Mathematik/Technik  
 - +1 Ausbildungspunkt  
 - Zugang zu wissenschaftlicher Ausrüstung  

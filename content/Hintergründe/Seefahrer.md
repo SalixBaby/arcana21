@@ -3,7 +3,7 @@
 **Mögliche Merkmale:** Navigation, Segelkunst, Seefahrtkunde  
   
 **Segen: Wind und Wellen**  
-- +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Geist/-Geist-|Geist]]  
+- +1 auf [Körper](Attribute/K%C3%B6rper/-K%C3%B6rper-.md) oder [Geist](Attribute/Geist/-Geist-.md)  
 - Wissen in Überleben/Orientierung  
 - Kenntnis über Nautik und Meteorologie  
   

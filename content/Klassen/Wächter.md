@@ -12,12 +12,12 @@ _Als Wächter bist du der Schild in der Dunkelheit, das Auge im Sturm und die er
 #### **Variationen:**  
   
 - **Leibwächter**: Dein Auftrag: Schutz einer Person. Du analysierst instinktiv und erkennst Bedrohungen, bevor andere sie überhaupt wahrnehmen.  
-    - +1 auf [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]  
-    - +1 auf [[../Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
+    - +1 auf [Wahrnehmung](Attribute/Geist/Wahrnehmung.md)  
+    - +1 auf [Geschwindigkeit](Attribute/K%C3%B6rper/Geschwindigkeit.md)  
     - Wissen in Medizin/Anatomie  
 - **Hirte**: Du schützt nicht irgendwen, sondern jeden und alles. Du bist gleichzeitig Wächter, Richter und leider manchmal auch Henker.  
-    - +1 auf [[../Attribute/Körper/Konstitution|Konstitution]]  
-    - +1 auf [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]  
+    - +1 auf [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
+    - +1 auf [Wahrnehmung](Attribute/Geist/Wahrnehmung.md)  
     - Wissen in Politik/Diplomatie  
   
 ---  

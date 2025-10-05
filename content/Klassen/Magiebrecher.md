@@ -16,12 +16,12 @@
 #### **Variationen:**  
   
 - **Runenbrecher:**  Du bist auf das Zerstören magischer Strukturen spezialisiert – Bannkreise, Artefakte, Flüche. Mit deinem Wissen kannst du komplexe Effekte auflösen oder manipulieren.  
-    - +1 [[../Attribute/Geist/Wissen|Wissen]]  
-    - +1 [[../Attribute/Geist/Fokus|Fokus]]  
+    - +1 [Wissen](Attribute/Geist/Wissen.md)  
+    - +1 [Fokus](Attribute/Geist/Fokus.md)  
     - Wissen und Bonus in Mathematik/Technik  
 - **Arkanjäger:**  Du spürst Magie wie andere Spuren lesen – und jagst ihre Anwender gnadenlos. Du hast gelernt, Zauberwirker zu kontern, bevor sie wirken können.  
-    - +1 [[../Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
-    - +1 [[../Attribute/Seele/Intuition|Intuition]]  
+    - +1 [Geschwindigkeit](Attribute/K%C3%B6rper/Geschwindigkeit.md)  
+    - +1 [Intuition](Attribute/Seele/Intuition.md)  
     - Wissen und Bonus in Überleben/Orientierung  
   
 ---  

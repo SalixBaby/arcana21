@@ -10,13 +10,13 @@
   
 #### **Variationen:**  
 - **Magus:** Deine Magie folgt Prinzipien, Mustern und uralten Formeln. Du strebst nach Kontrolle, Präzision und Effizienz. In dir brennt kein wildes Feuer – sondern ein stetiges Licht.  
-    - +1 [[../Attribute/Geist/Wissen|Wissen]]  
-    - +1 [[../Attribute/Geist/Erfahrung|Erfahrung]]  
+    - +1 [Wissen](Attribute/Geist/Wissen.md)  
+    - +1 [Erfahrung](Attribute/Geist/Erfahrung.md)  
     - Wissen in Kunst/Kultur  
 - **Chaoswirker:** In dir tobt rohes, ungezähmtes Arkana. Deine Zauber flackern, wirbeln, explodieren – manchmal übermächtig, manchmal unberechenbar. Doch im Chaos findest du Möglichkeiten, die andere nie wagen würden.  
-    - +2 [[../Attribute/Geist/Arkana|Arkana]]  
-    - +1 [[../Attribute/Körper/Instinkt|Instinkt]]  
-    - -2 [[../Attribute/Geist/Fokus|Fokus]]  
+    - +2 [Arkana](Attribute/Geist/Arkana.md)  
+    - +1 [Instinkt](Attribute/K%C3%B6rper/Instinkt.md)  
+    - -2 [Fokus](Attribute/Geist/Fokus.md)  
     - **Besonderheit:** Bei jedem überladenen Zauber kann der Spielleiter eine Chaostabelle konsultieren, die unvorhergesehene magische Effekte auslösen kann.  
   
 ---  

@@ -12,12 +12,12 @@ _Du bist der Inbegriff körperlicher Disziplin und kriegerischer Kunst. Während
 #### **Variationen:**  
   
 - **Soldat:** Du hast auf dem Schlachtfeld gelernt, nicht in Turnhallen. Deine Bewegungen sind effizient, deine Haltung diszipliniert, dein Blick kalt. Du kämpfst nicht für Ruhm – sondern, weil es getan werden muss.  
-    - +1 auf [[../Attribute/Körper/Konstitution|Konstitution]]  
-    - +1 auf [[../Attribute/Körper/Stärke|Stärke]]  
+    - +1 auf [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
+    - +1 auf [Stärke](Attribute/K%C3%B6rper/St%C3%A4rke.md)  
     - Wissen in **Militär/Taktik** & **Überleben/Orientierung**  
 - **Gladiator:** Dein Kampf ist eine Show – und du bist der Star. Du kämpfst für das Publikum, für die Anerkennung, für den Applaus. Und dabei schlägst du genauso hart zu wie jeder andere Krieger – nur eben mit Stil.  
-    - +1 auf [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]      
-    - Bonus auf [[../Attribute/Seele/Auftritt|Auftritt]]  
+    - +1 auf [Geschicklichkeit](Attribute/K%C3%B6rper/Geschicklichkeit.md)      
+    - Bonus auf [Auftritt](Attribute/Seele/Auftritt.md)  
     - Wissen in **Militär/Taktik** & **Kunst/Kultur**  
   
 ---  

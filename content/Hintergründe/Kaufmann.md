@@ -3,7 +3,7 @@
 **Mögliche Merkmale:** Verhandeln, Rechnen, Warenkunde  
   
 **Segen: Geschäftssinn**  
-- +1 auf [[../Attribute/Geist/-Geist-|Geist]] oder [[../Attribute/Seele/-Seele-|Seele]]  
+- +1 auf [Geist](Attribute/Geist/-Geist-.md) oder [Seele](Attribute/Seele/-Seele-.md)  
 - Wissen und Bonus auf Handel/Wirtschaft  
 - Zugang zu Händlernetzwerken und Rabatten  
   

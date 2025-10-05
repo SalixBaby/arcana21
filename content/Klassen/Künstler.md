@@ -12,12 +12,12 @@ ___
 #### **Variationen:**  
   
 - **Virtuose (Kampfklasse):** Dein Talent liegt in der Darbietung – sei es Musik, Schauspiel oder Tanz. Deine Auftritte können verzaubern, beruhigen oder aufwühlen.  
-    - Bonus auf [[../Attribute/Seele/Auftritt|Auftritt]]  
-    - Bonus auf [[../Attribute/Seele/Überzeugen|Überzeugen]]  
+    - Bonus auf [Auftritt](Attribute/Seele/Auftritt.md)  
+    - Bonus auf [Überzeugen](Attribute/Seele/%C3%9Cberzeugen.md)  
     - Wissen und doppelten Bonus in Kunst/Kultur  
 - **Visionär (Zauberklasse):** Deine Kunst ist nicht nur emotional, sondern fast prophetisch. Mit deinen Bildern, Skulpturen oder Schriften kannst du Visionen einfangen oder sogar in die Zukunft blicken.  
-    - +1 [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
-    - +1 auf [[../Attribute/Geist/Fokus|Fokus]]  
+    - +1 [Geschicklichkeit](Attribute/K%C3%B6rper/Geschicklichkeit.md)  
+    - +1 auf [Fokus](Attribute/Geist/Fokus.md)  
     - Wissen und doppelten Bonus in Kunst/Kultur  
   
 ----  

@@ -3,7 +3,7 @@
 **Mögliche Merkmale:** Wissbegierde, Lernfähigkeit, Anpassungsfähigkeit  
   
 **Segen: Schnelllernend**  
-- +1 auf [[../Attribute/Geist/-Geist-|Geist]]  
+- +1 auf [Geist](Attribute/Geist/-Geist-.md)  
 - Wissen in Mathematik/Technik  
 - Zugang zu Lehrmaterialien und Grundverständnis von Wissenschaft  
 - +1 Ausbildungspunkt  

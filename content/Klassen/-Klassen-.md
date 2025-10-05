@@ -6,24 +6,24 @@
   
 ---  
   
-- [[./Alchemist|Alchemist]]  
-- [[./Aristokrat|Aristokrat]]  
-- [[./Assassine|Assassine]]  
-- [[./Dieb|Dieb]]  
-- [[./Druide|Druide]]  
-- [[./Erfinder|Erfinder]]  
-- [[./Hexer|Hexer]]  
-- [[./Informant|Informant]]  
-- [[./Jäger|Jäger]]  
-- [[./Kleriker|Kleriker]]  
-- [[./Künstler|Künstler]]  
-- [[./Nekromant|Nekromant]]  
-- [[./Magier|Magier]]  
-- [[./Magiebrecher|Magiebrecher]]  
-- [[./Mönch|Mönch]]  
-- [[./Priester|Priester]]  
-- [[./Barbar|Barbar]]  
-- [[./Krieger|Krieger]]  
-- [[./Taktiker|Taktiker]]  
-- [[./Wächter|Wächter]]  
-- [[./Zauberer|Zauberer]]
+- [Alchemist](Klassen/Alchemist.md)  
+- [Aristokrat](Klassen/Aristokrat.md)  
+- [Assassine](Klassen/Assassine.md)  
+- [Dieb](Klassen/Dieb.md)  
+- [Druide](Klassen/Druide.md)  
+- [Erfinder](Klassen/Erfinder.md)  
+- [Hexer](Klassen/Hexer.md)  
+- [Informant](Klassen/Informant.md)  
+- [Jäger](Klassen/J%C3%A4ger.md)  
+- [Kleriker](Klassen/Kleriker.md)  
+- [Künstler](Klassen/K%C3%BCnstler.md)  
+- [Nekromant](Klassen/Nekromant.md)  
+- [Magier](Klassen/Magier.md)  
+- [Magiebrecher](Klassen/Magiebrecher.md)  
+- [Mönch](Klassen/M%C3%B6nch.md)  
+- [Priester](Klassen/Priester.md)  
+- [Barbar](Klassen/Barbar.md)  
+- [Krieger](Klassen/Krieger.md)  
+- [Taktiker](Klassen/Taktiker.md)  
+- [Wächter](Klassen/W%C3%A4chter.md)  
+- [Zauberer](Klassen/Zauberer.md)

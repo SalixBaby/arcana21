@@ -21,12 +21,12 @@
 #### **Variationen:**  
   
 - **Theoretiker**: Du hast zahllose Bücher verschlungen, Strategien analysiert und Taktiken bis ins Detail durchdacht. Dein Verstand ist dein stärkstes Werkzeug, und du agierst lieber mit Weitsicht als mit Instinkt.  
-    - +1 [[../Attribute/Geist/Wissen|Wissen]]  
-    - +1 [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]  
+    - +1 [Wissen](Attribute/Geist/Wissen.md)  
+    - +1 [Wahrnehmung](Attribute/Geist/Wahrnehmung.md)  
     - Wissen und Bonus in Militär/Taktik & Geschichte/Sprachen  
 - **Praktiker**: Du hast selbst gekämpft, Kommandos gebrüllt und Entscheidungen unter Lebensgefahr getroffen. Du vertraust deiner Erfahrung und reagierst schnell, wenn andere noch überlegen.  
-    - +1 [[../Attribute/Körper/Konstitution|Konstitution]]  
-    - +1 [[../Attribute/Seele/Überzeugen|Überzeugen]]  
+    - +1 [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
+    - +1 [Überzeugen](Attribute/Seele/%C3%9Cberzeugen.md)  
     - Wissen und Bonus in Militär/Taktik  
   
 ---  

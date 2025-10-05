@@ -3,7 +3,7 @@
 **Mögliche Merkmale:** Taschendiebstahl, Straßenwissen, Heimlichkeit  
   
 **Segen: Diebisches Geschick**  
-- +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Seele/-Seele-|Seele]]  
+- +1 auf [Körper](Attribute/K%C3%B6rper/-K%C3%B6rper-.md) oder [Seele](Attribute/Seele/-Seele-.md)  
 - Wissen und Bonus in Überleben/Orientierung  
 - Kennt lokale Unterweltkontakte  
   

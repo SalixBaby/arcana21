@@ -6,7 +6,7 @@
 **Mögliche Merkmale:** Waffenumgang, Taktik, Befehlskunst  
   
 **Segen: Kriegserfahren**  
-- +1 auf [[../Attribute/Körper/-Körper-|Körper]]  
+- +1 auf [Körper](Attribute/K%C3%B6rper/-K%C3%B6rper-.md)  
 - Wissen auf Militär/Taktik  
 - Übung mit einer zusätzlichen Waffen  
   

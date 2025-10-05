@@ -3,9 +3,9 @@
 **Mögliche Merkmale:** Reparatur, Herstellung, Rohstoffkunde  
   
 **Segen: Meister des Handwerks**  
-- +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Geist/-Geist-|Geist]]  
+- +1 auf [Körper](Attribute/K%C3%B6rper/-K%C3%B6rper-.md) oder [Geist](Attribute/Geist/-Geist-.md)  
 - Wissen in Mathematik/Technik  
-- Umgang mit [[../Ausrüstungen/Ausrüstungssets/Lederhandwerks Set|Lederhandwerks Set]], [[../Ausrüstungen/Ausrüstungssets/Steinmetz Set|Steinmetz Set]] oder [[../Ausrüstungen/Ausrüstungssets/Schmiede Set|Schmiede Set]]  
+- Umgang mit [Lederhandwerks Set](Lederhandwerks%20Set.md), [Steinmetz Set](Steinmetz%20Set.md) oder [Schmiede Set](Schmiede%20Set.md)  
 - Halbe Zeiten für Reparatur   
   
 **Fluch: Tunnelblick**  
