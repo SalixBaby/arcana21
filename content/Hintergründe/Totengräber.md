@@ -3,7 +3,7 @@
 **Mögliche Merkmale:** Bestattungskunde, Umgang mit Untoten, Wissen über Rituale und Bräuche des Todes, Fährtenlesen auf Friedhöfen oder in Krypten.  
   
 **Segen: Ruf der Stille**  
-- +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Seele/-Seele-|Seele]]  
+- +1 auf [Körper](Attribute/K%C3%B6rper/-K%C3%B6rper-.md) oder [Seele](Attribute/Seele/-Seele-.md)  
 - Wissen und Bonus in Religion/Okkultismus    
 - Vertrautheit mit Ritualen und Schutzzaubern rund um das Thema "Tod"  
   
