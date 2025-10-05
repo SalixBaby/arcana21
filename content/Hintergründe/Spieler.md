@@ -3,7 +3,7 @@
 **Mögliche Merkmale:** Glück, Manipulation, Scharfsinn  
   
 **Segen: Glückssträhne**  
-- +1 auf [[../Attribute/Geist/-Geist-|Geist]] oder [[../Attribute/Seele/-Seele-|Seele]]  
+- +1 auf [Geist](Attribute/Geist/-Geist-.md) oder [Seele](Attribute/Seele/-Seele-.md)  
 - Wissen in Handel / Wirtschaft  
 - Bonus auf Glücksproben  
 - Zugang zu Glücksspielnetzwerken  
