@@ -12,12 +12,12 @@ _Du fürchtest den Tod nicht – du herrschst über ihn. Während andere sich de
 #### **Variationen:**  
   
 - **Totenrufer:** Du sprichst mit Geistern und holst Wissen aus der jenseitigen Welt. Deine Zauber manipulieren nicht nur Leiber, sondern auch Erinnerungen.  
-    - +1 [[../Attribute/Geist/Wissen|Wissen]]  
-    - Bonus auf [[../Attribute/Geist/Erfahrung|Erfahrung]]  
+    - +1 [Wissen](Attribute/Geist/Wissen.md)  
+    - Bonus auf [Erfahrung](Attribute/Geist/Erfahrung.md)  
     - Wissen in Religion/Okkultismus  
 - **Knochenmagier:** Du formst Körper wie Ton. Deine Macht liegt in der physischen Manipulation von Leichen, Skeletten und Fleisch.  
-    - +1 [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
-    - +1 [[../Attribute/Geist/Fokus|Fokus]]  
+    - +1 [Geschicklichkeit](Attribute/K%C3%B6rper/Geschicklichkeit.md)  
+    - +1 [Fokus](Attribute/Geist/Fokus.md)  
     - Wissen in Medizin/Anatomie  
   
 ---  
