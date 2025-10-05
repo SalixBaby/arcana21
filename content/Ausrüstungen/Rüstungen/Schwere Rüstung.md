@@ -6,7 +6,7 @@
 - **Schutz**: Reduziert physischen Schaden um 1.  
 - **Typische Materialien**: Plattenpanzer, Vollrüstung aus gehärtetem Stahl.  
 - **Anlegen / Ablegen**: 10 Minuten / 5 Minute. (Kann mit Hilfe halbiert werden)  
-- **Wartung**: Muss mit [[../Ausrüstungssets/Schmiede Set|Schmiede Set]] oder von professionellem Schmied min. alle 5 Tage gewartet oder repariert werden. Dauert 2 Stunden.  
+- **Wartung**: Muss mit [Schmiede Set](Ausr%C3%BCstungen/Ausr%C3%BCstungssets/Schmiede%20Set.md) oder von professionellem Schmied min. alle 5 Tage gewartet oder repariert werden. Dauert 2 Stunden.  
   
-- **Nachteil**: Verringert die [[../../Attribute/Körper/Geschwindigkeit|Geschwindigkeit]] um 3 und Fliegen nicht möglich.  
+- **Nachteil**: Verringert die [Geschwindigkeit](Attribute/K%C3%B6rper/Geschwindigkeit.md) um 3 und Fliegen nicht möglich.  
 - **Anforderung**: Minimum Stärke von 3.
