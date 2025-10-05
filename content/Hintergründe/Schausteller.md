@@ -3,9 +3,9 @@
 **Mögliche Merkmale:** Unterhaltungskunst, Charisma, Improvisation  
   
 **Segen: Charismatische Präsenz**  
-- +1 auf [[../Attribute/Seele/-Seele-|Seele]]  
+- +1 auf [Seele](Attribute/Seele/-Seele-.md)  
 - Wissen in Kunst/Kultur  
-- Talent in [[../Attribute/Seele/Auftritt|Auftritt]]  
+- Talent in [Auftritt](Attribute/Seele/Auftritt.md)  
 - Kenntnis über Schauspielerei und Musik  
   
 **Fluch: Ruhelosigkeit**  
