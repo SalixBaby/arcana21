@@ -6,9 +6,9 @@
 **Mögliche Merkmale:** Übernatürliche Kräfte, Wissen aus anderen Welten, Verpflichtungen gegenüber einer höheren Macht.  
   
 **Segen: Macht des Paktes**  
-- +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Geist/-Geist-|Geist]] oder [[../Attribute/Seele/-Seele-|Seele]]  
+- +1 auf [Körper](Attribute/K%C3%B6rper/-K%C3%B6rper-.md) oder [Geist](Attribute/Geist/-Geist-.md) oder [Seele](Attribute/Seele/-Seele-.md)  
 - Wissen in Religion/Okkultismus oder Geschichte/Sprachen  
-- zusätzliche Zauberausrichtung [[../Zauberausrichtungen/Seele/Fluch|Fluch]]  
+- zusätzliche Zauberausrichtung [Fluch](Zauberausrichtungen/Seele/Fluch.md)  
 - Pakt ermöglicht beim kritischen Würfen (auch außerhalb vom Kampf) Wiederherstellung von gewissen Ressourcen (Probenabhängig)  
   
 **Fluch: Erfüllung des Paktes**  
