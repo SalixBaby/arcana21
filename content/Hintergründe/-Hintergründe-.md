@@ -2,24 +2,24 @@
 *Jeder Hintergrund bringt einzigartige Merkmale und Fertigkeiten mit sich, die den Helden in spezifischen Situationen helfen können. Sie bieten außerdem eine Möglichkeit, die eigene Rolle im Spiel zu gestalten – sei es als geborener Anführer, spiritueller Berater oder krimineller Überlebenskünstler. Hintergründe dienen als Brücke zwischen der Vergangenheit des Charakters und seiner gegenwärtigen Reise, und sie beeinflussen, wie der Held mit der Welt und ihren Herausforderungen interagiert.*  
 *In **Arcana21** sind Hintergründe nicht nur erzählerische Elemente, sondern auch wertvolle Mechanismen, die die Fähigkeiten und Stärken des Charakters erweitern und ihm helfen, sich in der gefährlichen Welt der Sagen und Abenteuer zu behaupten.*  
   
-1. [[./Adel|Adel]]  
-2. [[./Bauer|Bauer]]  
-3. [[./Diener|Diener]]  
-4. [[./Forscher|Forscher]]  
-5. [[./Gefangener|Gefangener]]  
-6. [[./Gelehrter|Gelehrter]]  
-7. [[./Glaube|Glaube]]  
-8. [[./Kaufmann|Kaufmann]]  
-9. [[./Handwerker|Handwerker]]  
-10. [[./Totengräber|Totengräber]]  
-11. [[./Athlet|Athlet]]  
-12. [[./Mediziner|Mediziner]]  
-13. [[./Militär|Militär]]  
-14. [[./Natur|Natur]]  
-15. [[./Schausteller|Schausteller]]  
-16. [[./Schmuggler|Schmuggler]]  
-17. [[./Schüler|Schüler]]  
-18. [[./Seefahrer|Seefahrer]]  
-19. [[./Spieler|Spieler]]   
-20. [[./Straßenkind|Straßenkind]]  
-21. [[./Vasall|Vasall]]
+1. [Adel](Hintergr%C3%BCnde/Adel.md)  
+2. [Bauer](Hintergr%C3%BCnde/Bauer.md)  
+3. [Diener](Hintergr%C3%BCnde/Diener.md)  
+4. [Forscher](Hintergr%C3%BCnde/Forscher.md)  
+5. [Gefangener](Hintergr%C3%BCnde/Gefangener.md)  
+6. [Gelehrter](Hintergr%C3%BCnde/Gelehrter.md)  
+7. [Glaube](Hintergr%C3%BCnde/Glaube.md)  
+8. [Kaufmann](Hintergr%C3%BCnde/Kaufmann.md)  
+9. [Handwerker](Hintergr%C3%BCnde/Handwerker.md)  
+10. [Totengräber](Totengr%C3%A4ber.md)  
+11. [Athlet](Athlet.md)  
+12. [Mediziner](Hintergr%C3%BCnde/Mediziner.md)  
+13. [Militär](Hintergr%C3%BCnde/Milit%C3%A4r.md)  
+14. [Natur](Hintergr%C3%BCnde/Natur.md)  
+15. [Schausteller](Hintergr%C3%BCnde/Schausteller.md)  
+16. [Schmuggler](Hintergr%C3%BCnde/Schmuggler.md)  
+17. [Schüler](Hintergr%C3%BCnde/Sch%C3%BCler.md)  
+18. [Seefahrer](Hintergr%C3%BCnde/Seefahrer.md)  
+19. [Spieler](Hintergr%C3%BCnde/Spieler.md)   
+20. [Straßenkind](Hintergr%C3%BCnde/Stra%C3%9Fenkind.md)  
+21. [Vasall](Hintergr%C3%BCnde/Vasall.md)
