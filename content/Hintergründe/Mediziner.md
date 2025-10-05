@@ -3,7 +3,7 @@
 **Mögliche Merkmale:** Anatomiekenntnisse, Heilkunst, Medizin  
   
 **Segen: Heilkunde**  
-- +1 auf [[../Attribute/Geist/-Geist-|Geist]]  
+- +1 auf [Geist](Attribute/Geist/-Geist-.md)  
 - Wissen und Bonus in Medizin/Anatomie  
 - Zugang zu medizinischem Equipment  
 - Notversorgung: Du erhältst auf die Stabilisierungs-Probe für dich selbst und für andere einen zusätzlichen Bonus.  
