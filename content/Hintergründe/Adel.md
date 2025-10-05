@@ -6,7 +6,7 @@
 **Mögliche Merkmale:** Diplomatie, Einflussnahme, Verbindungen zu wichtigen Persönlichkeiten  
   
 **Segen: Hervorragende Ausbildung**  
-- +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Geist/-Geist-|Geist]] oder [[../Attribute/Seele/-Seele-|Seele]]  
+- +1 auf [Körper](Attribute/K%C3%B6rper/-K%C3%B6rper-.md) oder [Geist](Attribute/Geist/-Geist-.md) oder [Seele](Attribute/Seele/-Seele-.md)  
 - Wissen in Politik/Diplomatie  
 - +1 Ausbildungspunkt  
   
