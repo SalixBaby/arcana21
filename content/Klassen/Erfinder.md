@@ -13,15 +13,15 @@
   
 - **Hextech (Zauberklasse)**: Du kombinierst Magie mit Technologie und erschaffst Artefakte, die sowohl mechanisch als auch magisch funktionieren.  
     - Wissen und Bonus in Mathematik/Technik oder Schmiedekunst/Erzkunde  
-    - Umgang mit [[../Ausrüstungen/Ausrüstungssets/Tüftler Set|Tüftler Set]]  
-    - +1 [[../Attribute/Geist/Arkana|Arkana]]  
-    - +1 [[../Attribute/Geist/Fokus|Fokus]]  
+    - Umgang mit [Tüftler Set](Ausr%C3%BCstungen/Ausr%C3%BCstungssets/T%C3%BCftler%20Set.md)  
+    - +1 [Arkana](Attribute/Geist/Arkana.md)  
+    - +1 [Fokus](Attribute/Geist/Fokus.md)  
 - **Tüftler (Kampfklasse)**: Du konzentrierst dich auf das Erschaffen praktischer, mechanischer Lösungen für Probleme und Herausforderungen, von kleinen Apparaturen bis zu komplexen Maschinen.  
     - Wissen und Bonus in Mathematik/Technik oder Schmiedekunst/Erzkunde  
-    - Umgang mit [[../Ausrüstungen/Ausrüstungssets/Tüftler Set|Tüftler Set]] und [[../Ausrüstungen/Ausrüstungssets/Diebes Set|Diebes Set]]  
+    - Umgang mit [Tüftler Set](Ausr%C3%BCstungen/Ausr%C3%BCstungssets/T%C3%BCftler%20Set.md) und [Diebes Set](Ausr%C3%BCstungen/Ausr%C3%BCstungssets/Diebes%20Set.md)  
     - Zugang zu Feuerwaffen (sollte mit dem SL abgesprochen werden)  
-    - +1 [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
-    - +1 [[../Attribute/Geist/Fokus|Fokus]]  
+    - +1 [Geschicklichkeit](Attribute/K%C3%B6rper/Geschicklichkeit.md)  
+    - +1 [Fokus](Attribute/Geist/Fokus.md)  
   
 ---  
   
