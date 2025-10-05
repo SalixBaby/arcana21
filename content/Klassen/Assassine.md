@@ -11,10 +11,10 @@ _Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und d
 #### **Variationen:**  
   
 - **Auftragsmörder**: Du tötest nicht aus Leidenschaft oder Not – du tust es, weil es dein Beruf ist. Du kennst deine Ziele, bereitest dich vor, und schlägst dann zu, wenn der Moment perfekt ist. Ob mit Dolch, Gift oder präzisem Schuss – deine Kunst ist der saubere Tod.  
-    - +1 auf [[../Attribute/Körper/Geschwindigkeit|Geschwindigkeit]]  
-    - +1 auf [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
+    - +1 auf [Geschwindigkeit](Attribute/K%C3%B6rper/Geschwindigkeit.md)  
+    - +1 auf [Geschicklichkeit](Attribute/K%C3%B6rper/Geschicklichkeit.md)  
 - **Chirurg**: Du kennst den menschlichen Körper besser als jeder andere. Du weißt genau, wo du schneiden musst – um zu lähmen, zu töten oder nur Schmerz zu erzeugen. Deine Klinge ist präzise wie ein Skalpell – und ebenso tödlich.  
-    - +1 auf [[../Attribute/Körper/Geschicklichkeit|Geschicklichkeit]]  
+    - +1 auf [Geschicklichkeit](Attribute/K%C3%B6rper/Geschicklichkeit.md)  
     - Wissen und Bonus in Medizin/Anatomie  
   
 ---  
