@@ -12,12 +12,12 @@ _Du dienst einer höheren Macht – sei es ein Gott, ein spirituelles Prinzip od
 #### **Variationen:**  
   
 - **Herold:** Du bist ein Sprachrohr deiner Gottheit, ein Wanderprediger, der den Glauben in die entlegensten Winkel der Welt trägt.  
-	- +1 [[../Attribute/Seele/Einsicht|Einsicht]]  
-	- +1 [[../Attribute/Geist/Wahrnehmung|Wahrnehmung]]  
+	- +1 [Einsicht](Attribute/Seele/Einsicht.md)  
+	- +1 [Wahrnehmung](Attribute/Geist/Wahrnehmung.md)  
 	- Wissen und doppelter Bonus in Religion/Okkultismus  
 - **Lichtbringer:** Du brauchst keinen Auftrag, keine heiligen Schriften – dein Glaube ist die Güte selbst. Du strebst danach, Heilung und Hoffnung zu bringen.  
-	- +1 [[../Attribute/Seele/Überzeugen|Überzeugen]]  
-	- +1 [[../Attribute/Geist/Fokus|Fokus]]  
+	- +1 [Überzeugen](Attribute/Seele/%C3%9Cberzeugen.md)  
+	- +1 [Fokus](Attribute/Geist/Fokus.md)  
 	- Wissen und doppelter Bonus in Religion/Okkultismus  
   
 ---  
