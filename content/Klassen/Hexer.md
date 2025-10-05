@@ -12,13 +12,13 @@
 #### **Variationen:**  
   
 - **Blutmagier (Zauberklasse):** Dein Körper ist eine unerschöpfliche Quelle arkaner Energie – solange du bereit bist, den Preis zu zahlen.  
-    - +1 [[../Attribute/Geist/Fokus|Fokus]]  
-    - +1 [[../Attribute/Körper/Konstitution|Konstitution]]  
+    - +1 [Fokus](Attribute/Geist/Fokus.md)  
+    - +1 [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
     - Wissen in Religion/Okkultismus  
     - **Blutmagie-Ausprägung:** _1AP_ - Du kannst 1 Gesundheit opfern, um 1 zusätzliches Mana zu erhalten.  
 - **Blutjäger (Kampfklasse):** Deine Angriffe sind tödlich und deine Waffe ist getränkt mit der Essenz deiner Feinde – und deiner eigenen.  
-    - +1 [[../Attribute/Körper/Stärke|Stärke]]  
-    - +1 [[../Attribute/Körper/Konstitution|Konstitution]]  
+    - +1 [Stärke](Attribute/K%C3%B6rper/St%C3%A4rke.md)  
+    - +1 [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
     - Wissen in Religion/Okkultismus  
     - **Blutmagie-Ausprägung:** _1AP_ - Du kannst 1 Gesundheit opfern, um 1 zusätzlichen Schaden zu verursachen.  
   
