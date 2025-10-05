@@ -6,7 +6,7 @@
 **Mögliche Merkmale:** Überleben in der Wildnis, Tier- und Pflanzenkunde, Fährtenlesen, naturverbundene Magie.  
   
 **Segen: Eins mit der Wildnis**  
-- +1 auf [[../Attribute/Körper/-Körper-|Körper]] oder [[../Attribute/Seele/-Seele-|Seele]]  
+- +1 auf [Körper](Attribute/K%C3%B6rper/-K%C3%B6rper-.md) oder [Seele](Attribute/Seele/-Seele-.md)  
 - Wissen und Bonus in Natur/Tiere  
 - Kenntnis über Kräuterkunde und Heilpflanzen  
   
