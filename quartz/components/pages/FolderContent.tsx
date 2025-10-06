@@ -2,7 +2,7 @@ import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } fro
 import path from "path"
 
 import style from "../styles/listPage.scss"
-import { PageList, SortFn } from "../PageList"
+import { PageList } from "../PageList"
 import { stripSlashes, simplifySlug } from "../../util/path"
 import { Root } from "hast"
 import { htmlToJsx } from "../../util/jsx"
@@ -13,7 +13,6 @@ interface FolderContentOptions {
    * Whether to display number of folders
    */
   showFolderCount: boolean
-  sort?: SortFn
 }
 
 const defaultOptions: FolderContentOptions = {
@@ -34,12 +33,19 @@ export default ((opts?: Partial<FolderContentOptions>) => {
       const isDirectChild = fileParts.length === folderParts.length + 1
       return prefixed && isDirectChild
     })
+
+    // 🧩 Sortiere alphabetisch nach Title (oder Slug als Fallback)
+    const sortedPages = allPagesInFolder.sort((a, b) => {
+      const aTitle = a.frontmatter?.title?.toLowerCase?.() ?? a.slug?.toLowerCase?.() ?? ""
+      const bTitle = b.frontmatter?.title?.toLowerCase?.() ?? b.slug?.toLowerCase?.() ?? ""
+      return aTitle.localeCompare(bTitle, "de")
+    })
+
     const cssClasses: string[] = fileData.frontmatter?.cssclasses ?? []
     const classes = ["popover-hint", ...cssClasses].join(" ")
     const listProps = {
       ...props,
-      sort: options.sort,
-      allFiles: allPagesInFolder,
+      allFiles: sortedPages, // ⬅️ Verwende die sortierte Liste
     }
 
     const content =
@@ -54,7 +60,7 @@ export default ((opts?: Partial<FolderContentOptions>) => {
           {options.showFolderCount && (
             <p>
               {i18n(cfg.locale).pages.folderContent.itemsUnderFolder({
-                count: allPagesInFolder.length,
+                count: sortedPages.length,
               })}
             </p>
           )}
