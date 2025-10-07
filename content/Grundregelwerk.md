@@ -54,11 +54,10 @@ Diese Flexibilität fördert kreatives Rollenspiel und macht jede Szene einzigar
 Überlege dir, wer dein Charakter ist. Ist er ein mutiger Krieger, ein listiger Dieb oder ein weiser Magier? Wie ist sein Hintergrund, welche Ziele verfolgt er, und welche Persönlichkeit hat er? Diese erste Vorstellung bildet das Fundament für deinen Helden.  
   
 ##### **2.2 Wähle eine Klasse**    
-Sobald du eine grobe Idee hast, suchst du die passende Klasse aus den 21 verfügbaren Optionen. Jede Klasse bringt besondere Fähigkeiten mit sich, die den Spielstil deines Charakters prägen. Die Klassen sind in drei Kategorien unterteilt:  
+Sobald du eine grobe Idee hast, suchst du die passende Klasse aus den 21 verfügbaren Optionen. Jede Klasse bringt besondere Fähigkeiten mit sich, die den Spielstil deines Charakters prägen. Die Klassen sind in zwei Kategorien unterteilt:  
   
 - **Kampfklassen** für physische Stärke und Kampfkunst.  
 - **Zauberklassen** für magische Fähigkeiten und das Wirken von Zaubern.  
-- **Dualklassen**, die eine Mischung aus beiden Welten sind und sich flexibel einsetzen lassen.  
     
 [Klassenübersicht](Klassen/-Klassen-.md)  
   
@@ -123,14 +122,14 @@ Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkt
   
 (Nicht vergessen: Helden können aufgrund ihrer Klasse, Variation oder Fähigkeiten ebenfalls zusätzliche Attribute erhalten.)  
   
-- [Gesundheit](Gesundheit.md): 3 + [Konstitution](Konstitution.md) + (Level x 2)  
-- [Manapunkte](.md#77-manapunkte): [Geist](Attribute/Geist/-Geist-.md) + (Level x 2) (Nur für Zauberklassen)  
+- [Gesundheit](Attribute/Passiv/Gesundheit.md): 3 + [Konstitution](Attribute/K%C3%B6rper/Konstitution.md) + (Level x 2)  
+- [Manapunkte](.md#**7.4%20Manapunkt%20): [Geist](Attribute/Geist/-Geist-.md) + (Level x 2) (Nur für Zauberklassen)  
 - [Zauberausrichtungen](Zauberausrichtungen/-Zauberausrichtungen-.md): [Wissen](Attribute/Geist/Wissen.md) + 3 + Level  
-- [Bewegungsrate](Bewegungsrate.md): (Bewegungsrate des Volkes) + [Geschwindigkeit](Geschwindigkeit.md)  
-- [Ausweichen](Ausweichen.md): 10 + [Geschwindigkeit](Geschwindigkeit.md)  
-- [Willensstärke](Willensst%C3%A4rke.md): 10 + [Fokus](Fokus.md)  
-- [Inspirationspunkte](.md#7.3-inspirationspunkte): [Seele](Attribute/Seele/-Seele-.md)  
-- [Ausdauerpunkte](.md#7.2-ausdauerpunkte): [Körper](Attribute/K%C3%B6rper/-K%C3%B6rper-.md)  
+- [Bewegungsrate](Attribute/Passiv/Bewegungsrate.md): (Bewegungsrate des Volkes) + [Geschwindigkeit](Attribute/K%C3%B6rper/Geschwindigkeit.md)  
+- [Ausweichen](Attribute/Passiv/Ausweichen.md): 10 + [Geschwindigkeit](Attribute/K%C3%B6rper/Geschwindigkeit.md)  
+- [Willensstärke](Attribute/Passiv/Willensst%C3%A4rke.md): 10 + [Fokus](Attribute/Geist/Fokus.md)  
+- [Inspirationspunkte](.md#**7.3%20Inspirationspunkte**): [Seele](Attribute/Seele/-Seele-.md)  
+- [Ausdauerpunkte](.md#**7.2%20Ausdauerpunkte**): [Körper](Attribute/K%C3%B6rper/-K%C3%B6rper-.md)  
   
 >[!example]- Beispiel   
 >Dein Jäger hat folgende passive Werte: **Gesundheit**: 3 + 3 (Konstitution) + 1 (Level) x 2 = 8 | **Manapunkte**: 0 (kein Arkana) | **Bewegungsrate**: 5 + 2 (Geschwindigkeit) = 7 | **Ausweichen**: 10 + 2 (Geschwindigkeit) = 12 | **Willensstärke**: 10 + 0 (Fokus) = 10  
@@ -579,42 +578,21 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 **Berechnung:** Der Wert der Eigenschaften wird durch die verteilten Talentpunkte und das übergeordnete Kernattribut bestimmt. Wenn du etwa einen Geist-Wert von 2 hast und 1 Talentpunkt auf **Fokus** verteilst, wird der endgültige Wert von **Fokus** 3 betragen.  
 **Verbesserung durch Heldenstufen:** Mit jeder Heldenstufe erhältst du neue Talentpunkte, die du in deine Eigenschaften investieren kannst. Dadurch steigt dein Charakter im Laufe des Spiels immer weiter in seinen Spezialgebieten auf und wird zu einem mächtigen Helden.  
   
-##### **7.6 Dualklasse**  
->*Dualklassen vereinen das Beste aus beiden Welten: Sie haben sowohl körperliche als auch magische Fähigkeiten und können sich je nach Situation flexibel anpassen.*  
-  
-- **Weg der Entscheidung**: Dualklassen können wählen, ob sie den Kampf- oder den Magieweg einschlagen. Je nach Wahl erhalten sie die Vorteile der Kampfklasse oder der Zauberklasse:  
-  
-**Weg der Magie bietet Zugang zu:**  
-- Zaubern im Allgemeinen  
-- Manapunkten  
-- Zaubererduellen  
-- ~~Gelegenheitsangriffen~~  
-- ~~Waffenfähigkeiten/Eigenschaften~~  
-- ~~Ausdauerpunkte zurückgewinnen~~  
-  
-**Weg des Kampfes bietet Zugang zu:**  
-- ~~Zaubern im Allgemeinen~~  
-- ~~Manapunkten~~  
-- ~~Zaubererduellen~~  
-- Gelegenheitsangriffen  
-- Waffenfähigkeiten/Eigenschaften  
-- Ausdauerpunkte zurückgewinnen  
-  
-##### **7.7 Kampfklasse**  
+##### **7.6 Kampfklasse**  
 >*Kampfklassen sind Meister im Nah- und Fernkampf, die ihre Fähigkeiten mit Waffen und Taktiken perfektionieren. Diese Charaktere verlassen sich auf ihre körperliche Stärke und Reflexe, um Feinde zu überwältigen.*  
   
 - **Gelegenheitsangriff**: Kampfklassen können Gelegenheitsangriffe durchführen, wenn sich Feinde aus ihrem Angriffsradius entfernen.  
 - **Ausdauerpunkte zurückgewinnen**: Durch kritische Treffer können sie verbrauchte Ausdauerpunkte zurückerhalten, was ihnen mehr Möglichkeiten im Kampf bietet.  
 - **Waffenfähigkeiten und -Eigenschaften nutzen**: Sie sind in der Lage, spezielle Waffenfähigkeiten und -Eigenschaften wie Parieren, Aufschlitzen oder Betäuben zu verwenden, um das Schlachtfeld zu dominieren. Dies gilt im Normalfall nur für die Waffen, die in der Charaktererstellung verwendet werden. Dein Charakter kann sich später mit anderen Waffen vertraut machen.  
   
-##### **7.8 Zauberklasse**  
+##### **7.7 Zauberklasse**  
 >*Zauberklassen setzen die Kraft der Magie ein, um die Realität zu formen, ihre Feinde zu besiegen und ihre Verbündeten zu unterstützen. Sie schöpfen ihre Kraft aus Mana und den Zauberausrichtungen.*  
   
 - **Zauber wirken**: Zauberklassen können mächtige Zauber aus verschiedenen Zauberausrichtungen wirken, um ihre Gegner zu besiegen oder Verbündeten zu helfen.  
 - **Mana-Punkte**: Diese Klassen verfügen über Mana-Punkte, die sie für ihre Zauber einsetzen. Diese regenerieren sich während Pausen oder durch spezielle Fähigkeiten.  
 - **Zauberduell**: Zauberklassen können im direkten Wettstreit der Magie stehen und ein Zauberduell führen, bei dem sie ihre arkane Kraft gegen die eines anderen Magienutzers messen.  
   
-##### **7.9 Bonus & Malus**  
+##### **7.8 Bonus & Malus**  
 > _**Bonus und Malus** in Arcana21 sind Mechaniken, die bestimmte Proben beeinflussen können, indem sie zusätzliche Würfelergebnisse einbeziehen. Sie spiegeln vorteilhafte oder nachteilige Umstände wider, die das Schicksal deines Charakters beeinflussen._  
   
 **Nutzung:**  
@@ -626,7 +604,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 - Ein Malus tritt ein, wenn widrige Bedingungen, Ablenkungen oder körperliche/magische Beeinträchtigungen vorliegen.  
 - Generell gilt: Bonus/Malus ist stapelbar (mehrere Bonus/Malus werden addiert) außer es ist explizit ausgeschlossen.  
   
-##### **7.10 Glücksproben**  
+##### **7.9 Glücksproben**  
 > _**Glücksproben** kommen dann zum Einsatz, wenn weder die Fähigkeiten eines Charakters noch das Wissen des Spielleiters eine klare Antwort liefern. Wenn eine Entscheidung dem Zufall überlassen werden soll, entscheidet das Schicksal – in Form eines einfachen Wurfs._  
   
 **Nutzung:**  
@@ -639,7 +617,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 - Glücksproben eignen sich für spontane Entscheidungen, Zufallsergebnisse oder unvorhersehbare Umstände – z. B. ob jemand zufällig am richtigen Ort ist, ob ein vergessener Schlüssel noch im Schloss steckt oder ob der Boden unter einem alten Brett nachgibt.  
 - Sie sind normalerweise unabhängig von den Werten oder Fähigkeiten des Charakters und spiegeln reine Zufälligkeit wider.  
   
-##### **7.11 Zustände**  
+##### **7.10 Zustände**  
 > _**Zustände** beschreiben anhaltende Effekte, die eine Kreatur im Laufe eines Abenteuers beeinflussen können. Sie wirken sich direkt auf Proben aus – entweder positiv oder negativ – und können durch Magie, Rast oder Zeit überwunden werden._  
   
 **Grundprinzipien:**  
@@ -668,7 +646,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 > _Negative Zustände vergehen unterschiedlich schnell. Manche verschwinden **automatisch nach einigen Runden oder Minuten** wogegen andere **aktive Hilfe, Magie oder ein Heilmittel** erfordern._  
 > _**Erschöpfung** kann ausschließlich durch eine **lange Rast** gelindert werden. Sie steht sinnbildlich für körperliche, geistige und magische Überlastung – etwas, das nur durch Zeit und Ruhe geheilt werden kann. Pro langer Rast kann eine Erschöpfung gelindert werden. Erreicht eine Kreatur jedoch den fünften Punkt an Erschöpfung, erliegt sie der völligen Erschöpfung und stirbt sofort._  
   
-#### **7.12 Rast**  
+#### **7.11 Rast**  
 > _**Rasten** erlaubt es deinem Charakter, sich von den Strapazen des Abenteurerlebens zu erholen. Sie stellt Ressourcen wieder her und markiert erzählerisch den Übergang zwischen intensiven Ereignissen._  
   
 **Kurze Rast:**    
