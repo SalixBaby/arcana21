@@ -9,7 +9,7 @@
   
 - ***Zusätzliche Erklärung für Todfeind:***  
 	- ***Feindwahl:** Wähle bei der Charaktererstellung eine Kreaturenart (z. B. Mensch, Untoter, Drache, Bestie, Dämon, Konstrukte usw.). Du kannst im späteren Spielverlauf noch weitere Arten als Todfeind wählen, dies muss aber mit dem SL besprochen werden.  
-	- ***Effekt:** Wenn du gegen ein Wesen deiner gewählten Art kämpfst oder es jagst, erhältst du Bonus auf alle Angriffsproben, Wahrnehmungsproben, Instinktproben und Willensstärkeproben.*  
+	- ***Effekt:** Wenn du gegen ein Wesen deiner gewählten Art kämpfst oder es jagst, erhältst du Bonus auf alle Angriffsproben, Wahrnehmungsproben, Instinktproben und deine Willensstärke.*  
   
 ___  
   
