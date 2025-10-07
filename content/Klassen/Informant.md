@@ -5,26 +5,28 @@
   
 - **Klassekategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Informationsnetzwerk  
-    - Du hast ein Netzwerk aus Informanten, Händlern und Gefallen-Schuldnern aufgebaut. Jedes Mal, wenn du eine Information kaufst, verkaufst oder jemandem einen Gefallen tust (oder erhältst), wächst dein Einfluss. Mit jedem neuen Kontakt erhältst du Zugriff auf wertvollere Geheimnisse, bessere Ressourcen oder diskrete Unterstützung. Dein Netzwerk kann dir dabei helfen, Gerüchte zu streuen, an seltene Informationen zu gelangen oder sogar heimliche Operationen auszuführen – doch je größer es wird, desto schwieriger wird es, alle Fäden in der Hand zu behalten.  
+    - Du verfügst über ein weit verzweigtes Netzwerk aus Informanten, Händlern und Schuldnern. Mit jedem Gefallen, Handel oder Austausch wächst dein Einfluss – und damit dein Zugang zu seltenen Geheimnissen, wertvollen Ressourcen und diskreter Unterstützung. Dein Netzwerk kann Gerüchte verbreiten, Informationen beschaffen oder verdeckte Aufträge ausführen.  
   
 ---  
   
 #### **Variationen:**  
   
 - **Detektiv**: Du beobachtest, analysierst und kombinierst. Du siehst, was anderen entgeht, und erkennst Muster, wo andere Chaos sehen. Deine Stärke liegt nicht im Angriff – sondern in Informationen.  
+	- Bonus auf [Erfahrung](Attribute/Geist/Erfahrung.md)  
     - +1 auf [Wissen](Attribute/Geist/Wissen.md)  
     - +1 auf [Einsicht](Attribute/Seele/Einsicht.md)  
-    - +1 auf [Fokus](Attribute/Geist/Fokus.md)  
+    - +1 auf [Wahrnehmung](Attribute/Geist/Wahrnehmung.md)  
 - **Ränkeschmied**: Du bist kein stiller Beobachter, sondern ein Strippenzieher. Dein Wissen ist eine Währung, und du weißt genau, wann du welche Information einsetzen musst.  
-	- +1 [Lügen](Attribute/Seele/L%C3%BCgen.md)  
-	- +1 [Überzeugen](Attribute/Seele/%C3%9Cberzeugen.md)  
+	- Bonus auf [Intuition](Attribute/Seele/Intuition.md)  
+	- +2 [Lügen](Attribute/Seele/L%C3%BCgen.md)  
+	- +2 [Überzeugen](Attribute/Seele/%C3%9Cberzeugen.md)  
 	- Wissen in Politik/Diplomatie  
   
 ---  
   
 #### **1. Level:**  
   
-- **Menschenkenntnis**: Du hast ein untrügliches Gespür für die Emotionen und inneren Schwächen anderer. Du kannst durch eine Einsicht-Probe herausfinden, welches soziale Talent bei jemanden am Besten funktionieren würde.  
+- **Menschenkenntnis**: Du hast ein untrügliches Gespür für die Emotionen und inneren Schwächen anderer. Du weißt instinktiv, welches soziale Talent bei jemanden am Besten funktionieren würde.  
 - **Meister des Feilschens**: Deine Erfahrung im Kauf und Verkauf von Informationen stärkt dein Talent zum Verhandeln. Du erhältst einen Bonus auf alle Verhandlungsproben.  
   
 #### **2. Level:**  
@@ -34,7 +36,7 @@
   
 #### **3. Level:**  
   
-- **Kontaktmann**: Du kannst einmal die Woche über dein Netzwerk einen speziellen Kontakt anfordern, der dir in einer bestimmten Situation hilft, sei es durch Informationen, Ressourcen oder Unterstützung.  
+- **Kontaktmann**: Wo immer du auch hinkommst – du kennst jemanden. In jedem neuen Gebiet oder jeder Stadt findest du eine bekannte Seele, die dir in einer bestimmten Lage weiterhelfen kann – sei es mit Informationen, Ressourcen oder diskreter Unterstützung  
 - **Menschlicher Lügendetektor**: Falschinformationen und Lügen gehören zu deinem täglich Brot. Du erhältst einen doppelten Bonus auf Einsicht-Proben um Unwahrheiten festzustellen.  
   
 #### **4. Level:**  
