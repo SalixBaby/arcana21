@@ -4,7 +4,7 @@
 > _Du bist ein Tüftler, ein Visionär, ein Meister der Mechanik und Innovation. Während andere auf Magie oder rohe Kraft setzen, verlässt du dich auf deinen Verstand, deine Werkzeuge und deine unermüdliche Kreativität. Mit geschickten Händen und einem brillanten Geist erschaffst du mechanische Wunderwerke, raffinierte Apparaturen und tödliche Konstruktionen. Ob ausgeklügelte Waffen, nützliche Apparaturen oder autonome Maschinen – deine Erfindungen sind dein größter Trumpf._  
   
 - **Klassenkategorie:** Dualklasse  
-- **Klassenfähigkeit:** Apparatur-Meister  
+- **Klassenfähigkeit:** Apparaturen  
 	- Du kannst einmal täglich ein kleine, nützliche Apparatur bauen. Apparaturen können dir Bonus auf Proben geben oder andere Effekte haben. Du kannst (Level x2) Apparaturen gleichzeitig funktional halten. Die Funktionen aller Apparaturen sollten mit dem SL abgesprochen werden.  
   
 ---  
@@ -15,7 +15,6 @@
     - Wissen und Bonus in Mathematik/Technik oder Schmiedekunst/Erzkunde  
     - Umgang mit [Tüftler Set](Ausr%C3%BCstungen/Ausr%C3%BCstungssets/T%C3%BCftler%20Set.md)  
     - +1 [Arkana](Attribute/Geist/Arkana.md)  
-    - +1 [Fokus](Attribute/Geist/Fokus.md)  
 - **Tüftler (Kampfklasse)**: Du konzentrierst dich auf das Erschaffen praktischer, mechanischer Lösungen für Probleme und Herausforderungen, von kleinen Apparaturen bis zu komplexen Maschinen.  
     - Wissen und Bonus in Mathematik/Technik oder Schmiedekunst/Erzkunde  
     - Umgang mit [Tüftler Set](Ausr%C3%BCstungen/Ausr%C3%BCstungssets/T%C3%BCftler%20Set.md) und [Diebes Set](Ausr%C3%BCstungen/Ausr%C3%BCstungssets/Diebes%20Set.md)  
@@ -48,5 +47,4 @@
 #### **5. Level:**  
   
 - **Meisterhafte Erfindung**: Du kannst 3 Konstrukte miteinander kombinieren um eine monumentale Maschine oder ein Meisterwerk der Technologie erschaffen. Dies könnte ein riesiger Kampfroboter, ein Fluggerät oder eine mächtige Verteidigungsanlage sein.  
-- **Autonome Intelligenz**: Deine Konstrukte können selbstständig denken und agieren. Ebenfalls sind diese in der Lage die Kontrolle über andere Maschinen zu ergreifen.  
-  
+- **Autonome Intelligenz**: Deine Konstrukte können selbstständig denken und agieren. Ebenfalls sind diese in der Lage die Kontrolle über andere Maschinen zu ergreifen.
