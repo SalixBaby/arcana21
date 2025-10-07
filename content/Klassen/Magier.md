@@ -5,7 +5,7 @@
   
 - **Klassenkategorie:** Zauberklasse  
 - **Klassenfähigkeit:** Überstrapazieren  
-	- Du kannst einmal pro Runde deine Grenzen überschreiten und einen Zauber wirken, als hättest du ihn mit (Level x) Manapunkten überladen – ohne diese Kosten zu zahlen. Doch die Überlastung hinterlässt Spuren: Du erleidest eine Erschöpfung.  
+	- Du kannst einmal pro Runde deine Grenzen überschreiten und einen Zauber wirken, als hättest du ihn mit (Level x) + 1 Manapunkten überladen – ohne diese Kosten zu zahlen. Doch die Überlastung hinterlässt Spuren: Du erleidest eine Erschöpfung.  
 ---  
   
 #### **Variationen:**  

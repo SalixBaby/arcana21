@@ -3,7 +3,7 @@
 ---
 > _Du bist ein Tüftler, ein Visionär, ein Meister der Mechanik und Innovation. Während andere auf Magie oder rohe Kraft setzen, verlässt du dich auf deinen Verstand, deine Werkzeuge und deine unermüdliche Kreativität. Mit geschickten Händen und einem brillanten Geist erschaffst du mechanische Wunderwerke, raffinierte Apparaturen und tödliche Konstruktionen. Ob ausgeklügelte Waffen, nützliche Apparaturen oder autonome Maschinen – deine Erfindungen sind dein größter Trumpf._  
   
-- **Klassenkategorie:** Dualklasse  
+- **Klassenkategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Apparaturen  
 	- Du kannst einmal täglich ein kleine, nützliche Apparatur bauen. Apparaturen können dir Bonus auf Proben geben oder andere Effekte haben. Du kannst (Level x2) Apparaturen gleichzeitig funktional halten. Die Funktionen aller Apparaturen sollten mit dem SL abgesprochen werden.  
   
@@ -11,11 +11,11 @@
   
 #### **Variationen:**  
   
-- **Hextech (Zauberklasse)**: Du kombinierst Magie mit Technologie und erschaffst Artefakte, die sowohl mechanisch als auch magisch funktionieren.  
+- **Hextech**: Du kombinierst externe Magie mit Technologie und erschaffst Artefakte, die sowohl mechanisch als auch magisch funktionieren.  
     - Wissen und Bonus in Mathematik/Technik oder Schmiedekunst/Erzkunde  
     - Umgang mit [Tüftler Set](Ausr%C3%BCstungen/Ausr%C3%BCstungssets/T%C3%BCftler%20Set.md)  
-    - +1 [Arkana](Attribute/Geist/Arkana.md)  
-- **Tüftler (Kampfklasse)**: Du konzentrierst dich auf das Erschaffen praktischer, mechanischer Lösungen für Probleme und Herausforderungen, von kleinen Apparaturen bis zu komplexen Maschinen.  
+    - Bonus auf [Arkana](Attribute/Geist/Arkana.md)  
+- **Tüftler**: Du konzentrierst dich auf das Erschaffen praktischer, mechanischer Lösungen für Probleme und Herausforderungen, von kleinen Apparaturen bis zu komplexen Maschinen.  
     - Wissen und Bonus in Mathematik/Technik oder Schmiedekunst/Erzkunde  
     - Umgang mit [Tüftler Set](Ausr%C3%BCstungen/Ausr%C3%BCstungssets/T%C3%BCftler%20Set.md) und [Diebes Set](Ausr%C3%BCstungen/Ausr%C3%BCstungssets/Diebes%20Set.md)  
     - Zugang zu Feuerwaffen (sollte mit dem SL abgesprochen werden)  
@@ -27,11 +27,11 @@
 #### **1. Level:**  
   
 - **Mechanische Präzision**: Du erhältst Bonus auf Proben, die Geschicklichkeit und Mechanik erfordern, wie das Deaktivieren von Fallen oder das Zusammenbauen komplexer Maschinen unter Zeitdruck.  
-- **Logisches Denken**: Du hast immer einen Plan. (Level x) pro Tag kannst du deinen Verbündeten helfen ohne in diesem Bereich talentiert zu sein. Dies muss vorher angesagt werden.  
+- **Automaton-Begleiter:** Du kannst einen kleinen mechanischen Begleiter erschaffen, der dir assistiert. Dieser kann je nach Bauweise Nachrichten überbringen, kleine Aufgaben erledigen oder sogar im Kampf unterstützen.  
   
 #### **2. Level:**  
   
-- **Automaton-Begleiter:** Du kannst einen kleinen mechanischen Begleiter erschaffen, der dir assistiert. Dieser kann je nach Bauweise Nachrichten überbringen, kleine Aufgaben erledigen oder sogar im Kampf unterstützen.  
+- **Logisches Denken**: Du hast immer einen Plan. (Level x) pro Tag kannst du deinen Verbündeten helfen ohne in diesem Bereich talentiert zu sein. Dies muss vorher angesagt werden.  
 - **Schwarzpulver-Magier**: Du kannst Schwarzpulver in deinen Apparaturen verbauen um diese zum richtigen Zeitpunkt zum explodieren zu bringen. Dies verursacht 1 Schaden an Kreaturen und deutlich mehr an Bauwerken.  
   
 #### **3. Level:**  

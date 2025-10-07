@@ -1,14 +1,14 @@
 ---
 {}
 ---
-> _Du bist der Gegenpol zur Zauberei – ein lebendiger Bannkreis, eine Mauer aus Wille und Stahl. Wo andere Magie entfesseln, bringst du Stille. Du durchdringst Illusionen, zerreißt arkane Muster und widerstehst selbst finsterstem Hexenwerk. Manche nennen dich ketzerisch, andere einen Wächter. Doch du weißt: Ohne Kontrolle ist Magie eine Waffe – und du bist das Schild._  
+> _Du bist der Gegenpol zur Zauberei – ein lebendiger Bannkreis, eine Mauer aus Wille und Stahl. Wo andere Magie entfesseln, bringst du Stille. Du durchdringst Illusionen, zerreißt arkane Muster und widerstehst selbst finsterstem Hexenwerk. Manche nennen dich ketzerisch, andere einen Beschützer. Doch du weißt: Ohne Kontrolle ist Magie eine Waffe – und du bist das Schild._  
   
 - **Klassenkategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Antimagie  
     - Du bist eine wandelnde Störung im magischen Gefüge. Durch innere Disziplin und deine besondere Verbindung zum Fluss der Magie kannst du ihr gezielt Energie entziehen, Zauber abschwächen oder ihre Wirkung brechen.  
   
 - ***Zusätzliche Erklärung für Antimagie:***  
-	- ***Antimagiepunkte:** Du erhältst eine Anzahl von (Level) x 2 Antimagiepunkte, welche sich bei einer Langen Rast regenerieren.  
+	- ***Antimagiepunkte:** Du erhältst eine Anzahl von 2 + (Level x) 2 Antimagiepunkte, welche sich bei einer Langen Rast regenerieren.  
 	- ***Effekt:** Wenn ein Zauber in deiner Nähe (Level x 10m) gesprochen wird, kannst du 2 AP dafür aufwenden, diesen Zauber um so viele Manapunkte zu verringern wie du Antimagiepunkte einsetzen möchtest. Mit dieser Fähigkeit kannst du ebenfalls Zauber der Stufe 0 durch Einsatz eines Antimagiepunktes gänzlich negieren.*  
   
 ---  
@@ -43,7 +43,7 @@
   
 #### **4. Level:**  
   
-- **Antimagischer Griff:** Du kannst einmal am Tag 1 AP dafür benutzten einen Gegner zu berühren und seine magischen Fähigkeiten für 1 Runde zu unterdrücken.  
+- **Antimagischer Griff:** Du kannst einmal am Tag 1 AP und 2 Antimagiepunkte dafür benutzten einen Gegner zu berühren und seine magischen Fähigkeiten für 1 Runde zu unterdrücken.  
 - **Entzauberter Geist:** Du bist immun gegen magische Gedankenbeeinflussung (z. B. Angst oder Illusion), es sei denn, der Effekt stammt von einer Gottheit oder einem uralten Wesen.  
   
 #### **5. Level:**  

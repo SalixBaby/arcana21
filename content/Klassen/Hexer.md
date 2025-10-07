@@ -3,24 +3,24 @@
 ---
 > _Du wandelst an der Schwelle zwischen Leben und Tod, Macht und Opfer. Deine Kraft entspringt nicht göttlicher Gnade oder disziplinierter Studien, sondern deinem eigenen Blut. Wo andere auf äußere Quellen der Magie angewiesen sind, ziehst du deine Macht aus deinem eigenen Körper – und zahlst dafür einen hohen Preis. Ob dunkle Rituale, verfluchte Klingen oder arkanes Wissen, das für andere tabu ist – du kennst keine Furcht, wenn es um das Streben nach Macht geht._  
   
-- **Klassenkategorie:** Dualklasse  
-- **Klassenfähigkeit:** Blutmagie  
-    - Du kannst deine eigene Gesundheit opfern, um magische oder kämpferische Vorteile zu erlangen. Jedes Mal, wenn du Gesundheit opferst, kannst du diese in eine andere Ressource umwandeln, abhängig von deiner Spezialisierung. Dies kannst du nur einmal pro Runde machen.  
+- **Klassenkategorie:** Kampfklasse  
+- **Klassenfähigkeit:** Blutpakt  
+    - Du kannst deine eigene Gesundheit opfern, um strategische oder kämpferische Vorteile zu erlangen. Jedes Mal, wenn du Gesundheit opferst, kannst du diese in eine andere Ressource umwandeln, abhängig von deiner Spezialisierung. Dies kannst du nur einmal pro Runde machen.  
   
 ---  
   
 #### **Variationen:**  
   
-- **Blutmagier (Zauberklasse):** Dein Körper ist eine unerschöpfliche Quelle arkaner Energie – solange du bereit bist, den Preis zu zahlen.  
-    - +1 [Fokus](Attribute/Geist/Fokus.md)  
-    - +1 [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
-    - Wissen in Religion/Okkultismus  
-    - **Blutmagie-Ausprägung:** _1AP_ - Du kannst 1 Gesundheit opfern, um 1 zusätzliches Mana zu erhalten.  
-- **Blutjäger (Kampfklasse):** Deine Angriffe sind tödlich und deine Waffe ist getränkt mit der Essenz deiner Feinde – und deiner eigenen.  
+- **Blutgefäß** – Dein Körper ist ein Reservoir roher Energie, doch jede Nutzung hat ihren Preis.  
     - +1 [Stärke](Attribute/K%C3%B6rper/St%C3%A4rke.md)  
     - +1 [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
     - Wissen in Religion/Okkultismus  
-    - **Blutmagie-Ausprägung:** _1AP_ - Du kannst 1 Gesundheit opfern, um 1 zusätzlichen Schaden zu verursachen.  
+    - **Blutpakt-Ausprägung** – _1AP_: Du kannst 1 Gesundheit opfern, um einen Bonus auf deine nächste körperliche Probe zu erhalten.  
+- **Blutklinge** – Deine Angriffe fließen mit der Essenz deiner Feinde und deiner eigenen Kraft, wodurch sie besonders verheerend werden.  
+    - +1 [Geschwindigkeit](Attribute/K%C3%B6rper/Geschwindigkeit.md)  
+    - +1 [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
+    - Wissen in Religion/Okkultismus  
+    - **Blutpakt-Ausprägung** – _1AP_: Du kannst 1 Gesundheit opfern, um 1 zusätzlichen Schaden mit deinem nächsten Angriff zu verursachen.  
   
 ---  
   
