@@ -1,10 +1,10 @@
 ---
 {}
 ---
->*Als Aristokrat bist du in den höchsten Kreisen der Gesellschaft aufgewachsen, vertraut mit den Feinheiten von Etikette, Diplomatie und politischen Intrigen. Deine Position gibt dir Macht, Einfluss und den Zugang zu Ressourcen, die anderen verwehrt bleiben. Du verstehst es, durch Verhandlungen und Charme Konflikte zu lösen und dein Umfeld zu deinem Vorteil zu manipulieren. Dein Name und Ruf sind deine wertvollsten Werkzeuge, die du meisterhaft einsetzt, um Macht zu gewinnen.*  
+>*Als Aristokrat bist du ein Meister gesellschaftlicher Finesse – ob durch Geburt, Bildung oder bloße Entschlossenheit. Du bewegst dich sicher in den oberen Kreisen, kennst die Sprache der Diplomatie, die Regeln der Etikette und die stillen Spiele der Macht. Vielleicht entstammst du einem alten Geschlecht, vielleicht hast du dir deinen Rang selbst erarbeitet – entscheidend ist, dass du weißt, wie Einfluss entsteht und wie man ihn wahrt. Mit Charme, Taktgefühl und berechnender Präsenz verstehst du es, Menschen zu lenken und Situationen zu deinem Vorteil zu formen. Dein Ruf ist deine Rüstung – und dein Wort oft wirkungsvoller als jedes Schwert.*  
   
 - **Klassekategorie:** Kampfklasse  
-- **Klassenfähigkeit:** Adlige Reputation  
+- **Klassenfähigkeit:** Reputation  
 	- Dein Name öffnet dir viele Türen. Du kannst deine Reputation nutzen, um eine Audienz, einen Gefallen oder besondere Behandlung zu erfragen. Deine Reputation wird durch Allianzen, Bündnisse und erfüllte Gefallen gesteigert und durch gebrochene Versprechen und falsche Etikette vermindert.    
   
 ---  
@@ -30,17 +30,17 @@
   
 #### **2. Level:**  
   
-- **Einschüchternde Präsenz**: Deine Stellung und dein Auftreten können Gegner verunsichern. Sie erhalten in deiner Umgebung (Level x) 10m einen Malus auf ihre Willensstärkeproben.  
-- **Inspirierende Präsenz**: Dein Auftreten kann deine Verbündeten zu Großem verhelfen. Sie erhalten in deiner Umgebung (Level x) 10m einen Bonus auf ihre Willensstärkeproben.  
+- **Einschüchternde Präsenz**: Deine Stellung und dein Auftreten können Gegner verunsichern. Sie erhalten in deiner Umgebung (Level x) 10m einen Malus auf ihre Willensstärke.  
+- **Inspirierende Präsenz**: Dein Auftreten kann deine Verbündeten zu Großem verhelfen. Sie erhalten in deiner Umgebung (Level x) 10m einen Bonus auf ihre Willensstärke.  
   
 #### **3. Level:**  
   
 - **Politische Intrige**: Du weißt, wie man Menschen gegeneinander ausspielt, um selbst Vorteile zu erlangen. Du kannst einmal pro Kampf versuchen eine Gegnergruppe gegeneinander aufhetzen, sodass sie sich selbst angreifen oder in einen Streit geraten. (Probe gegen Wille)  
-- **Manipulative Führung**: Du kannst deine Verbündeten durch gezielte Befehle stärken. 1x täglich kannst du einem Verbündeten in Hör- und Sehreichweite deine AP für eine Runde übertragen.  
+- **Manipulative Führung**: Durch scharfsinnige Worte und berechnende Befehle leitest du die Energie deines Handelns auf andere um. Du kannst 1x täglich in deinem Zug beliebig viele deiner verbleibenden Aktionspunkte (AP) auf einen oder mehrere Verbündete in Hör- und Sehweite übertragen.  
   
 #### **4. Level:**  
-- **Erzwungener Handel**: Deine diplomatischen Fähigkeiten sind so ausgereift, dass du sogar mit Feinden kurzfristige Abkommen erzwingen kannst. Einmal pro Tag kannst du eine Kampfaktion unterbrechen, um eine kurzzeitige Verhandlung zu führen, was dir und deinem Team Zeit oder Ressourcen verschafft.  
-- **Privilegierter Schutz**: Du erhältst von wohlgesonnenen Wachen oder Begleitern Schutz, was deinen Ausweichwert um +10 erhöht, solange du dich in einem wohlwollenden Gebiet und in Reichweite von Verbündeten aufhältst.  
+- **Erzwungener Handel**: Deine diplomatischen Fähigkeiten sind so ausgereift, dass du sogar mit Feinden kurzfristige Abkommen erzwingen kannst. Einmal pro Tag kannst du eine Kampfaktion unterbrechen, um eine kurzzeitige Verhandlung zu führen, was dir und deinem Team Zeit oder Ressourcen verschaffen kann.  
+- **Privilegierter Schutz**: Du erhältst von wohlgesonnenen Wachen oder Begleitern Schutz, was dein Ausweichen um +10 erhöht, solange du dich in einem wohlwollenden Gebiet und in der Nähe von Verbündeten aufhältst.  
   
 #### **5. Level:**  
   

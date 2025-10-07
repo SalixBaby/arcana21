@@ -16,11 +16,11 @@
   
 #### **Variationen:**  
   
-- **Tierfokus**: Deine Verbindung zu Tieren ist instinktiv, und sie sehen dich als einen der ihren.  
+- **Tierfokus**: Deine Verbindung zu Tieren ist instinktiv, und sie sehen dich als einen der ihren.  Du denkst, handelst und reagierst mit der Klarheit eines Raubtiers – wachsam, fokussiert und ungezähmt.  
     - Bonus auf [Instinkt](Attribute/K%C3%B6rper/Instinkt.md)  
     - Wissen und Bonus in Natur/Tiere und in Überleben/Orientierung  
     - Gestaltenwandlung in Tierform  
-- **Pflanzenfokus**: Du verstehst die Sprache der Pflanzen und kannst ihre Kräfte für dich nutzen.  
+- **Pflanzenfokus**: Du bist eins mit der ruhigen, unbeirrbaren Kraft des Pflanzenreichs. Du hörst das Flüstern alter Bäume, spürst das Wachstum junger Triebe und verstehst, wie das Leben selbst sich durch Wurzeln und Sporen fortsetzt.  
     - Bonus auf [Erfahrung](Attribute/Geist/Erfahrung.md)  
     - Wissen und Bonus in Natur/Tiere und in Überleben/Orientierung  
     - Gestaltenwandlung in Pflanzen- oder Pilzform  
@@ -30,11 +30,11 @@
 #### **1. Level:**  
   
 - **Ruf der Natur**: Du kannst in der Wildnis einfache Heilkräuter oder essbare Pflanzen ohne Proben finden. Wenn du 24 Stunden an einem Ort bleibst kannst du Informationen über die Natur Vorort erfahren.  
-- **Seelengefährte**: Deine tiefe Verbindung zur Natur manifestiert sich in einem treuen Begleiter. Je nach deiner Ausrichtung kann dies ein kleines Tier oder eine lebende Pflanze sein.  
+- **Seelengefährte**: Deine tiefe Verbindung zur Natur manifestiert sich in einem treuen Begleiter. Je nach deiner Ausrichtung kann dies ein kleines Tier oder eine lebende Pflanze sein. Diese sollte mit dem SL abgestimmt werden.  
   
 #### **2. Level:**  
   
-- **Natürliche Heilung**: Du kannst Wunden mit Kräutern der Natur versorgen. Einmal täglich kannst du jemanden außerhalb eines Kampfes um (Level) Gesundheit heilen.  
+- **Natürliche Heilung**: Du kannst Wunden mit Kräutern der Natur versorgen. Einmal täglich kannst du jemanden außerhalb eines Kampfes um (Level) Gesundheit heilen ohne Mana oder Heiltränke zu verwenden.  
 - **Naturverbunden**: Du erhältst einen Bonus auf Instinkt, Erfahrung und Intuition in der Wildnis.  
   
 #### **3. Level:**  
