@@ -41,7 +41,7 @@
 ### **4. Level:**  
   
 - **Vorpreschen:** Solange du dich auf direktem Weg zu einem Gegner befindest, den du sehen kannst, erhältst du beim Laufen und Springen keine Wiederholungssanktion.  
-- **Übermacht:** Niemand kann dir entkommen. Du erhältst auf Festhalten-, Lähmen- und Schupsen-Proben einen Bonus.   
+- **Übermacht:** Niemand kann dir entkommen. Du erhältst auf Festhalten-, Lähmen- und Schupsen-Proben einen doppelten Bonus.   
   
 ### **5. Level:**  
   
