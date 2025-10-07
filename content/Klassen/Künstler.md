@@ -3,7 +3,7 @@
 ---
 >*Ein Pinselstrich, eine Melodie, ein poetisches Wort – deine Kunst ist mehr als bloße Unterhaltung. Sie bewegt Herzen, beeinflusst Gedanken und kann sogar die Realität formen. Du bist nicht nur ein Darsteller oder Handwerker, sondern ein Schöpfer von Emotionen, Illusionen und Wahrheiten. Deine Werke inspirieren, verwirren oder manipulieren – je nachdem, was die Welt gerade braucht.*  
   
-- **Klassenkategorie:** Dualklasse  
+- **Klassenkategorie:** Kampfklasse  
 - **Klassenfähigkeit:** **Magische Kunst**  
     - Deine Kunst ist nicht nur schön – sie besitzt eine übernatürliche Wirkung. Ob durch Musik, Malerei, Poesie oder eine andere Ausdrucksform: Du kannst mit deiner Kunst das Verhalten anderer beeinflussen, magische Effekte hervorrufen oder sogar die Zukunft vorhersehen.  
   
@@ -11,13 +11,14 @@ ___
   
 #### **Variationen:**  
   
-- **Virtuose (Kampfklasse):** Dein Talent liegt in der Darbietung – sei es Musik, Schauspiel oder Tanz. Deine Auftritte können verzaubern, beruhigen oder aufwühlen.  
+- **Virtuose:** Dein Talent liegt in der Darbietung – sei es Musik, Schauspiel oder Tanz. Deine Auftritte können verzaubern, beruhigen oder aufwühlen.  
     - Bonus auf [Auftritt](Attribute/Seele/Auftritt.md)  
     - Bonus auf [Überzeugen](Attribute/Seele/%C3%9Cberzeugen.md)  
     - Wissen und doppelten Bonus in Kunst/Kultur  
-- **Visionär (Zauberklasse):** Deine Kunst ist nicht nur emotional, sondern fast prophetisch. Mit deinen Bildern, Skulpturen oder Schriften kannst du Visionen einfangen oder sogar in die Zukunft blicken.  
-    - +1 [Geschicklichkeit](Attribute/K%C3%B6rper/Geschicklichkeit.md)  
-    - +1 auf [Fokus](Attribute/Geist/Fokus.md)  
+- **Visionär:** Deine Kunst ist nicht nur emotional, sondern fast prophetisch. Mit deinen Bildern, Skulpturen oder Schriften kannst du Visionen einfangen oder sogar in die Zukunft blicken.  
+    - Bonus auf [Fokus](Attribute/Geist/Fokus.md)  
+    - +1 auf [Auftritt](Attribute/Seele/Auftritt.md)  
+    - +1 auf [Wahrnehmung](Attribute/Geist/Wahrnehmung.md)  
     - Wissen und doppelten Bonus in Kunst/Kultur  
   
 ----  
