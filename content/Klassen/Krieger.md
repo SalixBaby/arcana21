@@ -15,7 +15,7 @@ _Du bist der Inbegriff körperlicher Disziplin und kriegerischer Kunst. Während
     - +1 auf [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
     - +1 auf [Stärke](Attribute/K%C3%B6rper/St%C3%A4rke.md)  
     - Wissen in **Militär/Taktik** & **Überleben/Orientierung**  
-- **Gladiator:** Dein Kampf ist eine Show – und du bist der Star. Du kämpfst für das Publikum, für die Anerkennung, für den Applaus. Und dabei schlägst du genauso hart zu wie jeder andere Krieger – nur eben mit Stil.  
+- **Gladiator:** Dein Kampf ist eine Show – und du bist der Star. Du kämpfst für das Publikum, für die Anerkennung, für den Applaus. Und dabei schlägst du genauso hart zu wie jeder andere – nur eben mit Stil.  
     - +1 auf [Geschicklichkeit](Attribute/K%C3%B6rper/Geschicklichkeit.md)      
     - Bonus auf [Auftritt](Attribute/Seele/Auftritt.md)  
     - Wissen in **Militär/Taktik** & **Kunst/Kultur**  
@@ -40,7 +40,7 @@ _Du bist der Inbegriff körperlicher Disziplin und kriegerischer Kunst. Während
 #### **4. Level:**  
   
 - **Unnachgiebig**: Du kannst in deinem Zug bis zu 3 Ausdauerpunkte auf einmal einsetzen.  
-- **Eiserner Wille**: Du kannst dich gegen Kontrolle, Angst oder geistige Effekte mit einer Konstitutions-Probe wehren, auch wenn du eigentlich keine Probe machen dürftest.  
+- **Eiserner Wille**: Du kannst dich gegen Kontrolle, Angst oder geistige Effekte mit einer Probe wehren, auch wenn du eigentlich keine Probe machen dürftest.  
   
 #### **5. Level:**  
   
