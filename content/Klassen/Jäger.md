@@ -18,12 +18,12 @@ ___
 - **Waldläufer:** Du bist ein erfahrener Jäger, der seine Umgebung wie seine eigene Westentasche kennt. Egal ob Tier oder Monster– du weißt, wie du deine Beute verfolgst und zur Strecke bringst.  
     - Bonus auf [Instinkt](Attribute/K%C3%B6rper/Instinkt.md)  
     - +2 auf [Geschwindigkeit](Attribute/K%C3%B6rper/Geschwindigkeit.md)  
-    - Wissen in **Natur/Tiere** & **Medizin/Anatomie** & **Überleben/Orientierung**  
+    - Wissen in Natur/Tiere  & Überleben/Orientierung  
   
 - **Kopfgeldjäger:** Du jagst nicht nur Monster, sondern auch Menschen – und du lässt keine Beute entkommen. Du bist Meister darin, Zielpersonen aufzuspüren, Fallen zu stellen und sie lebendig oder tot abzuliefern.  
     - Bonus auf [Intuition](Attribute/Seele/Intuition.md)  
     - +1 auf [Geschicklichkeit](Attribute/K%C3%B6rper/Geschicklichkeit.md)  
-    - Wissen in **Architektur/Städteplanung** & **Medizin/Anatomie** & **Überleben/Orientierung**  
+    - Wissen in Architektur/Städteplanung & Überleben/Orientierung  
   
 ---  
   
@@ -44,7 +44,7 @@ ___
   
 #### **4. Level:**  
   
--  **Mustererkennung**: Jeder Fehlschlag birgt Informationen über das Ausweichmuster deines Gegners. Nach einem nicht getroffenen Angriff auf einen Gegner erhältst auf auf die nächste Angriffsprobe gegen diesen Gegner einen Bonus.  
+- **Mustererkennung**: Jeder Fehlschlag birgt Informationen über das Ausweichmuster deines Gegners. Nach einem nicht getroffenen Angriff auf einen Gegner erhältst auf auf die nächste Angriffsprobe gegen diesen Gegner einen Bonus.  
 - **Geländemeister**: Du kannst ein zusätzliches Bevorzugtes Terrain auswählen. Solange du dich in einem Bevorzugten Terrain aufhältst erhältst du zusätzlich +1 auf alle Proben.  
   
 #### **5. Level:**  
