@@ -1,7 +1,7 @@
 ---
 {}
 ---
-> _Du bist kein Wunderkind – du bist das Ergebnis von Disziplin, Studium und unermüdlicher Hingabe. Während andere Magie in sich spüren, hast du sie verstanden. Du denkst in Formeln, runischen Kreisen und arkanen Theoremen. Deine Macht liegt nicht im Gefühl, sondern im Wissen. Du hast Magie nicht geerbt – du hast sie dir verdient._  
+>_Du bist kein Wunderkind – du bist das Ergebnis von Disziplin, Studium und unermüdlicher Hingabe. Während andere Magie in sich spüren, hast du sie verstanden. Du denkst in Formeln, runischen Kreisen und arkanen Theoremen. Deine Macht liegt nicht im Gefühl, sondern im Wissen. Du hast Magie nicht geerbt – du hast sie dir verdient._  
   
 - **Klassenkategorie:** Zauberklasse  
 - **Klassenfähigkeit:** Magisches Archiv  
