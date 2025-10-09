@@ -23,4 +23,4 @@ Mellari gelten als friedvolle Beobachter und weise Wanderer. Sie leben im Einkla
 - Waldverbunden – Mellari besitzen eine angeborene Verbindung zur Natur und spüren magische oder vergiftete Pflanzen instinktiv.  
   
 **Volksfähigkeiten**:  
-- Hirschsprung – _1AP_: Mellari nutzen die Kraft ihrer kräftigen Beine, um sich mit Leichtigkeit durch Wälder und unebenes Gelände zu bewegen. Ihre Bewegungsrate wird diese Runde nicht durch natürliches Terrain verringert.
+- Hirschsprung – _1 AP_: Mellari nutzen die Kraft ihrer kräftigen Beine, um sich mit Leichtigkeit durch Wälder und unebenes Gelände zu bewegen. Ihre Bewegungsrate wird diese Runde nicht durch natürliches Terrain verringert.
