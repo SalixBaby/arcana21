@@ -23,4 +23,4 @@ Gnomen sind bekannt für ihre Begeisterung für Tüfteleien, Geschichten und Mag
 - Hartnäckig - Ihr unbeugsamer Geist macht sie widerstandsfähig gegen Beeinflussung. Mentale Zauber haben einen Malus auf Wirkung gegen sie.  
   
 **Volksfähigkeiten**:  
-- Scharfsinn – _40AP_: - Einmal pro Tag können Gnome innehalten, die Lage genau studieren und ihre Schlüsse ziehen. Bei einer gelungenen Geist-Probe erkennen sie zusätzliche Details, Zusammenhänge oder verborgene Aspekte, die anderen verborgen bleiben würden.
+- Scharfsinn – _40 AP_: - Einmal pro Tag können Gnome innehalten, die Lage genau studieren und ihre Schlüsse ziehen. Bei einer gelungenen Geist-Probe erkennen sie zusätzliche Details, Zusammenhänge oder verborgene Aspekte, die anderen verborgen bleiben würden.
