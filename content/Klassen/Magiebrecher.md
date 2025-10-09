@@ -1,7 +1,7 @@
 ---
 {}
 ---
-> _Du bist der Gegenpol zur Zauberei – ein lebendiger Bannkreis, eine Mauer aus Wille und Stahl. Wo andere Magie entfesseln, bringst du Stille. Du durchdringst Illusionen, zerreißt arkane Muster und widerstehst selbst finsterstem Hexenwerk. Manche nennen dich ketzerisch, andere einen Beschützer. Doch du weißt: Ohne Kontrolle ist Magie eine Waffe – und du bist das Schild._  
+>_Du bist der Gegenpol zur Zauberei – ein lebendiger Bannkreis, eine Mauer aus Wille und Stahl. Wo andere Magie entfesseln, bringst du Stille. Du durchdringst Illusionen, zerreißt arkane Muster und widerstehst selbst finsterstem Hexenwerk. Manche nennen dich ketzerisch, andere einen Beschützer. Doch du weißt: Ohne Kontrolle ist Magie eine Waffe – und du bist das Schild._  
   
 - **Klassenkategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Antimagie  
