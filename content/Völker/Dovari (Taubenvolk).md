@@ -23,7 +23,7 @@ Die Dovari pflegen eine ruhige, meditative Lebensweise und schätzen Musik, Harm
 - Melodische Stimme - Von Geburt an verfügen die Dovari über eine klare, harmonische Singstimme, die Herzen berührt und Aufmerksamkeit fesselt.  
   
 **Volksfähigkeiten**:  
-- Fliegen – _1AP_: Dovari können fliegen solange sie kein allzu großes zusätzliches Gewicht tragen.  
+- Fliegen – _1 AP_: Dovari können fliegen solange sie kein allzu großes zusätzliches Gewicht tragen.  
   
 _Zusätzliche Erklärung für Fliegen:_  
 - *Fliegen verlangt Konzentration*  

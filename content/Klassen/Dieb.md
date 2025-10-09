@@ -1,7 +1,7 @@
 ---
 {}
 ---
-> _Als Dieb bist du ein Meister der Schatten, der Täuschung und der schnellen Finger. Du bewegst dich lautlos durch die Straßen, kennst jede Abkürzung und jedes Versteck. Ob du Wertgegenstände entwendest, dich unbemerkt an Wachen vorbeischleichst oder dich aus scheinbar ausweglosen Situationen befreist – dein Geschick und dein Instinkt machen dich zu einem Überlebenskünstler. Doch nicht alle Diebe sind einfache Taschendiebe. Manche sind Informationshändler, Trickbetrüger oder Einbrecher, die in den höchsten Kreisen verkehren, ohne dass jemand ihre wahre Identität kennt._  
+>_Als Dieb bist du ein Meister der Schatten, der Täuschung und der schnellen Finger. Du bewegst dich lautlos durch die Straßen, kennst jede Abkürzung und jedes Versteck. Ob du Wertgegenstände entwendest, dich unbemerkt an Wachen vorbeischleichst oder dich aus scheinbar ausweglosen Situationen befreist – dein Geschick und dein Instinkt machen dich zu einem Überlebenskünstler. Doch nicht alle Diebe sind einfache Taschendiebe. Manche sind Informationshändler, Trickbetrüger oder Einbrecher, die in den höchsten Kreisen verkehren, ohne dass jemand ihre wahre Identität kennt._  
   
 - **Klassekategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Schnelle Reflexe  
@@ -29,7 +29,7 @@
   
 #### **2. Level:**  
   
-- **Langsam aber sicher**: Du kannst 1AP bezahlen um dir auf deine Heimlichkeitsproben einen Bonus zu geben. Diese Aktion ist von der Wiederholungssanktion ausgeschlossen.  
+- **Langsam aber sicher**: Du kannst 1 AP bezahlen um dir auf deine Heimlichkeitsproben einen Bonus zu geben. Diese Aktion ist von der Wiederholungssanktion ausgeschlossen.  
 - **Spürsinn**: Du hast ein untrügliches Gespür für verborgene Dinge. Du erhältst einen doppelten Bonus auf Proben zum Finden geheimer Türen, versteckter Mechanismen oder verborgener Fallen.  
   
 #### **3. Level:**  

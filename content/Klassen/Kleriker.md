@@ -1,7 +1,7 @@
 ---
 {}
 ---
-_Du bist kein einfacher Diener deines Gottes – du bist sein Schwert, sein Schild und seine vergeltende Hand. Während andere predigen und beten, ziehst du in den Kampf, um den Willen deines Glaubens mit Feuer und Stahl durchzusetzen. Ob als fanatischer Inquisitor, heiliger Krieger oder unerbittlicher Vollstrecker einer höheren Macht – du bist nicht nur ein Gläubiger, du bist eine lebende Waffe, geschmiedet im Namen deines Gottes._  
+>_Du bist kein einfacher Diener deines Gottes – du bist sein Schwert, sein Schild und seine vergeltende Hand. Während andere predigen und beten, ziehst du in den Kampf, um den Willen deines Glaubens mit Feuer und Stahl durchzusetzen. Ob als fanatischer Inquisitor, heiliger Krieger oder unerbittlicher Vollstrecker einer höheren Macht – du bist nicht nur ein Gläubiger, du bist eine lebende Waffe, geschmiedet im Namen deines Gottes._  
   
 - **Klassenkategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Göttlicher Schlag  

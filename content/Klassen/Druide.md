@@ -1,7 +1,7 @@
 ---
 {}
 ---
-> _Als Druide bist du ein Hüter der Natur, tief verbunden mit dem Gleichgewicht der Welt. Ob dichte Wälder, weite Steppen oder dunkle Sümpfe – du verstehst die Sprache der Wildnis und lebst in Einklang mit den Kräften der Erde. Deine Magie entspringt dem natürlichen Fluss des Lebens, und du kannst dich den Tieren oder Pflanzen anpassen, um ihre Stärken für dich zu nutzen. In der Natur bist du unaufhaltsam, und selbst in Städten spürst du ihre verborgenen Wurzeln._  
+>_Als Druide bist du ein Hüter der Natur, tief verbunden mit dem Gleichgewicht der Welt. Ob dichte Wälder, weite Steppen oder dunkle Sümpfe – du verstehst die Sprache der Wildnis und lebst in Einklang mit den Kräften der Erde. Deine Magie entspringt dem natürlichen Fluss des Lebens, und du kannst dich den Tieren oder Pflanzen anpassen, um ihre Stärken für dich zu nutzen. In der Natur bist du unaufhaltsam, und selbst in Städten spürst du ihre verborgenen Wurzeln._  
   
 - **Klassenkategorie:** Zauberklasse  
 - **Klassenfähigkeit:** Gestaltenwandlung  

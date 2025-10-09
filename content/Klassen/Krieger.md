@@ -1,7 +1,7 @@
 ---
 {}
 ---
-_Du bist der Inbegriff körperlicher Disziplin und kriegerischer Kunst. Während andere sich auf Magie oder Tricks verlassen, vertraust du auf Training, Willenskraft und reine Entschlossenheit. Du bist ein Meister der Waffe, ein Bollwerk aus Stahl und Entschlossenheit, ein Fels in der Brandung des Chaos. Deine Kraft liegt nicht nur in deiner Stärke, sondern in deiner Fähigkeit, durchzuhalten, zuzuschlagen – und niemals aufzugeben._  
+>_Du bist der Inbegriff körperlicher Disziplin und kriegerischer Kunst. Während andere sich auf Magie oder Tricks verlassen, vertraust du auf Training, Willenskraft und reine Entschlossenheit. Du bist ein Meister der Waffe, ein Bollwerk aus Stahl und Entschlossenheit, ein Fels in der Brandung des Chaos. Deine Kraft liegt nicht nur in deiner Stärke, sondern in deiner Fähigkeit, durchzuhalten, zuzuschlagen – und niemals aufzugeben._  
   
 - **Klassenkategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Kriegerherz  

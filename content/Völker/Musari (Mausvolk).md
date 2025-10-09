@@ -23,4 +23,4 @@ Musari sind äußerst soziale Wesen, die auf Kooperation, gegenseitige Hilfe und
 - Nagezähne – Musaris kräftigen Zähne sind weit mehr als bloße Werkzeuge. Sie können damit Seile, Fesseln oder sogar dünnes Metall mühelos durchbeißen.  
   
 **Volksfähigkeiten**:  
-- Adrenalin – _0AP_: - Musari können einmal am Tag verborgene Kräfte mobilisieren uns somit 2 zusätzliche Aktionspunkte aus ihrem nächsten Zug vorziehen.
+- Adrenalin – _0 AP_: - Musari können einmal am Tag verborgene Kräfte mobilisieren uns somit 2 zusätzliche Aktionspunkte aus ihrem nächsten Zug vorziehen.

@@ -32,7 +32,7 @@
 #### **2. Level:**  
   
 - **Gerüchte streuen**: Einmal am Tag kannst du gezielt eine Information streuen oder ein Gerücht verbreiten. Je nachdem, wie glaubhaft es und wie groß dein Netzwerk ist, kann es innerhalb der nächsten Stunden oder Tage Auswirkungen haben und sich ausbreiten.  
-- **Schwachpunkt erkennen**: Du kannst 2AP dafür nutzen um dir einen Gegner genauer anzuschauen. Du erhältst für diesen Kampf einen Bonus auf alle Angriffe gegen dieses Ziel.  
+- **Schwachpunkt erkennen**: Du kannst 2 AP dafür nutzen um dir einen Gegner genauer anzuschauen. Du erhältst für diesen Kampf einen Bonus auf alle Angriffe gegen dieses Ziel.  
   
 #### **3. Level:**  
   

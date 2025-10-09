@@ -24,7 +24,7 @@ Sie haben eine besondere Faszination für glänzende Gegenstände, überlieferte
 - Gutes Gedächtnis - Besonders Gesichter brennen sich tief in ihr Gedächtnis ein. Ein Corvum vergisst selten, wem er begegnet ist – sei es Freund oder Feind.  
   
 **Volksfähigkeiten**:  
-- Fliegen – _1AP_: Corvum können fliegen solange sie kein allzu großes zusätzliches Gewicht tragen.  
+- Fliegen – _1 AP_: Corvum können fliegen solange sie kein allzu großes zusätzliches Gewicht tragen.  
   
 _Zusätzliche Erklärung für Fliegen:_  
 - *Fliegen verlangt Konzentration*  

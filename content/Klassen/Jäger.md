@@ -1,7 +1,7 @@
 ---
 {}
 ---
-> _Geduld, Präzision und Überlebenskunst – das sind die Waffen eines Jägers. Während andere mit roher Gewalt oder Magie kämpfen, verlässt du dich auf dein Geschick, deine Erfahrung und dein Wissen über Beute und Umgebung. Ob du in der Wildnis auf der Jagd bist oder in der Stadt nach einer Zielperson suchst – nichts entgeht deinen scharfen Sinnen. Du kennst die Spuren deiner Beute, weißt, wo sie sich versteckt, und schlägst zu, wenn der Moment am günstigsten ist._  
+>_Geduld, Präzision und Überlebenskunst – das sind die Waffen eines Jägers. Während andere mit roher Gewalt oder Magie kämpfen, verlässt du dich auf dein Geschick, deine Erfahrung und dein Wissen über Beute und Umgebung. Ob du in der Wildnis auf der Jagd bist oder in der Stadt nach einer Zielperson suchst – nichts entgeht deinen scharfen Sinnen. Du kennst die Spuren deiner Beute, weißt, wo sie sich versteckt, und schlägst zu, wenn der Moment am günstigsten ist._  
   
 - **Klassenkategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Todfeind  

@@ -1,7 +1,7 @@
 ---
 {}
 ---
-_Du dienst einer höheren Macht – sei es ein Gott, ein spirituelles Prinzip oder dem Licht selbst. Während andere Zauber wirken, um Macht zu entfalten, kanalisierst du deine Magie, um zu schützen, zu heilen und zu segnen. Du bist das spirituelle Rückgrat deiner Gefährten, ein Leuchtturm in der Dunkelheit und ein Sprecher für das Gute. Deine Kraft ist keine Waffe, sondern ein Geschenk – das du weise, aber bestimmt einzusetzen weißt._  
+>_Du dienst einer höheren Macht – sei es ein Gott, ein spirituelles Prinzip oder dem Licht selbst. Während andere Zauber wirken, um Macht zu entfalten, kanalisierst du deine Magie, um zu schützen, zu heilen und zu segnen. Du bist das spirituelle Rückgrat deiner Gefährten, ein Leuchtturm in der Dunkelheit und ein Sprecher für das Gute. Deine Kraft ist keine Waffe, sondern ein Geschenk – das du weise, aber bestimmt einzusetzen weißt._  
   
 - **Klassenkategorie:** Zauberklasse  
 - **Klassenfähigkeit:** Stilles Gebet  
@@ -39,7 +39,7 @@ _Du dienst einer höheren Macht – sei es ein Gott, ein spirituelles Prinzip od
   
 #### **4. Level**  
   
-- **Segen des Kampfes**: Im Kampf auf Leben und Tod regenerieren alle Verbündeten im Umkreis von 5m beim Anfang ihres Zuges eine beliebige Ressource (Mana, Ausdauer, Inspiration, Gesundheit)  
+- **Segen des Kampfes**: Im Kampf auf Leben und Tod regenerieren alle Verbündeten im Umkreis von 5m beim Anfang ihres Zuges eine beliebige Ressource (Mana, Ausdauer, Inspiration, Gesundheit).  
 - **Segen des Lebens**: Du kannst einmal pro Tag außerhalb des Kampfes einen Verbündeten mit einem Segen belegen, der diesen einmalig vor dem Tod schützt. Wenn der Verbündete auf 0 oder weniger Gesundheit fallen würde, fällt er stattdessen auf 1 Gesundheit. Der Segen hält so lange bist du ihn erneut vergibst.  
   
 #### **5. Level:**  

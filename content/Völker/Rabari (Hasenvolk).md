@@ -23,4 +23,4 @@ Rabari sind für ihre Lebhaftigkeit, Vorsicht und soziale Stärke bekannt. Sie l
 - Nervöses Gemüt – Rabari reagieren blitzschnell auf Überraschungen oder neue Situationen, was ihnen Bonus auf Initiativeproben verschafft.  
   
 **Volksfähigkeiten**:  
-- Überlebensinstinkt – _2AP_: Rabari können einmal am Tag bei einer Probe zum Entkommen, Verstecken oder Überleben einen doppelten Bonus erhalten.
+- Überlebensinstinkt – _2 AP_: Rabari können einmal am Tag bei einer Probe zum Entkommen, Verstecken oder Überleben einen doppelten Bonus erhalten.

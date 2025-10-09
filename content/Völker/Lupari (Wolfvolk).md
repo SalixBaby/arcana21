@@ -23,4 +23,4 @@ Lupari leben in enger Gemeinschaft – ihr Sozialverhalten ist stark von Rudelst
 - Rudelinstinkt – Lupari spüren die Nähe anderer ihres Volkes instinktiv, selbst ohne Sicht- oder Hörkontakt.  
   
 **Volksfähigkeiten**:  
-- Geruchssinn – _2AP_: Ein Lupari kann einmal am Tag seine feine Nase einsetzen, um Kreaturen im Umkreis von 10m x Level zu erschnüffeln.
+- Geruchssinn – _2 AP_: Ein Lupari kann einmal am Tag seine feine Nase einsetzen, um Kreaturen im Umkreis von 10m x Level zu erschnüffeln.
