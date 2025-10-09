@@ -23,7 +23,7 @@ Owlins gelten als wachsam, weise und traditionsbewusst. Sie legen großen Wert a
 - Lautlose Flügel – Ihre federbedeckten Flügel bewegen sich fast geräuschlos. Das macht sie unauffällig in der Bewegung und schwerer auszumachen, solange sie nicht direkt ins Licht treten.  
   
 **Volksfähigkeiten**:  
-- Fliegen – _1AP_: Owlins können fliegen solange sie kein allzu großes zusätzliches Gewicht tragen.  
+- Fliegen – _1 AP_: Owlins können fliegen solange sie kein allzu großes zusätzliches Gewicht tragen.  
   
 _Zusätzliche Erklärung für Fliegen:_  
 - *Fliegen verlangt Konzentration*  
