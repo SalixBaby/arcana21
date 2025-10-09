@@ -23,5 +23,5 @@ Anuri leben meist in eng verbundenen Gemeinschaften, in denen Entscheidungen gem
 - Schleimhaut - Die feuchte, glatte Haut der Anuri macht es schwierig, sie mit bloßen Händen zu packen oder festzuhalten.  
   
 **Volksfähigkeiten**:  
-- Sprungkraft – _2AP_: Anuri können ihre kräftigen Beine dazu nutzen um omnidirektional und doppelt so weit wie normal zu springen.  
-- Klebrige Zunge – _1AP_: Ihre lange, flexible Zunge erlaubt es Anuri, Objekte oder kleine Kreaturen aus bis zu 3 Feldern Entfernung zu sich heranzuziehen.
+- Sprungkraft – _2 AP_: Anuri können ihre kräftigen Beine dazu nutzen um omnidirektional und doppelt so weit wie normal zu springen.  
+- Klebrige Zunge – _1 AP_: Ihre lange, flexible Zunge erlaubt es Anuri, Objekte oder kleine Kreaturen aus bis zu 3 Feldern Entfernung zu sich heranzuziehen.
