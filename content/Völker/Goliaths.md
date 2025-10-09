@@ -23,4 +23,4 @@ Das Leben der Goliaths ist geprägt von Stärke, Ausdauer und Wettbewerb. Ihre G
 - Wettkampfinstinkt – Sie suchen stets die Herausforderung. Goliaths sind schwer zu entmutigen und blühen besonders auf, wenn sie sich mit ebenbürtigen Gegnern messen können.  
   
 **Volksfähigkeiten:**  
-- Bergkraft – _1AP_: Einmal pro Kampf können Goliaths all ihre Kraft in einen Angriff oder eine Anstrengung legen. Sie erhalten dabei einen doppelten Bonus auf eine Probe, die rohe Stärke erfordert (z. B. Heben, Stoßen, Zerschmettern).
+- Bergkraft – _1 AP_: Einmal pro Kampf können Goliaths all ihre Kraft in einen Angriff oder eine Anstrengung legen. Sie erhalten dabei einen doppelten Bonus auf eine Probe, die rohe Stärke erfordert (z. B. Heben, Stoßen, Zerschmettern).
