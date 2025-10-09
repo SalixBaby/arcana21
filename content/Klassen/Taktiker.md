@@ -1,7 +1,7 @@
 ---
 {}
 ---
-> _Du kämpfst nicht mit Muskelkraft, sondern mit Verstand. Für dich ist jedes Schlachtfeld ein Schachbrett, jeder Zug wohlüberlegt, jeder Befehl durchdacht. Ob auf dem Feld, im Hinterhalt oder in der Halle der Kriegsherren – deine Stärke liegt im Überblick. Du koordinierst, lenkst und manipulierst den Fluss des Kampfes, bis der Sieg unausweichlich ist. Du bist kein Einzelkämpfer – du machst aus Gruppen eine Streitmacht._  
+>_Du kämpfst nicht mit Muskelkraft, sondern mit Verstand. Für dich ist jedes Schlachtfeld ein Schachbrett, jeder Zug wohlüberlegt, jeder Befehl durchdacht. Ob auf dem Feld, im Hinterhalt oder in der Halle der Kriegsherren – deine Stärke liegt im Überblick. Du koordinierst, lenkst und manipulierst den Fluss des Kampfes, bis der Sieg unausweichlich ist. Du bist kein Einzelkämpfer – du machst aus Gruppen eine Streitmacht._  
   
 - **Klassenkategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Kriegsführung  
@@ -38,7 +38,7 @@
   
 #### **2. Level:**  
   
-- **Taktisches Kommando**: Du kannst 1AP ausgeben, um einem Verbündeten in Hörweite 1 AP für seinen nächsten Zug zu übertragen. Diese Fähigkeit untersteht ebenfalls der Wiederholungssanktion.  
+- **Taktisches Kommando**: Du kannst 1 AP ausgeben, um einem Verbündeten in Hörweite 1 AP für seinen nächsten Zug zu übertragen. Diese Fähigkeit untersteht ebenfalls der Wiederholungssanktion.  
 - **Taktischer Rückzug**: Du erkennst, wann ein Kampf nicht mehr zu gewinnen ist. Während du und deine Verbündeten euch zurückzieht oder versucht vor einem Kampf zu fliehen, erhalten alle einen Bonus auf Bewegungsrate und Ausweichen.  
   
 #### **3. Level:**  
