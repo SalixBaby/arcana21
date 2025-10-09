@@ -23,4 +23,4 @@ Menschen sind anpassungsfähig, ehrgeizig und vielseitig. Ihre Kulturen reichen 
 - Breites Spektrum – Menschen sind vielseitig und anpassungsfähig. Bei der Charaktererschaffung dürfen sie eine zusätzliche Zauberausrichtung, Wissensrichtung, Sprache oder ein Ausrüstungsset wählen.  
   
 **Volksfähigkeiten**:  
-- Hoffnungsschimmer – _1AP_: Menschen können selbst im dunkelsten Augenblick einen Funken Hoffnung entdecken. Einmal pro Kampf, wenn die Lage aussichtslos erscheint, können sie auf eine Probe, die stilistisch passt, einen doppelten Bonus erhalten.
+- Hoffnungsschimmer – _1 AP_: Menschen können selbst im dunkelsten Augenblick einen Funken Hoffnung entdecken. Einmal pro Kampf, wenn die Lage aussichtslos erscheint, können sie auf eine Probe, die stilistisch passt, einen doppelten Bonus erhalten.
