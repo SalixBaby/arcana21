@@ -1,7 +1,7 @@
 ---
 {}
 ---
-_Du fürchtest den Tod nicht – du herrschst über ihn. Während andere sich dem Unvermeidlichen beugen, hast du Wege gefunden, es zu umgehen, zu kontrollieren oder gar umzukehren. Deine Magie durchdringt die Grenze zwischen Leben und Verfall, und du wandelst auf Pfaden, die selbst unter Zauberwirkern als verboten gelten. Ob als pragmatischer Leichenbeschwörer, unheilvoller Totenpriester oder verbannter Seelenformer – du sprichst mit dem Jenseits, und das Jenseits hört dir zu._  
+>_Du fürchtest den Tod nicht – du herrschst über ihn. Während andere sich dem Unvermeidlichen beugen, hast du Wege gefunden, es zu umgehen, zu kontrollieren oder gar umzukehren. Deine Magie durchdringt die Grenze zwischen Leben und Verfall, und du wandelst auf Pfaden, die selbst unter Zauberwirkern als verboten gelten. Ob als pragmatischer Leichenbeschwörer, unheilvoller Totenpriester oder verbannter Seelenformer – du sprichst mit dem Jenseits, und das Jenseits hört dir zu._  
   
 - **Klassenkategorie:** Zauberklasse  
 - **Klassenfähigkeit:** Nekromantie  
@@ -29,7 +29,7 @@ _Du fürchtest den Tod nicht – du herrschst über ihn. Während andere sich de
   
 #### **2. Level:**  
   
-- **Jenseitsflüstern**: Wenn du einen Gegner getötet hast kannst du ein Fragment seiner Seele an dich binden. Du kannst bis zu (Level) x Fragmente gleichzeitig halten und dich mit diesen Fragmenten unterhalten. Diese Fragmente können dir Bonus in Wissenskategorien geben, die der SL für sinnig erachtet.  
+- **Jenseitsflüstern**: Wenn du einen Gegner getötet hast kannst du ein Fragment seiner Seele an dich binden. Du kannst bis zu (Level) x Fragmente gleichzeitig halten und dich mit diesen Fragmenten unterhalten. Diese Fragmente können dir Bonus in Wissenskategorien geben, die der SL für sinnvoll erachtet.  
 - **Unheilige Präsenz:** Deine bloße Aura flößt Furcht ein. Gegner in deiner Nähe (Level x 5m) erhalten -1 auf alle Proben.  
   
 #### **3. Level:**  
@@ -45,4 +45,4 @@ _Du fürchtest den Tod nicht – du herrschst über ihn. Während andere sich de
 #### **5. Level:**  
   
 - **Schwarze Bindung:** Du kannst einmal wöchentlich versuchen eine legendäre Kreatur (z.B. Drache) unter deiner Kontrolle als Untoten wiederbeleben. Hierfür benötigst du ein Ritual, was über mehrere Stunden geht und einen geeigneten Korpus. Du kannst maximal eine legendäre Kreatur gleichzeitig kontrollieren.  
-- **Unsterbliche Essenz:** Der Tod ist nicht das Ende. Zumindest nicht für dich. Dein Körper altert nicht, Krankheiten und Erschöpfung können dir nichts anhaben. Wenn du stirbst, kehrst du nach sieben Jahren an einem bedeutsamen Ort zurück – verändert, aber lebendig. Unsterblichkeit hat ihren Preis. Sie schützt den Körper, doch sie zehrt an Geist und Seele.
+- **Unsterbliche Essenz:** Der Tod ist nicht das Ende. Zumindest nicht für dich. Dein Körper altert nicht, Krankheiten und Erschöpfung können dir nichts anhaben. Wenn du stirbst, kehrst du nach sieben Jahren an einem bedeutsamen Ort zurück – verändert, aber lebendig. Unsterblichkeit hat ihren Preis.
