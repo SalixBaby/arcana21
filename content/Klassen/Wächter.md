@@ -1,7 +1,7 @@
 ---
 {}
 ---
-_Als Wächter bist du der Schild in der Dunkelheit, das Auge im Sturm und die erste Linie der Verteidigung. Deine Aufgabe ist nicht der Sieg, sondern der Schutz – von Menschen, Orten oder Geheimnissen. Ob du nun jemanden bewachst, Hinweise suchst oder Bedrohungen analysierst, dein Blick ist scharf, dein Wille standhaft. Du bist kein Recke auf dem Schlachtfeld – du bist die Mauer, an der das Chaos zerschellt._  
+>_Als Wächter bist du der Schild in der Dunkelheit, das Auge im Sturm und die erste Linie der Verteidigung. Deine Aufgabe ist nicht der Sieg, sondern der Schutz – von Menschen, Orten oder Geheimnissen. Ob du nun jemanden bewachst, Hinweise suchst oder Bedrohungen analysierst, dein Blick ist scharf, dein Wille standhaft. Du bist kein Recke auf dem Schlachtfeld – du bist die Mauer, an der das Chaos zerschellt._  
   
 - **Klassenkategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Niedergang  
@@ -15,7 +15,7 @@ _Als Wächter bist du der Schild in der Dunkelheit, das Auge im Sturm und die er
     - +1 auf [Wahrnehmung](Attribute/Geist/Wahrnehmung.md)  
     - +1 auf [Geschwindigkeit](Attribute/K%C3%B6rper/Geschwindigkeit.md)  
     - Wissen in Medizin/Anatomie  
-- **Hirte**: Du schützt nicht irgendwen, sondern jeden und alles. Du bist gleichzeitig Wächter, Richter und leider manchmal auch Henker.  
+- **Hirte**: Du schützt nicht irgendwen, sondern jeden und alles. Du bist gleichzeitig Beschützer, Richter und leider manchmal auch Henker.  
     - +1 auf [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
     - +1 auf [Wahrnehmung](Attribute/Geist/Wahrnehmung.md)  
     - Wissen in Politik/Diplomatie  
@@ -35,7 +35,7 @@ _Als Wächter bist du der Schild in der Dunkelheit, das Auge im Sturm und die er
 #### **3. Level:**  
   
 - **Beschützer**: Wenn ein Verbündeter direkt neben dir physischen Schaden erleidet, kannst du als Reaktion 1 AP bezahlen, um die Hälfte (aufgerundet) des Schadens auf dich zu nehmen.  
-- **Stillstand**: Wenn du einen Gegner mit einem Gelegenheitsangriff triffst, kann dieser Gegner in dieser Runde nicht mehr Laufen oder Springen. Ebenfalls erhältst du auf Gelegenheitsangriffe einen Bonus und kannst auch Gegner treffen, die Rückzug verwenden.  
+- **Stillstand**: Wenn du einen Gegner mit einem Gelegenheitsangriff triffst, kann dieser Gegner in dieser Runde nicht mehr Laufen, Fliegen oder Springen. Ebenfalls erhältst du auf Gelegenheitsangriffe einen Bonus und kannst auch Gegner treffen, die Rückzug verwenden.  
   
 #### **4. Level:**  
   
@@ -45,4 +45,4 @@ _Als Wächter bist du der Schild in der Dunkelheit, das Auge im Sturm und die er
 #### **5. Level:**  
   
 - **Festung**: Du bist eine unüberwindbare Schutzmauer für deine Verbündeten. Alle Gegner, die dich fokussieren können, tun dies auch in jedem Kampf.  
-- **Ein Leben für ein Leben**: Du bist dir nicht sicher wie, aber wenn jemand in deiner Nähe stirbt, kannst du dein Leben opfern, um ihn ins Leben zurückzuholen. Dein Tod ist dabei jedoch endgültig.
+- **Ein Leben für ein Leben**: Du bist dir nicht sicher wie, aber wenn eine Person in deiner Nähe stirbt, kannst du dein Leben opfern, um sie ins Leben zurückzuholen. Dein Tod ist dabei jedoch endgültig.
