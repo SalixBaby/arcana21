@@ -1,7 +1,7 @@
 ---
 {}
 ---
-> _Wenn andere fliehen, stürmst du voran. In deinem Herzen brennt ein Feuer, das weder Vernunft noch Schmerz kennt. Du bist rohe Kraft, entfesselter Zorn und ungebändigter Wille. Wo andere auf Strategie setzen, antwortest du mit Instinkt. Du bist Sturm, Beben und Bestie zugleich – ein Krieger, der seine Wut zur Waffe gemacht hat._  
+>_Wenn andere fliehen, stürmst du voran. In deinem Herzen brennt ein Feuer, das weder Vernunft noch Schmerz kennt. Du bist rohe Kraft, entfesselter Zorn und ungebändigter Wille. Wo andere auf Strategie setzen, antwortest du mit Instinkt. Du bist Sturm, Beben und Bestie zugleich – ein Krieger, der seine Wut zur Waffe gemacht hat._  
   
 - **Klassenkategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Raserei  
