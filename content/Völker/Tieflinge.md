@@ -23,9 +23,9 @@ Tieflinge wachsen häufig in einer Gesellschaft auf, die ihnen mit Misstrauen od
 - Verlockende Aura – Tieflinge haben eine Ausstrahlung die gleichermaßen faszinierend wie beunruhigend wirkt. Sie ziehen die Aufmerksamkeit auf sich, ob sie wollen oder nicht.  
   
 **Volksfähigkeiten**:  
-- Höllenglut – _1AP_: Wenn ein Tiefling Schaden erleidet, kann er einmal pro Tag die in ihm lodernde infernale Macht entfesseln. Als Reaktion schlägt ein Funken höllischer Energie zurück und trifft den Angreifer.  
+- Höllenglut – _1 AP_: Wenn ein Tiefling Schaden erleidet, kann er einmal pro Tag die in ihm lodernde infernale Macht entfesseln. Als Reaktion schlägt ein Funken höllischer Energie zurück und trifft den Angreifer.  
   
-*Zusätzliche Erklärung für Höllenglut:  
+_Zusätzliche Erklärung für Höllenglut:_  
 - *Trifft einen Gegner der einem Schaden zugefügt hat*  
 - *Verursacht (Level / 2 aufgerundet) infernalen Schaden*  
 - *Attribut für den Angriff kann mit dem SL abgesprochen werden*
