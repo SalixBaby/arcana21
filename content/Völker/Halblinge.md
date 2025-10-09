@@ -23,4 +23,4 @@ Halblinge sind ein lebensfrohes, geselliges Volk, das Wert auf Gemeinschaft, gut
 - Schlüpfrig - Dank ihrer geringen Statur schlüpfen Halblinge selbst durch enge Lücken und können mühelos zwischen den Beinen größerer Gegner hindurchflitzen.  
   
 **Volksfähigkeiten**:  
-- Glückskind – _1AP_: Einmal pro Tag dürfen Halblinge ihr Glück herausfordern und einen misslungenen Wurf wiederholen.
+- Glückskind – _1 AP_: Einmal pro Tag dürfen Halblinge ihr Glück herausfordern und einen misslungenen Wurf wiederholen.
