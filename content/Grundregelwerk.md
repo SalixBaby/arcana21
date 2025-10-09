@@ -240,33 +240,33 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
     - Beispiel: Nutzt eine Figur 2 AP für Reaktionen, hat sie in ihrem nächsten Zug nur noch 2 AP.  
   
  **4.1.5 Mögliche Aktionen**  
-- **Laufen / Schwimmen / Fliegen** – _1AP_: Nutze deine Bewegungsrate, um dich über das Schlachtfeld zu bewegen. *(1 Bewegungsrate = 1 Feld = 1m)*  
-- **Springen** – _1AP_: Überwinde Hindernisse oder schließe die Distanz zu deinem Ziel. *(Standard: Sprungwert des Volkes + Stärke | Kann mit Probe vergrößert werden)*  
-- **Aufstehen** – _1AP_: Stehe auf, nachdem du auf dem Boden lagst oder gestürzt bist.  
-- **Verstecken** – _1AP_: Schlüpfe in den Schatten und werde unsichtbar für deine Feinde. *(Geschicklichkeitsprobe gegen Wahrnehmung)*  
-- **Ausweichen** – _1AP_: Erschwere es deinen Gegnern dich zu treffen. *(Malus auf Angriffe gegen dich für die Runde)*  
-- **Rückzug** - *1AP*. Verlasse den Angriffsbereich eines Gegners ohne einen Gelegenheitsangriff zu provozieren.  
-- **Festhalten** – _1AP_: Greife einen Gegner und verhindere seine Bewegungen. *(Stärkeproben-Wettstreit. Reduziert Bewegungsrate des Ziels auf 0)*  
-- **Lähmen** – _1AP_: Ist dein Gegner bereits festgehalten, kannst du versuchen, ihn vollständig zu lähmen. *(Stärkeproben-Wettstreit. Reduziert deine Bewegungsrate auf 0)*  
-- **Befreien** - *1AP*. Befreie dich aus einem Festhalten oder einer Lähmung. *(Stärkeproben-Wettstreit oder kreative Lösung)*  
-- **Schubsen** – _1AP_: Bringe einen Gegner aus dem Gleichgewicht oder stoße ihn von dir weg. *(Stärkeproben-Wettstreit. 1 Stärke = 1/2 Feld aufgerundet)*  
-- **Helfen** – _1AP_: Helfe einem Mistreiter bei einer bevorstehenden Angriffsprobe oder einer Probe, in der du talentiert bist. *(Bonus auf nächste Probe)*  
-- **Verwenden** – _1AP_: Interagiere mit einem Gegenstand *(z.B. Trank trinken, Tür öffnen, Waffe ziehen etc.)*  
-- **Angriff** – _1AP_: Greife einen Gegner physisch an. *(Angriffsprobe)*  
-- **Zaubern** – _1AP_: Nutze deine Magie um anzugreifen, zu helfen oder deine Umgebung zu verändern. *(Arkanaprobe*)  
-- **Zielen** - *1AP*. Nimm dir etwas Zeit für deinen Angriff oder Zauber. *(Bonus auf nächsten Angriff oder Zauber in dieser Runde)*  
-- **Überladen** – _1AP_: Lade deinen Zauber mit Mana auf. *(z.B. mehr Schaden verursachen, mehr Ziele zu bestimmen, größeren Wirkungsbereich etc.)*  
-- **Aufrechthalten** – _1AP_: Halte einen laufenden Zauber länger aufrecht. Max. einen Zauber gleichzeitig. *(Fokusprobe gegen 10 + 2x erlittenen Schaden in der Runde)*  
+- **Laufen / Schwimmen / Fliegen** – _1 AP_: Nutze deine Bewegungsrate, um dich über das Schlachtfeld zu bewegen. *(1 Bewegungsrate = 1 Feld = 1m)*  
+- **Springen** – _1 AP_: Überwinde Hindernisse oder schließe die Distanz zu deinem Ziel. *(Standard: Sprungwert des Volkes + Stärke | Kann mit Probe vergrößert werden)*  
+- **Aufstehen** – _1 AP_: Stehe auf, nachdem du auf dem Boden lagst oder gestürzt bist.  
+- **Verstecken** – _1 AP_: Schlüpfe in den Schatten und werde unsichtbar für deine Feinde. *(Geschicklichkeitsprobe gegen Wahrnehmung)*  
+- **Ausweichen** – _1 AP_: Erschwere es deinen Gegnern dich zu treffen. *(Malus auf Angriffe gegen dich für die Runde)*  
+- **Rückzug** - *1 AP*. Verlasse den Angriffsbereich eines Gegners ohne einen Gelegenheitsangriff zu provozieren.  
+- **Festhalten** – _1 AP_: Greife einen Gegner und verhindere seine Bewegungen. *(Stärkeproben-Wettstreit. Reduziert Bewegungsrate des Ziels auf 0)*  
+- **Lähmen** – _1 AP_: Ist dein Gegner bereits festgehalten, kannst du versuchen, ihn vollständig zu lähmen. *(Stärkeproben-Wettstreit. Reduziert deine Bewegungsrate auf 0)*  
+- **Befreien** - *1 AP*. Befreie dich aus einem Festhalten oder einer Lähmung. *(Stärkeproben-Wettstreit oder kreative Lösung)*  
+- **Schubsen** – _1 AP_: Bringe einen Gegner aus dem Gleichgewicht oder stoße ihn von dir weg. *(Stärkeproben-Wettstreit. 1 Stärke = 1/2 Feld aufgerundet)*  
+- **Helfen** – _1 AP_: Helfe einem Mistreiter bei einer bevorstehenden Angriffsprobe oder einer Probe, in der du talentiert bist. *(Bonus auf nächste Probe)*  
+- **Verwenden** – _1 AP_: Interagiere mit einem Gegenstand *(z.B. Trank trinken, Tür öffnen, Waffe ziehen etc.)*  
+- **Angriff** – _1 AP_: Greife einen Gegner physisch an. *(Angriffsprobe)*  
+- **Zaubern** – _1 AP_: Nutze deine Magie um anzugreifen, zu helfen oder deine Umgebung zu verändern. *(Arkanaprobe*)  
+- **Zielen** - *1 AP*. Nimm dir etwas Zeit für deinen Angriff oder Zauber. *(Bonus auf nächsten Angriff oder Zauber in dieser Runde)*  
+- **Überladen** – _1 AP_: Lade deinen Zauber mit Mana auf. *(z.B. mehr Schaden verursachen, mehr Ziele zu bestimmen, größeren Wirkungsbereich etc.)*  
+- **Aufrechthalten** – _1 AP_: Halte einen laufenden Zauber länger aufrecht. Max. einen Zauber gleichzeitig. *(Fokusprobe gegen 10 + 2x erlittenen Schaden in der Runde)*  
   
-- **Freie Aktion**: - _0AP_. Manche Aktionen sind so klein, dass der SL dies als freie Aktion durchgehen lässt.  
-- **Sprechen**: - _0AP_. Ein Spieler darf in einem gewissen Maße in seinem Zug sprechen. Hier gilt als Faustregel: ein Atemzug.  
+- **Freie Aktion**: - _0 AP_. Manche Aktionen sind so klein, dass der SL dies als freie Aktion durchgehen lässt.  
+- **Sprechen**: - _0 AP_. Ein Spieler darf in einem gewissen Maße in seinem Zug sprechen. Hier gilt als Faustregel: ein Atemzug.  
   
 - **Kreative Aktion**: - In **Arcana21** geht es um Kreativität. Du hast eine Idee für eine coole Aktion? Frage den SL ob dieser sie zulässt.  
   
 **4.1.6 Mögliche Reaktionen**  
-- **Gelegenheitsangriff:** *1AP.* Greife einen Gegner an, der deinen Nahkampfradius verlässt. *(Angriffsprobe | Nur wenn Nahkampfwaffe gezogen)*  
-- **Parieren:** *1AP.* Gib einer gegnerischen Angriffsprobe einen Malus. *(Benötigt gezogene Waffe mit [Parieren](Ausr%C3%BCstungen/Waffen/Waffenf%C3%A4higkeiten/Parieren.md))*  
-- **Zauberduell:** *1AP*. Verhindere gegnerische Zauber. *(siehe 4.4.2)*  
+- **Gelegenheitsangriff:** *1 AP.* Greife einen Gegner an, der deinen Nahkampfradius verlässt. *(Angriffsprobe | Nur wenn Nahkampfwaffe gezogen)*  
+- **Parieren:** *1 AP.* Gib einer gegnerischen Angriffsprobe einen Malus. *(Benötigt gezogene Waffe mit [Parieren](Ausr%C3%BCstungen/Waffen/Waffenf%C3%A4higkeiten/Parieren.md))*  
+- **Zauberduell:** *1 AP*. Verhindere gegnerische Zauber. *(siehe 4.4.2)*  
   
 - **Kreative Reaktionen**: - In **Arcana21** geht es um Kreativität. Du hast eine Idee für eine coole Reaktion? Frage den SL ob dieser Diese zulässt.  
   
