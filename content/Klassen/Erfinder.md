@@ -1,7 +1,7 @@
 ---
 {}
 ---
-> _Du bist ein Tüftler, ein Visionär, ein Meister der Mechanik und Innovation. Während andere auf Magie oder rohe Kraft setzen, verlässt du dich auf deinen Verstand, deine Werkzeuge und deine unermüdliche Kreativität. Mit geschickten Händen und einem brillanten Geist erschaffst du mechanische Wunderwerke, raffinierte Apparaturen und tödliche Konstruktionen. Ob ausgeklügelte Waffen, nützliche Apparaturen oder autonome Maschinen – deine Erfindungen sind dein größter Trumpf._  
+>_Du bist ein Tüftler, ein Visionär, ein Meister der Mechanik und Innovation. Während andere auf Magie oder rohe Kraft setzen, verlässt du dich auf deinen Verstand, deine Werkzeuge und deine unermüdliche Kreativität. Mit geschickten Händen und einem brillanten Geist erschaffst du mechanische Wunderwerke, raffinierte Apparaturen und tödliche Konstruktionen. Ob ausgeklügelte Waffen, nützliche Apparaturen oder autonome Maschinen – deine Erfindungen sind dein größter Trumpf._  
   
 - **Klassenkategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Apparaturen  
