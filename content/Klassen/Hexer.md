@@ -1,7 +1,7 @@
 ---
 {}
 ---
-> _Du wandelst an der Schwelle zwischen Leben und Tod, Macht und Opfer. Deine Kraft entspringt nicht göttlicher Gnade oder disziplinierter Studien, sondern deinem eigenen Blut. Wo andere auf äußere Quellen der Magie angewiesen sind, ziehst du deine Macht aus deinem eigenen Körper – und zahlst dafür einen hohen Preis. Ob dunkle Rituale, verfluchte Klingen oder arkanes Wissen, das für andere tabu ist – du kennst keine Furcht, wenn es um das Streben nach Macht geht._  
+>_Du wandelst an der Schwelle zwischen Leben und Tod, Macht und Opfer. Deine Kraft entspringt nicht göttlicher Gnade oder disziplinierter Studien, sondern deinem eigenen Blut. Wo andere auf äußere Quellen der Magie angewiesen sind, ziehst du deine Macht aus deinem eigenen Körper – und zahlst dafür einen hohen Preis. Ob dunkle Rituale, verfluchte Klingen oder arkanes Wissen, das für andere tabu ist – du kennst keine Furcht, wenn es um das Streben nach Macht geht._  
   
 - **Klassenkategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Blutpakt  
@@ -15,12 +15,12 @@
     - +1 [Stärke](Attribute/K%C3%B6rper/St%C3%A4rke.md)  
     - +1 [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
     - Wissen in Religion/Okkultismus  
-    - **Blutpakt-Ausprägung** – _1AP_: Du kannst 1 Gesundheit opfern, um einen Bonus auf deine nächste körperliche Probe zu erhalten.  
+    - **Blutpakt-Ausprägung** – _1 AP_: Du kannst 1 Gesundheit opfern, um einen Bonus auf deine nächste körperliche Probe zu erhalten.  
 - **Blutklinge** – Deine Angriffe fließen mit der Essenz deiner Feinde und deiner eigenen Kraft, wodurch sie besonders verheerend werden.  
     - +1 [Geschwindigkeit](Attribute/K%C3%B6rper/Geschwindigkeit.md)  
     - +1 [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
     - Wissen in Religion/Okkultismus  
-    - **Blutpakt-Ausprägung** – _1AP_: Du kannst 1 Gesundheit opfern, um 1 zusätzlichen Schaden mit deinem nächsten Angriff zu verursachen.  
+    - **Blutpakt-Ausprägung** – _1 AP_: Du kannst 1 Gesundheit opfern, um 1 zusätzlichen Schaden mit deinem nächsten Angriff zu verursachen.  
   
 ---  
   
