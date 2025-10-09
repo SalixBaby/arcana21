@@ -23,4 +23,4 @@ Zwerge sind traditionsbewusst, stolz und diszipliniert. Ihre Kultur beruht auf H
 - Giftresistenz – Der Körper eines Zwerges ist robust und widerstandsfähig. Viele Gifte wirken deutlich schwächer oder gar nicht auf sie.  
   
 **Volksfähigkeiten**:  
-- Steinsinn – _4AP_: Durch Berührung eines Steins oder Erzes können Zwerge dessen Geschichte erahnen und verborgene Eigenschaften wahrnehmen.
+- Steinsinn – _4 AP_: Durch Berührung eines Steins oder Erzes können Zwerge dessen Geschichte erahnen und verborgene Eigenschaften wahrnehmen.
