@@ -1,7 +1,7 @@
 ---
 {}
 ---
-_Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und des strategischen Vorgehens. Du bewegst dich ungesehen durch Schatten, beobachtest deine Beute geduldig und schlägst mit tödlicher Präzision zu. Dein Handwerk ist eine Mischung aus Geduld, Planung und tödlicher Effizienz. Egal ob als Spion, Auftragsmörder oder Schattenkrieger – du nutzt List und Geschwindigkeit, um deine Gegner auszuschalten, bevor sie überhaupt merken, dass du da bist._  
+>_Als Assassine bist du ein Meister der lautlosen Eliminierung, der Tarnung und des strategischen Vorgehens. Du bewegst dich ungesehen durch Schatten, beobachtest deine Beute geduldig und schlägst mit tödlicher Präzision zu. Dein Handwerk ist eine Mischung aus Geduld, Planung und tödlicher Effizienz. Egal ob als Spion, Auftragsmörder oder Schattenkrieger – du nutzt List und Geschwindigkeit, um deine Gegner auszuschalten, bevor sie überhaupt merken, dass du da bist._  
   
 - **Klassekategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Tödlicher Fokus  
