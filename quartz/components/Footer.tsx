@@ -15,10 +15,10 @@ export default ((opts?: Options) => {
       <footer class={`${displayClass ?? ""}`}>
         <p>
           {i18n(cfg.locale).components.footer.createdWith}{" "}
-          ♡ in Ahaus
+          ♡ in Ahaus | 🎲🐉⚔️
         </p>
         <ul>
-          © Copyright 2025 | SalixBaby
+          © Copyright 2025 | 🧙‍♂️ SalixBaby
         </ul>
       </footer>
     )
