@@ -58,27 +58,27 @@ export default {
     const timeLabel = minutes === 1 ? "Minute" : "Minuten"
 
     const variants = [
-      `Schon seit ${minutes} ${timeLabel} versucht, die Runen zu entschlüsseln`,
-      `Seit ${minutes} ${timeLabel} im Bann dieser Seite`,
-      `Bereits ${minutes} ${timeLabel} auf Entdeckungstour durch diese Chroniken`,
-      `Schon ${minutes} ${timeLabel} tauchst du in diese Geschichten ein`,
-      `${minutes} ${timeLabel} Erkundung durch vergilbte Pergamente`,
-      `Seit ${minutes} ${timeLabel} wanderst du durch die Welt der Worte`,
-      `Bereits ${minutes} ${timeLabel} studierst du alte Schriften`,
-      `${minutes} ${timeLabel} Abenteuer im Archiv der Helden`,
-      `Schon ${minutes} ${timeLabel} ergründest du die Geheimnisse dieser Seite`,
-      `Seit ${minutes} ${timeLabel} liest du im Kodex der Sagen`,
-      `Schon ${minutes} ${timeLabel} unter dem Fluch der Runen gefangen`,
-      `Seit ${minutes} ${timeLabel} kämpfst du gegen die Tücken dieser Seite`,
-      `${minutes} ${timeLabel} im Bann der magischen Schriftrollen`,
-      `Bereits ${minutes} ${timeLabel} versuchst du, die Geheimnisse der alten Chroniken zu lüften`,
-      `Schon ${minutes} ${timeLabel} durchstreifst du die Seiten wie ein mutiger Held`,
-      `${minutes} ${timeLabel} Forschungszeit im verbotenen Grimoire`,
-      `Seit ${minutes} ${timeLabel} tauchst du in die verborgenen Mysterien dieser Seite`,
-      `Schon ${minutes} ${timeLabel} ergründest du uralte Weisheiten`,
-      `${minutes} ${timeLabel} lang hältst du stand gegen die Rätsel dieser Chronik`,
-      `Bereits ${minutes} ${timeLabel} auf Abenteuerpfaden zwischen den Worten`,
-        ]
+      `Schon seit ${minutes} ${timeLabel} versuchst du, die Geheimnisse dieser Seite zu ergründen`,
+      `${minutes} ${timeLabel} im Bann uralter Runen – und kein Ende in Sicht`,
+      `Etwa ${minutes} ${timeLabel} voller Magie, Mythen und vielleicht Verwirrung`,
+      `${minutes} ${timeLabel} Lektüre, die dich tiefer in das Mysterium zieht`,
+      `Seit ${minutes} ${timeLabel} kämpfst du dich tapfer durch die Zeilen`,
+      `Nur ${minutes} ${timeLabel}? Ein wahrer Held liest schneller!`,
+      `${minutes} ${timeLabel} – und du bist immer noch nicht verflucht? Beeindruckend.`,
+      `Etwa ${minutes} ${timeLabel} dauert es, bis der Zauber dich ganz gefangen nimmt`,
+      `Schon ${minutes} ${timeLabel} wanderst du durch das Labyrinth der Worte`,
+      `${minutes} ${timeLabel} Forschung im verbotenen Archiv der Chroniken`,
+      `Seit ${minutes} ${timeLabel} liest du … oder tust zumindest so`,
+      `Ungefähr ${minutes} ${timeLabel}, bis du alle Geheimnisse entschlüsselt hast (theoretisch)`,
+      `${minutes} ${timeLabel} zwischen Legenden, Lachern und Latein`,
+      `Bereits ${minutes} ${timeLabel} studierst du die Kunst des Nicht-Aufgebens`,
+      `Nur ${minutes} ${timeLabel} – es sei denn, du würfelst eine Eins beim Lesen`,
+      `${minutes} ${timeLabel} epische Lesezeit im Reich der Worte`,
+      `Seit ${minutes} ${timeLabel} hält dich der Fluch dieser Seite gefangen`,
+      `Etwa ${minutes} ${timeLabel} voller Abenteuer, Koffein und Buchstaben`,
+      `Schon ${minutes} ${timeLabel} suchst du nach dem versteckten Easter Egg`,
+      `${minutes} ${timeLabel} lang – und du bist jetzt offiziell Gelehrter dieser Chroniken`,
+    ]
     
         const randomIndex = Math.floor(Math.random() * variants.length)
         return variants[randomIndex]
