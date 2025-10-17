@@ -408,84 +408,124 @@ Die Magie in Arcana21 ist vielseitig und wird in verschiedene Zauberarten untert
   
 ##### **5.2 Zaubernutzung**  
   
-**5.2.1 Durchführung von Zaubern:**    
-Zaubern erfordert eine klare Vorstellung vom gewünschten Effekt, gepaart mit einer passenden Probe. Spieler können sich von klassischen Zaubern wie den "Feuerball" inspirieren lassen, jedoch liegt der Fokus auf individueller Kreativität.  
-- Fokus- oder Arkana-Proben entscheiden, ob der Zauber gelingt, basierend auf der Stärke und Komplexität des Effekts.  
+**5.2.1 Durchführung von Zaubern**  
   
-**5.2.2 Mana-Kosten und Zauberstufen**  
-Das Wirken von Zaubern selbst kostet **kein Mana**. Mana wird nur benötigt, wenn ein Zauber **überladen** wird, das heißt, wenn er auf einem höheren Level als seiner Grundstärke gewirkt wird.  
-- Ein Charakter kann Zauber nur bis zur **maximalen Stufe seines eigenen Levels** wirken. (Zauber ohne Mana sind hier als Level 0 zu betrachten)  
-- Das Überladen eines Zaubers, um ihn über seine Grundstufe hinaus zu verstärken, kostet **Mana**. Für jedes zusätzliche Level, um das der Zauber verstärkt wird, muss **1 Mana** aufgewendet werden.  
-- Das **Überladen** kostet immer **1 AP** egal mit wie viel Mana der Zauber überladen wird.  
+Zaubern in **Arcana21** beruht auf Vorstellungskraft, Konzentration und Willenskraft – nicht auf starren Formeln.    
+Um einen Zauber zu wirken, beschreibt der Spieler klar, welchen Effekt er erzielen möchte, und führt anschließend eine passende Probe auf Arkana durch.  
+Das Ergebnis der Probe entscheidet, ob und wie stark der Zauber gelingt.    
+Ein erfolgreicher Wurf lässt die Magie wie gewünscht wirken; ein Fehlschlag kann den Effekt abschwächen, verformen oder scheitern lassen.  
   
-**5.2.3 Zauberkombinationen:**  
-Es ist möglich, **mehrere Zauber von unterschiedlichen SP zu kombinieren**, um mächtigere Effekte zu erzielen  
-- Die Art und Stärke der Kombination hängt von der Situation ab.  
-- **Der Spielleiter hat das letzte Wort**, ob die Kombination sinnvoll ist und wie sie sich auswirkt.  
+> **Beispiel:**    
+> Ein Magier will einen Funken entzünden, um eine Fackel zu entflammen.    
+> Dies ist ein einfacher Effekt (Zauberstufe 0) und gelingt bei einer gelungenen Arkana-Probe automatisch – kein Mana nötig.    
+> Würde der Magier jedoch eine Feuerlanze erschaffen wollen, die mehrere Gegner trifft, müsste er den Zauber **überladen** (siehe unten) und Mana einsetzen.  
   
-**5.2.4 Erholung von Mana:**  
-- **Lange Rast:** Der Mana-Pool regeneriert sich vollständig nach einer langen Ruhephase.  
-- **Andere Methoden:** Bestimmte Tränke, Zauber oder Fähigkeiten können die Regeneration beschleunigen oder Mana sofort wiederherstellen.  
-  
-**5.2.5 Struktur von Zaubereffekten**  
-Zauber in **Arcana21** folgen einem klaren Grundaufbau, der alle Zaubereffekte nach vier Hauptaspekten gliedert:    
-**Reichweite**, **Wirkung**, **Ziel** und **Dauer**.  
-Ein einfacher Zauber (Stufe 0) besitzt die folgende **Basiskonfiguration**, ohne dass Mana dafür aufgewendet werden muss:  
-- **Reichweite:** 10 Felder  
-- **Wirkung:** 1 Punkt Schaden **oder** 1 einfacher Effekt  
-- **Ziel:** 1 Person oder Objekt  
-- **Dauer:** 1 Runde  
-Diese vier Elemente stellen die Ausgangsbasis jedes Zaubers dar.  
+Klassische Zauber wie „Feuerball“ oder „Eisspeer“ können als Inspiration dienen, doch der Schwerpunkt liegt auf **kreativer, freier Zaubergestaltung**, die in die Welt und Situation passt.  
   
 ---  
   
-**Fokuslenkung – Verstärken durch Verzicht**  
-Spieler können bewusst auf eine dieser vier Grundkomponenten verzichten, um eine andere zu verstärken.    
-Beispiele:  
-- **Berührungszauber (Reichweite 0):** Erlaubt stärkeren Effekt (z. B. +1 Schaden)  
-- **Selbstzauber (kein Zielwechsel):** Kann längere Dauer oder verbesserte Wirkung erhalten  
-- **Statischer Effekt (z. B. Bodenfalle):** Kann Zielanzahl oder Präzision steigern  
+##### **5.2.2 Mana, Zauberstufen & Überladung**  
+  
+Ein Zauber zu wirken kostet **kein Mana**, solange er auf seiner **Grundstufe (Stufe 0)** bleibt.    
+Mana wird erst dann eingesetzt, wenn der Zauber **verstärkt oder überladen** wird – also über seine normale Stärke hinaus.  
+Ein Charakter kann Zauber nur bis zur **maximalen Stufe seines eigenen Levels** wirken.    
+Zauber ohne Manaverbrauch gelten als **Stufe 0**.  
+Wird ein Zauber über seine Grundstufe hinaus verstärkt, so gilt:  
+- Für **jedes zusätzliche Level**, um das der Zauber erhöht wird, wird **1 Mana** aufgewendet.  
+- Das Überladen selbst kostet **immer 1 Aktionspunkt (AP)** – unabhängig davon, wie viel Mana eingesetzt wird.  
+  
+> **Beispiel:**    
+> Eine Magierin möchte ihren Feuerstoß (normal 1 Schaden) so verstärken, dass er 2 Schaden verursacht und doppelt so weit reicht.    
+> Dafür gibt sie **2 Mana** aus (einmal für +1 Schaden, einmal für +10 Felder Reichweite) und **1 AP** für die Überladung.  
+  
+---  
+  
+##### **5.2.3 Zauberkombinationen**  
+  
+Zauber können kombiniert werden, um komplexe oder mächtigere Effekte zu erzeugen.    
+Dies kann durch mehrere Magier oder durch unterschiedliche Zauberquellen eines einzelnen Charakters geschehen.  
+Die Kombination sollte erzählerisch und logisch sinnvoll sein.  
+  
+> **Beispiel:**    
+> _Ein Druide lässt Wurzeln aus dem Boden schießen, während ein Feuermagier sie entzündet._    
+> Das Ergebnis ist ein Flammennetz, das Gegner fesselt und verbrennt.  
+  
+Der **Spielleiter** entscheidet, ob die Kombination gelingt, welche Boni oder Risiken entstehen und ob zusätzliche Mana- oder AP-Kosten anfallen.  
+  
+---  
+  
+##### **5.2.4 Struktur eines Zaubers**  
+  
+Jeder Zauber in _Arcana21_ besteht aus vier Grundkomponenten:  
+  
+| Aspekt         | Beschreibung                                | Standardwert (Stufe 0)          |  
+| -------------- | ------------------------------------------- | ------------------------------- |  
+| **Reichweite** | Wie weit der Zauber reicht                  | 10 Felder                       |  
+| **Wirkung**    | Schaden oder Effektstärke                   | 1 Schaden oder einfacher Effekt |  
+| **Ziel**       | Wie viele Wesen oder Objekte betroffen sind | 1 Ziel                          |  
+| **Dauer**      | Wie lange der Effekt anhält                 | 1 Runde                         |  
+  
+Diese Werte bilden die **Basis jedes Zaubers**, solange kein Mana investiert wird.  
+  
+---  
+  
+**Fokuslenkung – Stärke durch Verzicht**  
+  
+Ein Zauberwirker kann sich bewusst **einschränken**, um andere Aspekte seines Zaubers zu verstärken.    
+Verzicht auf eine Komponente erlaubt eine Verbesserung einer anderen.  
+  
+> **Beispiele:**  
+> - **Berührungszauber** (Reichweite 0) → +1 Schaden oder stärkerer Effekt  
+> - **Selbstzauber** (kein Zielwechsel) → längere Dauer oder verbesserte Wirkung  
+> - **Statischer Effekt** (z. B. eine magische Falle) → größere Präzision oder zusätzliche Ziele  
+  
+Diese Technik erlaubt feinere Kontrolle und gibt Spielern mehr Freiheit, den Stil ihres Charakters zu betonen.  
   
 ---  
   
 **Manaeinsatz – Überladung von Zaubern**  
-Wird ein Zauber über seine Grundstufe hinaus verstärkt, wird Mana eingesetzt. Für **jeden Manapunkt** darf **eine der folgenden Modifikationen** gewählt werden:  
   
-|**1 Manapunkt =**|**Veränderung**|  
+Wird ein Zauber über seine Grundstufe hinaus verstärkt, kann Mana eingesetzt werden.    
+Jeder **Manapunkt** erlaubt **eine gezielte Verstärkung**:  
+  
+|Eingesetztes Mana|Verstärkung|  
 |---|---|  
-|**+1 Schaden**|Stärkere Wirkung|  
-|**+1 Ziel**|Zusätzliche Personen/Objekte|  
-|**+10 Felder Reichweite**|Erweiterte Distanz|  
-|**+1 Feld Fläche**|Flächenwirkung statt Einzelziel|  
-|**+1 Runde Dauer**|Effekt hält länger|  
+|+1 Mana|+1 Schaden oder stärkerer Effekt|  
+|+1 Mana|+1 weiteres Ziel|  
+|+1 Mana|+10 Felder Reichweite|  
+|+1 Mana|+1 Feld Flächenwirkung|  
+|+1 Mana|+1 Runde zusätzliche Dauer|  
   
-Das **Überladen kostet immer 1 AP**, unabhängig davon, wie viel Mana verwendet wird.  
-  
----  
-  
- **Brutale & Kritische Erfolge – Verstärkung ohne Mana**  
-Beim Wirken eines Zaubers entscheidet eine **Arkana- oder Fokus-Probe**, ob er gelingt. Besonders gute Würfe können Boni gewähren – allerdings **ausschließlich auf die Wirkung des Zaubers** (z. B. mehr Schaden oder stärkere Effekte), **nicht auf Reichweite, Zielanzahl oder Dauer**.  
-  
-- **Brutaler Erfolg** _(5 über dem Zielwert)_    
-    → **+1 Bonus auf die Wirkung** (z. B. +1 Schaden)  
-- **Kritischer Erfolg** _(10 über dem Zielwert)_    
-    → **+2 Boni auf die Wirkung** (z. B. +2 Schaden oder +1 Schaden & verbesserter Effekt)  
-  
-> _Wirkungsverstärkungen durch kritische/brutale Erfolge ersetzen nicht den Einsatz von Mana – sie ergänzen ihn._  
+> Das Überladen kostet **immer 1 AP**, unabhängig davon, wie viel Mana verwendet wird.  
   
 ---  
   
- **Zusammenfassung: Zauberkomponenten & Verstärkung**  
+**Brutale & Kritische Erfolge – Macht ohne Mana**  
   
-|**Komponente**|**Basiswert**|**Verstärkung durch Mana**|**Verstärkung durch Erfolg**|  
+Beim Wirken eines Zaubers entscheidet eine **Probe auf Arkana** über das Ergebnis.    
+Besonders hohe Würfe können die Wirkung verstärken – ohne zusätzlichen Manaverbrauch.  
+  
+|Erfolgsgrad|Effekt|  
+|---|---|  
+|**Brutaler Erfolg** (5 über dem Zielwert)|+1 Bonus auf Wirkung (z. B. +1 Schaden)|  
+|**Kritischer Erfolg** (10 über dem Zielwert)|+2 Bonus auf Wirkung (z. B. +2 Schaden oder +1 Schaden & verstärkter Effekt)|  
+  
+Diese Boni **ergänzen**, aber **ersetzen** nicht den Einsatz von Mana.  
+  
+---  
+  
+**Zusammenfassung – Zauberkomponenten & Verstärkung**  
+  
+|Komponente|Basiswert|Verstärkung durch Mana|Verstärkung durch Erfolg|  
 |---|---|---|---|  
-|**Reichweite**|10 Felder|+10 Felder pro Mana|✖️|  
-|**Wirkung**|1 Schaden / Effekt|+1 pro Mana|Brutal: +1, Kritisch: +2|  
-|**Ziel**|1 Person / Objekt|+1 Ziel pro Mana|✖️|  
-|**Dauer**|1 Runde|+1 Runde pro Mana|✖️|  
+|**Reichweite**|10 Felder|+10 Felder / Mana|—|  
+|**Wirkung**|1 Schaden / Effekt|+1 / Mana|Brutal +1 · Kritisch +2|  
+|**Ziel**|1 Person / Objekt|+1 / Mana|—|  
+|**Dauer**|1 Runde|+1 / Mana|—|  
   
-*(An dieser Stelle ist nochmal zu erwähnen, dass es sich hier um eher so etwas wie "Richtlinien" handelt. Es geht darum das sowohl der SL als auch die Spieler eine gewisse Grundlage haben. Am Ende hat wie immer der SL das letzte Sagen, wie und ob etwas funktioniert.)*  
-  
+> Diese Werte sind als **Richtlinien** gedacht, nicht als starre Regeln.    
+> Sie sollen Spielleiter und Spieler unterstützen, Effekte einzuschätzen und Magie flexibel zu gestalten.    
+> Letztlich liegt die Entscheidung – wie immer – beim **Spielleiter**.  
 ---  
   
 ### **6. Charakterentwicklung**  
@@ -662,4 +702,42 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
 **Anwendung:**  
 - Rasten fördert das Verwalten von Ressourcen und gibt Raum für Charakterentwicklung, Gespräche und Handlungen abseits des Kampfes.  
 - Während einer Rast können Handlungen wie Handwerk, Forschung, Studium oder Training erfolgen – jedoch nur, wenn die Rast nicht durch äußere Einflüsse gestört wird.  
-- Die Spielleitung kann Rastzeiten an die Welt und Geschichte anpassen – in gefährlichen Regionen sind selbst kurze Rasten ein Luxus.
+- Die Spielleitung kann Rastzeiten an die Welt und Geschichte anpassen – in gefährlichen Regionen sind selbst kurze Rasten ein Luxus.  
+  
+#### **7.12 Auszeit**  
+  
+> _**Auszeit** beschreibt die Zeit zwischen Abenteuern, in der Charaktere ihren eigenen Zielen nachgehen. Sie dient der Erholung, dem Wachstum und der persönlichen Entwicklung._  
+  
+**Dauer:**  
+- Eine Auszeit umfasst in der Regel **mehrere Wochen bis Monate**, je nach Aktivität und Umständen.  
+- Sie findet in einer **sicheren Umgebung** statt – etwa in einer Stadt, einem Heim oder einem geschützten Rückzugsort.  
+  
+**Typische Aktivitäten:**  
+- Studium und Forschung:  
+    - Lerne neue Zauberformen, erforsche magische Phänomene oder studiere alte Texte.      
+    - Eine passende Probe (z. B. auf **Erfahrung**, **Fokus** oder **Arkana**) entscheidet über den Fortschritt.      
+    - Erfolgreiches Studium kann **neue Kenntnisse, Rituale oder Spezialisierungen** freischalten.  
+- Training und Handwerk:  
+    - Verfeinere deine Fähigkeiten, übe Kampftechniken oder stelle besondere Ausrüstung her.  
+    - Eine Probe auf **Ausdauer**, **Geschick** oder **Wissen** legt das Ergebnis fest.  
+    - Erfolge können **dauerhafte Boni, Verbesserungen oder neue Talente** gewähren.  
+- Beziehungen und Einfluss:  
+    - Pflege Kontakte, gewinne Verbündete oder errichte ein eigenes Heim oder Netzwerk.  
+    - Fortschritte können **soziale Vorteile**, **Zugang zu Ressourcen** oder **Unterstützung durch NSC** bringen.  
+- Erholung und Selbstfindung:  
+    - Nutze die Zeit, um Wunden zu heilen, Erlebnisse zu verarbeiten oder deinen Weg zu überdenken.  
+    - Dies kann **Zustände** beseitigen oder zu **neuen Zielen und Charakterentwicklungen** führen.  
+  
+**Regeltechnische Wirkung:**  
+- Während einer Auszeit können **gezielte Proben** abgelegt werden, um Fortschritte zu bestimmen.  
+- Der **Spielleiter** entscheidet über Dauer, Schwierigkeit und mögliche Ergebnisse.  
+- Eine **erfolgreiche Auszeit-Aktion** kann:  
+    - eine **Fertigkeit** oder ein **Talent** verbessern,  
+    - **neues Wissen** oder **Kontakte** bringen,  
+    - oder **erzählerische Vorteile** im nächsten Abenteuer gewähren.  
+- Eine misslungene Probe führt nicht zwingend zu Misserfolg – auch Rückschläge können Erkenntnisse oder neue Wege eröffnen.  
+  
+**Anwendung:**  
+- Auszeiten dienen der **Charakterentwicklung** und der **Verknüpfung von Geschichte und Spielmechanik**.  
+- Sie schaffen Raum für Erholung, Fortschritt und persönliche Geschichten zwischen den Abenteuern.  
+- Die Gruppe kann ihre Auszeiten gemeinsam oder einzeln verbringen.
