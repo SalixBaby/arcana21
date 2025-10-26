@@ -19,4 +19,4 @@
     Diese Magie verändert physische Formen und Realitäten: Teleportation, Illusion, Transformation und Sinne. Sie erlaubt es den Zauberern, die Grenzen der physischen Existenz zu überschreiten, sei es durch Teleportation über große Entfernungen oder durch die Verwandlung von Gegenständen und Lebewesen.  
       
 6. **Beschwörung**    
-    Als einzige Kategorie, die eine eigene Klasse bildet, dreht sich hier alles um die Erschaffung und das Herbeirufen von Wesen, Gegenständen oder Energien. Beschwörung ermöglicht es den Helden, mächtige Verbündete oder sogar neue Welten zu erschaffen, indem sie Kreaturen und Kräfte aus anderen Dimensionen herbeirufen.
+    Diese Zauberausrichtung erlaubt es, Wesen oder magische Objekte zu erschaffen oder herbeizurufen – **immer in Verbindung mit einer anderen Zauberausrichtung**. Beschworene Wesen können einfache Aufgaben ausführen, kommunizieren jedoch nicht eigenständig.
