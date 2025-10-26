@@ -1,4 +1,4 @@
 ---
 {}
 ---
-Die Zauberausrichtung Licht dreht sich um Erleuchtung und Offenbarung. Du kannst strahlende Lichter, heilende Energien und blendende Strahlen heraufbeschwören. Lichtmagie wird oft zur Verteidigung eingesetzt, kann aber auch als tödliche Waffe gegen Dunkelheit und Schatten dienen.
+Die Zauberausrichtung Licht steht für Klarheit, Erkenntnis und Schutz. Sie erhellt die Dunkelheit – sei es in finsteren Orten oder in den Herzen der Menschen. Mit ihr kannst du blendende Strahlen erzeugen, verborgene Dinge offenbaren, Illusionen brechen oder dich gegen die Schatten verteidigen.
