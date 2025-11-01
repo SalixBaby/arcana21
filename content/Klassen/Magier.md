@@ -24,7 +24,7 @@
 #### **1. Level:**  
   
 - **Arkaner Spürsinn:** Du kannst spüren, wenn in deiner Nähe (Level x 10 m) Magie gewirkt wird oder gewirkt wurde. Eine Arkanaprobe entscheidet wie gut du den Zauber verstehst und wie weit du zurück sehen kannst.  
-- **Arkane Macht**: Die pure Arkane Macht durchströmt dich. Du erhältst zusätzlich zu deinen bekannten Zauberausrichtungen die Zauberausrichtung Energie.  
+- **Arkane Macht**: Die pure Arkane Macht durchströmt dich. Du erhältst zusätzlich zu deinen bekannten Zauberausrichtungen eine Zauberausrichtung aus der Kategorie Kraft.  
   
 #### **2. Level:**  
   
