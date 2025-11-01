@@ -5,7 +5,7 @@
   
 - **Klassenkategorie:** Zauberklasse  
 - **Klassenfähigkeit:** Nekromantie  
-    - Du beherrschst eine verbotene Form der Magie, die den Tod selbst durchdringt. Du kannst Geister rufen, Leichen beleben und Seelen binden. Diese Ausrichtung steht außerhalb der 21 natürlichen Zauberausrichtungen – denn sie gehorcht nur den Regeln der Vergänglichkeit.  
+    - Du beherrschst eine verbotene Form der Magie, die den Tod selbst durchdringt. Du kannst Geister rufen, Leichen beleben und Seelen binden. Diese Ausrichtung steht außerhalb der 20 natürlichen Zauberausrichtungen – denn sie gehorcht nur den Regeln der Vergänglichkeit.  
   
 ---  
   
