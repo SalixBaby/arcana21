@@ -350,7 +350,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - Ein Zauberduell entsteht, wenn zwei gegensätzliche Zauber (z. B. Feuer gegen Eis) direkt aufeinandertreffen.  
 - Voraussetzung:  
     - Der verteidigende Zauber muss thematisch sinnvoll gegen den angreifenden wirken.  
-      (Energie gegen Feuer ❌ | Wasser gegen Feuer ✅) Der Spielleiter entscheidet bei Unsicherheiten.  
+      (Feuer gegen Feuer ❌ | Wasser gegen Feuer ✅) Der Spielleiter entscheidet bei Unsicherheiten.  
     - Es muss sich um einen **überladenen Zauber** handeln.  
 - Mechanik:  
     - Beide Figuren führen einen **Fokus-Proben-Wettstreit** durch. Sie erhalten +5 für jeden eingesetzten Manapunkt.  
@@ -381,20 +381,20 @@ Zauberausrichtungen bestimmen die Art und Weise, wie Magie im Spiel eingesetzt w
 **Körper**  
 9. **Illusionen** – Erzeugung von Täuschungen, die Sinne verwirren.  
 10. **Sinne** – Verstärkung oder Veränderung der Wahrnehmung.  
-11. **Teleportation** – Magische Fortbewegung über verschiedene Distanzen.  
+11. **Beschwörung** – Herbeirufen von Wesen, Objekten oder Energien.  
 12. **Transformation** – Umgestaltung von Körpern oder Objekten.  
 **Kraft**  
 13. **Dunkelheit** – Kontrolle über Schatten und das Verbergen von Licht.  
-14. **Energie** – Nutzung roher magischer oder physischer Energie.  
-15. **Licht** – Erzeugung und Manipulation von Helligkeit und Strahlen.  
-16. **Zeit** – Veränderung oder Manipulation des Zeitflusses.  
+14. **Licht** – Erzeugung und Manipulation von Helligkeit und Strahlen.  
+15. **Zeit** – Veränderung oder Manipulation des Zeitflusses.  
+16. **Raum** - Veränderung oder Manipulation des Raums.  
 **Seele**  
 17. **Fluch** – Auferlegung negativer Effekte oder Schicksale.  
 18. **Heilung** – Reparatur von Verletzungen und Wiederherstellung von Gesundheit.  
 19. **Schutz** – Errichtung von Barrieren und Verteidigungen.  
 20. **Segen** – Vergabe von positiven Effekten und Verstärkungen.  
- **Beschwörung**  
-21. **Beschwörung** – Herbeirufen von Wesen, Objekten oder Energien.  
+ **Nekromantie**  
+21. **Nekromantie** – Kontrolle über das Leben nach dem Tod.  
   
   
 **5.1.2 Zauberarten:**    
