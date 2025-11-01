@@ -1,0 +1,4 @@
+Nekromantie befasst sich mit dem Kreislauf von Leben und Tod. Du kannst die Reste vergangener Existenzen berühren, mit Geistern sprechen oder die Toten kurzzeitig erheben, um deinen Willen zu erfüllen. Diese Magie greift tief in die Grenzen der Seele ein und wandelt Vergänglichkeit in Macht – stets im Schatten der moralischen und geistigen Gefahr.  
+  
+⚠️ **Hinweis:**  Die Zauberausrichtung **Nekromantie** kann **nicht frei gewählt** werden. Sie ist eine **verbotene und gefährliche Form der Magie**, die nur durch **besondere Umstände** erlangt werden kann – etwa durch **düstere Rituale**, **verbotenes Wissen** oder **Pakten mit finsteren Mächten**.    
+Spielercharaktere können Nekromantie **nur durch erzählerische Ereignisse oder spezielle Fähigkeiten** freischalten.
