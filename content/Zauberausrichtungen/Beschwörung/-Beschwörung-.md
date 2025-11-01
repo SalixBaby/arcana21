@@ -1,3 +1,0 @@
-> *Beschwörungsmagie ist eine eigenständige Kategorie, da sie die Fähigkeit umfasst, Wesen, Kreaturen oder Objekte aus anderen Dimensionen oder Realitäten herbeizurufen oder temporär zu erschaffen. Sie erlaubt es, mächtige Verbündete oder nützliche Objekte verfügbar zu machen, **immer in Verbindung mit einer anderen Zauberausrichtung**. Die Wirkung hängt dabei stark von der Macht und dem Willen der herbeigerufenen Wesen ab.  
-  
-- **Ausrichtung**: [Beschwörung](Zauberausrichtungen/Beschw%C3%B6rung/Beschw%C3%B6rung.md)
