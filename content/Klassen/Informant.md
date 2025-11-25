@@ -18,7 +18,7 @@
     - +1 auf [Wahrnehmung](Attribute/Geist/Wahrnehmung.md)  
 - **Ränkeschmied**: Du bist kein stiller Beobachter, sondern ein Strippenzieher. Dein Wissen ist eine Währung, und du weißt genau, wann du welche Information einsetzen musst.  
 	- Bonus auf [Intuition](Attribute/Seele/Intuition.md)  
-	- +2 [Lügen](Attribute/Seele/L%C3%BCgen.md)  
+	- +2 [Täuschen](Attribute/Seele/T%C3%A4uschen.md)  
 	- +2 [Überzeugen](Attribute/Seele/%C3%9Cberzeugen.md)  
 	- Wissen in Politik/Diplomatie  
   

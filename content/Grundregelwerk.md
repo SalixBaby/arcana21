@@ -41,7 +41,7 @@ Die Spielleitung legt fest, wann eine Probe erforderlich ist, welches Attribut o
 **Besondere Proben:**  
 Nicht jede Probe lässt sich direkt einem Attribut zuordnen. Für komplexere oder kreative Situationen – etwa **Einschüchtern, Heimlichkeit oder Ablenkung** – wird die Probe im erzählerischen Kontext interpretiert. In solchen Fällen dürfen die Spieler der Spielleitung Vorschläge machen, welches Attribut man anwenden möchte:  
 - _„Ich haue mit voller Wucht auf den Tisch, um Respekt zu erzwingen.“ → Stärke-Probe zum Einschüchtern._  
-- _„Ich schleiche an der Wache vorbei, während mein Kamerad lautstark diskutiert.“ → Überzeugen-, Lügen- oder Auftritts-Probe zur Ablenkung._  
+- _„Ich schleiche an der Wache vorbei, während mein Kamerad lautstark diskutiert.“ → Überzeugen-, Täuschen- oder Auftritts-Probe zur Ablenkung._  
 Diese Flexibilität fördert kreatives Rollenspiel und macht jede Szene einzigartig. Die Spielleitung trifft letztlich die Entscheidung, welche Kombination sinnvoll ist – aber gute Ideen finden in Arcana21 fast immer ihren Weg ins Spiel.  
   
 ---  
