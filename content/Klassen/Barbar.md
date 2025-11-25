@@ -19,7 +19,7 @@
     - +1 [Wissen](Attribute/Geist/Wissen.md)  
     - +1 [Fokus](Attribute/Geist/Fokus.md)  
     - +1 [Instinkt](Attribute/K%C3%B6rper/Instinkt.md)  
-    - Wissen in Religion/Okkultismus  
+    - Wissen in Religion/Mythen  
   
 ---  
   

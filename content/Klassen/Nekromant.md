@@ -14,7 +14,7 @@
 - **Totenrufer:** Du sprichst mit Geistern und holst Wissen aus der jenseitigen Welt. Deine Zauber manipulieren nicht nur Leiber, sondern auch Erinnerungen.  
     - +1 [Wissen](Attribute/Geist/Wissen.md)  
     - Bonus auf [Erfahrung](Attribute/Geist/Erfahrung.md)  
-    - Wissen in Religion/Okkultismus  
+    - Wissen in Religion/Mythen  
 - **Knochenmagier:** Du formst Körper wie Ton. Deine Macht liegt in der physischen Manipulation von Leichen, Skeletten und Fleisch.  
     - +1 [Geschicklichkeit](Attribute/K%C3%B6rper/Geschicklichkeit.md)  
     - +1 [Fokus](Attribute/Geist/Fokus.md)  

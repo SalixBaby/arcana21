@@ -22,7 +22,7 @@
 - **Chronist:** Du jagst nicht der Wahrheit nach – du sammelst sie. Deine Magie lebt vom Erlebten, nicht vom Studierten – und du weißt, dass selbst das kleinste Fragment Geschichte große Macht bergen kann.  
     - +2 [Wissen](Attribute/Geist/Wissen.md)  
     - +1 [Arkana](Attribute/Geist/Arkana.md)  
-    - Wissen in Architektur/Städteplanung & Überleben/Orientierung  
+    - Wissen in Geschichte/Sprachen & Überleben/Orientierung  
   
 ---  
   

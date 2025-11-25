@@ -18,12 +18,12 @@ ___
 - **Waldläufer:** Du bist ein erfahrener Jäger, der seine Umgebung wie seine eigene Westentasche kennt. Egal ob Tier oder Monster– du weißt, wie du deine Beute verfolgst und zur Strecke bringst.  
     - Bonus auf [Instinkt](Attribute/K%C3%B6rper/Instinkt.md)  
     - +2 auf [Geschwindigkeit](Attribute/K%C3%B6rper/Geschwindigkeit.md)  
-    - Wissen in Natur/Tiere  & Überleben/Orientierung  
+    - Wissen in Naturkunde/Kreaturen  & Überleben/Orientierung  
   
 - **Kopfgeldjäger:** Du jagst nicht nur Monster, sondern auch Menschen – und du lässt keine Beute entkommen. Du bist Meister darin, Zielpersonen aufzuspüren, Fallen zu stellen und sie lebendig oder tot abzuliefern.  
     - Bonus auf [Intuition](Attribute/Seele/Intuition.md)  
     - +1 auf [Geschicklichkeit](Attribute/K%C3%B6rper/Geschicklichkeit.md)  
-    - Wissen in Architektur/Städteplanung & Überleben/Orientierung  
+    - Wissen in Handel/Wirtschaft & Überleben/Orientierung  
   
 ---  
   

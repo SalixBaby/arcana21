@@ -4,7 +4,7 @@
   
 **Segen: Untergrundkontakte**  
 - +1 auf [Geist](Attribute/Geist/-Geist-.md) oder [Seele](Attribute/Seele/-Seele-.md)  
-- Wissen und Bonus in Architektur/Städteplanung  
+- Wissen und Bonus in Handel/Wirtschaft  
 - Zugang zu Schwarzmärkten und illegalen Waren  
   
 **Fluch: Gesetzlos**  
