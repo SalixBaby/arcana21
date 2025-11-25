@@ -54,56 +54,66 @@ Die Kernattribute sind in jeweils fünf Eigenschaften unterteilt, die spezifisch
   
 Das Attribut _Wissen_ ist in 12 spezialisierte Kategorien unterteilt, die spezifische Expertise darstellen.  
   
-**Architektur / Städteplanung**  
-Kenntnisse über Baukunst, Stadtstrukturen und die Konstruktion von Gebäuden und Infrastrukturen.  
-- Nützlich für das Analysieren von Ruinen, das Verstehen von Verteidigungsanlagen oder das Erkennen geheimer Durchgänge.  
-  
-**Geschichte / Sprachen**  
-Wissen über historische Ereignisse, Mythen, Legenden und vergangene Kulturen.  
-- Ermöglicht es, alte Schriften zu entziffern, Artefakte zu identifizieren oder politische Zusammenhänge aus der Vergangenheit zu verstehen.  
-   
-**Handel / Wirtschaft**  
-Verständnis von Ressourcenmanagement, Märkten und finanziellen Zusammenhängen.  
-- Hilfreich beim Verhandeln von Preisen, dem Planen von Handelsrouten oder dem Erkennen von wirtschaftlichen Intrigen.  
-  
-**Kunst / Kultur**  
-Kenntnisse über künstlerische Ausdrucksformen, Bräuche und kulturelle Eigenheiten.  
-- Ideal, um Kunstwerke zu bewerten, kulturelle Missverständnisse zu vermeiden oder Ansehen in fremden Gesellschaften zu gewinnen.  
-  
-**Mathematik / Technik**  
-Fähigkeiten im logischen Denken, der Mechanik und technischen Konstruktionen.  
-- Essenziell für das Entwerfen und Reparieren von Apparaturen, das Lösen mathematischer Rätsel oder das Erstellen präziser Berechnungen.  
-  
-**Medizin / Anatomie**  
-Wissen über Heilkunst, Anatomie von Lebewesen und den Umgang mit Verletzungen.  
-- Unerlässlich für die Behandlung von Wunden, die Herstellung von Heilmitteln oder das Erkennen von Krankheiten.  
-  
-**Militär / Taktik**  
-Strategisches Verständnis von Kriegsführung, Schlachten und der Führung von Truppen.  
-- Wichtige Fertigkeit, um Schlachtpläne zu entwerfen, Gegner zu analysieren oder Truppenformationen zu führen.  
-  
-**Natur / Tiere**  
-Verständnis für die Flora, Fauna und die ökologischen Zusammenhänge der Welt.  
-- Nützlich, um Tiere zu zähmen, essbare Pflanzen zu erkennen oder Gefahren in der Wildnis zu vermeiden.  
-  
-**Politik / Diplomatie**  
-Kenntnisse über Herrschaftsstrukturen, Machtverhältnisse und Verhandlungstechniken.  
-- Perfekt, um in politischen Intrigen zu bestehen, Verhandlungen zu führen oder Allianzen zu schmieden.  
-  
-**Religion / Okkultismus**  
-Wissen über Glaubenssysteme, Rituale, Götter und übernatürliche Phänomene.  
-- Ermöglicht es, magische Rituale zu erkennen, göttliche Symbole zu deuten oder sich mit Kulten auseinanderzusetzen.  
-  
-**Schmiedekunst / Erzkunde**  
-Verständnis von Metallverarbeitung, der Qualität von Erzen und handwerklichem Geschick im Schmieden.  
-- Unverzichtbar, um Waffen zu verbessern, die Herkunft eines Metalls zu bestimmen oder handwerkliche Fallen zu entschärfen.  
-  
- **Überleben / Orientierung**  
-Fähigkeiten, um in der Wildnis zu bestehen, Routen zu planen und Gefahren zu vermeiden.  
-- Essenziell für die Navigation, das Errichten von Lagern oder das Entkommen aus lebensbedrohlichen Situationen.  
+##### **Geschichte / Sprachen**  
+Wissen über historische Ereignisse, Kulturen und überlieferte Sprachen.  
+Ermöglicht das Entziffern alter Texte, das Erkennen historischer Zusammenhänge und das Einordnen kultureller Relikte.  
   
 ---  
+##### **Handel / Wirtschaft**  
+Verständnis von Ressourcen, Märkten, Handelsströmen und wirtschaftlichen Dynamiken.  
+Hilfreich, um faire Preise auszuhandeln, Handelsrouten zu planen oder wirtschaftliche Manipulationen zu erkennen.  
   
+---  
+##### **Handwerk / Metallurgie**  
+Kenntnisse über handwerkliche Prozesse, Schmiedetechniken und die Eigenschaften verschiedener Materialien und Erze.  
+Unverzichtbar, um Waffen oder Werkzeuge herzustellen, Metallqualität zu bestimmen oder technische Konstruktionen zu reparieren.  
+  
+---  
+##### **Kryptologie / Geheimzeichen**  
+Wissen über Codes, verschlüsselte Botschaften, Symbolik und die Kunst des Geheimschriftenentzifferns.  
+Nützlich, um versteckte Nachrichten zu entschlüsseln, magische oder profane Sigillen zu erkennen oder geheime Kommunikation zu entlarven.  
+  
+---  
+##### **Kunst / Kultur**  
+Kenntnisse über künstlerische Stile, Traditionen, gesellschaftliche Normen und kulturelle Eigenheiten.  
+Ideal, um Kunstwerke zu bewerten, Rituale zu verstehen oder Missverständnisse in fremden Gesellschaften zu vermeiden.  
+  
+---  
+##### **Mathematik / Technik**  
+Fertigkeiten in Logik, Mechanik, Physik und technischen Konstruktionen.  
+Essenziell, um Apparaturen zu entwickeln, Rätsel mit präzisen Berechnungen zu lösen oder komplexe Mechanismen zu durchschauen.  
+  
+---  
+##### **Medizin / Anatomie**  
+Wissen über den Körperbau verschiedener Kreaturen, Heilmethoden und den Umgang mit Verletzungen.  
+Unverzichtbar zum Behandeln von Wunden, Herstellen medizinischer Mittel oder Erkennen von Giften und Krankheiten.  
+  
+---  
+##### **Militär / Taktik**  
+Strategisches Verständnis von Kriegsführung, Schlachtstruktur und Führung von Einheiten.  
+Wichtig, um effektive Strategien zu entwickeln, Gegner zu analysieren oder Truppen sinnvoll zu positionieren.  
+  
+---  
+##### **Naturkunde / Kreaturen**  
+Verständnis der Flora, Fauna, Monsterkunde und ökologischen Zusammenhänge.  
+Nützlich, um Tiere zu zähmen, Spuren zu lesen, gefährliche Kreaturen zu identifizieren oder Pflanzen korrekt zu nutzen.  
+  
+---  
+##### **Politik / Diplomatie**  
+Wissen über Machtstrukturen, Verhandlungstaktiken und soziale Dynamiken zwischen Gruppen oder Nationen.  
+Perfekt, um Intrigen zu erkennen, diplomatische Gespräche zu führen oder politische Allianzen zu schmieden.  
+  
+---  
+##### **Religion / Mythen**  
+Kenntnisse über Glaubenssysteme, Gottheiten, Rituale, heilige Symbole und übernatürliche Traditionen.  
+Ermöglicht das Deuten religiöser Zeichen, das Verstehen mythischer Zusammenhänge oder das Erkennen okkulter Praktiken.  
+  
+---  
+##### **Überleben / Orientierung**  
+Fertigkeiten für das Leben in der Wildnis: Navigation, Lagerbau, Spurenlesen und Gefahreneinschätzung.  
+Essenziell, um sich in unbekannten Gebieten zurechtzufinden, sichere Routen zu planen oder tödliche Situationen zu vermeiden.  
+  
+---  
 #### **4. Zusätzliche Attribute und Werte**  
   
 Neben den Kernattributen und ihren Eigenschaften gibt es weitere wichtige Werte, die im Spiel entscheidend sind:  
