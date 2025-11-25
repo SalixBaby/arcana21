@@ -7,7 +7,7 @@
   
 **Segen: Macht des Paktes**  
 - +1 auf [Körper](Attribute/K%C3%B6rper/-K%C3%B6rper-.md) oder [Geist](Attribute/Geist/-Geist-.md) oder [Seele](Attribute/Seele/-Seele-.md)  
-- Wissen in Religion/Okkultismus oder Geschichte/Sprachen  
+- Wissen in Religion/Mythen oder Geschichte/Sprachen  
 - zusätzliche Zauberausrichtung [Fluch](Zauberausrichtungen/Seele/Fluch.md)  
 - Pakt ermöglicht beim kritischen Würfen (auch außerhalb vom Kampf) Wiederherstellung von gewissen Ressourcen (Probenabhängig)  
   
