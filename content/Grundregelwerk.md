@@ -113,7 +113,7 @@ Mit deinen Ausbildungspunkten (Geist-Wert + Level + 3) kannst du Wissen in versc
 Jeder Held beherrscht von Beginn an die Sprache seines Volkes sowie die Gemeinsprache. Darüber hinaus ist jeder Held im Umgang mit einem Ausrüstungsset seiner Wahl geübt.  
   
 >[!example]- Beispiel   
->Dein Jäger erhält 5 Ausbildungspunkte. Du setzt sie auf **Überleben/Orientierung**, **Natur/Tiere**, **Medizin/Anatomie**, **Kartographenset** und **Navigationsset**, um seine Fertigkeiten als Seefahrer und Waldläufer zu verbessern.  
+>Dein Jäger erhält 5 Ausbildungspunkte. Du setzt sie auf **Überleben/Orientierung**, **Naturkunde/Kreaturen**, **Medizin/Anatomie**, **Kartographenset** und **Navigationsset**, um seine Fertigkeiten als Seefahrer und Waldläufer zu verbessern.  
 >Er beherrscht von Beginn an die Sprache der Lupari und die Gemeinsprache sowie das Jagdset.  
   
   
@@ -573,7 +573,7 @@ Der Charakter bleibt weiterhin primär in seiner Hauptklasse.
 **Nutzung:**  
 Ausbildungspunkte können auf verschiedene Weise eingesetzt werden:  
   
-- **Wissensbereiche**: Erhalte Wissen in einer der verschiedenen Kategorien wie **Natur/Tiere**, **Religion/Okkultismus**, **Medizin/Anatomie** und mehr.  
+- **Wissensbereiche**: Erhalte Wissen in einer der verschiedenen Kategorien wie **Naturkunde/Kreaturen**, **Religion/Mythen**, **Medizin/Anatomie** und mehr.  
 - **Ausrüstungssets**: Werde geübt im Umgang mit bestimmten **Ausrüstungen** und spezialisierten Sets wie dem **Kräuterkundeset**, dem **Diebesset** oder dem **Kochset**.  
 - **Sprachen**: Lerne neue Sprachen, um dich mit anderen Kulturen und Völkern verständigen zu können.  
   
