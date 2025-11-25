@@ -7,7 +7,7 @@
   
 **Segen: Göttlicher Segen**  
 - +1 auf [Geist](Attribute/Geist/-Geist-.md) oder [Seele](Attribute/Seele/-Seele-.md)  
-- Wissen und Bonus auf Religion/Okkultismus  
+- Wissen und Bonus auf Religion/Mythen  
 - Zugang zu religiösen Wesen und Wissenshorten  
   
 **Fluch: Dogmatisch**  
