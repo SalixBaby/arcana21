@@ -12,7 +12,7 @@
 #### **Variationen:**  
   
 - **Trickbetrüger**: Du bist ein Meister der Täuschung und des schnellen Redens, stets bereit, andere zu überlisten.  
-    - Bonus auf [Lügen](Attribute/Seele/L%C3%BCgen.md)  
+    - Bonus auf [Täuschen](Attribute/Seele/T%C3%A4uschen.md)  
     - +1 auf [Geschicklichkeit](Attribute/K%C3%B6rper/Geschicklichkeit.md)  
     - Wissen in Handel/Wirtschaft  
 - **Akrobat**: Du bist wendig und bewegst dich mit beeindruckender Geschicklichkeit über Dächer, Seile und schmale Vorsprünge.  
