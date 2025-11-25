@@ -4,7 +4,7 @@
   
 **Segen: Fruchtbarer Boden**  
 - +1 auf [Körper](Attribute/K%C3%B6rper/-K%C3%B6rper-.md) oder [Seele](Attribute/Seele/-Seele-.md)  
-- Wissen in Natur/Tiere  
+- Wissen in Naturkunde/Kreaturen  
 - Grundkenntnisse von Heilpflanzen und Überleben in der Wildnis  
   
 **Fluch: Ortsgebunden**  
