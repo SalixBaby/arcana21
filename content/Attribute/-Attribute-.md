@@ -45,7 +45,7 @@ Die Kernattribute sind in jeweils fünf Eigenschaften unterteilt, die spezifisch
 - **[Auftritt](Attribute/Seele/Auftritt.md):** Charisma und Präsenz. Beeinflusst die Wahrnehmung anderer von dir.  
 - **[Einsicht](Attribute/Seele/Einsicht.md):** Fähigkeit, die Emotionen und Absichten anderer zu lesen. Beeinflusst soziale Interaktionen.  
 - **[Intuition](Attribute/Seele/Intuition.md):** Bauchgefühl und die Fähigkeit, spontan Entscheidungen zu treffen. Beeinflusst kreative Proben und Initiative.  
-- **[Lügen](Attribute/Seele/L%C3%BCgen.md):** Geschicklichkeit im Täuschen und Manipulieren. Beeinflusst Bluffen und Intrigen.  
+- **[Täuschen](Attribute/Seele/T%C3%A4uschen.md):** Geschicklichkeit im Täuschen und Manipulieren. Beeinflusst Bluffen und Intrigen.  
 - **[Überzeugen](Attribute/Seele/%C3%9Cberzeugen.md):** Fähigkeit, andere von einer Idee oder Handlung zu überzeugen. Beeinflusst Verhandlungen und Diplomatie.  
   
 ---  
