@@ -4,7 +4,7 @@
   
 **Segen: Ruf der Stille**  
 - +1 auf [Körper](Attribute/K%C3%B6rper/-K%C3%B6rper-.md) oder [Seele](Attribute/Seele/-Seele-.md)  
-- Wissen und Bonus in Religion/Okkultismus    
+- Wissen und Bonus in Religion/Mythen   
 - Vertrautheit mit Ritualen und Schutzzaubern rund um das Thema "Tod"  
   
 **Fluch: Schatten des Todes**  
