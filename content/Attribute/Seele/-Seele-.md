@@ -4,5 +4,5 @@
 - [Auftritt](Attribute/Seele/Auftritt.md)  
 - [Einsicht](Attribute/Seele/Einsicht.md)  
 - [Intuition](Attribute/Seele/Intuition.md)  
-- [Lügen](Attribute/Seele/L%C3%BCgen.md)  
+- [Täuschen](Attribute/Seele/T%C3%A4uschen.md)  
 - [Überzeugen](Attribute/Seele/%C3%9Cberzeugen.md)
