@@ -3,4 +3,4 @@
 - **Kosten:** 2 AP  
 - **Wirkung:** Bewegungsrate des Ziels wird auf 0 gesenkt  
 - **Dauer:** Bis das Ziel sich selbst durch eine erfolgreiche Probe befreit oder von außen befreit wird  
-- **Anforderung:** Der ursprüngliche Angriff muss mindestens Brutal treffen
+- **Anforderung:** Der ursprüngliche Angriff muss mindestens ein Volltreffer sein

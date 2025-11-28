@@ -44,7 +44,7 @@
   
 #### **4. Level:**  
   
-- **Wilde Regeneration**: Wenn du unter 50 % deiner Gesundheit fällst, heilst du automatisch 1 Gesundheit am Ende deines Zuges. Dies wird nur einmal am Tag ausgelöst und stoppt wenn du entweder brutal oder kritisch getroffen wirst, oder du wieder bei voller Gesundheit bist.  
+- **Wilde Regeneration**: Wenn du unter 50 % deiner Gesundheit fällst, heilst du automatisch 1 Gesundheit am Ende deines Zuges. Dies wird nur einmal am Tag ausgelöst und stoppt wenn du entweder einen Volltreffer erleidest, kritisch getroffen wirst, oder du wieder bei voller Gesundheit bist.  
 - **Zeitloser Beschützer**: Die Natur schenkt dir als Dank für deine Dienste einen zeitlosen Körper. Für jedes Jahr, welches vergeht, altert dein Körper nur um ein Monat.  
   
 #### **5. Level:**  

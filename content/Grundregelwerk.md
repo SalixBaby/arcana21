@@ -304,7 +304,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
   
 **4.2.3 Trefferarten**  
 - **Normaler Treffer:** Verursacht den regulären Schaden der Waffe oder des Zaubers.  
-- **Brutaler Treffer:** Wird ein Ziel mit einem Wurf von **5 über dem SG** (Schwierigkeitsgrad) getroffen, verursacht der Treffer **+1 zusätzlichen Schaden**.  
+- **Volltreffer:** Wird ein Ziel mit einem Wurf von **5 über dem SG** (Schwierigkeitsgrad) getroffen, verursacht der Treffer **+1 zusätzlichen Schaden**.  
 - **Kritischer Treffer:** Wird ein Ziel mit einem Wurf von **10 über dem SG** getroffen, verursacht der Treffer **+2 zusätzlichen Schaden**.  
   
 **4.2.3 Schadensarten**  
@@ -500,15 +500,15 @@ Jeder **Manapunkt** erlaubt **eine gezielte Verstärkung**:
   
 ---  
   
-**Brutale & Kritische Erfolge – Macht ohne Mana**  
+**Volltreffer & Kritische Erfolge – Macht ohne Mana**  
   
 Beim Wirken eines Zaubers entscheidet eine **Probe auf Arkana** über das Ergebnis.    
 Besonders hohe Würfe können die Wirkung verstärken – ohne zusätzlichen Manaverbrauch.  
   
-|Erfolgsgrad|Effekt|  
+| Erfolgsgrad                                  |Effekt|  
 |---|---|  
-|**Brutaler Erfolg** (5 über dem Zielwert)|+1 Bonus auf Wirkung (z. B. +1 Schaden)|  
-|**Kritischer Erfolg** (10 über dem Zielwert)|+2 Bonus auf Wirkung (z. B. +2 Schaden oder +1 Schaden & verstärkter Effekt)|  
+| **Volltreffer** (5 über dem Zielwert)        |+1 Bonus auf Wirkung (z. B. +1 Schaden)|  
+| **Kritischer Erfolg** (10 über dem Zielwert) |+2 Bonus auf Wirkung (z. B. +2 Schaden oder +1 Schaden & verstärkter Effekt)|  
   
 Diese Boni **ergänzen**, aber **ersetzen** nicht den Einsatz von Mana.  
   
@@ -516,12 +516,12 @@ Diese Boni **ergänzen**, aber **ersetzen** nicht den Einsatz von Mana.
   
 **Zusammenfassung – Zauberkomponenten & Verstärkung**  
   
-|Komponente|Basiswert|Verstärkung durch Mana|Verstärkung durch Erfolg|  
-|---|---|---|---|  
-|**Reichweite**|10 Felder|+10 Felder / Mana|—|  
-|**Wirkung**|1 Schaden / Effekt|+1 / Mana|Brutal +1 · Kritisch +2|  
-|**Ziel**|1 Person / Objekt|+1 / Mana|—|  
-|**Dauer**|1 Runde|+1 / Mana|—|  
+|Komponente|Basiswert|Verstärkung durch Mana| Verstärkung durch Erfolg     |  
+| -------------- | ------------------ | ---------------------- | ---------------------------- |  
+|**Reichweite**|10 Felder|+10 Felder / Mana| —                            |  
+|**Wirkung**|1 Schaden / Effekt|+1 / Mana| Volltreffer +1 · Kritisch +2 |  
+|**Ziel**|1 Person / Objekt|+1 / Mana| —                            |  
+|**Dauer**|1 Runde|+1 / Mana| —                            |  
   
 > Diese Werte sind als **Richtlinien** gedacht, nicht als starre Regeln.    
 > Sie sollen Spielleiter und Spieler unterstützen, Effekte einzuschätzen und Magie flexibel zu gestalten.    
