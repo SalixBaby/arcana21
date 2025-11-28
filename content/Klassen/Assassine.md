@@ -5,7 +5,7 @@
   
 - **Klassekategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Tödlicher Fokus  
-    - Wenn du einen Gegner überraschst oder einen brutalen oder kritischen Treffer erzielst kannst du einen zusätzlichen Schaden verursachen.  
+    - Wenn du einen Gegner überraschst oder einen Volltreffer oder kritischen Treffer erzielst kannst du einen zusätzlichen Schaden verursachen.  
 ---  
   
 #### **Variationen:**  
