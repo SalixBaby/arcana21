@@ -26,7 +26,7 @@
 #### **1. Level:**  
   
 - **Autorität**: Du kannst (Level) x täglich einer deiner Seelen-Proben einen Bonus verschaffen. Dieser Bonus kann gestapelt werden.   
-- **Meister der Etikette**: Du beherrschst die Kunst der Höflichkeit und Diplomatie. Du erhältst Bonus auf alle Proben, die mit höflichen oder diplomatischen Gesprächen zu tun haben.  
+- **Inspirierende Kontrolle**: Durch geschickte Worte und souveräne Führung leitest du den Einsatz deiner Kräfte auf dein Team um. Pro Runde kannst du bis zu (Level x) deiner verbleibenden Aktionspunkte (AP) an einen oder mehrere Verbündete in Hör- und Sehweite übertragen.  
   
 #### **2. Level:**  
   
@@ -36,7 +36,7 @@
 #### **3. Level:**  
   
 - **Politische Intrige**: Du weißt, wie man Menschen gegeneinander ausspielt, um selbst Vorteile zu erlangen. Du kannst einmal pro Kampf versuchen eine Gegnergruppe gegeneinander aufhetzen, sodass sie sich selbst angreifen oder in einen Streit geraten. (Probe gegen Wille)  
-- **Manipulative Führung**: Durch scharfsinnige Worte und berechnende Befehle leitest du die Energie deines Handelns auf andere um. Du kannst 1x täglich in deinem Zug beliebig viele deiner verbleibenden Aktionspunkte (AP) auf einen oder mehrere Verbündete in Hör- und Sehweite übertragen.  
+- **Meister der Etikette**: Du beherrschst die Kunst der Höflichkeit und Diplomatie. Du erhältst Bonus auf alle Proben, die mit höflichen oder diplomatischen Gesprächen zu tun haben.  
   
 #### **4. Level:**  
 - **Erzwungener Handel**: Deine diplomatischen Fähigkeiten sind so ausgereift, dass du sogar mit Feinden kurzfristige Abkommen erzwingen kannst. Einmal pro Tag kannst du eine Kampfaktion unterbrechen, um eine kurzzeitige Verhandlung zu führen, was dir und deinem Team Zeit oder Ressourcen verschaffen kann.  
