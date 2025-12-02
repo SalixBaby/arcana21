@@ -36,7 +36,7 @@
   
 #### **3. Level:**  
   
-- **Kontaktmann**: Wo immer du auch hinkommst – du kennst jemanden. In jedem neuen Gebiet oder jeder Stadt findest du eine bekannte Seele, die dir in einer bestimmten Lage weiterhelfen kann – sei es mit Informationen, Ressourcen oder diskreter Unterstützung  
+- **Kontaktmann**: Wo immer du auch hinkommst – du kennst jemanden. In jedem neuen Gebiet oder jeder Stadt findest du eine bekannte Seele, die dir in einer bestimmten Lage weiterhelfen kann – sei es mit Informationen, Ressourcen oder diskreter Unterstützung.  
 - **Menschlicher Lügendetektor**: Falschinformationen und Lügen gehören zu deinem täglich Brot. Du erhältst einen doppelten Bonus auf Einsicht-Proben um Unwahrheiten festzustellen.  
   
 #### **4. Level:**  
