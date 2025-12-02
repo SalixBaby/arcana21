@@ -38,7 +38,7 @@
   
 #### **2. Level:**  
   
-- **Taktisches Kommando**: Du kannst 1 AP ausgeben, um einem Verbündeten in Hörweite 1 AP für seinen nächsten Zug zu übertragen. Diese Fähigkeit untersteht ebenfalls der Wiederholungssanktion.  
+- **Taktisches Kommando**: Du kannst einmal pro Runde 2 AP ausgeben, um allen Verbündeten in Hörweite 1 AP für ihren nächsten Zug zu übertragen. Diese können allerdings nur zum einsetzen der Bewegungsrate genutzt werden. (z.B. Laufen, Springen, Fliegen etc.)  
 - **Taktischer Rückzug**: Du erkennst, wann ein Kampf nicht mehr zu gewinnen ist. Während du und deine Verbündeten euch zurückzieht oder versucht vor einem Kampf zu fliehen, erhalten alle einen Bonus auf Bewegungsrate und Ausweichen.  
   
 #### **3. Level:**  
