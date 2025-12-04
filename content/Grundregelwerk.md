@@ -244,7 +244,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Springen** – _1 AP_: Überwinde Hindernisse oder schließe die Distanz zu deinem Ziel. *(Standard: Sprungwert des Volkes + Stärke | Kann mit Probe vergrößert werden)*  
 - **Aufstehen** – _1 AP_: Stehe auf, nachdem du auf dem Boden lagst oder gestürzt bist.  
 - **Verstecken** – _1 AP_: Schlüpfe in den Schatten und werde unsichtbar für deine Feinde. *(Geschicklichkeitsprobe gegen Wahrnehmung)*  
-- **Ausweichen** – _1 AP_: Erschwere es deinen Gegnern dich zu treffen. *(Malus auf Angriffe gegen dich für die Runde)*  
+- **Ducken** – _1 AP_: Erschwere es deinen Gegnern dich zu treffen. *(Malus auf Angriffe gegen dich für die Runde)*  
 - **Rückzug** - *1 AP*. Verlasse den Angriffsbereich eines Gegners ohne einen Gelegenheitsangriff zu provozieren.  
 - **Festhalten** – _1 AP_: Greife einen Gegner und verhindere seine Bewegungen. *(Stärkeproben-Wettstreit. Reduziert Bewegungsrate des Ziels auf 0)*  
 - **Lähmen** – _1 AP_: Ist dein Gegner bereits festgehalten, kannst du versuchen, ihn vollständig zu lähmen. *(Stärkeproben-Wettstreit. Reduziert deine Bewegungsrate auf 0)*  
