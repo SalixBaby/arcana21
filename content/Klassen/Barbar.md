@@ -1,7 +1,7 @@
 ---
 {}
 ---
->_Wenn andere fliehen, stürmst du voran. In deinem Herzen brennt ein Feuer, das weder Vernunft noch Schmerz kennt. Du bist rohe Kraft, entfesselter Zorn und ungebändigter Wille. Wo andere auf Strategie setzen, antwortest du mit Instinkt. Du bist Sturm, Beben und Bestie zugleich – ein Krieger, der seine Wut zur Waffe gemacht hat._  
+>_Wenn andere fliehen, stürmst du voran. In deinem Herzen brennt ein Feuer, das weder Vernunft noch Schmerz kennt. Du bist rohe Kraft, entfesselter Zorn und ungebändigter Wille. Wo andere auf Strategie setzen, antwortest du mit reinem Instinkt. Du bist Sturm, Beben und Bestie zugleich – ein Krieger, der seine Wut zur Waffe gemacht hat._  
   
 - **Klassenkategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Raserei  
@@ -30,7 +30,7 @@
   
 ### **2. Level:**  
   
-- **Rücksichtslos**: Du kannst für 1 AP mit voller Wucht angreifen und für diesen Zug einen Bonus auf deine Angriffsproben im Nahkampf erhalten. Bis zu deinem nächsten Zug erhalten allerdings Gegner ebenfalls einen Bonus auf Angriffe gegen dich.  
+- **Rücksichtslos**: Du kannst für 1 zusätzlichen AP mit voller Wucht angreifen und für diesen Zug einen Bonus auf deine Angriffsproben im Nahkampf erhalten. Bis zu deinem nächsten Zug erhalten allerdings Gegner ebenfalls einen Bonus auf Angriffe gegen dich.  
 - **Gebrüll:** Du kannst einmal pro Kampf ein mächtiges Kriegsgebrüll ausstoßen, das Gegner in Reichweite (Level x 5m) mit Furcht belegt (Malus auf alle Proben für 1 Runde).  
   
 ### **3. Level:**  
