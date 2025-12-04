@@ -22,7 +22,7 @@
 #### **1. Level:**  
   
 - **Lautlos**: Du kannst dich besonders leise bewegen und erhältst einen Bonus auf Heimlichkeitsproben.  
-- **Überraschungsangriff**: Wenn du unbemerkt einem Gegner Schaden zufügst, erhält dieser einen Malus auf seine Angriffsproben für den nächsten Zug.  
+- **Überraschungsangriff**: Wenn du unbemerkt einem Gegner Schaden zufügst, erhält dieser einen Malus auf seine nächste Angriffsprobe.  
   
 #### **2. Level:**  
   
@@ -36,10 +36,10 @@
   
 #### **4. Level:**  
   
-- **Doppelschlag**: Wenn du einen Gegner aus dem Hinterhalt angreifst, kannst du einen zweiten Angriff ausführen ohne AP zu bezahlen.  
+- **Doppelschlag**: Wenn du einen Gegner aus dem Hinterhalt angreifst, kannst du sofort einen zweiten Angriff ausführen ohne AP zu bezahlen. Bei beiden dieser Angriffe zählt dein Opfer als überrascht.  
 - **Meister der Täuschung**: Du kannst dich meisterhaft verstecken, selbst in ungünstigen Situationen. Einmal pro Kampf kannst du dich sofort verstecken, selbst wenn du beobachtet wirst. Gegner müssen eine Wahrnehmungsprobe bestehen, um dich zu entdecken.  
   
 #### **5. Level:**  
   
 - **Treffsicher**: Dein Können im Umgang mit tödlichen Waffen erreicht seinen Höhepunkt. Du erhältst auf alle Angriffsproben einen doppelten Bonus.  
-- **Meister-Assassine**: Du kannst einen Gegner lautlos und sofort töten, wenn er dich nicht bemerkt und seine Gesundheit unter 5 ist.
+- **Meister-Assassine**: Du kannst einen Gegner lautlos und sofort töten, wenn er dich nicht bemerkt und seine Gesundheit unter 10 ist.
