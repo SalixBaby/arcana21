@@ -29,13 +29,13 @@
   
 #### **2. Level:**  
   
-- **Göttliches Urteil**: Einmal am Tag kannst du einen Gegner berühren und ihn mit einem heiligen Urteil belegen. Das Ziel erhält einen Malus auf alle Zauber- oder Angriffsproben für die nächste Runde.  
+- **Göttliches Urteil**: Einmal am Tag kannst du einen Gegner berühren und ihn für 1AP mit einem heiligen Urteil belegen. Das Ziel erhält einen Malus auf alle Proben für die nächste Runde.  
 - **Göttliche Heilung**: Du kannst deine göttliche Verbindung nutzen, um Verletzungen zu heilen. Zweimal täglich kannst du dich selber für 2 AP um (Level) x Gesundheit heilen.  
   
 #### **3. Level:**  
   
-- **Göttliche Macht**: Du kannst deine göttlichen Fähigkeiten steigern und bis zu 3 AP pro Kampf zusätzlich nutzen, die Teil eines Angriffs sein müssen.  
-- **Göttliches Schild**: Du kannst einmal pro Tag als Reaktion einen Schaden gegen dich gänzlich negieren. Dies kostet jedoch 3 AP.  
+- **Göttliche Macht**: Du kannst deine göttlichen Fähigkeiten steigern und bis zu 4 AP pro Kampf zusätzlich nutzen, die Teil eines Angriffs sein müssen.  
+- **Göttliches Schild**: Du kannst einmal pro Tag als Reaktion einen Schaden gegen dich gänzlich negieren. Dies kostet jedoch 4 AP.  
   
 #### **4. Level:**  
   
@@ -44,5 +44,5 @@
   
 #### **5. Level:**  
   
-- **Göttliche Form**: Du kannst die Form eines Avatars deines Gottes für eine Minute annehmen. In dieser Form erhältst du keinen Schaden und alle deine Angriff gelten als Göttliche Schläge.  
-- **Göttliches Geschenk**: Dein Gott hat dich ausgewählt um seinen Glauben zu verteidigen. Und das auf ewig. Solange du dich deinem Glauben entsprechend verhältst alterts du nicht und bist immun gegen Krankheiten und kleineren Verletzungen.
+- **Göttliche Form**: Du kannst die Form eines Avatars deines Gottes für eine Minute annehmen. In dieser Form erhältst du keinen Schaden, erhältst 50 Felder Flugweite und alle deine Angriff gelten als Göttliche Schläge.  
+- **Göttliches Geschenk**: Dein Gott hat dich ausgewählt seinen Glauben zu verteidigen. Und das auf ewig. Solange du dich deinem Glauben entsprechend verhältst alterts du nicht und bist immun gegen Krankheiten und kleineren Verletzungen.
