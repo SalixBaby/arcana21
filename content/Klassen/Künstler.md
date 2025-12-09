@@ -25,8 +25,8 @@ ___
   
 #### **1. Level:**  
   
-- **Inspirierende Kunst**: Du kannst (Level) x 2 täglich eine Kunstform nutzen, um deinen Verbündeten in Hör- oder Sehweite einen Bonus auf eine Probe zu geben. Dies muss vorher angesagt werden.  
-- **Alleskönner**: Du hast dir ein breites Spektrum an Fähigkeiten angeeignet und kannst dich in nahezu jeder Situation zurechtfinden. Du erhältst auf alle Proben in denen du nicht talentiert bist eine +1.  
+- **Inspirierende Kunst**: Du kannst (Level) x 2 täglich eine Kunstform nutzen, um deinen Verbündeten in Hör- oder Sehweite einen Bonus auf eine Probe zu geben. Dies kostet 1 AP und muss aber vorher angesagt werden.  
+- **Alleskönner**: Du hast dir ein breites Spektrum an Fähigkeiten angeeignet und kannst dich in nahezu jeder Situation zurechtfinden. Du erhältst auf alle nicht-körperlichen Attribute in denen du nicht talentiert bist eine +1.  
   
 #### **2. Level:**  
   
@@ -35,13 +35,13 @@ ___
   
 #### **3. Level:**  
   
-- **Inspirierender Auftritt:** Wenn du eine Rede hältst, ein Lied spielst oder eine andere künstlerische Darbietung aufführst, kannst du allen Verbündeten in Hör- oder Sichtweite für eine Minute zwei zusätzliche temporäre Ausdauerpunkte verleihen.  
+- **Inspirierender Auftritt:** Wenn du außerhalb des Kampfes eine Rede hältst, ein Lied spielst oder eine andere künstlerische Darbietung aufführst, kannst du allen Verbündeten in Hör- oder Sichtweite für eine Minute zwei zusätzliche temporäre Ausdauerpunkte verleihen.  
 - **Kunstvolle Ablenkung**: Du kannst einmal täglich eine Situation so manipulieren, dass alle Augen auf dich gerichtet sind, während deine Verbündeten agieren. Deine Verbündeten erhalten einen doppelten Bonus auf Heimlichkeitsproben während deines Auftritts.  
   
 #### **4. Level:**  
   
 - **Meisterhafte Technik:** Du kannst außergewöhnliche Werke erschaffen. Deine Kreationen haben einen merklichen Wert und können für Unsummen veräußert werden.  
-- **Fesselnde Kunst**: Präsentierst du deine Kunst müssen Kreaturen sich zunächst von dem Anblick losreißen bevor sie agieren können. Je besser die Kunst, desto höher der Aufwand sich loszureißen. (Auftrittsprobe gegen Willensstärke)  
+- **Fesselnde Kunst**: Für 2 AP kannst du deine Kunst darbieten und damit die Aufmerksamkeit aller Kreaturen in Hör- oder Sichtweite bannen. Bevor sie handeln können, müssen sie sich erst von deinem Werk lösen. Wie schwer ihnen das fällt, hängt von der Qualität deiner Darbietung ab. (Auftrittsprobe gegen die Willensstärke der Kreaturen)  
   
 #### **5. Level:**  
   
