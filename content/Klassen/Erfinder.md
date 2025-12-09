@@ -13,11 +13,13 @@
   
 - **Hextech**: Du kombinierst externe Magie mit Technologie und erschaffst Artefakte, die sowohl mechanisch als auch magisch funktionieren.  
     - Wissen und Bonus in Mathematik/Technik oder Handwerk/Metallurgie  
+    - +2 Zauberausrichtungen  
     - Umgang mit [Tüftler Set](Ausr%C3%BCstungen/Ausr%C3%BCstungssets/T%C3%BCftler%20Set.md)  
     - Bonus auf [Arkana](Attribute/Geist/Arkana.md)  
+    - +1 [Geschicklichkeit](Attribute/K%C3%B6rper/Geschicklichkeit.md)  
 - **Tüftler**: Du konzentrierst dich auf das Erschaffen praktischer, mechanischer Lösungen für Probleme und Herausforderungen, von kleinen Apparaturen bis zu komplexen Maschinen.  
     - Wissen und Bonus in Mathematik/Technik oder Handwerk/Metallurgie  
-    - Umgang mit [Tüftler Set](Ausr%C3%BCstungen/Ausr%C3%BCstungssets/T%C3%BCftler%20Set.md) und [Diebes Set](Ausr%C3%BCstungen/Ausr%C3%BCstungssets/Diebes%20Set.md)  
+    - Umgang mit [Tüftler Set](Ausr%C3%BCstungen/Ausr%C3%BCstungssets/T%C3%BCftler%20Set.md)  
     - Zugang zu Feuerwaffen (sollte mit dem SL abgesprochen werden)  
     - +1 [Geschicklichkeit](Attribute/K%C3%B6rper/Geschicklichkeit.md)  
     - +1 [Fokus](Attribute/Geist/Fokus.md)  
@@ -41,7 +43,7 @@
   
 #### **4. Level:**  
   
-- **Konstrukten-Rüstung**: Du kannst Konstrukte dazu benutzen als Rüstung zu fungieren. Diese gewähren dem Träger +2 auf Ausweichen und Schutz vor 1 physischen Schaden. Diese müssen genau wie normale Schwere Rüstung alle paar Tage von dir gewartet werden.  
+- **Konstrukten-Rüstung**: Du kannst Konstrukte dazu benutzen als Rüstung zu fungieren. Diese gewähren dem Träger einen Bonus auf Ausweichen und Schutz vor 1 physischen Schaden. Diese müssen genau wie normale Schwere Rüstung alle paar Tage von dir gewartet werden.  
 - **Geistesblitz**: Dein scharfer Verstand erlaubt es dir, eine gescheiterte Probe zu wiederholen. Du kannst diese Fähigkeit 2x pro Tag mit eigenen Proben oder 1x pro Tag mit Proben von Verbündeten in Seh- oder Hörreichweite aktivieren.  
   
 #### **5. Level:**  

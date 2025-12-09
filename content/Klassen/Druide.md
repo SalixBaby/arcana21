@@ -39,7 +39,7 @@
   
 #### **3. Level:**  
   
-- **Elementarform**: Du bist eins mit den Elementen. Du kannst dich mit deinem Gestaltwandeln zusätzlich in Elementarwesen verwandeln.  
+- **Elementarform**: Du bist eins mit den Elementen. Du kannst dich mit deinem Gestaltwandeln zusätzlich in Elementarwesen verwandeln, dessen Zauberausrichtung du beherrschst.  
 - **Naturmagie**: Solange du dich in der Natur befindest, bekommst du einen Bonus auf deine Arkana-Proben.  
   
 #### **4. Level:**  

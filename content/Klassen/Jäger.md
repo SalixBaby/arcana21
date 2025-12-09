@@ -5,10 +5,10 @@
   
 - **Klassenkategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Todfeind  
-    - Du hast deine Fähigkeiten geschärft, um gegen eine bestimmte Art von Gegner besonders effektiv zu sein. Ob es persönliche Rache, jahrelange Erfahrung oder einfach pragmatische Notwendigkeit ist – wenn du gegen dein bevorzugtes Ziel kämpfst oder es jagst, bist du unerbittlich und präzise.  
+    - Du hast deine Fähigkeiten darauf spezialisiert, eine bestimmte Gegnerart mit außergewöhnlicher Effizienz zu bekämpfen – sei es aus persönlicher Vendetta, langjähriger Erfahrung oder praktischer Notwendigkeit.  
   
 - ***Zusätzliche Erklärung für Todfeind:***  
-	- ***Feindwahl:** Wähle bei der Charaktererstellung eine Kreaturenart (z. B. Mensch, Untoter, Drache, Bestie, Dämon, Konstrukte usw.). Du kannst im späteren Spielverlauf noch weitere Arten als Todfeind wählen, dies muss aber mit dem SL besprochen werden.  
+	- ***Feindwahl:** Wähle bei der Charaktererstellung eine Kreaturenart (z. B. Humanoide, Untoter, Drache, Bestie, Dämon, Konstrukte usw.). Du kannst im späteren Spielverlauf noch weitere Arten als Todfeind wählen, dies muss aber mit dem SL besprochen werden.*  
 	- ***Effekt:** Wenn du gegen ein Wesen deiner gewählten Art kämpfst oder es jagst, erhältst du Bonus auf alle Angriffsproben, Wahrnehmungsproben, Instinktproben und deine Willensstärke.*  
   
 ___  
