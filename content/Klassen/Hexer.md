@@ -15,7 +15,7 @@
     - +1 [Stärke](Attribute/K%C3%B6rper/St%C3%A4rke.md)  
     - +1 [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
     - Wissen in Religion/Mythen  
-    - **Blutpakt-Ausprägung** – _1 AP_: Du kannst 1 Gesundheit opfern, um einen Bonus auf deine nächste körperliche Probe zu erhalten.  
+    - **Blutpakt-Ausprägung** – _1 AP_: Du kannst 1 Gesundheit opfern, um einen Bonus auf deine nächste Probe zu erhalten.  
 - **Blutklinge** – Deine Angriffe fließen mit der Essenz deiner Feinde und deiner eigenen Kraft, wodurch sie besonders verheerend werden.  
     - +1 [Geschwindigkeit](Attribute/K%C3%B6rper/Geschwindigkeit.md)  
     - +1 [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
