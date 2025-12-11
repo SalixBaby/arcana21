@@ -31,7 +31,7 @@
   
 #### **3. Level:**  
   
-- **Vergiftete Klinge**: Du kannst für 1 AP (Level x) pro Tag eine Waffe mit Gift bestreichen, das einmal zusätzlich +1 Giftschaden verursacht.  
+- **Vergiftete Klinge**: Für 1 AP kannst du einmal pro Tag deine Waffe mit einem lähmenden Gift bestreichen. Triffst du damit einen Gegner, wird er für eine Runde paralysiert und kann sich nicht fortbewegen.  
 - **Kampf oder Flucht**: Wenn du Schaden erleidest, kannst du, falls möglich, für 1 AP direkt einen Gegenangriff ausführen oder deine Bewegungsrate nutzen ohne einen Gelegenheitsangriff zu provozieren.  
   
 #### **4. Level:**  
