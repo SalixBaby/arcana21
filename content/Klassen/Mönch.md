@@ -8,19 +8,19 @@
 	- Deine innere Energie durchströmt dich wie ein unsichtbarer Fluss und durch jahrelange Schulung hast du gelernt, diese Kraft gezielt zu lenken.  
   
 - ***Zusätzliche Erklärung für Ki:***  
-	- ***Ki-Punkte:** Du erhältst eine Anzahl von 2 + (Level x) 2 Ki-Punkte, welche sich bei einer langen Rast regenerieren. Bei einer kurzen Rast erhältst du (Level x) Ki-Punkte zurück. Du kannst pro Runde maximal einmal Ki-Punkte ausgeben.  
-	- ***Effekt:** Du kannst deine Ki-Punkte flexibel einsetzen: Für jeden ausgegebenen Punkt kannst du entweder 1 Ausdauerpunkt regenerieren oder eine deiner Klassenfähigkeiten verstärken.  
+	- ***Ki-Punkte:** Du erhältst eine Anzahl von 2 + (Level x) 2 Ki-Punkte, welche sich bei einer langen Rast regenerieren. Bei einer kurzen Rast erhältst du (Level x) Ki-Punkte zurück. Du kannst pro Runde maximal einmal Ki-Punkte ausgeben.*  
+	- ***Effekt:** Du kannst deine Ki-Punkte flexibel einsetzen: Für jeden ausgegebenen Punkt kannst du entweder 1 Ausdauerpunkt regenerieren oder eine deiner Klassenfähigkeiten verstärken.*  
 ---  
   
 #### **Variationen:**  
   
-- **Wanderasket:** Du bist ein Reisender auf der Suche nach Erleuchtung. Du lebst asketisch, bist beweglich, wachsam und geistig geschärft.  
+- **Pilger:** Du bist ständig unterwegs – nicht aus Rastlosigkeit, sondern aus Überzeugung. Jeder Weg ist eine Prüfung, jede Begegnung eine Lektion.  
     - +1 [Geschwindigkeit](Attribute/K%C3%B6rper/Geschwindigkeit.md)  
     - +1 [Wahrnehmung](Attribute/Geist/Wahrnehmung.md)  
     - Wissen in Überleben/Orientierung  
-- **Kriegermönch:** Dein Körper ist deine Waffe. Du nutzt Kampfkunst, um mit bloßen Händen oder einfachen Waffen gegen jede Bedrohung zu bestehen.  
+- **Eremit:** Du hast dich von der Welt zurückgezogen, um Körper und Geist zu perfektionieren. In der Stille hast du gelernt, dich selbst zu beherrschen.  
     - +1 [Fokus](Attribute/Geist/Fokus.md)  
-    - +1 [Geschwindigkeit](Attribute/K%C3%B6rper/Geschwindigkeit.md)  
+    - +1 [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
     - Wissen in Medizin/Anatomie  
   
 ---  
@@ -41,16 +41,15 @@
   
 #### **3. Level:**  
   
-- **Innere Flamme**: Wenn du im Kampf auf 0 Gesundheit reduzierst wirst, kannst du einmal pro Tag deine Kräfte bündeln und 2 AP zusätzlich erhalten. Diese müssen in deinem nächsten Zug eingesetzt werden.  
-  *(Ki-Aufwertung: Du kannst die Innere Flamme mehrfach pro Tag verwenden und erhältst einen zusätzlichen AP für den nächsten Zug.)*  
+- **Momentum**: Bleib immer in Bewegung. Solange du in der gleichen Runde eine Bewegungsrate ausgeführt hast erhältst du einen Bonus auf deine Angriffsproben.  
 - **Schub**: Du kannst deine Bewegungen für einen Moment übermenschlich beschleunigen. Einmal am Tag kannst du für eine Runde deine Bewegungsrate verdoppeln.  
   *(Ki-Aufwertung: Du kannst deinen Schub mehrfach pro Tag verwenden und dabei auch an Wänden laufen, solange du nach dem Zug wieder auf dem Boden bist.)*  
   
 #### **4. Level:**  
   
-- **Fliegender Tritt**: Wenn du mindestens 5 Felder in gerader Linie läufst, kannst du als Teil des Laufens einen Gegner angreifen ohne zusätzliche AP auszugeben.  
-  *(Ki-Aufwertung: Du darfst den Gegner 2 Feld zurückstoßen und verursachst +1 Schaden.)*  
-- **Ki-Reflexe**: Du hast gelernt auf Angriffe blitzschnell zu reagieren. Du kannst einmal pro Runde für 2 AP jeden Schaden eines Angriffs um 1 reduzieren.  
+- **Innere Flamme**: Wenn du im Kampf auf 0 Gesundheit reduzierst wirst, kannst du einmal pro Tag deine Kräfte bündeln und 2 AP zusätzlich erhalten. Diese müssen in deinem nächsten Zug eingesetzt werden.  
+  *(Ki-Aufwertung: Du kannst die Innere Flamme mehrfach pro Tag verwenden und erhältst einen zusätzlichen AP für den nächsten Zug.)*  
+- **Ki-Reflexe**: Du hast gelernt auf Angriffe blitzschnell zu reagieren. Du kannst einmal pro Runde für 2 AP jeden Schaden eines Angriffs um 2 reduzieren.  
   *(Ki-Aufwertung: Du kannst den Schaden um ein weiteren Schaden reduzieren.)*  
   
 #### **5. Level:**  
