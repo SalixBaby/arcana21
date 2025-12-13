@@ -1,6 +1,3 @@
----
-{}
----
 >_Du fürchtest den Tod nicht – du herrschst über ihn. Während andere sich dem Unvermeidlichen beugen, hast du Wege gefunden, es zu umgehen, zu kontrollieren oder gar umzukehren. Deine Magie durchdringt die Grenze zwischen Leben und Verfall, und du wandelst auf Pfaden, die selbst unter Zauberwirkern als verboten gelten. Ob als pragmatischer Leichenbeschwörer, unheilvoller Totenpriester oder verbannter Seelenformer – du sprichst mit dem Jenseits, und das Jenseits hört dir zu._  
   
 - **Klassenkategorie:** Zauberklasse  
@@ -29,13 +26,13 @@
   
 #### **2. Level:**  
   
-- **Jenseitsflüstern**: Wenn du einen Gegner getötet hast kannst du ein Fragment seiner Seele an dich binden. Du kannst bis zu (Level) x Fragmente gleichzeitig halten und dich mit diesen Fragmenten unterhalten. Diese Fragmente können dir Bonus in Wissenskategorien geben, die der SL für sinnvoll erachtet.  
+- **Jenseitsflüstern**: Wenn du einen Gegner getötet hast kannst du ein Fragment seiner Seele an dich binden. Du kannst bis zu (Level x) Fragmente gleichzeitig halten und dich mit diesen Fragmenten unterhalten. Diese Fragmente können dir Bonus in Wissenskategorien geben, die der SL für sinnvoll erachtet.  
 - **Unheilige Präsenz:** Deine bloße Aura flößt Furcht ein. Gegner in deiner Nähe (Level x 5m) erhalten -1 auf alle Proben.  
   
 #### **3. Level:**  
   
 - **Erweckung:** Du bist in der Lage, mächtigere Tote zurückzuholen. Um sie deinem Willen zu unterwerfen, musst du eine erfolgreiche Fokus-Probe bestehen – je stärker die Kreatur, desto höher der Widerstand. Du kannst auf diese Weise bis zu zwei starke Untote gleichzeitig kontrollieren.  
-- **Verfluchter Blick:** Du kannst für 1 AP einen Gegner in (Level x) 5m mit einem Fluch belegen. Dieser Gegner erhält einen Malus auf alle Proben bis zum Ende seiner nächsten Runde.  
+- **Verfluchter Blick:** Du kannst für 2 AP einen Gegner in (Level x) 5m mit einem Fluch belegen. Dieser Gegner erhält einen Malus auf alle Proben bis zum Ende seiner nächsten Runde.  
   
 #### **4. Level:**  
   
