@@ -11,7 +11,7 @@
 7. [Glaube](Hintergr%C3%BCnde/Glaube.md)  
 8. [Kaufmann](Hintergr%C3%BCnde/Kaufmann.md)  
 9. [Handwerker](Hintergr%C3%BCnde/Handwerker.md)  
-10. [Totengräber](Totengr%C3%A4ber.md)  
+10. [Kultist](Hintergr%C3%BCnde/Kultist.md)  
 11. [Athlet](Athlet.md)  
 12. [Mediziner](Hintergr%C3%BCnde/Mediziner.md)  
 13. [Militär](Hintergr%C3%BCnde/Milit%C3%A4r.md)  
