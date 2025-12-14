@@ -11,12 +11,12 @@
   
 #### **Variationen:**  
   
-- **Blutgefäß** – Dein Körper ist ein Reservoir roher Energie, doch jede Nutzung hat ihren Preis.  
+- **Gefäß**: Du nutzt deinen eigenen Körper als Quelle deiner Macht. Blut, Schmerz und Ausdauer sind die Brennstoffe deiner Magie – jede Aktivierung stärkt dich, doch sie zehrt sichtbar an deiner Gesundheit.  
     - +1 [Stärke](Attribute/K%C3%B6rper/St%C3%A4rke.md)  
     - +1 [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
     - Wissen in Religion/Mythen  
     - **Blutpakt-Ausprägung** – _1 AP_: Du kannst 1 Gesundheit opfern, um einen Bonus auf deine nächste Probe zu erhalten.  
-- **Blutklinge** – Deine Angriffe fließen mit der Essenz deiner Feinde und deiner eigenen Kraft, wodurch sie besonders verheerend werden.  
+- **Henker**: Deine Präsenz kündet von unbarmherziger Entschlossenheit. Jeder deiner Angriffe trägt die Intensität deiner eigenen Lebensenergie in sich und trifft mit einer Präzision und Härte, die den Gegner erschüttert – als würde dein Blut selbst die Klinge führen.  
     - +1 [Geschwindigkeit](Attribute/K%C3%B6rper/Geschwindigkeit.md)  
     - +1 [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
     - Wissen in Religion/Mythen  
