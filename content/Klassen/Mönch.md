@@ -14,11 +14,11 @@
   
 #### **Variationen:**  
   
-- **Pilger:** Du bist ständig unterwegs – nicht aus Rastlosigkeit, sondern aus Überzeugung. Jeder Weg ist eine Prüfung, jede Begegnung eine Lektion.  
+- **Pilger**: Du bist ständig unterwegs – nicht aus Rastlosigkeit, sondern aus Überzeugung. Jeder Weg ist eine Prüfung, jede Begegnung eine Lektion.  
     - +1 [Geschwindigkeit](Attribute/K%C3%B6rper/Geschwindigkeit.md)  
     - +1 [Wahrnehmung](Attribute/Geist/Wahrnehmung.md)  
     - Wissen in Überleben/Orientierung  
-- **Eremit:** Du hast dich von der Welt zurückgezogen, um Körper und Geist zu perfektionieren. In der Stille hast du gelernt, dich selbst zu beherrschen.  
+- **Eremit**: Du hast dich von der Welt zurückgezogen, um Körper und Geist zu perfektionieren. In der Stille hast du gelernt, dich selbst zu beherrschen.  
     - +1 [Fokus](Attribute/Geist/Fokus.md)  
     - +1 [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
     - Wissen in Medizin/Anatomie  
