@@ -11,11 +11,11 @@
   
 #### **Variationen:**  
   
-- **Herold:** Du bist ein Sprachrohr deiner Gottheit, ein Wanderprediger, der den Glauben in die entlegensten Winkel der Welt trägt.  
+- **Herold**: Du bist ein Sprachrohr deiner Gottheit, ein Wanderprediger, der den Glauben in die entlegensten Winkel der Welt trägt.  
 	- +1 [Einsicht](Attribute/Seele/Einsicht.md)  
 	- +1 [Wahrnehmung](Attribute/Geist/Wahrnehmung.md)  
 	- Wissen und doppelter Bonus in Religion/Mythen  
-- **Lichtbringer:** Du brauchst keinen Auftrag, keine heiligen Schriften – dein Glaube ist die Güte selbst. Du strebst danach, Heilung und Hoffnung zu bringen.  
+- **Lichtbringer**: Du brauchst keinen Auftrag, keine heiligen Schriften – dein Glaube ist die Güte selbst. Du strebst danach, Heilung und Hoffnung zu bringen.  
 	- +1 [Überzeugen](Attribute/Seele/%C3%9Cberzeugen.md)  
 	- +1 [Fokus](Attribute/Geist/Fokus.md)  
 	- Wissen und doppelter Bonus in Religion/Mythen  
