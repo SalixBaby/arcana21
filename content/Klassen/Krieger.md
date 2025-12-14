@@ -11,11 +11,11 @@
   
 #### **Variationen:**  
   
-- **Soldat:** Du hast auf dem Schlachtfeld gelernt, nicht in Turnhallen. Deine Bewegungen sind effizient, deine Haltung diszipliniert, dein Blick kalt. Du kämpfst nicht für Ruhm – sondern, weil es getan werden muss.  
+- **Soldat**: Du hast auf dem Schlachtfeld gelernt, nicht in Turnhallen. Deine Bewegungen sind effizient, deine Haltung diszipliniert, dein Blick kalt. Du kämpfst nicht für Ruhm – sondern, weil es getan werden muss.  
     - +1 auf [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
     - +1 auf [Stärke](Attribute/K%C3%B6rper/St%C3%A4rke.md)  
     - Wissen in **Militär/Taktik** & **Überleben/Orientierung**  
-- **Gladiator:** Dein Kampf ist eine Show – und du bist der Star. Du kämpfst für das Publikum, für die Anerkennung, für den Applaus. Und dabei schlägst du genauso hart zu wie jeder andere – nur eben mit Stil.  
+- **Gladiator**: Dein Kampf ist eine Show – und du bist der Star. Du kämpfst für das Publikum, für die Anerkennung, für den Applaus. Und dabei schlägst du genauso hart zu wie jeder andere – nur eben mit Stil.  
     - +1 auf [Geschicklichkeit](Attribute/K%C3%B6rper/Geschicklichkeit.md)      
     - Bonus auf [Auftritt](Attribute/Seele/Auftritt.md)  
     - Wissen in **Militär/Taktik** & **Kunst/Kultur**  
