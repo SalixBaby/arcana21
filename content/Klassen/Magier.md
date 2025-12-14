@@ -9,11 +9,11 @@
 ---  
   
 #### **Variationen:**  
-- **Magus:** Deine Magie folgt Prinzipien, Mustern und uralten Formeln. Du strebst nach Kontrolle, Präzision und Effizienz. In dir brennt kein wildes Feuer – sondern ein stetiges Licht.  
+- **Magus**: Deine Magie folgt Prinzipien, Mustern und uralten Formeln. Du strebst nach Kontrolle, Präzision und Effizienz. In dir brennt kein wildes Feuer – sondern ein stetiges Licht.  
     - +1 [Wissen](Attribute/Geist/Wissen.md)  
     - +1 [Erfahrung](Attribute/Geist/Erfahrung.md)  
     - +1 [Fokus](Attribute/Geist/Fokus.md)  
-- **Chaoswirker:** In dir tobt rohes, ungezähmtes Arkana. Deine Zauber flackern, wirbeln, explodieren – manchmal übermächtig, manchmal unberechenbar. Doch im Chaos findest du Möglichkeiten, die andere nie wagen würden.  
+- **Chaoswirker**: In dir tobt rohes, ungezähmtes Arkana. Deine Zauber flackern, wirbeln, explodieren – manchmal übermächtig, manchmal unberechenbar. Doch im Chaos findest du Möglichkeiten, die andere nie wagen würden.  
     - +2 [Arkana](Attribute/Geist/Arkana.md)  
     - +1 [Instinkt](Attribute/K%C3%B6rper/Instinkt.md)  
     - -2 [Fokus](Attribute/Geist/Fokus.md)  
