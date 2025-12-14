@@ -8,14 +8,14 @@
   
 #### **Variationen:**  
   
-- **Totenrufer:** Du sprichst mit Geistern und holst Wissen aus der jenseitigen Welt. Deine Zauber manipulieren nicht nur Leiber, sondern auch Erinnerungen.  
+- **Totengräber:** Du wandelst an der Schwelle zwischen Leben und Tod. Für dich sind Gräber keine Endpunkte, sondern Quellen von Wissen und Wahrheit.   
     - +1 [Wissen](Attribute/Geist/Wissen.md)  
-    - Bonus auf [Erfahrung](Attribute/Geist/Erfahrung.md)  
+    - +1 [Erfahrung](Attribute/Geist/Erfahrung.md)  
     - Wissen in Religion/Mythen  
-- **Knochenmagier:** Du formst Körper wie Ton. Deine Macht liegt in der physischen Manipulation von Leichen, Skeletten und Fleisch.  
-    - +1 [Geschicklichkeit](Attribute/K%C3%B6rper/Geschicklichkeit.md)  
-    - +1 [Fokus](Attribute/Geist/Fokus.md)  
-    - Wissen in Medizin/Anatomie  
+- **Bildner:** Du siehst Körper nicht als heilig oder verdorben, sondern als formbares Material. Knochen, Fleisch und Überreste sind für dich Werkstoffe, aus denen etwas Neues entstehen kann.  
+	- +1 [Geschicklichkeit](Attribute/K%C3%B6rper/Geschicklichkeit.md)  
+	- +1 [Fokus](Attribute/Geist/Fokus.md)  
+	- Wissen in Medizin/Anatomie  
   
 ---  
   
