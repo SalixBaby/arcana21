@@ -1,25 +1,27 @@
 >*Die **Hintergründe** in **Arcana21** sind ein zentraler Bestandteil der Charaktererschaffung und prägen die Vergangenheit, Persönlichkeit und Fähigkeiten eines Helden. Sie geben nicht nur einen Einblick in den Werdegang des Charakters, sondern verleihen ihm auch besondere Fertigkeiten, Verbindungen oder Vorteile, die sein Abenteuer maßgeblich beeinflussen können. Ob aus noblen Häusern stammend, durch harte Ausbildung geformt oder durch dunkle Pakte gestärkt, die Hintergründe erlauben es den Spielern, ihren Charakter mit einer tiefen, individuellen Geschichte auszustatten.*  
-*Jeder Hintergrund bringt einzigartige Merkmale und Fertigkeiten mit sich, die den Helden in spezifischen Situationen helfen können. Sie bieten außerdem eine Möglichkeit, die eigene Rolle im Spiel zu gestalten – sei es als geborener Anführer, spiritueller Berater oder krimineller Überlebenskünstler. Hintergründe dienen als Brücke zwischen der Vergangenheit des Charakters und seiner gegenwärtigen Reise, und sie beeinflussen, wie der Held mit der Welt und ihren Herausforderungen interagiert.*  
-*In **Arcana21** sind Hintergründe nicht nur erzählerische Elemente, sondern auch wertvolle Mechanismen, die die Fähigkeiten und Stärken des Charakters erweitern und ihm helfen, sich in der gefährlichen Welt der Sagen und Abenteuer zu behaupten.*  
   
-1. [Adel](Hintergr%C3%BCnde/Adel.md)  
-2. [Bauer](Hintergr%C3%BCnde/Bauer.md)  
-3. [Diener](Hintergr%C3%BCnde/Diener.md)  
-4. [Forscher](Hintergr%C3%BCnde/Forscher.md)  
-5. [Gefangener](Hintergr%C3%BCnde/Gefangener.md)  
-6. [Gelehrter](Hintergr%C3%BCnde/Gelehrter.md)  
-7. [Glaube](Hintergr%C3%BCnde/Glaube.md)  
-8. [Kaufmann](Hintergr%C3%BCnde/Kaufmann.md)  
-9. [Handwerker](Hintergr%C3%BCnde/Handwerker.md)  
-10. [Kultist](Hintergr%C3%BCnde/Kultist.md)  
-11. [Athlet](Athlet.md)  
-12. [Mediziner](Hintergr%C3%BCnde/Mediziner.md)  
-13. [Militär](Hintergr%C3%BCnde/Milit%C3%A4r.md)  
-14. [Natur](Hintergr%C3%BCnde/Natur.md)  
-15. [Schausteller](Hintergr%C3%BCnde/Schausteller.md)  
-16. [Schmuggler](Hintergr%C3%BCnde/Schmuggler.md)  
-17. [Schüler](Hintergr%C3%BCnde/Sch%C3%BCler.md)  
-18. [Seefahrer](Hintergr%C3%BCnde/Seefahrer.md)  
-19. [Spieler](Hintergr%C3%BCnde/Spieler.md)   
-20. [Straßenkind](Hintergr%C3%BCnde/Stra%C3%9Fenkind.md)  
-21. [Vasall](Hintergr%C3%BCnde/Vasall.md)
+Ein Hintergrund beschreibt, **woher dein Charakter stammt und was ihn geprägt hat**, lange bevor das Abenteuer begann. Herkunft, Erziehung und frühere Lebensumstände hinterlassen Spuren – in Wissen, Haltung und instinktiven Entscheidungen.  
+  
+Wähle bedacht, denn **deine Vergangenheit bestimmt, wie du der Welt begegnest**, wem du vertraust und welche Wege dir offenstehen.  
+  
+1. [Adel](Hintergr%C3%BCnde/Adel.md) - Aufgewachsen in Privilegien, Intrigen und Machtstrukturen. Du kennst Etikette, Einfluss und die Spielregeln der Herrschenden.  
+2. [Athlet](Athlet.md) - Dein Körper wurde durch Training, Wettkampf oder körperliche Disziplin geformt. Leistung, Ausdauer und Selbstkontrolle stehen im Fokus deines Lebens.  
+3. [Bauer](Hintergr%C3%BCnde/Bauer.md) - Ein Leben geprägt von harter Arbeit, einfachen Mitteln und dem Rhythmus der Natur. Du weißt, wie man mit wenig auskommt und durchhält.  
+4. [Diener](Hintergr%C3%BCnde/Diener.md) - Du hast im Schatten anderer gelebt und gelernt, zu beobachten statt aufzufallen. Gehorsam, Diskretion und Anpassungsfähigkeit prägen dich.  
+5. [Forscher](Hintergr%C3%BCnde/Forscher.md) - Getrieben von Neugier und Wissensdurst hast du Orte, Phänomene oder alte Geheimnisse untersucht. Unbekanntes schreckt dich nicht ab, sondern zieht dich an.  
+6. [Gefangener](Hintergr%C3%BCnde/Gefangener.md) - Freiheit war dir einst genommen – ob zu Recht oder Unrecht. Diese Zeit hat dich abgehärtet und deinen Blick auf Autorität geprägt.  
+7. [Gelehrter](Hintergr%C3%BCnde/Gelehrter.md) - Jahre des Studiums und der Theorie haben deinen Verstand geschärft. Bücher, Archive und Diskussionen sind dir vertrauter als das Schlachtfeld.  
+8. [Glaube](Hintergr%C3%BCnde/Glaube.md) - Dein Leben ist von Religion, Spiritualität oder göttlicher Ordnung geprägt. Du folgst Lehren, Ritualen und moralischen Grundsätzen.  
+9. [Handwerker](Hintergr%C3%BCnde/Handwerker.md) - Du hast gelernt, mit deinen Händen etwas Dauerhaftes zu erschaffen. Präzision, Geduld und Materialkenntnis sind deine Stärken.  
+10. [Kaufmann](Hintergr%C3%BCnde/Kaufmann.md) - Handel, Verhandlungen und Gewinn waren dein Alltag. Du verstehst Märkte, Menschen und den Wert von Dingen – und von Informationen.  
+11. [Kultist](Hintergr%C3%BCnde/Kultist.md) - Du warst/bist Teil einer Sekte, eines Zirkels oder eines verborgenen Glaubens. Geheimes Wissen, Rituale und fragwürdige Lehren begleiten dich bis heute.  
+12. [Mediziner](Hintergr%C3%BCnde/Mediziner.md) - Du hast gelernt, Leben zu erhalten oder Leiden zu lindern. Anatomie, Krankheiten und Verletzungen sind dir vertraut.  
+13. [Militär](Hintergr%C3%BCnde/Milit%C3%A4r.md) - Disziplin, Befehlsketten und Kampf waren Teil deines Alltags. Du kennst Ordnung, Strategie und den Ernst bewaffneter Konflikte.  
+14. [Natur](Hintergr%C3%BCnde/Natur.md) - Die Wildnis war dein Zuhause oder Lehrmeister. Du verstehst Tiere, Pflanzen und die Gefahren jenseits der Zivilisation.  
+15. [Schausteller](Hintergr%C3%BCnde/Schausteller.md) - Dein Leben spielte sich auf Bühnen, Märkten oder vor Publikum ab. Unterhaltung, Aufmerksamkeit und Anpassung an Menschenmengen liegen dir.  
+16. [Schmuggler](Hintergr%C3%BCnde/Schmuggler.md) - Du bewegst Waren, Informationen oder Menschen abseits offizieller Wege. Heimlichkeit, Kontakte und Risiko sind dir nicht fremd.  
+17. [Schüler](Hintergr%C3%BCnde/Sch%C3%BCler.md) - Du befindest dich noch in Ausbildung oder hast sie kürzlich abgeschlossen. Lernen, Nachahmen und erste eigene Schritte prägen dich.  
+18. [Seefahrer](Hintergr%C3%BCnde/Seefahrer.md) - Das Meer war dein Arbeitsplatz oder Zuhause. Du kennst Stürme, Navigation und das Leben auf engem Raum.  
+19. [Spieler](Hintergr%C3%BCnde/Spieler.md) - Glück, Risiko und Berechnung bestimmen dein Handeln. Du weißt, wann man setzt, blufft oder aussteigt.  
+20. [Straßenkind](Hintergr%C3%BCnde/Stra%C3%9Fenkind.md) - Du bist ohne Schutz oder Struktur aufgewachsen. Überleben, Improvisation und ein feines Gespür für Gefahren haben dich geprägt.  
+21. [Vasall](Hintergr%C3%BCnde/Vasall.md) - Du hast einen bindenden Pakt mit einem mächtigen Patron, einer Entität oder höheren Macht geschlossen.
