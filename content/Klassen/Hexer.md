@@ -37,7 +37,7 @@
 #### **3. Level:**  
   
 - **Lebensraub**: Du entziehst einem besiegten Gegner seine verbleibende Lebensenergie und wandelst sie in eigene Kraft um. Das Ritual dauert 10 Minuten, tötet das Ziel endgültig und stellt dir bis zu 5 Gesundheit wieder her.  
-- **Blutsinn**: Du kannst in einem (Level x) 10m Radius frisches Blut wahrnehmen und bestimmen wem es gehört. Du erhältst wage Eindrücke der Kreatur und wie sie verletzt wurde.  
+- **Blutsinn**: Du kannst in einem (Level x) 10 Meter Radius frisches Blut wahrnehmen und bestimmen wem es gehört. Du erhältst wage Eindrücke der Kreatur und wie sie verletzt wurde.  
   
 #### **4. Level:**  
   
