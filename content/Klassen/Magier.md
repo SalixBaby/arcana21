@@ -28,8 +28,8 @@
   
 #### **2. Level:**  
   
-- **Arkanes Feld:** Deine Präsenz verstärkt die Magie um dich herum – du und alle Verbündeten in (Level x) 5m Radius erhalten +1 auf ihre Arkanaproben.  
-- **Arkane Einsicht**: Zauber hinterlassen immer ihre Spuren. Du kannst versuchen herauszufinden, welche Zauberausrichtung jemand in deiner Nähe (Level x 5m) besitzt. Dies kannst du pro Ziel nur einmalig einsetzen und bei misslungener Probe bekommt das Ziel mit, was du versuchst.  
+- **Arkanes Feld:** Deine Präsenz verstärkt die Magie um dich herum – du und alle Verbündeten in (Level x) 5 Metern Radius erhalten +1 auf ihre Arkanaproben.  
+- **Arkane Einsicht**: Zauber hinterlassen immer ihre Spuren. Du kannst versuchen herauszufinden, welche Zauberausrichtung jemand in deiner Nähe (Level x) 5 Metern besitzt. Dies kannst du pro Ziel nur einmalig einsetzen und bei misslungener Probe bekommt das Ziel mit, was du versuchst.  
   
 #### **3. Level:**  
   
