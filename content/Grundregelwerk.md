@@ -56,13 +56,15 @@ Diese Flexibilität fördert kreatives Rollenspiel und macht jede Szene einzigar
 ##### **2.2 Wähle eine Klasse**    
 Sobald du eine grobe Idee hast, suchst du die passende Klasse aus den 21 verfügbaren Optionen. Jede Klasse bringt besondere Fähigkeiten mit sich, die den Spielstil deines Charakters prägen. Die Klassen sind in zwei Kategorien unterteilt:  
   
-- **Kampfklassen** für physische Stärke und Kampfkunst.  
+- **Kampfklassen** für physische Stärke, Taktik oder Kampfkunst.  
 - **Zauberklassen** für magische Fähigkeiten und das Wirken von Zaubern.  
+    
+Jede Klasse verfügt über zwei unterschiedliche Variationen, die verschiedene Facetten und Schwerpunkte der Klasse widerspiegeln. Sie dienen als Inspiration und Orientierung, sind jedoch keine feste Vorgabe und müssen weder strikt gespielt noch vollständig übernommen werden.  
     
 [Klassenübersicht](Klassen/-Klassen-.md)  
   
 >[!example]- *Beispiel*   
->*Du entscheidest dich für die Klasse **Jäger**, eine Kampfklasse, die sich auf Präzision und Geschicklichkeit spezialisiert.*  
+>*Du entscheidest dich für die Klasse **Jäger** und die Variation **Waldläufer**, eine Kampfklasse, die sich auf Präzision und Geschicklichkeit spezialisiert.*  
   
 ##### **2.3 Wähle ein Volk**    
 Das Volk deines Charakters beschreibt seine Kultur. Dein Volk verleiht dir dein grobes Aussehen, Kultur und einige Fähigkeiten. Wähle ein Volk, das sich für dich am interessantesten anhört.  
@@ -132,7 +134,7 @@ Nun bestimmst du die passiven Werte deines Charakters, wie Gesundheit, Manapunkt
 - [Ausdauerpunkte](.md#**7.2%20Ausdauerpunkte**): [Körper](Attribute/K%C3%B6rper/-K%C3%B6rper-.md)  
   
 >[!example]- Beispiel   
->Dein Jäger hat folgende passive Werte: **Gesundheit**: 3 + 3 (Konstitution) + 1 (Level) x 2 = 8 | **Manapunkte**: 0 (kein Arkana) | **Bewegungsrate**: 5 + 2 (Geschwindigkeit) = 7 | **Ausweichen**: 10 + 2 (Geschwindigkeit) = 12 | **Willensstärke**: 10 + 0 (Fokus) = 10  
+>Dein Jäger hat folgende passive Werte: **Gesundheit**: 3 + 2 (Konstitution) + 1 (Level) x 2 = 7 | **Manapunkte**: 0 (kein Arkana) | **Bewegungsrate**: 5 + 2 (Geschwindigkeit) = 7 | **Ausweichen**: 10 + 2 (Geschwindigkeit) = 12 | **Willensstärke**: 10 + 0 (Fokus) = 10  
   
   
 ##### **2.9 Wähle deine Zauberausrichtungen**    
@@ -152,7 +154,7 @@ Zum Schluss stattest du deinen Charakter mit passender Ausrüstung aus. Wähle W
   
   
 >[!example]- Beispiel   
->Dein Jäger trägt leichte Rüstung, die 2 Bewegungspunkte kostet, wodurch seine Bewegungsrate auf 5 reduziert wird. Als Waffe trägt er einen Bogen und ein Kurzschwert. Durch seine Ausbildung am Navigationsset erhält er dieses ebenfalls zum Start.  
+>Dein Jäger trägt leichte Rüstung, die 2 Bewegungspunkte kostet, wodurch seine Bewegungsrate auf 5 reduziert wird. Als Waffe trägt er einen Bogen und ein Kurzschwert.  
   
   
 ##### **2.11 Sei kreativ und hab Spaß!**    
@@ -193,9 +195,9 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
   
 - **Erstellung:** Alle Gegner sollten zu den Themen des Abenteuers passen. Sie können klassische Fantasiewesen, Banditen oder individuell gestaltete Monster sein.  
 - **Werte:** Generell kann der SL alle Gegner so gestallten wie es am besten zur Geschichte passt. Für Anfänger gibt es jedoch eine einfache Möglichkeit herausfordernde aber nicht immer tödliche Gegner zu erschaffen:  
-  Gegner werden in ein einfaches Zahlensystem kategorisiert. Ein Gegner der Stufe X bekommt auf jede Probe und alle seine passiven Werte eine +X. Eine gute Faustregel ist, dass ein Held Level X ein Monster Stufe X knapp besiegen sollte.  
-	- Ein normaler Gegner Stufe 1 hätte somit 4 Gesundheit, 11 Ausweichen, 11 Wille, 6 Bewegungsrate und bekommt auf alle Proben eine +1  
-	- Ein gegnerischer Magier der Stufe 1 hat Zugriff auf 4 Zauberausrichtung und besitzt 1 Mana  
+  Gegner werden in ein einfaches Zahlensystem kategorisiert. Ein Gegner der Stufe X bekommt auf jede Probe und alle seine passiven Werte eine +X. Eine gute Faustregel ist, dass ein Held Level X ein Monster Stufe X +1 knapp besiegen sollte.  
+	- Ein normaler Gegner Stufe 2 hätte somit 5 Gesundheit, 12 Ausweichen, 12 Wille, 5 Bewegungsrate und bekommt auf alle Proben eine +2  
+	- Ein gegnerischer Magier der Stufe 2 hat Zugriff auf 5 Zauberausrichtung und besitzt 3 Mana  
 - **Rollen im Spiel:** Kreaturen können als Gegner, Verbündete oder sogar neutrale Wesen agieren. Ihre Präsenz sollte die Welt bereichern und spannende Herausforderungen bieten.  
 - **Dynamik:** Monster müssen nicht immer angreifen – sie können fliehen, verhandeln oder eigene Ziele verfolgen.  
   
@@ -240,10 +242,10 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
     - Beispiel: Nutzt eine Figur 2 AP für Reaktionen, hat sie in ihrem nächsten Zug nur noch 2 AP.  
   
  **4.1.5 Mögliche Aktionen**  
-- **Laufen / Schwimmen / Fliegen** – _1 AP_: Nutze deine Bewegungsrate, um dich über das Schlachtfeld zu bewegen. *(1 Bewegungsrate = 1 Feld = 1m)*  
+- **Laufen / Schwimmen / Fliegen** – _1 AP_: Nutze deine Bewegungsrate, um dich über das Schlachtfeld zu bewegen. *(1 Bewegungsrate = 1 Feld = 1 Meter)*  
 - **Springen** – _1 AP_: Überwinde Hindernisse oder schließe die Distanz zu deinem Ziel. *(Standard: Sprungwert des Volkes + Stärke | Kann mit Probe vergrößert werden)*  
 - **Aufstehen** – _1 AP_: Stehe auf, nachdem du auf dem Boden lagst oder gestürzt bist.  
-- **Verstecken** – _1 AP_: Schlüpfe in den Schatten und werde unsichtbar für deine Feinde. *(Geschicklichkeitsprobe gegen Wahrnehmung)*  
+- **Verstecken** – _1 AP_: Schlüpfe in den Schatten und werde unsichtbar für deine Feinde. *(Heimlichkeitsprobe gegen Wahrnehmung)*  
 - **Ducken** – _1 AP_: Erschwere es deinen Gegnern dich zu treffen. *(Malus auf Angriffe gegen dich für die Runde)*  
 - **Rückzug** - *1 AP*. Verlasse den Angriffsbereich eines Gegners ohne einen Gelegenheitsangriff zu provozieren.  
 - **Festhalten** – _1 AP_: Greife einen Gegner und verhindere seine Bewegungen. *(Stärkeproben-Wettstreit. Reduziert Bewegungsrate des Ziels auf 0)*  
@@ -265,7 +267,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
   
 **4.1.6 Mögliche Reaktionen**  
 - **Gelegenheitsangriff:** *1 AP.* Greife einen Gegner an, der deinen Nahkampfradius verlässt. *(Angriffsprobe | Nur wenn Nahkampfwaffe gezogen)*  
-- **Parieren:** *1 AP.* Gib einer gegnerischen Angriffsprobe einen Malus. *(Benötigt gezogene Waffe mit [Parieren](Ausr%C3%BCstungen/Waffen/Waffenf%C3%A4higkeiten/Parieren.md))*  
+- **Parieren:** *1 AP.* Gib einer gegnerischen Angriffsprobe einen Malus. *(Benötigt gezogene Waffe mit [Parieren](Ausr%C3%BCstungen/Waffen/Waffenf%C3%A4higkeiten/Parieren.md) und muss vor dem Angriff angesagt werden.)*  
 - **Zauberduell:** *1 AP*. Verhindere gegnerische Zauber. *(siehe 4.4.2)*  
   
 - **Kreative Reaktionen**: - In **Arcana21** geht es um Kreativität. Du hast eine Idee für eine coole Reaktion? Frage den SL ob dieser Diese zulässt.  
@@ -282,7 +284,7 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Volle Deckung**: Du kannst nicht angegriffen werden, solange du dich nicht bewegst oder angreifst.  
 - **Halbdeckung**: Gegner erhalten einen Malus auf Angriffsproben gegen dich.  
 - **Unwegsames Gelände**: Deine Bewegungsrate ist halbiert (abgerundet).  
-- **Rutschiger Boden**: Bei Bewegung musst du eine Geschicklichkeitsprobe ablegen oder stürzt.  
+- **Rutschiger Boden**: Bei Bewegung musst du eine Geschicklichkeitsprobe ablegen oder du stürzt.  
 - **Erschwerte Sicht**: Dunkelheit, Nebel etc. schränken die Sicht ein. Heimlichkeitsproben erhalten einen Bonus.  
 - (Der Spielleiter setzt die Szene und es kann immer zu neuen Gelände und Umgebung führen.)  
   
