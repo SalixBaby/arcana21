@@ -9,7 +9,7 @@
   
 - ***Zusätzliche Erklärung für Antimagie:***  
 	- ***Antimagiepunkte:** Du erhältst eine Anzahl von 2 + (Level x) 2 Antimagiepunkte, welche sich bei einer Langen Rast regenerieren.  
-	- ***Effekt:** Wenn ein Zauber in deiner Nähe (Level x 10m) gesprochen wird, kannst du 2 AP dafür aufwenden, diesen Zauber um so viele Manapunkte zu verringern wie du Antimagiepunkte einsetzen möchtest. Mit dieser Fähigkeit kannst du ebenfalls Zauber der Stufe 0 durch Einsatz eines Antimagiepunktes gänzlich negieren.*  
+	- ***Effekt:** Wenn ein Zauber in einer Nähe von (Level x) 10 Metern gesprochen wird, kannst du 2 AP dafür aufwenden, diesen Zauber um so viele Manapunkte zu verringern wie du Antimagiepunkte einsetzen möchtest. Mit dieser Fähigkeit kannst du ebenfalls Zauber der Stufe 0 durch Einsatz eines Antimagiepunktes gänzlich negieren.*  
   
 ---  
   
