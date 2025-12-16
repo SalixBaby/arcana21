@@ -11,11 +11,11 @@
   
 #### **Variationen:**  
   
-- **Herold**: Du bist ein Sprachrohr deiner Gottheit, ein Wanderprediger, der den Glauben in die entlegensten Winkel der Welt trägt.  
+- **Herold**: Du bist die Stimme einer höheren Macht. Du verkündest Willen, Warnung und Verheißung, sprichst Gebete wie Befehle und Worte wie Wahrheiten.  
 	- +1 [Einsicht](Attribute/Seele/Einsicht.md)  
 	- +1 [Wahrnehmung](Attribute/Geist/Wahrnehmung.md)  
 	- Wissen und doppelter Bonus in Religion/Mythen  
-- **Lichtbringer**: Du brauchst keinen Auftrag, keine heiligen Schriften – dein Glaube ist die Güte selbst. Du strebst danach, Heilung und Hoffnung zu bringen.  
+- **Strahlender**: Du brauchst keinen Auftrag, keine heiligen Schriften – dein Glaube ist die Güte selbst. Du strebst danach, Heilung und Hoffnung zu bringen.  
 	- +1 [Überzeugen](Attribute/Seele/%C3%9Cberzeugen.md)  
 	- +1 [Fokus](Attribute/Geist/Fokus.md)  
 	- Wissen und doppelter Bonus in Religion/Mythen  
@@ -34,7 +34,7 @@
   
 #### **3. Level**  
   
-- **Segen der Wiederbelebung**: Du kannst einmal am Tag versuchen eine verstorbene Kreatur wiederzubeleben. Dies dauert 1 Minute und du musst eine Fokus-Probe bestehen. Ebenfalls darf der der Tod nicht länger als zwei Minute her sein.  
+- **Segen der Wiederbelebung**: Du kannst einmal am Tag für 4 AP versuchen eine verstorbene Kreatur wiederzubeleben. Je länger der Tod her ist, desto schwerer ist die zu bestehende Fokus-Probe.  
 - **Segen der Stille**: Du kannst einmal am Tag für 1 AP eine Aura von (Level x) 5m erschaffen, die für eine Minute äußere magische Einflüsse dämpft. Innerhalb dieser Aura erhalten Gegner einen Malus auf Zauber, jedoch muss für jeden geschwächten Zauber eine Fokus-Probe bestanden werden.  
   
 #### **4. Level**  
