@@ -23,18 +23,18 @@
 - **Theoretiker**: Du hast zahllose Bücher verschlungen, Strategien analysiert und Taktiken bis ins Detail durchdacht. Dein Verstand ist dein stärkstes Werkzeug, und du agierst lieber mit Weitsicht als mit Instinkt.  
     - +1 [Wissen](Attribute/Geist/Wissen.md)  
     - +1 [Wahrnehmung](Attribute/Geist/Wahrnehmung.md)  
-    - Wissen und Bonus in Militär/Taktik & Geschichte/Sprachen  
+    - Wissen in Militär/Taktik & Geschichte/Sprachen  
 - **Praktiker**: Du hast selbst gekämpft, Kommandos gebrüllt und Entscheidungen unter Lebensgefahr getroffen. Du vertraust deiner Erfahrung und reagierst schnell, wenn andere noch überlegen.  
     - +1 [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
     - +1 [Überzeugen](Attribute/Seele/%C3%9Cberzeugen.md)  
-    - Wissen und Bonus in Militär/Taktik  
+    - Wissen und Bonus in Militär/Taktik & Überleben/Orientierung  
   
 ---  
   
 #### **1. Level:**  
   
 - **Taktisches Verständnis**: Du kannst intuitiv alle Karten oder taktischen Dokumente auf die du einen Blick wirfst verstehen und aus dem Gedächtnis nachzeichnen.  
-- **Taktische Analyse**: Du kannst eine Runde damit verbringen, das Schlachtfeld zu analysieren und einen taktischen Vorteil zu entdecken, der dir und deinen Verbündeten hilft.  
+- **Taktische Analyse**: Du kannst eine Runde damit verbringen, das Schlachtfeld zu analysieren und einen taktischen Vorteil zu entdecken, der dir und deinen Verbündeten hilft.   
   
 #### **2. Level:**  
   

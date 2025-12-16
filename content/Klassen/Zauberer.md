@@ -5,7 +5,7 @@
   
 - **Klassenkategorie:** Zauberklasse  
 - **Klassenfähigkeit:** Magisches Archiv  
-    - Du verfügst über ein persönliches Arkivarium – ein magisches Artefakt, in dem du dein gesammeltes Wissen über Zauberausrichtungen bewahrst.  
+    - Du verfügst über ein persönliches Archivarium – ein magisches Artefakt, in dem du dein gesammeltes Wissen über Zauberausrichtungen bewahrst.  
   
 - ***Zusätzliche Erklärung für Magisches Archiv:***  
 	- ***Aussehen:** Wie dieses Archiv aussieht, liegt ganz bei dir: Vielleicht ist es ein schwebendes Zauberbuch, ein leuchtender Kristall oder ein Bündel flüsternder Schriftrollen, das dir folgt.  
@@ -34,7 +34,7 @@
 #### **2. Level:**  
   
 - **Magischer Katalysator**: Wenn du einen Zauber in Anwesenheit eines passenden Materials (z. B. Flammen für Feuerzauber, Wasser für Eiszauber) wirkst, erhältst +1 auf die Arkana-Probe. Dabei kann das Material verbraucht werden.  
-- **Magische Erkennung**: Durch dein tiefes Verständnis arkaner Muster kannst du magische Energie gezielt untersuchen. Du erhältst einen Bonus auf Proben, mit denen du magische Effekte erkennst oder neutralisierst.  
+- **Magische Erkennung**: Durch dein tiefes Verständnis arkaner Muster kannst du magische Energie gezielt untersuchen. Du erhältst einen Bonus auf Proben, mit denen du magische Effekte suchst oder erkennst.  
   
 #### **3. Level:**  
   
