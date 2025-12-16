@@ -30,8 +30,8 @@
   
 #### **2. Level:**  
   
-- **Einschüchternde Präsenz**: Deine Stellung und dein Auftreten können Gegner verunsichern. Sie erhalten in deiner Umgebung (Level x) 10m einen Malus auf ihre Willensstärke.  
-- **Inspirierende Präsenz**: Dein Auftreten kann deine Verbündeten zu Großem verhelfen. Sie erhalten in deiner Umgebung (Level x) 10m einen Bonus auf ihre Willensstärke.  
+- **Einschüchternde Präsenz**: Deine Stellung und dein Auftreten können Gegner verunsichern. Sie erhalten in deiner Umgebung von (Level x) 10 Metern einen Malus auf ihre Willensstärke.  
+- **Inspirierende Präsenz**: Dein Auftreten kann deine Verbündeten zu Großem verhelfen. Sie erhalten in deiner Umgebung von (Level x) 10 Metern einen Bonus auf ihre Willensstärke.  
   
 #### **3. Level:**  
   

@@ -35,7 +35,7 @@ ___
 #### **2. Level:**  
   
 - **Fallensteller**: Du kannst ausgeklügelte Fallen bauen, um Tiere oder Feinde zu fangen. Diese Fallen sind besonders effektiv mit genügend Vorwissen über deine Beute und das Terrain.   
-- **Markieren**: Du kannst 3 AP bezahlen um einen Gegner mit dem einzigartigem Zeichen des Jägers zu versehen. Du erhältst einen Bonus auf Angriffsproben gegen den markierten Gegner. Wenn du einen markierten Gegner zu Fall bringst kannst du das Zeichen des Jägers auf einen Gegner in (Level x) 5m Nähe übertragen ohne die AP Kosten zu bezahlen.  
+- **Markieren**: Du kannst 3 AP bezahlen um einen Gegner mit dem einzigartigem Zeichen des Jägers zu versehen. Du erhältst einen Bonus auf Angriffsproben gegen den markierten Gegner. Wenn du einen markierten Gegner zu Fall bringst kannst du das Zeichen des Jägers auf einen Gegner in (Level x) 5 Metern Nähe übertragen ohne die AP Kosten zu bezahlen.  
   
 #### **3. Level:**  
   

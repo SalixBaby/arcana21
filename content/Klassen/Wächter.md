@@ -45,7 +45,7 @@
 #### **4. Level:**  
   
 - **Schutzschild**: Solange du dich neben einem Verbündeten befindest und du dich auf diesen konzentrierst, können Gegner diesen Verbündeten nicht mehr physisch angreifen.  
-- **Wachsame Präsenz**: Alle deine Verbündeten in einem (Level x) 5m Radius erhalten einen Bonus auf Initiativeproben und ihr Ausweichen.  
+- **Wachsame Präsenz**: Alle deine Verbündeten in einem (Level x) 5 Metern Radius erhalten einen Bonus auf Initiativeproben und ihr Ausweichen.  
   
 #### **5. Level:**  
   
