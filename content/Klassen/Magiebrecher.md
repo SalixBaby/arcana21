@@ -15,11 +15,11 @@
   
 #### **Variationen:**  
   
-- **Runenbrecher**:  Du bist auf das Zerstören magischer Strukturen spezialisiert – Bannkreise, Artefakte, Flüche. Mit deinem Wissen kannst du komplexe Effekte auflösen oder manipulieren.  
+- **Verstummer**:  Du bist die Leere zwischen Zauber und Wirkung. In deiner Nähe verliert Magie ihre Stimme, ihre Form, ihren Willen. Wo andere gegen Zauber kämpfen, nimmst du ihnen schlicht die Möglichkeit, überhaupt zu wirken.  
     - +1 [Wissen](Attribute/Geist/Wissen.md)  
     - +1 [Fokus](Attribute/Geist/Fokus.md)  
-    - Wissen und Bonus in Mathematik/Technik  
-- **Arkanjäger**:  Du spürst Magie wie andere Spuren lesen – und jagst ihre Anwender gnadenlos. Du hast gelernt, Zauberwirker zu kontern, bevor sie wirken können.  
+    - Wissen in Geschichte/Sprachen  
+- **Läuterer**:  Du siehst Magie als Makel, als Krankheit der Welt. Dein Handeln ist kein Hass, sondern Überzeugung. Jeder Zauber, der fällt, ist für dich ein Akt der Reinigung.  
     - +1 [Geschwindigkeit](Attribute/K%C3%B6rper/Geschwindigkeit.md)  
     - +1 [Intuition](Attribute/Seele/Intuition.md)  
     - Wissen und Bonus in Überleben/Orientierung  
