@@ -5,19 +5,24 @@
   
 - **Klassenkategorie:** Kampfklasse  
 - **Klassenfähigkeit:** Niedergang  
-	- Wenn ein Verbündeter auf 0 Gesundheit fällt, erwacht in dir ein unbändiger Wille: Du erhältst solange zwei zusätzliche AP pro Runde. Fällst du selbst auf 0 Gesundheit, erhalten alle Verbündeten zwei zusätzliche AP. Stirbst du endgültig, stärkt dein Vermächtnis sie bis zum Ende des Kampfes – mit Bonus auf alle Proben.  
+	- Der Moment des Falls ist für dich kein Ende, sondern ein Auslöser. Wenn Hoffnung schwindet und Blut vergossen wird, entfacht sich in dir eine gnadenlose Entschlossenheit.  
+  
+- _**Zusätzliche Erklärung für Niedergang:**_  
+    - _**Erwachender Wille:** Fällt ein Verbündeter auf 0 Gesundheit, gerätst du in einen Zustand fanatischer Entschlossenheit. Solange dieser Zustand anhält, erhältst du pro Runde 2 zusätzliche AP._  
+    - _**Letzter Widerstand:** Fällst du selbst auf 0 Gesundheit, geht dein Wille auf deine Gefährten über. Alle Verbündeten erhalten pro Runde 2 zusätzliche AP, solange du kampfunfähig bist._  
+    - _**Vermächtnis des Falls:** Stirbst du endgültig, wirkt dein Opfer bis zum Ende des Kampfes nach. Alle Verbündeten erhalten einen Bonus auf alle Proben sowie (Level x) temporäre Gesundheit._  
   
 ---  
   
 #### **Variationen:**  
   
 - **Leibwächter**: Dein Auftrag: Schutz einer Person. Du analysierst instinktiv und erkennst Bedrohungen, bevor andere sie überhaupt wahrnehmen.  
-    - +1 auf [Wahrnehmung](Attribute/Geist/Wahrnehmung.md)  
+    - +2 auf [Wahrnehmung](Attribute/Geist/Wahrnehmung.md)  
     - +1 auf [Geschwindigkeit](Attribute/K%C3%B6rper/Geschwindigkeit.md)  
     - Wissen in Medizin/Anatomie  
 - **Hirte**: Du schützt nicht irgendwen, sondern jeden und alles. Du bist gleichzeitig Beschützer, Richter und leider manchmal auch Henker.  
     - +1 auf [Konstitution](Attribute/K%C3%B6rper/Konstitution.md)  
-    - +1 auf [Wahrnehmung](Attribute/Geist/Wahrnehmung.md)  
+    - +2 auf [Wahrnehmung](Attribute/Geist/Wahrnehmung.md)  
     - Wissen in Politik/Diplomatie  
   
 ---  
@@ -25,7 +30,7 @@
 #### **1. Level:**  
   
 - **Gefahrensinn**: Du kannst Bedrohungen im Voraus spüren. Du erhältst einen doppelten Bonus auf deine Initiativeproben.  
-- **Auge fürs Detail**: Deinem wissendem Blick entgeht nichts. Du bekommst einen Bonus auf Proben zum untersuchen von Gegenständen oder Orten.  
+- **Beschützen**: Wenn ein Verbündeter direkt neben dir physischen Schaden erleidet, kannst du als Reaktion 1 AP bezahlen, um die Hälfte (aufgerundet) des Schadens auf dich zu nehmen.  
   
 #### **2. Level:**  
   
@@ -34,7 +39,7 @@
   
 #### **3. Level:**  
   
-- **Beschützer**: Wenn ein Verbündeter direkt neben dir physischen Schaden erleidet, kannst du als Reaktion 1 AP bezahlen, um die Hälfte (aufgerundet) des Schadens auf dich zu nehmen.  
+- **Auge fürs Detail**: Deinem wissendem Blick entgeht nichts. Du bekommst einen doppelten Bonus auf Proben zum untersuchen von Gegenständen oder Orten.  
 - **Stillstand**: Wenn du einen Gegner mit einem Gelegenheitsangriff triffst, kann dieser Gegner in dieser Runde nicht mehr Laufen, Fliegen oder Springen. Ebenfalls erhältst du auf Gelegenheitsangriffe einen Bonus und kannst auch Gegner treffen, die Rückzug verwenden.  
   
 #### **4. Level:**  
