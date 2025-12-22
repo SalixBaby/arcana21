@@ -1,9 +1,4 @@
-# **Arcana21 – Schnellstart**  
-  
 > _Dieser Schnellstart erlaubt es, Arcana21 ohne Vorkenntnisse in wenigen Minuten zu spielen. Er erklärt nur die notwendigsten Regeln – alles Weitere findest du im vollständigen Regelwerk._  
-  
----  
-  
 ## **Was ist Arcana21?**  
   
 Arcana21 ist ein **narrativ-taktisches Pen-&-Paper-Rollenspiel**, in dem Kreativität wichtiger ist als feste Zauberlisten.    
