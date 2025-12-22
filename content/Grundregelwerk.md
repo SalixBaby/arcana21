@@ -337,7 +337,6 @@ Nun, da dein Charakter erstellt ist kannst du dich kreativ austoben und dein Abe
 - **Durchdringen:** Ignoriert Teile der Rüstung.  
 - **Fesseln:** Zum festsetzen von Gegnern.  
 - **Kollateralschaden**: Extra Schaden an beistehenden.   
-- **Nachladen**: Waffe kann nachgeladen werden.  
 - **Parieren:** Ermöglicht es, Angriffe abzuwehren (Reaktion).  
 - **Zielsicher:** Ermöglicht es, Schwachstellen zu treffen (erhöht Trefferchance).  
   
