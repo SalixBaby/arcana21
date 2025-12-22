@@ -1,5 +1,5 @@
 > _Dieser Schnellstart erlaubt es, Arcana21 ohne Vorkenntnisse in wenigen Minuten zu spielen. Er erklärt nur die notwendigsten Regeln – alles Weitere findest du im vollständigen Regelwerk._  
-## **Was ist Arcana21?**  
+### **Was ist Arcana21?**  
   
 Arcana21 ist ein **narrativ-taktisches Pen-&-Paper-Rollenspiel**, in dem Kreativität wichtiger ist als feste Zauberlisten.    
 Du beschreibst, **was du tun willst**, würfelst auf passende Attribute – und die Welt reagiert.  
@@ -10,7 +10,7 @@ Du beschreibst, **was du tun willst**, würfelst auf passende Attribute – und 
   
 ---  
   
-## **1. Grundmechanik – Proben**  
+### **1. Grundmechanik – Proben**  
   
 Wann immer dein Charakter etwas Schwieriges tut, wird eine **Probe** gewürfelt.  
 **So funktioniert eine Probe:**  
@@ -29,7 +29,7 @@ Wann immer dein Charakter etwas Schwieriges tut, wird eine **Probe** gewürfelt.
   
 ---  
   
-## **2. Attribute & Ressourcen**  
+### **2. Attribute & Ressourcen**  
   
 Jeder Charakter besitzt die Attribute Körper, Geist und Seele sowie Ressourcen:  
 - **Gesundheit** – körperliche Unversehrtheit  
@@ -44,7 +44,7 @@ AP werden im Kampf ausgegeben, um:
   
 ---  
   
-## **3. Kampf – kurz & knapp**  
+### **3. Kampf – kurz & knapp**  
   
 Ein Kampf läuft in **Runden** ab.  
   
@@ -56,7 +56,7 @@ Ein Kampf läuft in **Runden** ab.
   
 ---  
   
-## **4. Magie – frei & kreativ**  
+### **4. Magie – frei & kreativ**  
   
 Arcana21 nutzt **keine festen Zauberlisten**.  
   
@@ -74,7 +74,7 @@ Stattdessen:
   
 ---  
   
-## **5. Charakter erstellen – Kurzfassung**  
+### **5. Charakter erstellen – Kurzfassung**  
   
 1. **Wähle einen Hintergrund**    
     → Bestimmt Herkunft, Kontakte & erzählerische Vorteile  
@@ -88,7 +88,7 @@ Stattdessen:
   
 ---  
   
-## **6. Rast & Erholung**  
+### **6. Rast & Erholung**  
   
 - **Kurze Rast (24h):** Teilweise Regeneration  
 - **Lange Rast (1 Woche):** Volle Regeneration  
@@ -102,7 +102,7 @@ Während Rasten kannst du:
   
 ---  
   
-## **7. Spielstil & Philosophie**  
+### **7. Spielstil & Philosophie**  
   
 Arcana21 belohnt:  
 - kreative Beschreibungen  
@@ -113,7 +113,7 @@ Arcana21 belohnt:
   
 ---  
   
-## **Bereit zu spielen**  
+### **Bereit zu spielen**  
   
 Du brauchst nur:  
 - 3× W20  
