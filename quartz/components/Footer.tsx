@@ -18,7 +18,7 @@ export default ((opts?: Options) => {
           ♡ in Ahaus | 🎲🐉⚔️
         </p>
         <ul>
-          © Copyright 2025 | 🧙‍♂️ SalixBaby
+          © Copyright 2026 | 🧙‍♂️ SalixBaby
         </ul>
       </footer>
     )
