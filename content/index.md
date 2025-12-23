@@ -16,7 +16,7 @@ Arcana21 verbindet ein leicht zugängliches Regelsystem mit tiefgründigen takti
 #### Schnell ins Spiel einsteigen
 
 Du möchtest direkt losspielen, ohne dich durch das gesamte Regelwerk zu arbeiten?
-Der Quickguide führt dich in wenigen Minuten durch:
+Der Schnellstart führt dich in wenigen Minuten durch:
 - die Grundmechanik von Proben
 - den Ablauf von Kämpfen
 - die wichtigsten Ressourcen
