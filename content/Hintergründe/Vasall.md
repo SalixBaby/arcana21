@@ -9,7 +9,7 @@
 - +1 auf [Körper](Attribute/K%C3%B6rper/-K%C3%B6rper-.md) oder [Geist](Attribute/Geist/-Geist-.md) oder [Seele](Attribute/Seele/-Seele-.md)  
 - Wissen in Religion/Mythen oder Geschichte/Sprachen  
 - zusätzliche Zauberausrichtung [Fluch](Zauberausrichtungen/Seele/Fluch.md)  
-- Pakt ermöglicht beim kritischen Würfen (auch außerhalb vom Kampf) Wiederherstellung von gewissen Ressourcen (Probenabhängig)  
+- Der Pakt ermöglicht beim gewisse Fähigkeiten die thematisch zu deiner Charakteridee passen und mit dem SL abgesprochen werden müssen.  
   
 **Fluch: Erfüllung des Paktes**  
 - Verpflichtung gegenüber der höheren Entität  
