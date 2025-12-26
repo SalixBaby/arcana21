@@ -9,4 +9,8 @@ Das Set enthält:
 - **Tintenfläschchen**: Mehrere Fläschchen mit schwarzer und bunter Tinte.  
 - **Pergamentrollen**: Hochwertiges Pergament für Briefe, Zauberformeln oder Zeichnungen.  
 - **Lineal und Winkelmesser**: Um perfekte Linien und Winkel zu ziehen.  
-- **Versiegelungswachs**: Zum Versiegeln wichtiger Dokumente mit einem persönlichen Siegel.
+- **Versiegelungswachs**: Zum Versiegeln wichtiger Dokumente mit einem persönlichen Siegel.  
+  
+Wenn du mit diesem Set geübt bist erhältst du zusätzlich:  
+  
+- Bonus in allen Schrift-Proben
