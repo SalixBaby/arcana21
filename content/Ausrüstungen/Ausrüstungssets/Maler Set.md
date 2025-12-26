@@ -9,4 +9,8 @@ Das Set enthält:
 - **Farbtöpfchen**: Eine Auswahl an Grundfarben, die leicht gemischt werden können.  
 - **Leinwandrolle**: Eine kleine, transportable Leinwand für unterwegs.  
 - **Mischpalette**: Zum Mischen von Farben und Schattierungen.  
-- **Holzkohle und Kreiden**: Für Skizzen und vorbereitende Zeichnungen.
+- **Holzkohle und Kreiden**: Für Skizzen und vorbereitende Zeichnungen.  
+  
+Wenn du mit diesem Set geübt bist erhältst du zusätzlich:  
+  
+- Bonus in allen Malen-Proben
