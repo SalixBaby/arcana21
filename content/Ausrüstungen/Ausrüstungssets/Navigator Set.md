@@ -9,4 +9,8 @@ Das Set enthält:
 - **Astrolabium**: Ein kleines Gerät zur Bestimmung der Position anhand der Sterne.  
 - **Kompass**: Ein genauer Kompass, um stets die Richtung zu kennen.  
 - **Logbuch**: Ein Notizbuch zur Aufzeichnung der Reise und Kurskorrekturen.  
-- **Sanduhr**: Zum Messen der Zeit auf See oder beim Reisen.
+- **Sanduhr**: Zum Messen der Zeit auf See oder beim Reisen.  
+  
+Wenn du mit diesem Set geübt bist erhältst du zusätzlich:  
+  
+- Bonus in allen Navigations-Proben
