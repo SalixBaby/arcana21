@@ -9,4 +9,8 @@ Das Set enthält:
 - **Metall- und Drahtvorrat**: Kleine Metallteile und Drähte zur Reparatur oder Herstellung.  
 - **Federn und Zahnräder**: Verschiedene Bauteile für mechanische Apparate.  
 - **Lupenbrille**: Eine spezielle Brille mit Vergrößerungsgläsern für filigrane Arbeiten.  
-- **Schmieröl**: Zum Schmieren beweglicher Teile.
+- **Schmieröl**: Zum Schmieren beweglicher Teile.  
+  
+Wenn du mit diesem Set geübt bist erhältst du zusätzlich:  
+  
+- Bonus in allen Mechanik-Proben
