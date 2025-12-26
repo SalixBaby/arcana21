@@ -9,4 +9,8 @@ Das Set enthält:
 - **Schneiddraht**: Ein dünner, starker Draht, perfekt zum Durchtrennen von Seilen oder kleinen mechanischen Teilen in Fallen.  
 - **Kohlepulver**: Zum Aufspüren versteckter Druckplatten oder Hebel.  
 - **Samtbeutel**: Zum lautlosen Sammeln kleiner Wertsachen.  
-- **Haken und Greifer**: Ein kleiner, zusammenklappbarer Haken, um Türen zu öffnen oder Gegenstände zu erreichen.
+- **Haken und Greifer**: Ein kleiner, zusammenklappbarer Haken, um Türen zu öffnen oder Gegenstände zu erreichen.  
+  
+Wenn du mit diesem Set geübt bist erhältst du zusätzlich:  
+  
+- Bonus in allen Schlossknack-Proben
