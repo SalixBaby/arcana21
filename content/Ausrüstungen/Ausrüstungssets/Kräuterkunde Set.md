@@ -9,4 +9,8 @@ Das Set enthält:
 - **Trocknungsbeutel**: Mehrere luftdurchlässige Beutel zum Trocknen von Pflanzen.  
 - **Pflanzenpresse**: Zum Haltbarmachen von Blättern und Blüten.  
 - **Kräuterführer**: Ein handliches Buch mit Zeichnungen und Beschreibungen gängiger Heilkräuter.  
-- **Pflanzenglas**: Ein kleines Glas, um frisch gesammelte Pflanzen zu lagern.
+- **Pflanzenglas**: Ein kleines Glas, um frisch gesammelte Pflanzen zu lagern.  
+  
+Wenn du mit diesem Set geübt bist erhältst du zusätzlich:  
+  
+- Bonus in allen Natur-Proben
