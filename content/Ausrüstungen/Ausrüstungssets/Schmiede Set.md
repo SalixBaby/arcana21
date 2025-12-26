@@ -8,10 +8,6 @@ Das Set enthält:
 - **Feile**: Um Kanten zu glätten und kleine Reparaturen an Metallrüstungen durchzuführen.  
 - **Poliermittel**: Zum Glänzen und Korrosionsschutz von Metalloberflächen.  
   
+Wenn du mit diesem Set geübt bist erhältst du zusätzlich:  
   
-**Mögliche Anwendungen:**  
-  
-- Reparatur von mittel- und schwerer Rüstung  
-- Bearbeitung und Verstärkung von Metallteilen  
-- Ausbesserung und Pflege von Klingen und Hiebwaffen  
-- Grundlegende Metallarbeiten, um beschädigte Ausrüstung stabil zu halten
+- Reparatur von Metalutensilien
