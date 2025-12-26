@@ -7,4 +7,8 @@
 - **Geduldsspiel**: Ein kleines Holzpuzzle zum Knobeln und Frustabbau.  
 - **Murmelbeutel**: Handvoll farbiger Glasmurmeln für einfache Kinderspiele oder Improvisationstricks.  
 - **Stimmungslied-Flyer**: Ein gefalteter Zettel mit drei bekannten Trinkliedern zum Mitsingen oder Vortragen.  
-- **Ablenkungswürfel**: Leicht mit einer Hand zu verbergen – perfekt für Taschenspielertricks oder um Gegner abzulenken.
+- **Ablenkungswürfel**: Leicht mit einer Hand zu verbergen – perfekt für Taschenspielertricks oder um Gegner abzulenken.  
+  
+Wenn du mit diesem Set geübt bist erhältst du zusätzlich:  
+  
+- Bonus in allen Glücks-Proben

@@ -6,4 +6,8 @@ Das Set enthält:
 - **Pinsel und Blasebalg**: Zum Freilegen und Säubern filigraner Strukturen.  
 - **Notizbuch mit Skalen**: Für schnelle Skizzen und Funddokumentation.  
 - **Probenröhrchen**: Zur Aufbewahrung kleinerer Funde oder Bodenproben.  
-- **Faltlupe**: Für erste Untersuchungen direkt vor Ort.
+- **Faltlupe**: Für erste Untersuchungen direkt vor Ort.  
+  
+Wenn du mit diesem Set geübt bist erhältst du zusätzlich:  
+  
+- Bonus in allen Untersuchungs-Proben

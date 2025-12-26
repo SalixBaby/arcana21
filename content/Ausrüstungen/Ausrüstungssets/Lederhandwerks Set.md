@@ -8,9 +8,6 @@ Das Set enthält:
 - **Polierwerkzeug**: Zum Glätten und Veredeln der bearbeiteten Oberfläche.  
 - **Lederöl**: Zum Schutz und zur Pflege der Ausrüstung, sodass das Leder flexibel bleibt.  
   
-**Mögliche Anwendungen:**  
+Wenn du mit diesem Set geübt bist erhältst du zusätzlich:  
   
-- Leichte Rüstung flicken und verstärken  
-- Lederteile schneiden und formen  
-- Herstellung kleinerer Lederwaren wie Taschen, Gürtel oder Stiefel  
-- Verzierungen oder Anpassungen für Rüstungen anbringen
+- Reparatur von Lederutensilien ohne Probe

@@ -6,4 +6,8 @@ Das Set enthält:
 - **Pergament und Kohle**: Zur Protokollierung von Beobachtungen.  
 - **Analysepulver**: Eine vielseitige Substanz zur Prüfung von Flüssigkeiten.  
 - **Maßlöffel und Pinzette**: Zum exakten Arbeiten mit Proben.  
-- **Symboltafel**: Ein Vergleichswerkzeug für alchemische oder arkanische Muster.
+- **Symboltafel**: Ein Vergleichswerkzeug für alchemische oder arkanische Muster.  
+  
+Wenn du mit diesem Set geübt bist erhältst du zusätzlich:  
+  
+- Bonus in allen Forschungs-Proben

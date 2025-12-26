@@ -11,4 +11,8 @@ Das Set enthält:
 - **Messbecher**: Ein kleiner, präziser Becher zum Abmessen flüssiger Zutaten.  
 - **Reagenzgläser und Halter**: Für das Mischen und Testen von alchemistischen Substanzen, inklusive eines Halters für sichere Lagerung.  
 - **Grundzutaten**: Eine Auswahl an Basiszutaten wie Quecksilber, Salpeter und getrockneten Heilpflanzen für gängige alchemistische Mixturen.  
-- **Schutzbrille und Maske**: Schützt vor Dämpfen und Spritzern bei der Herstellung gefährlicher Substanzen.
+- **Schutzbrille und Maske**: Schützt vor Dämpfen und Spritzern bei der Herstellung gefährlicher Substanzen.  
+  
+Wenn du mit diesem Set geübt bist erhältst du zusätzlich:  
+  
+- Bonus in allen Alchemie-Proben

@@ -9,4 +9,8 @@ Das Set enthält:
 - **Schlaghammer**: Ein schwerer Hammer zum Bearbeiten von Gestein.  
 - **Richtlineal und Winkelmesser**: Für präzise Schnitte und perfekte Winkel.  
 - **Schleifsteine**: Zum Glätten und Polieren von Oberflächen.  
-- **Kohlezeichnungssatz**: Zum Skizzieren von Designs auf Stein.
+- **Kohlezeichnungssatz**: Zum Skizzieren von Designs auf Stein.  
+  
+Wenn du mit diesem Set geübt bist erhältst du zusätzlich:  
+  
+- Bonus in allen Stein-Proben

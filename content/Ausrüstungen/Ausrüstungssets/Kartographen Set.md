@@ -9,4 +9,8 @@ Das Set enthält:
 - **Zirkel und Lineal**: Präzise Werkzeuge für die Kartierung von Entfernungen.  
 - **Skalpell**: Zum feinen Schneiden und Anpassen der Karten.  
 - **Kompass**: Ein kleiner, zuverlässiger Kompass zur Orientierung.  
-- **Bleistift und Zeichenkohle**: Um Entwürfe zu skizzieren und final zu gestalten.
+- **Bleistift und Zeichenkohle**: Um Entwürfe zu skizzieren und final zu gestalten.  
+  
+Wenn du mit diesem Set geübt bist erhältst du zusätzlich:  
+  
+- Bonus in allen Navigations-Proben
