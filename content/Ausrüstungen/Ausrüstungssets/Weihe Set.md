@@ -6,4 +6,8 @@ Das Set enthält:
 - **Ritualkerzen**: In verschiedenen Farben, für symbolische Zwecke.  
 - **Symbol des Glaubens**: Ein Amulett, Anhänger oder kleiner Schrein.  
 - **Reines Tuch**: Für Altäre, Verwundete oder Salbungen.  
-- **Gebetsrolle**: Mit heiligen Versen, Segensformeln oder Bannsprüchen.
+- **Gebetsrolle**: Mit heiligen Versen, Segensformeln oder Bannsprüchen.  
+  
+Wenn du mit diesem Set geübt bist erhältst du zusätzlich:  
+  
+- Bonus in allen Religions-Proben
