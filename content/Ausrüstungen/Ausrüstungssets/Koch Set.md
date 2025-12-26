@@ -9,4 +9,8 @@ Das Set enthält:
 - **Reisepfanne**: Eine leichte, robuste Pfanne, die über dem Feuer erhitzt werden kann.  
 - **Holzspatel und Zange**: Zum Kochen und Wenden von Speisen.  
 - **Gewürzbehälter**: Kleine Dosen für Salz, Pfeffer und getrocknete Kräuter.  
-- **Faltbarer Wasserkessel**: Für heiße Getränke oder zum Kochen von Wasser.
+- **Faltbarer Wasserkessel**: Für heiße Getränke oder zum Kochen von Wasser.  
+  
+Wenn du mit diesem Set geübt bist erhältst du zusätzlich:  
+  
+- Bonus in allen Koch-Proben
