@@ -9,4 +9,8 @@ Das Set enthält:
 - **Schminkset**: Farben und Puder, um das Gesicht zu verändern oder Wunden zu simulieren.  
 - **Kostümteile**: Einfach zusammensetzbare Kleidungsstücke, die verschiedene Berufe oder Rollen darstellen.  
 - **Falsche Dokumente**: Leere Ausweise und Papiere, die sich schnell fälschen lassen.  
-- **Kontaktlinsen**: Farblinsen, um die Augenfarbe zu verändern.
+- **Kontaktlinsen**: Farblinsen, um die Augenfarbe zu verändern.  
+  
+Wenn du mit diesem Set geübt bist erhältst du zusätzlich:  
+  
+- Bonus in allen Verkleidungs-Proben
