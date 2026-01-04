@@ -19,8 +19,8 @@ Zwerge sind traditionsbewusst, stolz und diszipliniert. Ihre Kultur beruht auf H
 - Fliegen: -  
   
 **Volkseigenschaften**:  
-- Dunkelsicht – Jahrzehnte in Minen und unterirdischen Hallen haben ihre Augen geschärft. Zwerge können auch bei schwachem Licht oder in völliger Finsternis noch Strukturen erkennen.  
-- Giftresistenz – Der Körper eines Zwerges ist robust und widerstandsfähig. Viele Gifte wirken deutlich schwächer oder gar nicht auf sie.  
+- **Dunkelsicht** – Jahrzehnte in Minen und unterirdischen Hallen haben ihre Augen geschärft. Zwerge können auch bei schwachem Licht oder in völliger Finsternis noch Strukturen erkennen.  
+- **Robust** – Der Körper eines Zwerges ist sehr widerstandsfähig. Viele Gifte wirken deutlich schwächer oder gar nicht auf sie und sie erhalten eine zusätzliche Gesundheit.  
   
 **Volksfähigkeiten**:  
-- Steinsinn – _4 AP_: Durch Berührung eines Steins oder Erzes können Zwerge dessen Geschichte erahnen und verborgene Eigenschaften wahrnehmen.
+- **Steinsinn** – _4 AP_: Durch Berührung eines Steins oder Erzes können Zwerge dessen Geschichte erahnen und verborgene Eigenschaften wahrnehmen.
