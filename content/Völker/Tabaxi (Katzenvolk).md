@@ -19,8 +19,8 @@ Tabaxi sind neugierige, stolze und geschmeidige Wesen mit einem tiefen Sinn für
 - Fliegen: -  
   
 **Volkseigenschaften**:  
-- Neugiertrieb – Tabaxi verspüren einen unstillbaren Drang, Neues zu entdecken. Ihre Neugier schenkt ihnen wertvolle Erfahrungen, bringt sie aber ebenso oft in brenzlige Situationen.  
-- Auf den Pfoten landen – Tabaxi landen nach einem Sturz oft katzengleich auf ihren Füßen, was den Fallschaden halbiert und sie nicht zu Boden stürzen.  
+- **Neugiertrieb** – Tabaxi verspüren einen unstillbaren Drang, Neues zu entdecken. Ihre Neugier schenkt ihnen wertvolle Erfahrungen, bringt sie aber ebenso oft in brenzlige Situationen.  
+- **Auf den Pfoten landen** – Tabaxi landen nach einem Sturz oft katzengleich auf ihren Füßen, was den Fallschaden halbiert und sie nicht zu Boden stürzen.  
   
 **Volksfähigkeiten**:  
-- Balanceakt – _1 AP_: Tabaxi können automatisch einem Stolpern, Sturz oder einem Effekt, der ihn zu Boden bringen würde, widerstehen.
+- **Balanceakt** – _1 AP_: Tabaxi können automatisch einem Stolpern, Sturz oder einem Effekt, der ihn zu Boden bringen würde, widerstehen.
