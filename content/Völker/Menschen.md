@@ -19,8 +19,8 @@ Menschen sind anpassungsfähig, ehrgeizig und vielseitig. Ihre Kulturen reichen 
 - Fliegen: -  
   
 **Volkseigenschaften**:  
-- Ermutigen – Menschen besitzen die beinahe übernatürliche Gabe, sich selbst und ihre Gefährten zu motivieren. Ihre Worte und ihr Beispiel können selbst in aussichtslosen Momenten neuen Mut entfachen.  
-- Breites Spektrum – Menschen sind vielseitig und anpassungsfähig. Bei der Charaktererschaffung dürfen sie eine zusätzliche Zauberausrichtung, Wissensrichtung, Sprache oder ein Ausrüstungsset wählen.  
+- **Ermutigen** – Menschen besitzen die beinahe übernatürliche Gabe, sich selbst und ihre Gefährten zu motivieren. Ihre Worte und ihr Beispiel können selbst in aussichtslosen Momenten neuen Mut entfachen.  
+- **Breites Spektrum** – Menschen sind vielseitig und anpassungsfähig. Bei der Charaktererschaffung dürfen sie eine zusätzliche Zauberausrichtung, Wissensrichtung, Sprache oder ein Ausrüstungsset wählen.  
   
 **Volksfähigkeiten**:  
-- Hoffnungsschimmer – _1 AP_: Menschen können selbst im dunkelsten Augenblick einen Funken Hoffnung entdecken. Einmal pro Kampf, wenn die Lage aussichtslos erscheint, können sie auf eine Probe, die stilistisch passt, einen doppelten Bonus erhalten.
+- **Hoffnungsschimmer** – _0 AP_: Menschen können selbst im dunkelsten Augenblick einen Funken Hoffnung entdecken. Einmal pro Kampf, wenn die Lage aussichtslos erscheint, können sie auf eine Probe, die stilistisch passt, einen doppelten Bonus erhalten.
