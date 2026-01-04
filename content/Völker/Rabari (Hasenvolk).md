@@ -19,8 +19,8 @@ Rabari sind für ihre Lebhaftigkeit, Vorsicht und soziale Stärke bekannt. Sie l
 - Fliegen: -  
   
 **Volkseigenschaften**:  
-- Zwiespalt – Rabari leben in einem ständigen Spannungsfeld zwischen Vorsicht und Neugier. Sie wägen Gefahren genau ab, doch ihre unstillbare Neugier treibt sie oft trotzdem dazu, Risiken einzugehen.  
-- Nervöses Gemüt – Rabari reagieren blitzschnell auf Überraschungen oder neue Situationen, was ihnen Bonus auf Initiativeproben verschafft.  
+- **Zwiespalt** – Rabari leben in einem ständigen Spannungsfeld zwischen Vorsicht und Neugier. Sie wägen Gefahren genau ab, doch ihre unstillbare Neugier treibt sie oft trotzdem dazu, Risiken einzugehen.  
+- **Nervöses Gemüt** – Rabari reagieren blitzschnell auf Überraschungen oder neue Situationen, was ihnen Bonus auf Initiativeproben verschafft.  
   
 **Volksfähigkeiten**:  
-- Überlebensinstinkt – _2 AP_: Rabari können einmal am Tag bei einer Probe zum Entkommen, Verstecken oder Überleben einen doppelten Bonus erhalten.
+- **Überlebensinstinkt** – _0 AP_: Rabari können einmal am Tag bei einer Probe zum Entkommen, Verstecken oder Überleben einen doppelten Bonus erhalten.
