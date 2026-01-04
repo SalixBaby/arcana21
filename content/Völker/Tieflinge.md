@@ -19,11 +19,11 @@ Tieflinge wachsen häufig in einer Gesellschaft auf, die ihnen mit Misstrauen od
 - Fliegen: -  
   
 **Volkseigenschaften**:  
-- Höllisches Erbe – In ihrem Blut pulsiert ein Funke infernaler Macht. Dieses Erbe macht sie widerstandsfähiger gegen Flammen und Hitze.  
-- Verlockende Aura – Tieflinge haben eine Ausstrahlung die gleichermaßen faszinierend wie beunruhigend wirkt. Sie ziehen die Aufmerksamkeit auf sich, ob sie wollen oder nicht.  
+- **Höllisches Erbe** – In ihrem Blut pulsiert ein Funke infernaler Macht. Dieses Erbe macht sie widerstandsfähiger gegen Flammen und Hitze.  
+- **Verlockende Aura** – Tieflinge haben eine Ausstrahlung die gleichermaßen faszinierend wie beunruhigend wirkt. Sie ziehen die Aufmerksamkeit auf sich, ob sie wollen oder nicht.  
   
 **Volksfähigkeiten**:  
-- Höllenglut – _1 AP_: Wenn ein Tiefling Schaden erleidet, kann er einmal pro Tag die in ihm lodernde infernale Macht entfesseln. Als Reaktion schlägt ein Funken höllischer Energie zurück und trifft den Angreifer.  
+- **Höllenglut** – _1 AP_: Wenn ein Tiefling Schaden erleidet, kann er einmal pro Tag die in ihm lodernde infernale Macht entfesseln. Als Reaktion schlägt ein Funken höllischer Energie zurück und trifft den Angreifer.  
   
 _Zusätzliche Erklärung für Höllenglut:_  
 - *Trifft einen Gegner der einem Schaden zugefügt hat*  

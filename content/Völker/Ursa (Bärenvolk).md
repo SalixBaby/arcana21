@@ -19,8 +19,8 @@ Ursa sind ruhige, kraftvolle Wesen mit großem Familiensinn und tiefer Naturverb
 - Fliegen: -  
   
 **Volkseigenschaften**:  
-- Schwerer Schritt – Ihre massige Gestalt verleiht den Ursa eine natürliche Einschüchterung, aber erschwert leises Schleichen. (+1 auf Einschüchterung, Malus auf Heimlichkeit)  
-- Winterschlaf – Ursa können in einer kurzen Rast in einen tiefen und sehr erholsamen Schlaf sinken und bis zu (Level x) Gesundheit regenerieren.  
+- **Schwerer Schritt** – Ihre massige Gestalt verleiht den Ursa eine natürliche Einschüchterung, aber erschwert leises Schleichen. (Bonus auf Einschüchterung, Malus auf Heimlichkeit)  
+- **Winterschlaf** – Ursa können in einer kurzen Rast in einen tiefen und sehr erholsamen Schlaf sinken und bis zu (Level x) Gesundheit zusätzlich regenerieren.  
   
 **Volksfähigkeiten**:  
-- Starke Umarmung – _1 AP_: Ursa können ihre übernatürliche Größe und Stärke dazu einsetzen einen Bonus auf Festhalten- und Lähmungsproben zu erhalten.
+- **Starke Umarmung** – _1 AP_: Ursa können ihre übernatürliche Größe und Stärke dazu einsetzen einen Bonus auf Festhalten- und Lähmungsproben zu erhalten.

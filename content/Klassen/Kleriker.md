@@ -29,7 +29,7 @@
   
 #### **2. Level:**  
   
-- **Göttliches Urteil**: Einmal am Tag kannst du einen Gegner berühren und ihn für 1AP mit einem heiligen Urteil belegen. Das Ziel erhält einen Malus auf alle Proben für die nächste Runde.  
+- **Göttliches Urteil**: Einmal am Tag kannst du einen Gegner berühren und ihn für 1 AP mit einem heiligen Urteil belegen. Das Ziel erhält einen Malus auf alle Proben für die nächste Runde.  
 - **Göttliche Heilung**: Du kannst deine göttliche Verbindung nutzen, um Verletzungen zu heilen. Zweimal täglich kannst du dich selber für 2 AP um (Level) x Gesundheit heilen.  
   
 #### **3. Level:**  

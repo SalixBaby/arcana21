@@ -83,7 +83,7 @@ Der Hintergrund deines Charakters beschreibt seine Herkunft und bisherigen Erfah
  >*Dein Charakter wuchs als **Seefahrer** auf und hat ein tiefes Verständnis für Navigation und das Leben auf See entwickelt.*  
   
 ##### **2.5 Verteile deine Kernattribute**    
-Nun setzt du die Standardwerte 2, 1 und -1 auf die drei Hauptattribute:  
+Nun setzt du die Standardwerte 2, 1 und -2 auf die drei Hauptattribute:  
   
 - **[Körper](Attribute/K%C3%B6rper/-K%C3%B6rper-.md)** für physische Fähigkeiten und Ausdauer.  
 - **[Geist](Attribute/Geist/-Geist-.md)** für Intelligenz und Magie.  
@@ -96,7 +96,7 @@ Diese [Attribute](Attribute/-Attribute-.md) bestimmen, wie gut dein Charakter in
 >  
 >*- **Körper**: 2*  
 >*- **Geist**: 1*  
->*- **Seele**: -1*    
+>*- **Seele**: -2*    
 >   
 >*Dein Jäger ist körperlich stark, aber weniger charismatisch.*  
   
@@ -535,16 +535,16 @@ Diese Boni **ergänzen**, aber **ersetzen** nicht den Einsatz von Mana.
 In Arcana21 ist der Levelaufstieg mehr als nur ein Zahlenwert – er stellt einen wichtigen Meilenstein in der Reise und Entwicklung eines Charakters dar. Neue Fähigkeiten und Kenntnisse werden nicht „einfach so“ erlangt, sondern spiegeln die Erfahrungen, Herausforderungen und Erfolge des Helden wider. Ein Charakter, der plötzlich Wissen über Handel und Wirtschaft erhält, mag dies durch Begegnungen mit Kaufleuten, diplomatische Verhandlungen oder gar Verluste und Gewinne auf dem Markt erlangt haben. Jede neu erlernte Fähigkeit und jedes zusätzliche Wissen sollten im Spielverlauf eine logische und erzählerische Grundlage haben, die die innere und äußere Entwicklung des Charakters nachvollziehbar macht.  
 Bei einem Levelaufstieg werden folgende Werte automatisch aufgewertet:   
  1. **Attribute**:  
-    - **Berechnung**: Standartarray (2 | 1 |- 1) + 1 für jeden Levelaufstieg  
+    - **Berechnung**: Standartarray (2 | 1 |- 2) + 1 für jeden Levelaufstieg  
  2. **Gesundheit**:  
     - **Berechnung**: 3 + Konstitution + (Level x 2)  
-2. **Talentpunkte**:  
+3. **Talentpunkte**:  
     - **Berechnung**: 2 + Level  
-3. **Ausbildungspunkte**:  
+4. **Ausbildungspunkte**:  
     - **Berechnung**: Geist-Wert + Level + 3  
-4. **Manapunkte**:  
+5. **Manapunkte**:  
     - **Berechnung**: Arkana + (Level x 2)  
-5. **Zauberausrichtungen-Wissen**:  
+6. **Zauberausrichtungen-Wissen**:  
     - **Berechnung**: Wissen + 3 + Level  
   
 ##### **6.2 Klassenkombination**  
@@ -650,7 +650,7 @@ Die Anzahl der Ausbildungspunkte, die du zu Beginn hast, entspricht deinem **Gei
   
 **Nutzung:**  
 - Der Spielleiter oder die Gruppe entscheidet, ob eine Glücksprobe angemessen ist.  
-- Es wird eine reine Probe (kein Bonus/Malus/Inspiration) geworfen:  
+- Es wird eine reine Probe (im Normalfall kein Bonus/Malus/Inspiration) geworfen:  
     - **11 oder höher**: Das Glück war dem Charakter hold.  
     - **10 oder niedriger**: Das Schicksal hatte andere Pläne.  
   

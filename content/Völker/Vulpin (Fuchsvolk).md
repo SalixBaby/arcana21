@@ -19,8 +19,8 @@ Vulpin gelten als listig, charmant und wortgewandt. Sie legen großen Wert auf S
 - Fliegen: -  
   
 **Volkseigenschaften**:  
-- Leichtfüßig – Vulpin bewegen sich mit beinahe lautloser Eleganz. Ihre Schritte hinterlassen nur selten Spuren, was es Verfolgern ungemein schwer macht, ihre Fährte aufzunehmen.  
-- Anpassungsfähig – Ob in fremden Städten, rauer Wildnis oder ungewohnten Gesellschaften – Vulpin fügen sich instinktiv in neue Umstände ein und finden schneller als andere einen Weg, sich darin zu behaupten.  
+- **Leichtfüßig** – Vulpin bewegen sich mit beinahe lautloser Eleganz. Ihre Schritte hinterlassen nur selten Spuren, was es Verfolgern ungemein schwer macht, ihre Fährte aufzunehmen.  
+- **Anpassungsfähig** – Ob in fremden Städten, rauer Wildnis oder ungewohnten Gesellschaften – Vulpin fügen sich instinktiv in neue Umstände ein und finden schneller als andere einen Weg, sich darin zu behaupten.  
   
 **Volksfähigkeiten**:  
-- Listige Worte – _4 AP_: Vulpin können einmal am Tag ihren Lügen den richtigen Touch verleihen um sie glaubwürdig zu machen. Sie erhalten einen Bonus auf Täuschen.
+- **Listige Worte** – _4 AP_: Vulpin können einmal am Tag ihren Lügen den richtigen Touch verleihen um sie glaubwürdig zu machen. Sie erhalten einen Bonus auf Täuschen.
