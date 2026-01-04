@@ -19,8 +19,8 @@ Musari sind äußerst soziale Wesen, die auf Kooperation, gegenseitige Hilfe und
 - Fliegen: -  
   
 **Volkseigenschaften**:  
-- Erschütterungssinn – Musari nehmen feinste Vibrationen im Boden wahr und können sich dadurch auch in völliger Dunkelheit oder ohne Sicht zuverlässig orientieren.  
-- Nagezähne – Musaris kräftigen Zähne sind weit mehr als bloße Werkzeuge. Sie können damit Seile, Fesseln oder sogar dünnes Metall mühelos durchbeißen.  
+- **Erschütterungssinn** – Musari nehmen feinste Vibrationen im Boden wahr und können sich dadurch auch in völliger Dunkelheit oder ohne Sicht zuverlässig orientieren.  
+- **Nagezähne** – Musaris kräftigen Zähne sind weit mehr als bloße Werkzeuge. Sie können damit Seile, Fesseln oder sogar dünnes Metall mühelos durchbeißen.  
   
 **Volksfähigkeiten**:  
-- Adrenalin – _0 AP_: - Musari können einmal am Tag verborgene Kräfte mobilisieren uns somit 2 zusätzliche Aktionspunkte aus ihrem nächsten Zug vorziehen.
+- **Adrenalin** – _0 AP_: - Musari können einmal am Tag verborgene Kräfte mobilisieren uns somit 2 zusätzliche Aktionspunkte aus ihrem nächsten Zug vorziehen.
