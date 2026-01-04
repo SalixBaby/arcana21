@@ -19,8 +19,8 @@ Lupari leben in enger Gemeinschaft – ihr Sozialverhalten ist stark von Rudelst
 - Fliegen: -  
   
 **Volkseigenschaften**:  
-- Winterfell - Das dichte Fell der Lupari schützt sie zuverlässig vor Kälte. Sie sind sowohl an eisige Umgebungen als auch gegen Angriffe durch Frost oder Kälte von Natur aus widerstandsfähig.  
-- Rudelinstinkt – Lupari spüren die Nähe anderer ihres Volkes instinktiv, selbst ohne Sicht- oder Hörkontakt.  
+- **Winterfell** - Das dichte Fell der Lupari schützt sie zuverlässig vor Kälte. Sie sind sowohl an eisige Umgebungen als auch gegen Angriffe durch Frost oder Kälte von Natur aus widerstandsfähig.  
+- **Rudelinstinkt** – Lupari spüren die Nähe anderer ihres Volkes instinktiv, selbst ohne Sicht- oder Hörkontakt.  
   
 **Volksfähigkeiten**:  
-- Geruchssinn – _2 AP_: Ein Lupari kann einmal am Tag seine feine Nase einsetzen, um Kreaturen im Umkreis von (Level x) 15 Metern zu erschnüffeln.
+- **Geruchssinn** – _4 AP_: Ein Lupari kann einmal am Tag seine feine Nase einsetzen, um Kreaturen im Umkreis von (Level x) 15 Metern zu erschnüffeln.
