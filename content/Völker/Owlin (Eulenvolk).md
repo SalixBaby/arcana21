@@ -19,11 +19,11 @@ Owlins gelten als wachsam, weise und traditionsbewusst. Sie legen großen Wert a
 - Fliegen: 6 Felder  
   
 **Volkseigenschaften**:  
-- Dunkelsicht - Owlin besitzen scharfe, lichtempfindliche Augen, die ihnen selbst bei schwachem Mondlicht klare Sicht ermöglichen. In völliger Dunkelheit erkennen sie Bewegungen und Umrisse besser als die meisten anderen Völker.  
-- Lautlose Flügel – Ihre federbedeckten Flügel bewegen sich fast geräuschlos. Das macht sie unauffällig in der Bewegung und schwerer auszumachen, solange sie nicht direkt ins Licht treten.  
+- **Dunkelsicht** - Owlin besitzen scharfe, lichtempfindliche Augen, die ihnen selbst bei schwachem Mondlicht klare Sicht ermöglichen. In völliger Dunkelheit erkennen sie Bewegungen und Umrisse besser als die meisten anderen Völker.  
+- **Lautloser Flug** – Ihre federbedeckten Flügel bewegen sich fast geräuschlos. Das macht sie unauffällig in der Bewegung und schwerer auszumachen, solange sie nicht direkt ins Licht treten.  
   
 **Volksfähigkeiten**:  
-- Fliegen – _1 AP_: Owlins können fliegen solange sie kein allzu großes zusätzliches Gewicht tragen.  
+- **Fliegen** – _1 AP_: Owlins können fliegen solange sie kein allzu großes zusätzliches Gewicht tragen.  
   
 _Zusätzliche Erklärung für Fliegen:_  
 - *Fliegen verlangt Konzentration*  
