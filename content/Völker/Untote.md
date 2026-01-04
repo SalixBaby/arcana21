@@ -18,14 +18,14 @@ Untote besitzen keine Kultur im herkömmlichen Sinn. Ihre Existenz ist geprägt 
 - Fliegen: Variabel  
   
 **Volkseigenschaften**:  
-- Verborgene Natur – Untote müssen ihre wahre Gestalt und Natur verbergen, um nicht verfolgt zu werden. Täuschung, Maskierung oder das Imitieren von Lebenden ist oft überlebensnotwendig.  
-- Magische Bindung – Viele Untote sind durch die nekromantische Magie, die sie erschuf, an ein Ziel oder einen Ort gebunden. Manche können diese Bindung nach und nach lösen, wenn sie lernen, ihre Freiheit zu nutzen.  
-- Giftimmunität - Untote können von Gift nicht mehr geschädigt werden.  
-- *Eigenschaft des Volkes - Vor deinem Tod gehörtest du zu einem der anderen Völker. Zusammen mit dem SL kann hier entschieden werden, welche Volkseigenschaften du übernehmen kannst.*  
+- **Verborgene Natur** – Untote müssen ihre wahre Gestalt und Natur verbergen, um nicht verfolgt zu werden. Täuschung, Maskierung oder das Imitieren von Lebenden ist oft überlebensnotwendig.  
+- **Magische Bindung** – Viele Untote sind durch die nekromantische Magie, die sie erschuf, an ein Ziel oder einen Ort gebunden. Manche können diese Bindung nach und nach lösen, wenn sie lernen, ihre Freiheit zu nutzen.  
+- **Giftimmunität** - Untote können von Gift nicht mehr geschädigt werden.  
+- ***Eigenschaft des Volkes** - Vor deinem Tod gehörtest du zu einem der anderen Völker. Zusammen mit dem SL kann hier entschieden werden, welche Volkseigenschaften du übernehmen kannst.*  
   
 **Volksfähigkeiten**:  
-- Verschlingen – _40 AP_: Indem ein Untoter das Fleisch einer verstorbenen Kreatur verzehrt, kann er Fragmente aus deren Erinnerungen empfangen. Bei einer bestandenen Probe erhält er einen kurzen Einblick in Gedanken, Gefühle oder Sinneseindrücke des Wesens vor seinem Tod. Der Effekt ist meist bruchstückhaft, verworren und von der Perspektive des Opfers geprägt.  
-- *Fähigkeit des Volkes - Vor deinem Tod gehörtest du zu einem der anderen Völker. Zusammen mit dem SL kann hier entschieden werden, welche Volksfähigkeit du übernehmen kannst.*  
+- **Verschlingen** – _40 AP_: Indem ein Untoter das Fleisch einer verstorbenen Kreatur verzehrt, kann er Fragmente aus deren Erinnerungen empfangen. Bei einer bestandenen Probe erhält er einen kurzen Einblick in Gedanken, Gefühle oder Sinneseindrücke des Wesens vor seinem Tod. Der Effekt ist meist bruchstückhaft, verworren und von der Perspektive des Opfers geprägt.  
+- ***Fähigkeit des Volkes** - Vor deinem Tod gehörtest du zu einem der anderen Völker. Zusammen mit dem SL kann hier entschieden werden, welche Volksfähigkeit du übernehmen kannst.*  
   
 _Zusätzliche Erklärung für Untote:_  
 - _Das Spielen eines Untoten sollte vorher mit dem SL besprochen werden._  
