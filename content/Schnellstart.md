@@ -127,4 +127,10 @@ Du brauchst nur:
 ### **Klassenüberblick im Podcast-Format**  
   
   
-<audio controls src="/Arcana21_Podcast/Klassenübersicht.m4a">Klassenübersicht</audio>
+<audio controls src="/Arcana21_Podcast/Klassenübersicht.m4a">Klassenübersicht</audio>  
+  
+  
+### **Charaktererstellung im Podcast-Format**  
+  
+  
+<audio controls src="/Arcana21_Podcast/Charaktererstellung.m4a">Charaktererstellung</audio>
