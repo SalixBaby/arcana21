@@ -1,4 +1,3 @@
-  
 ### **1. Einleitung**  
   
 >*Willkommen bei **Arcana21**, einem fesselnden Rollenspielsystem, das dich in eine Welt voller Abenteuer, Magie und taktischer Herausforderungen entführt. Ob als tapferer Kämpfer, meisterhafter Zauberwirker oder geschickter Spezialist – dein Schicksal liegt in deinen Händen.*  
