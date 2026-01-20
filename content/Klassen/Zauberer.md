@@ -8,7 +8,7 @@
     - Du verfügst über ein persönliches Archivarium – ein magisches Artefakt, in dem du dein gesammeltes Wissen über Zauberausrichtungen bewahrst.  
   
 - ***Zusätzliche Erklärung für Magisches Archiv:***  
-	- ***Aussehen:** Wie dieses Archiv aussieht, liegt ganz bei dir: Vielleicht ist es ein schwebendes Zauberbuch, ein leuchtender Kristall oder ein Bündel flüsternder Schriftrollen, das dir folgt.  
+	- ***Aussehen:** Wie dieses Archiv aussieht, liegt ganz bei dir: Vielleicht ist es ein schwebendes Zauberbuch, ein leuchtender Kristall oder ein Bündel flüsternder Schriftrollen, das dir folgt.*  
 	- ***Effekt:** Du erhältst 3 zusätzliche Zauberausrichtung und einmal pro Woche kannst du versuchen, eine neue Zauberausrichtung dauerhaft in deinem Archiv zu speichern. Welche Voraussetzungen dafür erfüllt sein müssen, entscheidet der Spielleiter – dies kann etwa das Studium uralter Texte, das Beobachten eines anderen Zauberwirkers oder ein besonderes Erlebnis mit der Magie selbst sein. Die Hürde ist allerdings immer sehr hoch.*  
   
 ---  

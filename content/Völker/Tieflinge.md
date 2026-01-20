@@ -26,6 +26,5 @@ Tieflinge wachsen häufig in einer Gesellschaft auf, die ihnen mit Misstrauen od
 - **Höllenglut** – _1 AP_: Wenn ein Tiefling Schaden erleidet, kann er einmal pro Tag die in ihm lodernde infernale Macht entfesseln. Als Reaktion schlägt ein Funken höllischer Energie zurück und trifft den Angreifer.  
   
 _Zusätzliche Erklärung für Höllenglut:_  
-- *Trifft einen Gegner der einem Schaden zugefügt hat*  
-- *Verursacht (Level / 2 aufgerundet) infernalen Schaden*  
-- *Attribut für den Angriff kann mit dem SL abgesprochen werden*
+- *Trifft unwiderruflich einen Gegner der einem Schaden zugefügt hat*  
+- *Verursacht (Level / 2 aufgerundet) infernalen Schaden*

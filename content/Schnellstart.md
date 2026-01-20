@@ -120,4 +120,10 @@ Du brauchst nur:
 - Charaktere  
 - Eine Geschichte  
   
-> _Der Rest entsteht am Tisch._
+> _Der Rest entsteht am Tisch._  
+  
+---  
+  
+### **Klassenüberblick im Podcast-Format**  
+  
+[Klassenübersicht](Klassen%C3%BCbersicht.m4a)
