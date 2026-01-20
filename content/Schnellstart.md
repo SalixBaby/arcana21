@@ -126,8 +126,7 @@ Du brauchst nur:
   
 ### **Klassenüberblick im Podcast-Format**  
   
-````  
+  
 ```audio-player  
-[Klassenübersicht](Arcana21_Podcast/Klassen%C3%BCbersicht.m4a)  
-```  
-````
+[[Arcana21_Podcast/Klassenübersicht.m4a|Klassenübersicht]]  
+```
