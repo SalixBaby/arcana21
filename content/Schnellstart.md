@@ -126,4 +126,4 @@ Du brauchst nur:
   
 ### **Klassenüberblick im Podcast-Format**  
   
-[Klassenübersicht](Klassen%C3%BCbersicht.m4a)
+[Klassenübersicht](Arcana21_Podcast/Klassen%C3%BCbersicht.m4a)
