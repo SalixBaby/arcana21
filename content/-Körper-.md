@@ -1,3 +1,8 @@
->*Die Magie des Körpers ist darauf spezialisiert, physische Grenzen zu überwinden oder das Erscheinungsbild der Realität zu verändern. Durch die Manipulation von Raum, Form oder Wahrnehmung ermöglicht diese Kategorie Beschwörungen, die Erschaffung von Illusionen, die Transformation von Körpern oder Visionen von fernen Orten. Diese Zauber verändern die physische Realität auf tiefgreifende Weise und geben dem Anwender die Macht, seine physische Umgebung und sich selbst neu zu gestalten.*
+>*Der **Körper** steht für die physischen Fähigkeiten eines Charakters. Er umfasst alles, was mit körperlicher Stärke, Ausdauer und Bewegung zu tun hat. Körperliche Attribute bestimmen, wie gut ein Charakter mit seiner Umwelt interagiert, seien es Kämpfe, athletische Herausforderungen oder das Überwinden von Hindernissen. Diese Kategorie ist entscheidend für Charaktere, die auf rohe Kraft, Schnelligkeit und physische Überlegenheit setzen.*
 
-- **Ausrichtungen**: [[./Illusionen|Illusionen]], [[./Raum|Raum]], [[./Transformation|Transformation]], [[./Sinne|Sinne]]
+#### Eigenschaften
+- [[./Geschicklichkeit|Geschicklichkeit]]
+- [[./Geschwindigkeit|Geschwindigkeit]]
+- [[./Instinkt|Instinkt]]
+- [[./Konstitution|Konstitution]]
+- [[./Stärke|Stärke]]
