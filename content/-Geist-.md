@@ -1,3 +1,8 @@
->*Diese Kategorie dreht sich um die Manipulation des Geistes, Kommunikation und die Kontrolle über Gedanken und Wahrnehmung. Zauber dieser Kategorie beeinflussen mentale Zustände, schaffen telepathische Verbindungen oder manipulieren die Gedanken anderer. Magier, die sich auf den Geist spezialisieren, können nicht nur Informationen übertragen, sondern auch Wahrnehmungen täuschen oder die Träume anderer beeinflussen.*
+>*Der **Geist** beschreibt die intellektuellen und mentalen Fähigkeiten eines Charakters. Es geht um das Verstehen von Magie, das Ansammeln von Wissen und das strategische Denken in schwierigen Situationen. Diese Kategorie spiegelt die Fähigkeit wider, komplexe Probleme zu lösen, Magie zu beherrschen und Informationen aus der Umgebung aufzunehmen und zu verarbeiten. Charaktere, die auf Weisheit und Intellekt setzen, finden hier ihre Stärken.*
 
-- **Ausrichtungen**: [[./Kommunikation|Kommunikation]], [[./Manipulation|Manipulation]], [[./Mental|Mental]], [[./Traum|Traum]]
+#### Eigenschaften
+- [[./Arkana|Arkana]]
+- [[./Erfahrung|Erfahrung]]
+- [[./Fokus|Fokus]]
+- [[./Wahrnehmung|Wahrnehmung]]
+- [[./Wissen|Wissen]]
