@@ -1,3 +1,8 @@
->*Die Magie der Seele dreht sich um das innere Wesen, spirituelle Verbindungen und die Fähigkeit, auf spirituelle und emotionale Ebenen Einfluss zu nehmen. Diese Zauber bieten Schutz, Segen, Heilung oder wirken Flüche auf das Ziel. Sie zielen darauf ab, das Gleichgewicht zwischen Leben und Tod, Wohlstand und Unglück zu beeinflussen. Anwender dieser Magie sind oft Heiler oder spirituelle Führer, die das Schicksal durch ihre Verbindung zur Seele formen.*
+>*Die **Seele** repräsentiert die emotionalen und sozialen Fähigkeiten eines Charakters. Sie beschreibt, wie ein Charakter mit anderen interagiert, Menschen beeinflusst und die Tiefen der menschlichen oder übernatürlichen Psyche versteht. In dieser Kategorie geht es um Empathie, Überzeugungskraft und intuitives Verständnis. Charaktere, die in sozialen oder spirituellen Bereichen brillieren, schöpfen ihre Kraft aus der Seele.*
 
-- **Ausrichtungen**: [[./Fluch|Fluch]], [[./Heilung|Heilung]], [[./Schutz|Schutz]], [[./Segen|Segen]]
+#### Eigenschaften
+- [[./Auftritt|Auftritt]]
+- [[./Einsicht|Einsicht]]
+- [[./Intuition|Intuition]]
+- [[./Täuschen|Täuschen]]
+- [[./Überzeugen|Überzeugen]]
