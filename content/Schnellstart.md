@@ -13,13 +13,14 @@ Du beschreibst, **was du tun willst**, würfelst auf passende Attribute – und 
 | Kategorie         | Dungeons & Dragons                                    | Arcana21                                                         | Warum?                                                                          |
 | ----------------- | ----------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | *Proben*          | W20 + Modifier                                        | 3W20 (median) + Modifier                                         | Weniger Zufall, kleinere Modifier haben größeren Einfluss                       |
-| *Erfolgsgrade*    | Meist Binär (Erfolg/Misserfolg)                       | Abstufung des Erfolges                                           | Hohe geworfene Zahlen 6haben tatsächlich einen Mehrwert als nur "Erfolg"        |
+| *Erfolgsgrade*    | Meist Binär (Erfolg/Misserfolg)                       | Abstufung des Erfolges                                           | Hohe geworfene Zahlen haben tatsächlich einen Mehrwert als nur "Erfolg"         |
 | *Aktionsökonomie* | Aktion, Bonus Aktion, Bewegung, Reaktion              | 4 frei wählbare Aktionspunkte                                    | Weniger restriktiv, fördert kreative Handlungen, schnellerer Kampf              |
 | *Zaubern*         | Auswahl aus vorgefertigter Zauberliste                | Freies modulares System anhand von Prinzipien                    | Zauberlisten zu einschränkend, fördert kreatives Denken und Lösungen            |
 | *Gegenzauber*     | Nur mit Counterspell möglich  (meißt erst ab Level 5) | Zaubererduelle (ab Level 1 möglich)                              | Counterspell zu langweilig, fördert kreative Handlungen und Ressourcenmanagment |
 | *Schaden*         | Schaden muss ausgewürfelt werden                      | Schaden hängt vom Erfolgsgrad ab                                 | Weniger Würfe, weniger Mathe, schnelleres Spiel                                 |
 | *Verteidigung*    | AC + 6 vers. Rettungswürfe                            | Zwei passive Werte (mental & physisch)                           | Weniger Würfe, schnelleres Spiel                                                |
 | *Regeln*          | Viele Regeln, hauptsächlich für den Kampf             | Weniger Regeln, setzt mehr auf Kommunikation zwischen Spielenden | Zu viele Regeln schrecken neue Spieler ab und sind meistens sehr restriktiv     |
+|                   |                                                       |                                                                  |                                                                                 |
 
 ---
 
