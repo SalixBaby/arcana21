@@ -1,7 +1,7 @@
-> _Dieser Schnellstart erlaubt es, Arcana21 ohne Vorkenntnisse in wenigen Minuten zu spielen. Er erklärt nur die notwendigsten Regeln – alles Weitere findest du im vollständigen Regelwerk._
-### **Was ist Arcana21?**
+> _Dieser Schnellstart erlaubt es, Arkana21 ohne Vorkenntnisse in wenigen Minuten zu spielen. Er erklärt nur die notwendigsten Regeln – alles Weitere findest du im vollständigen Regelwerk._
+### **Was ist Arkana21?**
 
-Arcana21 ist ein **narrativ-taktisches Pen-&-Paper-Rollenspiel**, in dem Kreativität wichtiger ist als feste Zauberlisten.  
+Arkana21 ist ein **narrativ-taktisches Pen-&-Paper-Rollenspiel**, in dem Kreativität wichtiger ist als feste Zauberlisten.  
 Du beschreibst, **was du tun willst**, würfelst auf passende Attribute – und die Welt reagiert.
 - Proben basieren auf **3W20 (Median)**
 - Magie ist **frei gestaltbar**, nicht fest vorgegeben
@@ -10,7 +10,7 @@ Du beschreibst, **was du tun willst**, würfelst auf passende Attribute – und 
 
 ### *Größte Unterschiede zu D&D*
 
-| Kategorie         | Dungeons & Dragons                                    | Arcana21                                                         | Warum?                                                                          |
+| Kategorie         | Dungeons & Dragons                                    | Arkana21                                                         | Warum?                                                                          |
 | ----------------- | ----------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |
 | *Proben*          | W20 + Modifier                                        | 3W20 (median) + Modifier                                         | Weniger Zufall, kleinere Modifier haben größeren Einfluss                       |
 | *Erfolgsgrade*    | Meist Binär (Erfolg/Misserfolg)                       | Abstufung des Erfolges                                           | Hohe geworfene Zahlen haben tatsächlich einen Mehrwert als nur "Erfolg"         |
@@ -72,7 +72,7 @@ Ein Kampf läuft in **Runden** ab.
 
 ### **4. Magie – frei & kreativ**
 
-Arcana21 nutzt **keine festen Zauberlisten**.
+Arkana21 nutzt **keine festen Zauberlisten**.
 
 Stattdessen:
 - Du wählst eine **Zauberausrichtung** (z. B. Feuer, Licht, Traum)
@@ -118,7 +118,7 @@ Während Rasten kannst du:
 
 ### **7. Spielstil & Philosophie**
 
-Arcana21 belohnt:
+Arkana21 belohnt:
 - kreative Beschreibungen
 - kluge Entscheidungen
 - erzählerische Konsequenzen
@@ -141,10 +141,10 @@ Du brauchst nur:
 ### **Klassenüberblick im Podcast-Format**
 
 
-<audio controls src="/Arcana21_Podcast/Klassenübersicht.m4a">Klassenübersicht</audio>
+<audio controls src="/Arkana21_Podcast/Klassenübersicht.m4a">Klassenübersicht</audio>
 
 
 ### **Charaktererstellung im Podcast-Format**
 
 
-<audio controls src="/Arcana21_Podcast/Charaktererstellung.m4a">Charaktererstellung</audio>
+<audio controls src="/Arkana21_Podcast/Charaktererstellung.m4a">Charaktererstellung</audio>
