@@ -18,10 +18,10 @@ Arcana21 combines an easy-to-learn rules system with deep tactical possibilities
 Want to start playing right away without working through the entire rulebook?
 The Quickstart guide walks you through in just a few minutes:
 
-the core mechanics of skill checks
-the flow of combat
-the most important resources
-and the freeform magic system
+- the core mechanics of skill checks
+- the flow of combat
+- the most important resources
+- and the freeform magic system
 
 Perfect for new players, one-shots, or as a quick reference at the game table.
 
