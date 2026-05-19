@@ -2,27 +2,26 @@
 title: Arcana21
 ---
 
-Tauche ein in die Welt von Arcana21!
+Dive into the world of Arcana21!
 
-In Arcana21 bist du nicht nur ein Spieler – du bist Geschichtenerzähler, Abenteurer und Schöpfer neuer Welten. Ob du zum ersten Mal in die Welt des Tabletop-Rollenspiels eintauchst oder bereits ein erfahrener Veteran bist: Im Mittelpunkt steht immer deine Kreativität.
+In Arcana21, you are not just a player – you are a storyteller, adventurer, and creator of new worlds. Whether you are stepping into the world of tabletop roleplaying games for the first time or are already a seasoned veteran: your creativity always takes center stage.
 
-Erlebe epische Abenteuer, meistere freie Magie, stelle dich finsteren Kreaturen oder werde zum Hoffnungsträger in einer Welt, die sich durch eure Entscheidungen formt.
-Dein Charakter, deine Geschichte – alles liegt in deiner Hand.
+Experience epic adventures, master freeform magic, face sinister creatures, or become a beacon of hope in a world shaped by your decisions.
+Your character, your story – everything is in your hands.
 
-Arcana21 verbindet ein leicht zugängliches Regelsystem mit tiefgründigen taktischen Möglichkeiten. Kämpfe sind dynamisch, Magie folgt deiner Vorstellung statt starren Zauberlisten, und jede Entscheidung hat erzählerisches Gewicht – ob im Kampf, im Dialog oder während der Downtime.
+Arcana21 combines an easy-to-learn rules system with deep tactical possibilities. Combat is dynamic, magic follows your imagination instead of rigid spell lists, and every decision carries narrative weight – whether in combat, dialogue, or during downtime.
 
----
+Jump Into the Game Quickly
 
-#### Schnell ins Spiel einsteigen
+Want to start playing right away without working through the entire rulebook?
+The Quickstart guide walks you through in just a few minutes:
 
-Du möchtest direkt losspielen, ohne dich durch das gesamte Regelwerk zu arbeiten?
-Der Schnellstart führt dich in wenigen Minuten durch:
-- die Grundmechanik von Proben
-- den Ablauf von Kämpfen
-- die wichtigsten Ressourcen
-- und das freie Magiesystem
+the core mechanics of skill checks
+the flow of combat
+the most important resources
+and the freeform magic system
 
-Perfekt für neue Spieler, One-Shots oder als schnelle Referenz am Spieltisch.
+Perfect for new players, one-shots, or as a quick reference at the game table.
 
-**👉 [[./Schnellstart|Zum Schnellstart]]**
-**👉 [[./Grundregelwerk|Zum Grundregelwerk]]**
+👉 [[./Quickstart|Go to the Quickstart Guide]]
+👉 [[./Rulebook|Go to the Core Rulebook]]
