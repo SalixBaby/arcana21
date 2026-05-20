@@ -140,13 +140,3 @@ All you need:
 - A story
 
 > _The rest happens at the table._
-
----
-
-### **Class Overview in Podcast Format**
-
-<audio controls src="/Arcana21_Podcast/Klassenübersicht.m4a">Class Overview</audio>
-
-### **Character Creation in Podcast Format**
-
-<audio controls src="/Arcana21_Podcast/Charaktererstellung.m4a">Character Creation</audio>
