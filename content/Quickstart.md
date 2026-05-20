@@ -1,150 +1,152 @@
-> _Dieser Schnellstart erlaubt es, Arcana21 ohne Vorkenntnisse in wenigen Minuten zu spielen. Er erklärt nur die notwendigsten Regeln – alles Weitere findest du im vollständigen Regelwerk._
-### **Was ist Arcana21?**
+> _This quickstart lets you play Arcana21 in minutes — no prior knowledge required. It covers only the most essential rules. Everything else can be found in the full rulebook._
 
-Arcana21 ist ein **narrativ-taktisches Pen-&-Paper-Rollenspiel**, in dem Kreativität wichtiger ist als feste Zauberlisten.  
-Du beschreibst, **was du tun willst**, würfelst auf passende Attribute – und die Welt reagiert.
-- Proben basieren auf **3W20 (Median)**
-- Magie ist **frei gestaltbar**, nicht fest vorgegeben
-- Kämpfe sind **AP-basiert** und belohnen Bewegung & Entscheidungen
-- Charaktere entwickeln sich über **Level, Hintergründe & Downtime**
+### **What is Arcana21?**
 
-### *Größte Unterschiede zu D&D*
+Arcana21 is a **narrative-tactical pen-&-paper roleplaying game** where creativity matters more than fixed spell lists.  
+You describe **what you want to do**, roll against fitting attributes — and the world responds.
 
-| Kategorie         | Dungeons & Dragons                                    | Arcana21                                                         | Warum?                                                                          |
-| ----------------- | ----------------------------------------------------- | ---------------------------------------------------------------- | ------------------------------------------------------------------------------- |
-| *Proben*          | W20 + Modifier                                        | 3W20 (median) + Modifier                                         | Weniger Zufall, kleinere Modifier haben größeren Einfluss                       |
-| *Erfolgsgrade*    | Meist Binär (Erfolg/Misserfolg)                       | Abstufung des Erfolges                                           | Hohe geworfene Zahlen haben tatsächlich einen Mehrwert als nur "Erfolg"         |
-| *Aktionsökonomie* | Aktion, Bonus Aktion, Bewegung, Reaktion              | 4 frei wählbare Aktionspunkte                                    | Weniger restriktiv, fördert kreative Handlungen, schnellerer Kampf              |
-| *Zaubern*         | Auswahl aus vorgefertigter Zauberliste                | Freies modulares System anhand von Prinzipien                    | Zauberlisten zu einschränkend, fördert kreatives Denken und Lösungen            |
-| *Gegenzauber*     | Nur mit Counterspell möglich  (meißt erst ab Level 5) | Zaubererduelle (ab Level 1 möglich)                              | Counterspell zu langweilig, fördert kreative Handlungen und Ressourcenmanagment |
-| *Schaden*         | Schaden muss ausgewürfelt werden                      | Schaden hängt vom Erfolgsgrad ab                                 | Weniger Würfe, weniger Mathe, schnelleres Spiel                                 |
-| *Verteidigung*    | AC + 6 vers. Rettungswürfe                            | Zwei passive Werte (mental & physisch)                           | Weniger Würfe, schnelleres Spiel                                                |
-| *Regeln*          | Viele Regeln, hauptsächlich für den Kampf             | Weniger Regeln, setzt mehr auf Kommunikation zwischen Spielenden | Zu viele Regeln schrecken neue Spieler ab und sind meistens sehr restriktiv     |
-|                   |                                                       |                                                                  |                                                                                 |
+- Checks are based on **3d20 (median)**
+- Magic is **freely designed**, not predetermined
+- Combat is **AP-based** and rewards movement & decision-making
+- Characters grow through **levels, backgrounds & downtime**
 
 ---
 
-### **1. Grundmechanik – Proben**
+### *Key Differences from D&D*
 
-Wann immer dein Charakter etwas Schwieriges tut, wird eine **Probe** gewürfelt.
-**So funktioniert eine Probe:**
-1. Wirf **3W20**
-2. Nimm den **Median** (den mittleren Wert)
-3. Addiere das passende **Attribut**
-4. Vergleiche das Ergebnis mit dem **Schwierigkeitsgrad**
-
-**Ergebnis:**
-- **Erfolg:** Zielwert erreicht oder übertroffen
-- **Misserfolg:** Zielwert nicht erreicht
-- **Voller Erfolg:** 5+ über dem Zielwert
-- **Kritischer Erfolg:** 10+ über dem Zielwert
-
-> _Je besser der Erfolg, desto stärker oder eleganter ist das Ergebnis._
+| Category           | Dungeons & Dragons                                      | Arcana21                                                          | Why?                                                                                 |
+| ------------------ | ------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------------------------ |
+| *Checks*           | d20 + modifier                                          | 3d20 (median) + modifier                                          | Less randomness, smaller modifiers have greater influence                            |
+| *Degrees of Success* | Usually binary (success/failure)                      | Graduated degrees of success                                      | Higher rolls actually carry additional value beyond a plain "success"                |
+| *Action Economy*   | Action, Bonus Action, Movement, Reaction                | 4 freely assignable Action Points                                 | Less restrictive, encourages creative play, faster combat                            |
+| *Spellcasting*     | Choose from a fixed spell list                          | Free modular system based on principles                           | Spell lists are too limiting; encourages creative thinking and problem-solving       |
+| *Counterspells*    | Only via Counterspell (usually unlocked at level 5)     | Spellcaster duels (available from level 1)                        | Counterspell is too passive; this fosters creative action and resource management    |
+| *Damage*           | Damage is rolled separately                             | Damage depends on degree of success                               | Fewer rolls, less math, faster play                                                  |
+| *Defence*          | AC + 6 saving throws                                    | Two passive values (mental & physical)                            | Fewer rolls, faster play                                                             |
+| *Rules*            | Many rules, primarily focused on combat                 | Fewer rules, relies more on communication between players         | Too many rules intimidate new players and tend to be overly restrictive              |
 
 ---
 
-### **2. Attribute & Ressourcen**
+### **1. Core Mechanic – Checks**
 
-Jeder Charakter besitzt die Attribute Körper, Geist und Seele sowie Ressourcen:
-- **Gesundheit** – körperliche Unversehrtheit
-- **Mana** – magische Energie
-- **AP (Aktionspunkte)** – Handlungen pro Runde
+Whenever your character attempts something difficult, a **check** is rolled.
 
-AP werden im Kampf ausgegeben, um:
-- anzugreifen
-- sich zu bewegen
-- Fähigkeiten einzusetzen
-- Zauber zu verstärken
+**How a check works:**
+1. Roll **3d20**
+2. Take the **median** (the middle value)
+3. Add the relevant **attribute**
+4. Compare the result to the **difficulty rating**
 
----
+**Outcomes:**
+- **Success:** Result meets or exceeds the target
+- **Failure:** Result falls short of the target
+- **Full Success:** 5+ above the target
+- **Critical Success:** 10+ above the target
 
-### **3. Kampf – kurz & knapp**
-
-Ein Kampf läuft in **Runden** ab.
-
-**Pro Runde kannst du:**
-- AP ausgeben (Bewegung, Angriffe, Fähigkeiten)
-- Reagieren (wenn Fähigkeiten es erlauben)
-
-> _Stehenbleiben ist selten optimal – Bewegung, Positionierung und Timing sind entscheidend._
+> _The better the success, the more powerful or elegant the result._
 
 ---
 
-### **4. Magie – frei & kreativ**
+### **2. Attributes & Resources**
 
-Arcana21 nutzt **keine festen Zauberlisten**.
+Every character has the attributes Body, Mind, and Soul, as well as the following resources:
 
-Stattdessen:
-- Du wählst eine **Zauberausrichtung** (z. B. Feuer, Licht, Traum)
-- Du beschreibst den gewünschten Effekt
-- Der Spielleiter ordnet **Stufe, Probe & Kosten** zu
+- **Health** – physical integrity
+- **Mana** – magical energy
+- **AP (Action Points)** – actions available each round
 
-**Wichtig:**
-- Zauber auf **Grundstufe (0)** kosten **kein Mana**
-- Verstärkungen kosten **Mana**
-- Überladung kostet **1 AP**, egal wie viel Mana genutzt wird
-
-> _Magie folgt deiner Vorstellung – nicht umgekehrt._
+AP are spent in combat to:
+- attack
+- move
+- use abilities
+- enhance spells
 
 ---
 
-### **5. Charakter erstellen – Kurzfassung**
+### **3. Combat – Short & Sweet**
 
-1. **Wähle einen Hintergrund**  
-    → Bestimmt Herkunft, Kontakte & erzählerische Vorteile
-2. **Wähle ein Volk**  
-    → Gibt dir instinktive Stärken und kulturelle Prägung
-3. **Wähle eine Klasse**  
-    → Bestimmt deinen Spielstil (Kampf, Magie, Kontrolle, Support)
-4. **Wähle eine Variation**  
-    → Verfeinert deine Rolle innerhalb der Klasse
-5. **Verteile Attribute & starte ins Spiel**
+Combat runs in **rounds**.
+
+**Each round you can:**
+- Spend AP (movement, attacks, abilities)
+- React (when abilities allow it)
+
+> _Standing still is rarely optimal — movement, positioning, and timing are key._
 
 ---
 
-### **6. Rast & Erholung**
+### **4. Magic – Free & Creative**
 
-- **Kurze Rast (24h):** Teilweise Regeneration
-- **Lange Rast (1 Woche):** Volle Regeneration
+Arcana21 uses **no fixed spell lists**.
 
-Während Rasten kannst du:
-- lernen
-- trainieren
-- Beziehungen pflegen
-- forschen
-- Dinge erschaffen
+Instead:
+- You choose a **magical domain** (e.g. Fire, Light, Dream)
+- You describe the desired effect
+- The Game Master assigns **tier, check & cost**
 
----
+**Important:**
+- Spells at **base tier (0)** cost **no Mana**
+- Enhancements cost **Mana**
+- Overloading costs **1 AP**, regardless of how much Mana is used
 
-### **7. Spielstil & Philosophie**
-
-Arcana21 belohnt:
-- kreative Beschreibungen
-- kluge Entscheidungen
-- erzählerische Konsequenzen
-
-> _Nicht jede Regel ist absolut – der **Spielleiter entscheidet im Zweifel**, immer im Sinne der Geschichte._
+> _Magic follows your imagination — not the other way around._
 
 ---
 
-### **Bereit zu spielen**
+### **5. Creating a Character – Quick Version**
 
-Du brauchst nur:
-- 3× W20
-- Charaktere
-- Eine Geschichte
-
-> _Der Rest entsteht am Tisch._
+1. **Choose a Background**  
+   → Determines origin, contacts & narrative advantages
+2. **Choose a Folk**  
+   → Grants instinctive strengths and cultural identity
+3. **Choose a Class**  
+   → Defines your playstyle (Combat, Magic, Control, Support)
+4. **Choose a Variation**  
+   → Refines your role within the class
+5. **Distribute Attributes & start playing**
 
 ---
 
-### **Klassenüberblick im Podcast-Format**
+### **6. Rest & Recovery**
 
+- **Short Rest (24h):** Partial regeneration
+- **Long Rest (1 week):** Full regeneration
 
-<audio controls src="/Arcana21_Podcast/Klassenübersicht.m4a">Klassenübersicht</audio>
+During rests you can:
+- learn
+- train
+- tend to relationships
+- research
+- craft things
 
+---
 
-### **Charaktererstellung im Podcast-Format**
+### **7. Playstyle & Philosophy**
 
+Arcana21 rewards:
+- creative descriptions
+- smart decisions
+- narrative consequences
 
-<audio controls src="/Arcana21_Podcast/Charaktererstellung.m4a">Charaktererstellung</audio>
+> _Not every rule is absolute — the **Game Master has the final say**, always in service of the story._
+
+---
+
+### **Ready to Play**
+
+All you need:
+- 3× d20
+- Characters
+- A story
+
+> _The rest happens at the table._
+
+---
+
+### **Class Overview in Podcast Format**
+
+<audio controls src="/Arcana21_Podcast/Klassenübersicht.m4a">Class Overview</audio>
+
+### **Character Creation in Podcast Format**
+
+<audio controls src="/Arcana21_Podcast/Charaktererstellung.m4a">Character Creation</audio>
