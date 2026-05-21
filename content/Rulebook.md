@@ -8,8 +8,11 @@ The goal of the game is to dive into a dynamic story alongside your fellow playe
 
 ##### 1.2 The Core Principles
 **Cooperation and Creativity:** At the heart of **Arcana21** is collaborative storytelling. Every player brings their own perspective and creativity to breathe life into the world.
+
 **Flexibility and Individuality:** The system offers a wide array of classes, backgrounds, and abilities, giving you the tools to build your character exactly as you envision them.
+
 **Tactical Depth:** From combat to social encounters — strategic thinking and smart resource management are always in play.
+
 **Magical Variety:** Magic in Arcana21 is not merely a tool; it is a powerful force that shapes the world and reveals its secrets.
 In Arcana21, you are not bound by preset spell lists.
 Rather than a restrictive menu of options, the system gives you the freedom to craft every spell from scratch — creative, situational, and tailored to your character. Magic follows your ideas, not the other way around.
@@ -122,13 +125,13 @@ Now determine your character's passive values — such as Health, Mana Points, D
 *(Don't forget: heroes may also gain additional attributes from their class, variation, or abilities.)*
 
 - [[Attributes/Passive/Health|Health]]: 3 + [[Attributes/Body/Constitution|Constitution]] + (Level × 2)
-- [[#7.4 Mana Points|Mana Points]]: [[Attributes/Mind/-Mind-|Mind]] + (Level × 2) *(Spell Classes only)*
+- [[Rulebook#7.4 Mana Points|Mana Points]]: [[Attributes/Mind/-Mind-|Mind]] + (Level × 2) *(Spell Classes only)*
 - [[MagicalDomains/-MagicalDomains-|Magical Domains]]: [[Attributes/Mind/Knowledge|Knowledge]] + 3 + Level
 - [[Attributes/Passive/MovementRate|Movement Rate]]: (Folk's base movement rate) + [[Attributes/Body/Speed|Speed]]
 - [[Attributes/Passive/Dodge|Dodge]]: 10 + [[Attributes/Body/Speed|Speed]]
 - [[Attributes/Passive/Willpower|Willpower]]: 10 + [[Attributes/Mind/Focus|Focus]]
-- [[#7.3 Inspiration Points|Inspiration Points]]: [[Attributes/Soul/-Soul-|Soul]]
-- [[#7.2 Stamina Points|Stamina Points]]: [[Attributes/Body/-Body-|Body]]
+- [[Rulebook#7.3 Inspiration Points|Inspiration Points]]: [[Attributes/Soul/-Soul-|Soul]]
+- [[Rulebook#7.2 Stamina Points|Stamina Points]]: [[Attributes/Body/-Body-|Body]]
 
 > [!example]- Example
 > Your Hunter's passive values: **Health**: 3 + 2 (Constitution) + 1 (Level) × 2 = 7 | **Mana Points**: 0 (no Arcana) | **Movement Rate**: 5 + 2 (Speed) = 7 | **Dodge**: 10 + 2 (Speed) = 12 | **Willpower**: 10 + 0 (Focus) = 10
