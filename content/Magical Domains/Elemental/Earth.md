@@ -1,0 +1,1 @@
+The **Earth** Magical Domain grants its wielder command over the power of the planet itself. It encompasses control over stone, metal, sand, and all that originates from the earth. This domain also extends to gravity, allowing the manipulation of an object's weight or the commanding of the ground itself.
