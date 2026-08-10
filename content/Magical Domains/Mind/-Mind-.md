@@ -1,0 +1,3 @@
+>*This category revolves around the manipulation of the mind, communication, and control over thoughts and perception. Spells of this category influence mental states, establish telepathic connections, or manipulate the thoughts of others. Mages who specialize in the mind are not only able to transmit information, but also to deceive perceptions or influence the dreams of others.*
+
+- **Domains**: [[./Communication|Communication]], [[./Dream|Dream]], [[./Manipulation|Manipulation]], [[./Mental|Mental]]
