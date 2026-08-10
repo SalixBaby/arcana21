@@ -1,0 +1,7 @@
+> _In **Arcana21**, armor is far more than mere protection. It embodies the constant balance between security and mobility, between steadfastness and freedom. Every piece of armor tells of the way a hero fights, moves, and faces the dangers of the world._
+
+Armor is divided into three main categories: **[[./Light Armor|Light Armor]]**, **[[./Medium Armor|Medium Armor]]**, and **[[./Heavy Armor|Heavy Armor]]**. Each of these classes influences you in different ways and brings its own advantages and disadvantages.
+
+Which armor you wear should match your combat style – or whether you wear any at all. Heavy armor gives you stability and protection at the center of battle, but demands mobility in return. Light armor allows quick maneuvers and flexible positioning, but offers less resistance against hits. Medium armor combines both approaches into a balanced compromise.
+
+It is likewise a completely legitimate choice to **forgo armor entirely**. Those who fight without protection gain maximum freedom of movement and speed – ideal for those who rely on dodging, positioning, or precision. In **Arcana21**, protection is not only a matter of steel and leather, but also of movement, timing, and decision.
