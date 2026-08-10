@@ -1,0 +1,1 @@
+The **Fire** Magical Domain stands for raw destruction and energy. It encompasses mastery over flames, electricity, heat, and explosions. Beyond the classical manipulation of fire, this domain extends to magma, lava, and extreme temperatures, enabling the destruction of opponents or the creation of protective barriers from flame.
