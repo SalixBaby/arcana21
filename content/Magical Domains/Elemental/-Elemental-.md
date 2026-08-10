@@ -1,0 +1,3 @@
+>*The elemental Magical Domain category encompasses the forces of nature, drawing upon the four fundamental elements of the world. This magic manipulates physical substances such as air, earth, fire, and water to bring destruction or influence the environment. Practitioners of this magic can unleash the raw power of the elements or employ them for defensive purposes. Each element within this category offers diverse applications – from pure energy to malleable states to chemical forces such as poison or acid.*
+
+- **Domains**: [[./Air|Air]], [[./Earth|Earth]], [[./Fire|Fire]], [[./Water|Water]]
