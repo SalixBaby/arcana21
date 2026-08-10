@@ -1,0 +1,1 @@
+The **Dream** Magical Domain opens the veil between consciousness and the realm of night. It encompasses the entering and shaping of the dreams of others, as well as the casting of opponents into deep slumber. Beyond the mere directing of images, this domain also allows the receiving of visions – fleeting glimpses into possible futures or hidden truths.

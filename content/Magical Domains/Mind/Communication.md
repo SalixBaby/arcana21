@@ -1,0 +1,1 @@
+The **Communication** Magical Domain allows the transmission of messages across vast distances or even beyond the boundaries of reality. It encompasses the sending of magical messages, the speaking with spirits or gods, and even the establishing of communication with animals and plants. Communication bridges worlds.

@@ -1,0 +1,1 @@
+The **Water** Magical Domain enables control over every form of liquid. Water, poison, acid, and ice serve as its instruments. This domain allows the freezing of water, the launching of acid attacks, or the reshaping of liquid into a weapon of overwhelming force. Water is as versatile as it is destructive.

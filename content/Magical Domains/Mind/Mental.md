@@ -1,0 +1,1 @@
+The **Mental** Magical Domain encompasses the ability to read thoughts, influence memories, and erect mental barriers. It allows the deciphering of the minds of others, the sending of mental messages, and the direct assault on the cognitive abilities of an opponent.

@@ -1,0 +1,1 @@
+Weapons with this property can be used as a support or lever to enhance jumps. A hero gains additional momentum, allowing them to jump higher or farther and overcome obstacles that would otherwise be barely reachable.

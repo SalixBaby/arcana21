@@ -1,0 +1,3 @@
+>*The magic of the Body specializes in transcending physical limits or altering the appearance of reality. Through the manipulation of form, shape, or perception, this category enables summoning, the creation of illusions, the transformation of bodies, and visions of distant places. These spells alter physical reality in profound ways, granting the practitioner the power to reshape their physical surroundings and themselves.*
+
+- **Domains**: [[./Illusion|Illusion]], [[./Senses|Senses]], [[./Summoning|Summoning]], [[./Transformation|Transformation]]

@@ -1,0 +1,3 @@
+>*The magic of the Soul revolves around the inner essence, spiritual connections, and the ability to exert influence on spiritual and emotional planes. These spells offer protection, blessings, healing, or inflict curses upon their target. They aim to influence the balance between life and death, prosperity and misfortune. Practitioners of this magic are often healers or spiritual leaders who shape fate through their connection to the soul.*
+
+- **Domains**: [[./Blessing|Blessing]], [[./Curse|Curse]], [[./Healing|Healing]], [[./Protection|Protection]]

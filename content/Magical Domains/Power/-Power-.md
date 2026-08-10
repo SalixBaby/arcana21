@@ -1,0 +1,3 @@
+>*This category encompasses the metaphysical and cosmic forces that permeate the universe. Spells of this category draw upon abstract yet powerful energies to control light, manipulate darkness, influence time, or distort space itself. The magic of this domain is ideal for those who wish to alter the very nature of reality – whether through light or shadow, through space or the flow of time.*
+
+- **Domains**: [[./Darkness|Darkness]], [[./Light|Light]], [[./Space|Space]], [[./Time|Time]]

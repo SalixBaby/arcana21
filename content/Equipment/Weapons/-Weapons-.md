@@ -1,0 +1,7 @@
+> _In **Arcana21**, weapons are far more than mere tools of combat. They are extensions of one's own will, an expression of style, origin, and experience. Every weapon tells of how a hero fights – resolute, cautious, precise, or ruthless._
+
+Every weapon has its own [[./Weapon Properties/-Weapon Properties-|Weapon Properties]] and [[./Weapon Abilities/-Weapon Abilities-|Weapon Abilities]] that determine how you use it in the game. These properties define whether a weapon rewards speed, unleashes raw power, or favors tactical play.
+
+Which weapon you wield should match your combat style. Fast blades are suited for precise attacks and mobile play, heavy weapons dominate the battlefield with force and impact. Ranged weapons allow you to keep your distance and control the fight, while silent or inconspicuous weapons are ideal for ambushes and targeted strikes.
+
+A weapon is never merely a means to an end. It shapes your decisions in combat, influences your positioning, and determines how you respond to threats. The right weapon at the right time can turn the outcome of a battle – and often the course of an entire adventure. In **Arcana21**, a weapon is not only what you fight with, but **how** you fight.

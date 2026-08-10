@@ -1,0 +1,4 @@
+The **Necromancy** Magical Domain concerns itself with the cycle of life and death. It encompasses the touching of the remains of past existences, the speaking with spirits, and the brief raising of the dead to carry out one's will. This magic reaches deep into the boundaries of the soul, transforming transience into power – always in the shadow of moral and spiritual peril.
+
+⚠️ **Note:** The **Necromancy** Magical Domain **cannot be freely chosen**. It is a **forbidden and dangerous form of magic** that can only be obtained through **special circumstances** – such as **dark rituals**, **forbidden knowledge**, or **pacts with sinister powers**.
+Player characters can only unlock Necromancy **through narrative events or special abilities**.

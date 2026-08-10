@@ -1,0 +1,1 @@
+The **Air** Magical Domain enables the manipulation of wind and weather. It encompasses the unleashing of storms, the directing of winds, and even the alteration of air density. Practitioners of this domain are able to control flying objects, levitate themselves, or rob enemies of their breath.

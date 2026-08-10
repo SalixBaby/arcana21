@@ -1,0 +1,1 @@
+The **Manipulation** Magical Domain grants power over the decisions and emotions of others. It encompasses the influencing of thoughts and feelings, the instilling of false beliefs, and the compelling of individuals to perform actions they would otherwise refuse.

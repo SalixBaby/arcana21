@@ -1,0 +1,3 @@
+>*Weapon properties in **Arcana21** define the fundamental physical characteristics and usage possibilities of a weapon. They indicate how a weapon can be employed in combat and influence a hero's tactics. Some weapons are light and inconspicuous, others heavy and powerful, while others enable ranged attacks or can be wielded silently and stealthily. The choice of weapon properties allows players to flexibly prepare their character for a wide variety of combat situations.*
+
+Each property grants your weapon special advantages or restrictions and shapes your playstyle, whether through quick and stealthy attacks or powerful strikes from a distance.
