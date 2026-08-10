@@ -1,0 +1,5 @@
+> _In the world of **Arcana21**, specialized toolkits are an integral part of the adventuring life. They represent learned techniques, passed-down knowledge, and the experience a hero accumulates along their journey. A set is never merely a collection of tools – it is an expression of skill, preparation, and familiarity with a particular craft or discipline._
+
+Specialized toolkits allow you to apply and deepen your abilities in a targeted way. They give you access to the necessary tools to act with precision, creativity, or effectiveness in decisive moments. Whether you are applying poisons, drawing maps, maintaining devices, or creating art – your set gives you an advantage where raw strength or chance fall short.
+
+Choose wisely what you rely on. For often it is not the blade that decides, but the right tool at the right time.
