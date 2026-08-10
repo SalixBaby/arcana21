@@ -1,1 +1,0 @@
-Traumzauber öffnen den Schleier zwischen Bewusstsein und Nachtwelt: Du kannst in die Träume anderer eindringen, sie formen oder Gegner in tiefen Schlaf versetzen. Über das bloße Lenken von Bildern hinaus erlaubt diese Magie auch das Empfangen von **Visionen** — flüchtige Einblicke in mögliche Zukünfte oder verborgene Wahrheiten.

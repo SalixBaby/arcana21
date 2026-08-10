@@ -1,7 +1,0 @@
-> _In **Arcana21** sind Waffen weit mehr als bloße Werkzeuge des Kampfes. Sie sind Verlängerungen des eigenen Willens, Ausdruck von Stil, Herkunft und Erfahrung. Jede Waffe erzählt davon, wie ein Held kämpft – entschlossen, vorsichtig, präzise oder rücksichtslos._
-
-Jede Waffe verfügt über eigene [[./Waffeneigenschaften/-Waffeneigenschaften-|Waffeneigenschaften]] und [[./Waffenfähigkeiten/-Waffenfähigkeiten-|Waffenfähigkeiten]], die bestimmen, wie du sie im Spiel einsetzt. Diese Eigenschaften legen fest, ob eine Waffe Geschwindigkeit belohnt, rohe Kraft entfesselt oder taktisches Vorgehen begünstigt.
-
-Welche Waffe du führst, sollte zu deinem Kampfstil passen. Schnelle Klingen eignen sich für präzise Angriffe und bewegliches Spiel, schwere Waffen dominieren das Schlachtfeld mit Wucht und Durchschlagskraft. Fernwaffen erlauben es dir, Abstand zu halten und das Gefecht zu kontrollieren, während leise oder unauffällige Waffen ideal für Hinterhalte und gezielte Schläge sind.
-
-Eine Waffe ist dabei niemals nur Mittel zum Zweck. Sie formt deine Entscheidungen im Kampf, beeinflusst deine Positionierung und bestimmt, wie du auf Bedrohungen reagierst. Die richtige Waffe zur richtigen Zeit kann den Ausgang eines Gefechts wenden – und oft auch den Verlauf eines gesamten Abenteuers. In **Arcana21** ist eine Waffe nicht nur das, womit du kämpfst, sondern **wie** du kämpfst.

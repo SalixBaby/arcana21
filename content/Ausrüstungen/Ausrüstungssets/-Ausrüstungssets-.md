@@ -1,5 +1,0 @@
-> _In der Welt von **Arcana21** sind spezialisierte Sets ein fester Bestandteil des Abenteurerlebens. Sie stehen für erlernte Handgriffe, überliefertes Wissen und die Erfahrung, die ein Held im Laufe seines Weges sammelt. Ein Set ist niemals nur eine Ansammlung von Werkzeugen – es ist Ausdruck von Können, Vorbereitung und Vertrautheit mit einem bestimmten Handwerk oder einer Disziplin._
-
-Spezialisierte Sets ermöglichen es dir, deine Fähigkeiten gezielt einzusetzen und zu vertiefen. Sie geben dir Zugriff auf das nötige Werkzeug, um in entscheidenden Momenten präzise, kreativ oder wirkungsvoll zu handeln. Ob du Gifte ansetzt, Karten zeichnest, Apparaturen wartest oder Kunst erschaffst – dein Set verschafft dir einen Vorteil dort, wo rohe Kraft oder Zufall nicht ausreichen.
-
-Wähle mit Bedacht, worauf du dich verlässt. Denn oft entscheidet nicht die Klinge, sondern das richtige Werkzeug zur richtigen Zeit.

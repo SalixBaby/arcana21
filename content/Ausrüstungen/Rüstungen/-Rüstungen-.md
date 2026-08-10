@@ -1,7 +1,0 @@
-> _In **Arcana21** sind Rüstungen weit mehr als bloßer Schutz. Sie verkörpern den ständigen Ausgleich zwischen Sicherheit und Beweglichkeit, zwischen Standhaftigkeit und Freiheit. Jede Rüstung erzählt von der Art, wie ein Held kämpft, sich bewegt und den Gefahren der Welt begegnet._
-
-Rüstungen werden in drei Hauptkategorien unterteilt: **[[./Leichte Rüstung|Leichte Rüstung]]**, **[[./Mittlere Rüstung|Mittlere Rüstung]]** und **[[./Schwere Rüstung|Schwere Rüstung]]**. Jede dieser Klassen beeinflusst dich auf unterschiedliche Weise und bringt eigene Vor- und Nachteile mit sich.
-
-Welche Rüstung du trägst, sollte zu deinem Kampfstil passen – oder ob du überhaupt eine trägst. Schwere Rüstungen geben dir Standfestigkeit und Schutz im Zentrum des Gefechts, verlangen dafür jedoch Beweglichkeit. Leichte Rüstungen erlauben dir schnelle Manöver und flexible Positionierung, bieten aber weniger Widerstand gegen Treffer. Mittlere Rüstungen verbinden beide Ansätze zu einem ausgewogenen Kompromiss.
-
-Ebenso ist es eine vollkommen legitime Wahl, **gänzlich auf eine Rüstung zu verzichten**. Wer ohne Schutz kämpft, gewinnt maximale Bewegungsfreiheit und Geschwindigkeit – ideal für jene, die auf Ausweichen, Positionierung oder Präzision setzen. In **Arcana21** ist Schutz nicht nur eine Frage von Stahl und Leder, sondern auch von Bewegung, Timing und Entscheidung.
